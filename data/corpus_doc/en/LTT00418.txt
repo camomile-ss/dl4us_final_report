@@ -1,0 +1,51 @@
+genji shaku
+the genji shaku is a commentary on "the tale of genji."
+it was written by fujiwara no koreyuki at the end of the heian period.
+it is the oldest extant commentary on "the tale of genji."
+the "koan genji rongi" also regards it as the beginning of commentary on the tale of genji.
+fujiwara no sadaie's "okuiri," which was the next commentary on the tale of genji to appear,also regards it as highly important and contains a lot of quotations from it.
+however,he does not always follow the genji shaku,and in some cases he criticizes it.
+summary
+it is considered that the genji shaku was originally not an independent commentary,but rather that fujiwara no koreyuki added headnotes,glosses and tags to a manuscript of the tale of genji that he possessed,and later put them together in one manuscript.
+as to whether it was compiled into its current single volume form by koreyuki himself or by a later hand,there are theories supporting either view.
+other subsequent commentaries contain numerous quotations from fujiwara no koreyuki's commentary.
+however,when quoted,various names are used for the commentary,such as the 'genji monogatari shaku,' the 'genji arawakashi' and the 'genji arawashi,' in addition to the 'genji shaku.'
+there are also many cases where,rather than the title being given,it is quoted as 'interpreted by koreyuki,' 'interpreted by koreyuki ason(second highest of the eight hereditary titles),' 'judged by koreyuki ason,' 'judged by koreyuki' or just 'koreyuki.'
+according to one view,this was because the book did not have an actual title,while another says it was because in some cases,people quoted his opinions directly from the notes attached to the original manuscript before they were compiled into a single commentary.
+it seems to have been completed by 1156 when fujiwara no sadanobu,fujiwara no koreyuki's father,died.
+content
+extant manuscripts of the genji shaku first mention the titles of the chapters,and add numbers to the chapter titles,and include the following features.
+unlike the average modern commentary, 'parallel chapters' that follow and are contemporaneous with the main chapter but concern unrelated events are not taken into account for the titles,counting method and order of the chapters and therefore the total number of chapters covered is thirty-seven.
+(this counting method was often used in old commentaries on the tale of genji before the medieval age.)
+after the 'makibashira' (the cypress pillar)chapter,it mentions a chapter called 'sakura hito' that does not appear in the present tale of genji.
+although it is mentioned that 'some manuscripts have this chapter,and others do not,' the apparent text is quoted in as many as thirteen places and includes annotations.
+the 'sakura hito' chapter is said to have been placed after the 'hotaru' (fireflies)chapter.
+both the first and the second volume of the chapter 'wakana' (spring shoots)are counted as one chapter.
+there is no section corresponding to the chapter 'kumogakure' (vanished behind the clouds).
+however,the surrounding chapters are numbered 'twenty-five:maboroshi' (the wizard)and 'twenty-seven:niou miya' (his perfumed highness),suggesting a gap.
+for this reason,the 'kumogakure' chapter is considered to have likely gone missing.
+although chapter 'thirty-seven:nori no shi,' which was sometimes regarded as another name for yume no ukihashi(the floating bridge of dreams),follows chapter 'thirty-six:yume no ukihashi,' it exists as a title only.
+kikan ikeda surmises that this was because the compiler considered the 'agemaki' (trefoil knots)chapter a 'parallel chapter' to the 'shigamoto' (beneath the oak)chapter and therefore did not give it a number.
+this resulted in the final chapter, 'yume no ukihashi' being numbered thirty-six.
+because of this,he gave the number 'thirty-seven' to 'nori no shi,' originally another name for 'yume no ukihashi,' and made the total number of volumes in the tale of genji thirty-seven.
+it has such features.
+the style of the commentary is give the chapter title,then to quote the text that is the object of the annotation,followed by the annotations.
+the text that the genji shaku quotes from is one from before the aobyoshi-bon and kawachi-bon manuscripts(two 13th-century attempts to edit and revise the various versions).
+it is considered an important text that is possibly close to the manuscript written by murasaki shikibu herself.
+it has been pointed out that some of the quoted text is close to that of the yomei bunko-bon(literally,the yomei archives manuscript),which is regarded as a beppon(manuscripts that do not belong to the aobyoshi-bon and kawachi-bon manuscripts).
+most of the comments written in it give the sources of songs and poems and the bases of historical facts.
+the poet fujiwara no toshinari,fujiwara no koreyuki's contemporary,believed that 'poets who did not read the tale of genji are to be lamented.'
+it is believed that the comment reflects how the tale of genji was taken at that time,when it was regarded as important in poetry composition.
+major manuscripts
+the following are major manuscripts,and all of them are one volume.
+maedake manuscript:maeda ikutokukai sonkeikaku bunko bon(in a hand attributed to tamesada nijo)
+reizeike manuscript:the reizeike shiguretei bunko bon(literally,the reizeike shiguretei archives manuscript)
+a handwritten manuscript of the kamakura period.
+kansu-bon(a rolled scroll),in the possession of the imperial household archives,katsura no miya manuscript
+it seems to have been transcribed from the reizeike manuscript at the beginning of the edo period
+only the chapters from 'kiritsubo' (the paulownia court)to 'akashi' survive.
+surviving manuscripts are all quite different from one another,with each one having completely different annotations for the same part.
+haruki ii believes that this is due to major revisions by koreyuki himself,and regards the reizeike manuscript as the first version and the maedake manuscript as the second version.
+okuiri' and other later commentaries often quote from the genji shaku.
+however,when the quotes are given as 'interpreted by koreyuki' or 'koreyuki,' rather than the title of the work,they include much that is not in any of the surviving manuscripts.
+for this reason,there is a theory that in addition to the revisions by koreyuki himself,someone else made significant decisions on what to include when compiling the genji shaku into an independent commentary.

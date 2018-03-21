@@ -1,0 +1,147 @@
+sakekabu(an official certificate of sake brewing)
+sakekabu is one of the licensing systems in the sake brewing industry,which was implemented by the edo bakufu(japanese feudal government headed by a shogun)of japan as a basic policy for controlling sake brewing.
+the system is also referred to as shuzokabu.
+sakekabu in itself is a term for a wooden license tag in the shape of a shogi(japanese chess)piece.
+the tag carried the name and address of the brewer and koku(a unit of volume)of sake to be brewed on the front and the writing "gokanjosho" (financial ministry)on the back,and was marked with brands.
+this is what is referred to as sakekabu or shuzokabu,but in the field of japanese history,the entire system surrounding it came to be referred to as "sakekabu" or sakekabu system.
+after first publishing sakukabu in 1657,the bakufu prohibited those who did not hold it from brewing sake and set a ceiling on the amount of rice that could be consumed in brewing sake by each brewer.
+this is considered to be the beginning of sakekabu system.
+background of the introduction
+sake was not just a luxury but a necessity of life for people in rural areas,especially in domains in northern regions such as tohoku and hokuriku,to warm up.
+on the other hand,rice,an ingredient in sake,was an essential staple food for japanese people,and its yield was fixed,in principle.
+therefore,how to distribute the rice,or "a limited resource," was always a critical economic issue for the edo bakufu(japanese feudal government headed by a shogun).
+leaving the sake brewing to free economy mechanisms might cause situations where small sake breweries would not be able to obtain genryo mai(a rice type used for sake production)and where big sake breweries would keep edible varieties of rice to themselves for brewing sake.
+the bakufu thus introduced what is now called the licensing system to the sake brewing industry by issuing sakekabu so that each sake brewery would be able to fairly purchase the amount of genryo mai commensurate with its scale and production capability according to yield and quality of rice in each year.
+yasumikabu and kashikabu
+sakekabu was allowed to be transferred and leased within the same province,so when a sake brewery faced financial trouble or did not have an heir,the dominant sake brewery in the neighborhood often bought sakekabu of those troubled breweries to expand its operations.
+when temporarily leaving the sake brewing business,breweries took such measures as yasumikabu,meaning not using the license one holds,and kashikabu,meaning temporarily giving other brewer the use of the license.
+sake brewing kokudaka
+the amount of sake produced by a brewer with sakekabu is expressed in sake brewing kokudaka(yield in the unit of koku),which is the percentage of sake produced using one koku(about 180 litters)of unhulled rice(taxation was based on rice in this stage at that time.when polished,it becomes some 60 percent in volume depending on how well it is polished.that means the volume of only the brown rice is about 0.6 koku).
+kokudaka of sake produced from a koku of unhulled rice is referred to as sakedare percentage.
+higher quality of sake,i.e.,gozenshu(high quality sake),morohaku(sake of 100%polished white rice),katahaku(sake brewed from polished white rice as kakemai and unpolished rice as kojimai),and namizake(sake brewed from unpolished rice),in that order,usually has the higher rice-polishing ratio,greater decrease volume,and smaller sakedare percentage.
+the following is one example.
+sakedare percentage of a brewery in a rural area of the takato domain(meiwa to anei eras)
+namizake:0.90
+katahaku:0.85
+morohaku:0.80
+gozenshu:0.75
+sakedare percentage of goyo zakaya(official sake brewing family)of the sendai domain(kanbun to kyoho eras)
+namizake:0.80
+katahaku:-
+morohaku:0.65
+gozenshu:0.461
+sakedare percentage is calculated by dividing 75 percent of total volume of polished rice obtained from a koku of unhulled rice and almost the same amount of water as polished rice(25 percent is sake lees)by one koku of unhulled rice.
+the following calculation is based on the assumption that morohaku is made from one koku of unhulled rice.
+how well the rice is to be polished differs depending on the grade of sake,and morohaku and other high quality kinds of sake use highly polished rice.
+the rice is hulled into brown rice,which further decreases in amount to approximately 70 kg(about 0.4 koku in volume.these values are calculated based on the rice-polishing ratio slightly lower than that for present-day futsushu[regular sake]),and the same volume of water is added to this to brew 0.8 koku of sake.
+about 25 percent of the weight of 0.8 koku(about 145 liters)of sake thus brewed is usually sake lees,meaning that about 110 liters of sake is produced from polished rice(sakedare percentage is about 0.61)(with large variations depending partly on the amount of water and sakedare percentage),and this value is similar to that of the sendai domain as mentioned above.
+all sakedare percentages listed above are below 1.00.
+despite this,it is not always true that sakedare percentage is constantly below 1.00.in other words,kokudaka of the sake to be produced is always lower than that of unhulled rice used.
+one koku of water is usually added to one koku of polished rice to produce sake,but for example,a method of brewing sake in winter,which is invented in the kanbun era,uses 1.2 to 1.3 koku of water using a sake brewing technique called "kumimizu nobashi" (drawn water dilution),so more than one koku of pure sake is eventually produced from one koku of unhulled rice with a sakedare percentage being more than 1.00.
+shuzokabu amount
+shuzokabu amount refers to the ceiling of the amount of rice to be used for brewing sake by each brewer.
+the amount of rice for brewing sake
+each brewer was not supposed to use rice exceeding shuzokabu amount stated on a license tag as mentioned above,but because it was difficult to control the amount of genryo mai very strictly at the scene of sake brewing,the amount exceeding shuzokabu amount was often used in reality.
+this is even more often the case when adhering to sake brewing kokudaka.
+the amount of genryo mai actually used,including the excess amount over the shuzokabu amount,is referred to as the amount of rice for brewing sake.
+revision of the sakekabu system
+greater disparity between shuzokabu amount and the amount of rice for brewing sake directly meant less revenue from tax on sake to the bakufu.
+therefore there was a pressing need to prevent such disparities,and surveys were conducted nationwide in 1666,1680,1697 and 1788 in order to investigate and find out the actual situation and to correct the situations to obtain appropriate values.
+this is what is referred to as the revision of the sakekabu system.
+revision of the sakekabu system in the genroku era
+especially in 1697,the revision of the sakekabu system was conducted nationwide in a thorough and strict manner.
+purpose
+the purpose was to secure the financial basis for the bakufu to any extent at all by grasping the actual condition of sake brewing kokudaka and strengthening taxation.
+it was in the genroku era when the world was peaceful and public morals were corrupted,and statesmen regarded the common people's intoxication with sake as illicit and intended to crack down on such behavior.
+"the genroku era" is surely thought of as a time of affluence when the world was peaceful and tranquil and when townspeople's culture blossomed,such that the word "showa genroku" was created later,but in fact that was not necessarily true.
+for example, "tsutomekata-cho," an old document which records the standard living of townspeople who served a merchant family in the genroku era,says that they drank sake only about six days a month.
+method
+the first step in the nationwide survey process was to enter sake brewing kokudaka in a book as reported by breweries and to affix a seal thereon.
+sake in the course of production or maturing or unsold sake were carried over to the account of the next year.
+san-jaku oke(wooden barrel with both diameter and height of 0.90 meters),yon-shaku oke(wooden barrel with both diameter and height of 1.20 meters)and tsubodai(container for yeast mash)were branded with a hot iron,and other brewing containers were not allowed for use.
+those who closed the brewery and who sold or rented a sake container were required to report accordingly.
+a department named shuzogake of bakufu kanjo bugyogata(commissioner of finance)was in charge of overall management at the central government,while at the margins,a leading brewery and a village officer carried out practical work in large cities and regional areas respectively.
+results
+these thorough surveys showed actual figures concerning brewing across the country in 1698.
+the followings are the results.
+number of breweries across the country:27,251
+amount of rice for brewing sake:909,337
+sake brewing kokudaka:919,839
+sake brewing kokudaka turned out to be greater than the amount of rice for brewing sake,and this is believed to have been firstly due to the existence of "kumimizu nobashi" and other techniques as discussed above and also due to the fact that other alcoholic drinks produced from other than rice,such as shochu(distilled spirit),had already become popular in saigoku(western part of japan).
+whatever the reason,sake brewing was limited according to rice yields for each year,starting from this time,in such a manner that no more than 20 or 30 percent of these values was allowed in a poor harvest year.
+introduction of business taxes
+the bakufu decided to order sake breweries to pay as much as 50%as a business taxes called sake unjo(one of the taxes which was assessed on workers in all kinds of industries except for the agriculture industry)on the current price of sake,and this enabled further increases in tax revenues.
+the term "business taxes" here includes what is now referred to as "business taxes on sake breweries" and commission for issuing a "license" or "sakekabu."
+on november 19,1697,shigehide ogiwara,a kanjo bugyo of the bakufu,summoned and handed rusuiyaku(persons representing the master during his absence)of the edo residences owned by territorial lords a memorandum saying "it is completely unforgivable that there are many sake merchants and that commoners drink sake unnecessarily.therefore,business taxes shall be imposed on all sake breweries.add the business taxes onto the price of sake and sell alcoholic drinks for 50 percent more than the previous price."
+effects
+this memorandum posed serious problems since "for 50 percent more" meant a 50 percent rise in price to consumers.
+the rusuiyaku of the edo residences sent express messengers to their hometowns in various provinces.
+after the order was thus transmitted,rice prices plummeted in the provinces,especially in domains in northern regions,because breweries stopped buying rice;breweries were afraid that the sake they brewed would no longer sell well because of its resulting higher price.
+after all,breweries adjusted sake production and the bakufu failed to collect as much tax revenues as it had initially expected.
+still,reduced production and escalating price of sake did not discourage commoners from drinking sake.
+in this way,the business taxes were abolished in 1709 with fruitless results.
+some domains,however,continued to impose business taxes on their own.
+later in 1772,miscellaneous tax was imposed in the form of myogakin(money to dedicate)called "shuzo myoga" (sake brewing myoga[one of the taxes paid to the bakufu and the clan for the license of business]).
+this was the revival of the business taxes in another form.
+basis for taxation varied at different periods,such as sake brewing kokudaka and sakekabu itself.
+afterward,the tax was abolished temporarily from 1802 to 1804 when the system of obligatory supply of the one-tenth amount of rice for sake brewing was introduced(as will be discussed hereinafter),but remained thereafter.
+in 1834,the bakufu banned unauthorized sake brewing and,in return,imposed subscription to sakekabu of 10 ryo(unit of gold currency)of gold and myogakin of 3 fun(unit of currency,4 fun＝1 ryo)of gold or 43 monme(a unit of weight)of silver on 100 koku of rice for brewing sake(subscription to sakekabu was refunded to breweries when they went out of business).
+merchants who dealt in jimawari zake(sake produced around edo)and kudari zake(sake shipped from kyoto and osaka to edo)for the edo market were subject to additional myogakin of six monme a barrel,starting in 1864.
+the merchants,however,shifted the myogakin virtually onto breweries,so the myogakin was changed to be collected directly from breweries in 1867.
+the myogakin system lasted into the early meiji period.
+even after temporarily realizing the actual situation of the sake brewing industry through the revision of the sakekabu system in the genroku era,the bakufu repeatedly conducted the revision of the sakekabu system in a timely manner because the gap between shuzokabu amount and the amount of rice for brewing sake would again continue to widen unless actions were taken.
+the katte-zukuri decree(the deregulation policy to promote sake brewing)in the horeki era
+in 1754,the bakufu decided to ease regulations for the first time since the genroku era and permitted the brewing of shinshu(new brew of sake)as well as kanshu(sake brewed in the winter)partly for the purpose of preventing a decline in rice prices due to a sequence of rich harvests in early horeki era.
+those who did not hold sakekabu was also allowed to open new brewery by just notifying a office of daikan(local governor)or bugyo(magistrate)having control over the area.
+this is what is known as the katte-zukuri decree in the horeki era.
+due to this decree,sakekabu system remained superficial for the time being in both positive and negative ways.
+revision of the sakekabu system in the tenmei era
+fumes from the major eruption of mt.asama in 1783 hung over various districts for a prolonged period,which,being combined with unsettled weather,caused a long-lasting famine mainly in eastern japan.
+this is what is referred to as the tenmei famine.
+in response to this,the bakufu issued genjorei(order for reducing sake to be brewed)in 1786 to cut sake brewing kokudaka of provinces by half.
+as difference between shuzokabu amount and the amount of rice for brewing sake began to increase again after the revision of the sakekabu system in the genroku era,the bakufu conducted the revision of the sakekabu system in the tenmei era in 1788.
+based on the investigation results,the bakufu issued an act to reduce sake production to one-third according not to shuzokabu amount which was only a nominal one,but to sake brewing kokudaka breweries had declared.
+in a manner,merchants had outwitted the bakufu's policy by taking advantage of the difference between shuzokabu amount and the amount of rice for brewing sake,but this time around,the bakufu got around the merchants.
+this is the production restriction decree of sake brewing to one-third in the tenmei era.
+the kansei reforms and sakekabu system
+sadanobu matsudaira who served as roju(a member of shogun's council of elders)wrote much about the sake-brewing industry of the day in his book "ugenohitogoto" (an autobiography of sadanobu matsudaira),and he said: "sake is not drunk much when it costs much.it is drunk much when it does not cost much.after all,it differs in nature from daily necessities for which the prices are expected to be stable for our people.the more that is in stock the more will be drunk,and the less that is in stock the less will be drunk."
+to those who drink sake this seems mere a theory in his head or a political thesis out of touch with the real society.
+based on this political belief of him,however,the kansei reforms were implemented to control the sake production,and the production restriction decree of sake brewing to one-third in the tenmei era and other restriction measures continued to be in effect.
+following the sharp increase in rice prices due to floods and other reasons,the bakufu set up a policy that required people to contribute one-tenth of rice for sake brewing to be stockpiled in case of a poor harvest and famine in 1802.
+rice required to be contributed by breweries then is referred to as "the obligatory supply of the one-tenth amount of rice for sake brewing."
+until then,breweries had basically taken advantage of the difference between shuzokabu amount and the amount of rice for brewing sake to deal with any policies made by the bakufu,such as by overstating the required value in advance,so that their business would not suffer a loss,but "the merchants' magic" they had used could not work on the obligatory supply of the one-tenth amount of rice for sake brewing.
+breweries throughout the country discussed countermeasures through their own network,and as a result,they claimed to the bakufu that "we would never survive under such circumstances," appealing their plight directly and straightforwardly.
+surprisingly,the bakufu eventually accepted their claim without objection and abolished the obligatory supply of the one-tenth amount of rice for sake brewing in 1803.
+the katte-zukuri decree in the bunka era
+good harvests continued for years during the bunka and bunsei eras and rice stocks increased excessively.
+rice price declined and the period when good harvests impoverished the peasants started.
+therefore the bakufu greatly encouraged sake brewing,saying rice could be stored with good quality when processed into sake and sake could also be shipped more easily to other domains and edo than rice.
+the typical example is the katte-zukuri decree introduced in 1806.
+this decree allowed people without sakekabu,let alone owners of old yasumikabu,to brew sake by just newly notifying that effect.
+in this way,sakekabu system lost its substance again.
+mukabumono and kabumochi
+breweries did not necessarily blindly welcome the katte-zukuri decree in the bunka era.
+collective conflict occurred between those who made a new entry to the sake brewing industry without sakekabu,or mukabumono,and those who had brewed sake with sakekabu for long,or kabumochi.
+kabumochi breweries contrived to keep mukabumono out of the industry,by aligning and consulting with each other and secretly concluding a price agreement.
+the bakufu's lack of principle further worsened the situation.
+in 1825,the bakufu suddenly changed its policy and announced the restoration of old sakekabu system,thereby banning mukabumono from producing sake.
+this provoked a backlash from mukabumono as well as a stream of objections from cabinet officials of the shogunate.
+in 1827,the bakufu hurriedly issued an order to again allow mukabumono to brew sake as it had before 1825.
+but,this time facing fierce resistance from kabumochi breweries and cabinet officials of the shobunate who received political donations from them,the bakufu issued the third order in 1828 to forbid mukabumono and yasumikabu breweries and those who were planning to start sake brewing business from brewing sake until the next order would be given.
+illicit manufacture and betrayal
+some mukabumono who could not accept the order began to make and sell bootleg.
+partly because the bakufu did not have means to expose such mukabumono and also probably in part because the bakufu understood its lack of principle had brought about the confusion,it tried to connive at illicit sake manufacturing of mukabumono to a considerable extent,pretending not to notice.
+kabumochi breweries,however,rose up against this situation in a determined manner.
+hereupon,a feud rekindled between mukabumono and kabumochi.
+kabumochi breweries betrayed mukabumono breweries actively to the bakufu for punishment.
+kabumochi breweries also exchanged information on such betrayal.
+meanwhile,however,some kabumochi breweries stealthily began contracting out their sake production to mukabumono breweries at a low price.
+that made kabumochi breweries suspicious of each other,so much so that they established a mutual surveillance network to find a possible traitor.
+on the contrary,behind the scenes some mukabumono breweries asked for kabumochi breweries who held yasumikabu to give them sakekabu at a high price in order not to let brewing barrels and other equipment they had bought go to waste.
+in this way,sakekabu system became increasingly confused toward the end of the edo period.
+abolition of sakekabu system
+in 1875,the meiji government abolished at a stroke complicated regulations concerning sakekabu which the edo bakufu had implemented,simplified the taxation rule for alcoholic beverages by implementing a dual system of brewing and trading taxes,and issued an order to allow anyone with brewing techniques and capital to brew sake freely.
+consequently,more than 30,000 small and large breweries were established all at once in just one year.
+however,sakekabu system had long been improved through all kinds of efforts by the edo bakufu,and thus could not be made very light of.
+(refer to the section of "liquor tax.")
+then,the meiji government became desperate to secure liquor taxes and resistance from breweries came to the fore,which led to various social incidents such as the osaka incident of the sake brewers' conference movement.

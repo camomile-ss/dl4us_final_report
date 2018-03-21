@@ -1,0 +1,59 @@
+aobyoshi-bon(blue book)manuscripts
+among the manuscripts of the tale of genji,aobyoshi-bon(blue book)manuscripts designate the ones which seem to have been transcribed by fujiwara no teika,and also the ones which are said to have been transcribed from teika's manuscript.
+the name of 'aobyoshi-bon' was derived from the blue cover of the manuscript made by teika.
+completion
+according to "meigetsuki" (chronicle of the bright moon),the diary of fujiwara no teika, 'once there was a reliable manuscript of the tale of genji,which could have been called shohon(a verified text),in fujiwara no teika's residence.
+however,one day it was stolen.
+due to his laziness,the manuscript had not existed for a long time,but one day he borrowed a manuscript from a reliable place,ordering the little girls in his house to transcribe the manuscript,and after that comparing with various manuscripts in different places.'
+today four quires of the manuscripts in teika's own hand are extant in dispersed condition;several pages from the beginning were transcribed by teika,and the rest of them were done by somebody.
+evaluation
+compared with the extant aobyoshi-bon manuscript,the kawachi-bon,the other version of manuscript,is more coherent,especially in most of the unclear sentences of the aobyoshi-bon manuscript.
+this is because positive efforts were made to revise the unclear sentences when the kawachi-bon manuscript was made,while the aobyoshi-bon was transcribed with the aim of preserving the original sentences as much as possible even though they were not clear.
+it has been considered that this corresponds to the remarks from fujiwara no teika and minamoto no mitsuyuki;both of them recognized that the sentences in those days were 'out of order,and it was hard to tell which one was correct,' but teika said, 'i could not solve the questions,' while mitsuyuki said, 'after investigation,i could solve the problems.'
+that is why the aobyoshi-bon manuscript has been thought closer to the original text,when compared to the kawachi-bon manuscript.
+however,when the manuscript of tosa nikki(tosa diary)made by teika was studied,it was found that it contained the parts which he revised on purpose,so some people are asking for a restudy to see if the manuscripts of the aobyoshi-bon line had really not been revised.
+considering that there are the first and the second "okuiri," the commentary which was added at the end of the manuscript by fujiwara no teika,some people think that the aobyoshi-bon,which was defined as 'the text fixed by fujiwara no teika,' has several versions in the first place.
+a theory of aobyoshi-bon manuscript＝beppon(the other manuscript)
+the theory was advocated by akio abe,which claims that it is traditionally said that aobyoshi-bon manuscript was faithfully transcribed from one of the manuscripts which was in front of fujiwara no teika,and it should have been one of the beppon,therefore aobyoshi-bon is,in fact,only a variant of the beppon,and it should be treated as the one in the same group as beppon.
+problems
+in the first place,little is known about the completion of the aobyoshi-bon,and it is said that fujiwara no teika compared many manuscripts,but it is unknown what manuscripts were actually collected for reference.
+moreover,it is not known how the text was selected among the manuscripts.
+the extant manuscripts in fujiwara no teika's own hand are incomplete,and it is unknown whether only one manuscript by teika was made.
+(today the dominant opinion is that at least two manuscripts by teika's own hand existed,considering that there are two kinds of okuiri,the first and the second.)
+there is also a view about the completion of the aobyoshi-bon manuscript that it is quite unnatural he had not kept the tale of genji at all for thirty years,taking into consideration the fact that fujiwara no teika treated the tale of genji as a very important literary work.
+first of all,fujiwara no teika recognized that the text in those days were 'out of order and i could not tell which one was correct,' and although he compared various manuscripts,he said, 'i could not solve the problems about the text.'
+there is a fundamental question whether it is appropriate to set a standard based on the aobyoshi-bon,the results of teika's study about which he commented such things mentioned above.
+tradition
+during the kamakura period,the kawachi-bon manuscripts were dominant,so ryoshun imagawa even said, 'the aobyoshi-bon manuscripts were lost.'
+however,since the mid-muromachi period,the aobyoshi-bon manuscripts had become dominant due to the activities of the sanjonishi family,who were descended from fujiwara no teika,while the kawachi-bon manuscripts almost disappeared.
+compared with the authentic aobyoshi-bon manuscript,the ones which were handed down from the sanjonishi family and in wide circulation at that time contained the texts from the kawachi-bon and other manuscripts.
+when the edo period began,the tale of genji printed from engraved wood started to be published.
+most of them were based on the aobyoshi-bon line manuscripts.
+books printed from engraved wood such as "the tale of genji with illustrations," "shusho genji monogatari" (tale of genji with headnotes), "the tale of genji moon on the lake commentary," etc.belonged to the aobyoshi-bon line in a broad sense.
+most of the text were a mixture of the aobyoshi-bon manuscripts from the sanjonishi family,the kawachi-bon,and the beppon.
+even after the meiji period began and printed books came to be published,such conditions continued for a while,and the modern translations in those days by akiko yosano and others were made on the basis of the manuscript.
+this is how the aobyoshi-bon line manuscripts circulated,but they spread so widely that there were many manuscripts whose outlines were almost the same,but details were quite different.
+it was hard to tell which manuscript was the original,and it had been said that there was no old manuscript which preserved good texts from the aobyoshi-bon line manuscripts.
+so,at first,kikan ikeda tried to make an academic variorum edition based on the kawachi-bon line manuscripts,and the work was about to be finished once.
+however,since around the late meiji period,a thorough investigation of the place where the old manuscripts were kept and their comparison were begun,and many old manuscripts of fine quality such as oshima-bon were found,which made it possible to make a variorum edition of the aobyoshi-bon manuscripts.
+an academic variorum edition such as "the tale of genji match-up" and "genji monogatari taisei" were created according to these books.
+major manuscripts
+the manuscripts in teika's own hand
+today,the following four fragmentary manuscripts,which were recognized as the ones written by fujiwara no teika,exist.
+kashiwagi(the oak tree),hanachirusato(falling flowers)(owned by the book stock of sonkeikaku bunko,maedake-bon)
+sawarabi(bracken shoots)(a property of tokyo national museum,hosaka-bon)
+miyuki(imperial progress)
+meiyu-bon
+it is a manuscript transcribed by miyu reizei.
+it was also called meiyurinmo-bon because the chapters of kiritsubo(the paulownia court),hahakigi,hana no en(the festival of the cherry blossoms),wakana(new herbs)i and ii,hashihime(the maiden of the bridge),and ukifune(a drifting boat)were faithfully copied from the manuscript by teika,and even the order of the letters were the same.
+it is often respected next to the manuscript in teika's own handwriting.
+oshima-bon
+it is a manuscript most of which were said to have been transcribed by masayasu asukai.
+it is considered the best among the aobyoshi-bon line manuscripts which are almost complete set of volumes,and adopted as a source book for many variorums such as 'genji monogatari taisei.'
+sanjonishike-bon
+the manuscript is said to have been made based on 'shohon' (a verified text)by sanetaka sanjonishi in the muromachi period.
+it is collected in the imperial household archives(formerly owned by the sanjonishi family)
+another manuscript by sanetaka sanjonishi is the one owned by japan university.
+books printed from engraved wood in edo period such as the tale of genji with illustrations,kogetsu-sho commentary,and so on were close to the text derived from this manuscript,having a big influence on interpretation of the tale of genji.
+however,it contains many different sentences from the manuscript by teika,so it is not an authentic manuscript of the aobyoshi-bon line,but one under the influence of the kawachi-bon and the beppon.
+it was used as a source book for(old)anthology of classical japanese literature 'the tale of genji' collated by tokuhei yamagishi

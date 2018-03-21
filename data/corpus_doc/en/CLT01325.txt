@@ -1,0 +1,8 @@
+haba
+haba is a unit used to measure width of cloth,especially for wafuku(japanese traditional clothes).
+also it is sometimes used for name of a cloth with one haba,and unit to count number of the cloth.
+one haba is equivalent of one shaku(japanese measure)of kujirajaku(measuring stick used in kimono-making),which is 37.8 cm(which is 1.25 shaku of carpenter's square used commonly).
+however,originally,one shaku in the gofukujaku system(abolished in the early meiji period and integrated into the kujirajaku)had been counted as one haba,but the above-mentioned rule is rarely applied as is nowadays,more than 100 years after the reform.
+general users,such as gofuku-ya kimono shop,use kohaba(narrow width)or namihaba(standard cloth width),which are equivalent to one shaku of the gofukujaku system,35.9 cm(9 sun 5 bu in kujirajaku),as cloth of one haba.
+in addition to this,there are chuhaba(medium width),which is equivalent to 45.4cm(one shaku and two bu in kujakujaku),and ohaba(full width)or futano(double width)that are equivalent to 72.0 cm(one shaku and nine sun in kujakujaku),which is double the width of kohaba.
+moreover,imitating wafuku,fabric for western clothes also have units such as single haba(single width)or yard haba(cloth one yard wide)that are equivalent to 71 cm,and double of those called double haba(double width),which is equivalent to approximately 142 cm(sometimes this is called ohaba).

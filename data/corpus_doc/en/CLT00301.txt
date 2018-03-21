@@ -1,0 +1,185 @@
+wagakki(traditional japanese musical instruments)
+wagakki is a term used to refer to traditional musical instruments that have been used in japan from ancient times.
+such instruments are also referred to as hogakki.
+with the exception of instruments such as the wagon(a six-stringed flat zither that was invented in the yayoi period)and the kokyu(a three-or four-stringed bowed instrument whose origins are unknown),most wagakki are originally from the asian continent.
+while many wagakki,such as the "gagaku biwa" (a japanese lute traditionally used for ceremonial court music),have retained their original forms(and these forms can no longer be found in mainland asian),other instruments,such as the shamisen(a three-stringed musical instrument),the shakuhachi(a five-holed traverse bamboo flute),the nohkan(a traverse flute used in noh),and the ko-tsuzumi and o-tsuzumi(small and large drums,respectively,that are used in noh),have developed in a unique fashion in japan.
+musical instruments for ainu music,such as the mukkuri and tonkori,and musical instruments for okinawan music,such as the sanshin,are also described in this section.
+characteristics
+the pursuit of beautiful tones
+in wagakki,delicate changes in tones are sought after and highly appreciated.
+for this reason,the tones of wagakki for chamber music are,in particular,very sophisticated.
+for example,the tones of the shamisen may change greatly even when only its bridge(a component of a stringed musical instrument)is replaced.
+particularly,for the jiuta-shamisens one player carries several bridges and selects the most appropriate one depending on the weather,the condition of the instrument,the nature of the music to be played,etc.
+bridges are available in wide varieties with regard to weight,etc.,so that the player can offer the audience subtle differences in sound.
+furthermore,it can also be said that while western musical instruments have developed and diversified through the pursuit of better manipulation features,larger tessitura and higher levels of specialization,wagakki have developed and diversified through the pursuit of more beautiful tones.
+as a typical example,in the case of the shamisen,slightly different instrument bodies,plectrums,bridges(components of stringed musical instruments)and strings(for musical instruments)are provided for each category of shamisen music.
+the bow for the kokyu(musical instrument)has also been improved by chasing more beautiful tones,while bows for violins have been improved in terms of functionality.
+silk strings are still used in most stringed wagakki(although,for the so,polyester strings are becoming common for economic reasons),and this is because beautiful tones,which can be generated only by silk strings,are highly appreciated.
+the beauty of noises
+additionally,the techniques for generating various tones have advanced a great deal in most wagakki,and in particular,while western music has recently started to introduce noise elements,wagakki are characterized in that the beauty of noises has been recognized since ancient times,and noise elements have been introduced in various ways.
+musical instruments for western music(western musical instruments)had a tendency to eliminate sounds other than harmonic tones from the sounds used for harmonic music.
+this difference is conspicuous,and in the case of wagakki the percentage of instruments that generate sounds,including a large number of noises(or sounds other than harmonic tones),is high,even by comparison to the music of neighboring countries such as china and korea.
+a sawari mechanism,or a mechanism for adding noises,for the shamisen and various biwas(except the gaku-biwa)is a typical example.
+furthermore,even in the case of instruments that normally don't generate noises there exist special playing techniques with which to generate noises intentionally.
+this is because japanese people preferred such sounds.
+such changes and innovations occurred in the process of adaptation in japan after their introduction from the asian continent.
+low sound level
+many wagakki provide relatively lower sound volume levels than those of similar, 'modern' western instruments.
+because western music,particularly since the emergence of orchestral music,has been played in large spaces such as concert halls,the musical instruments were required to provide higher sound levels.
+consequently,some musical instruments(violins and flutes,for example)have been improved to provide higher sound levels at the cost of other features such as delicacy of tone,ease of playing,a pleasant touch,etc.,and the other instruments(viols,lutes,recorders,etc.)that weren't suitable for this adaptation have disappeared.
+contrastingly,most wagakki weren't subjected to such adaptations.
+in the case of wagakki,the sophistication of tones rather than higher sound levels has been pursued so that delicate changes in tones could be enjoyed in a quiet room.
+however,it is to be noted that some attempts to increase sound levels were also made(such as in the improvement of the so made by the blind koto master yamada).
+on the other hand,the wagakki used in the field of music played outdoors at festivals(festival music,shinto music,etc.)can provide sufficiently high sound levels.
+such instruments include the wadaiko(japanese drums),sho(gong),kane(cymbals and bells),hichiriki(japanese traditional recorders),yokobue(japanese flutes)and horagai(trumpet shells).
+additionally,the shamisen used to accompany joruri or nagauta have also developed to increase their sound volume levels so that their sounds could be heard clearly even in large concert halls,because they have also been used for traditional performing arts such as kabuki,bunraku and nihon-buyo(traditional japanese dance).
+artistic expression with a simple structure of delicate tones
+many wagakki are made of natural materials such as wood,bamboo,leather,etc.,and are simpler in structure than musical instruments such as pianos or boehm flutes,which have a complicated structure required for western music of the early modern and modern eras.
+wagakki require only simple accessories or none at all.
+as western music advanced from the stage at which it was based on musical modes to the stage at which it was based more on tonality,the theory of equal temperament,which was suitable for modulation,was introduced and superceded pure temperament.
+this process also required musical instruments to have complicated mechanisms.
+traditional japanese music seldom required such complicated mechanisms for these purposes,and even if there was such a need the player could satisfy it sufficiently by making full use of his playing techniques,such as through a change of tuning or a change in which the instrument was held.
+particularly,for early modern japanese music delicate changes in tones,musical intervals and pauses,which could be expressed only through direct manipulation by the players,were positively utilized and pursued.
+such a way of thinking,which places emphasis on delicate matters,is still highly respected in modern japan,and most wagakki have still basically maintained their original appearance of the edo period.
+contrastingly,many chinese traditional musical instruments have been 'modernized' due to the influence of western musical instruments.
+simple improvements
+furthermore,improvements in musical instruments were frequently made in a simple manner.
+typical examples include the shakuhachi,and the one-and two-stringed koto,which were popular at the end of the edo period.
+it can be said that this resulted from the traditional japanese esthetic philosophy,in which the idea that only simplicity can provide beauty,only simplicity can foster the soul and spirit,and only through simplicity people can approach god or buddha,was reflected in the sound of music.
+however,modulation to related keys was very popular in early modern japanese music.
+examples include 'changes of tuning(modulation)' in the course of a piece in the case of the so and shamisen(see jiuta),or 'half-open finger holes' and 'changes of holding style' in the case of the shakuhachi and shinobue.
+most wagakki were produced by modifying the original instruments introduced from the asian continent,except for those such as the wagon,which have been present since the yayoi period(it is unknown whether the kokyu originated from the asian continent).
+major modifications include the adoption of materials that were easily available in japan(however,imported materials,or karaki(wood imported from china),were frequently used even during the edo period for the shamisen and biwa),modifications to generate more delicate tones,and the above-described addition of 'harmonics.'
+major wagakkis
+because strings(silk strings)are used in stringed wagakki and bamboo are used in wind wagakki,the wagakki,and even music played by them,are sometimes referred to as 'ito-take or shi-chiku,' which means 'strings and bamboo.'
+in ancient china,musical instruments were classified into eight categories depending on the materials used,and were referred to as 'hachion,' which means 'eight sounds.'
+for this reason,even in japan musical instruments were once referred to as 'hachion,' but now they're commonly classified into three categories: 'hajikimono' (stringed instruments), 'fukimono' (wind instruments)and 'uchimono' (percussion instruments).
+as is the case with western musical instruments,wagakki can also be classified into four categories:stringed instruments,woodwind instruments,brass instruments and percussion instruments.
+stringed musical instruments
+zithers
+so(also referred to as kotos)
+wagon
+gaku-so
+tukushi-goto
+zoku-so,zoku-goto
+tan-goto
+jushichigen-so
+nijugen-koto
+nijuichigen-koto
+nijugogen-koto
+hachijugen-so
+shichigen-kin
+ichigen-kin
+nigen-kin
+yagumo-goto
+azuma-ryu nigen-kin
+shiragi-goto
+taisho-koto
+hatsuse-goto(also referred to as kokyukin)
+harps
+kugo
+lutes
+biwa
+gaku-biwa
+gogen-biwa
+moso-biwa
+heike-biwa
+satsuma-biwa
+chikuzen-biwa
+shin-biwa
+genkan
+gekkin
+shamisens
+sanshin,jabisen
+tonkori
+kokyu
+sangen-kokyu
+fujiue-ryu yongen-kokyu
+dai-kokyu
+meiji-kokyu
+gogen-kokyu
+reikin
+kucho
+kokin
+teikin
+wind instruments
+double-reed wind instruments(corresponding to woodwind instruments)
+hichiriki
+o-hichiriki
+air-reed wind instruments(corresponding to woodwind instruments)
+yoko-bue,oteki,yojo
+ryuteki
+koma-bue
+kagura-bue
+nohkan
+shino-bue
+kodai-shakuhachi
+shakuhachi
+hitoyogiri
+tenpuku
+free-reed wind instruments
+sho,hosho
+u
+lip-reed wind instruments(corresponding to brass instruments)
+horagai
+percussion instruments
+membranophones
+tsuzumi
+kakko
+ko-tsuzumi
+okawa,o-tsuzumi
+taiko
+kakko
+san-no-tsuzumi
+ikko
+gaku-daiko,da-daiko,tsuri-daiko
+wa-daiko
+o-daiko,matsuri-daiko
+shime-daiko
+idiophones
+dora,wa-dora
+kane,sho
+shogo
+kinsho
+suzu,rei,rin
+konchiki
+atari-gane,suri-gane,changiri,chanchiki
+suzu,rei,rin
+myobachi
+chappa,dobachi,dobyoshi
+hokyo
+hyoshi
+shakubyoshi
+hyoshigi,tsuke(kabuki),ki
+kokiriko
+yotsudake
+narimonos
+sasara(suri-zasara,bo-sasara,sasara-ko)
+kokiriko,bin-sasara(bin-zasara,kokiriko-sasara)
+naruko(musical instrument)
+music box(narimono)
+sekkin
+sanukaito
+mukkuri,kokin
+instruments for religious uses
+strings
+azusayumi
+percussion
+taiko
+uchiwa-daiko
+bells
+bonsho
+hansho
+mokugyo
+mokusho
+gyoban,bangi
+suzu,rei,rin
+junrei-suzu,shinrei
+miko-suzu
+shakujo
+toy-and craft arts-like musical instruments
+hatobue
+dendendaiko
+suzu
+furin
+dorei

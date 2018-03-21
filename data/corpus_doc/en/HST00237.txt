@@ -1,0 +1,51 @@
+tenyakuryo
+the tenyakuryo(bureau of medicine)was an institution established under japan's ritsuryo system(a system of centralized government based on the ritsuryo code);specifically,it was under the purview of the kunaisho(imperial household agency)of the ritsuryo system,and was the bureau responsible for giving medical care and providing doses of medicine.
+official duties at the tenyakuryo
+those working at the tenyakuryo provided medical care--and trained those who offered such care--for the officials at court,as well as overseeing gardens of medicinal herbs and other such projects.
+the tenyakuryo formed a counterpart with the naiyakushi,who were responsible for providing medical care to the emperor himself.
+in 896,the tenyakuryo absorbed the naiyakushi,seizing a monopoly over all the court's medical needs.
+the bureau's head was called the tenyaku no kami,and the rest of the bureau's personnel was organized into teni(doctors),harishi(acupuncturists),anmashi(masseurs),and jugonshi(sorcerer-physicians).
+there were also ihakase(masters of medicine),harihakase(masters of acupuncture),anmahakase(masters of massage),jugonhakase(masters of healing magic),and yakuenshi(an official in charge of managing medicinal-herb garden),under whom the bureau's students,called itokugyosho(distinguished scholars of medicine),learned.
+at the time of the bureau's absorption of the naiyakushi,control over the jii(the physicians for the emperor and imperial family),yakusei(students of medicine),and joihakase(female masters of medicine)was also transferred to the tenyakuryo.
+starting in the late heian period,appointment to the bureau became a hereditary privilege of the wake and tanba clans,and the komori family of the tanba clan achieved a complete monopoly over the position of tenyaku no kami.
+but because the komori family at that time were only rokui no kurodo(chamberlain of sixth rank),even as the tenyaku no kami(the head of tenyakuryo)they were too low-ranked to take part in the actual medical examinations given to the emperor,meaning their job was limited to more clerical and administrative duties.
+the position of tenyaku gon no suke(assistant chief of tenyakuryo)was also hereditary,resting with the fujiki family,a family of shinto priests who oversaw kamo wakeikazuchi jinja shrine,but those holding this position actually performed acupuncture,and were one of the family lineages permitted to perform medical examinations of the emperor.
+leading up into the edo period,there were many cases where the most outstanding private civilian doctors in kyoto and the other provinces were given office and rank and appointed as tenyakuryo physicians(goteni);candidates--both young and old--for official posts of tenyaku taijo(senior secretary of the bureau of medicine)rank or lower were chosen from among the teni(doctors)either due to their superior skills or due to a long record of distinguished service.
+towards the end of the edo period,a new type of doctor was added to those practicing traditional chinese medicine,and its practitioners began to be appointed to the tenyakuryo:this type comprised doctors,for example mitsuaki irako,who followed the trends in western(specifically,dutch)medicine.
+in 1869,the tenyakuryo was abolished during the reform of government institutions that followed the meiji restoration,but among all the institutions based on the ritsuryo system,the tenyakuryo had the rare distinction of having managed to maintain,both in word and in deed,its official functions from when it was founded right up until the moment it was dissolved.
+nyugyuin
+the nyugyuin(the cowsmilk office,in charge of raising milkcows and providing their milk to the imperial family)was one of the offices under the purview of the tenyakuryo.
+it was founded during the heian period.
+the office's betto(head)managed the office overall,while the nyuko(dairy farmer)of the shinabe(technicians)under the supervision of the nyushichojo reared cattle,and cowsmilk was then selected and presented to the imperial family for their meals.
+cowsmilk,along with so and daigo(both dairy products somewhat similar to cheese),were also used for medicinal purposes.
+office personnel
+the kashira(head),of jugoinoge(junior fifth rank,lower grade)
+suke(deputy chief),of jurokuinojo(junior sixth rank,upper grade),and the gon no suke(deputy to the deputy chief)
+daijo(senior secretaries),of jurokuinoge(junior sixth rank,lower grade),and shojo(junior secretaries),of jushichiinojo(junior seventh rank,upper grade)
+daizoku(senior clerks),of juhachiinoge(junior eighth rank,lower grade),and the shozoku(junior clerks),of daishoijo(grater initial rank,upper grade)
+shisho(manager of documents),newly established
+ryosho(bureau administrator),newly established
+shibe(low-ranking bureaucrats)
+jikicho(factotums)
+ishi(physicians),of jushichiinoge(junior seventh rank,lower grade),responsible for providing medical treatment
+harishi,of shohachiinojo(senior eighth rank,upper grade),responsible for providing medical treatment by acupuncture and moxibustion
+anmashi,of juhachiinojo(junior eighth rank,upper grade),responsible for providing medical treatment through massage
+jugonshi,of shohachiinojo(senior eighth rank,upper grade),who attempted to heal patients using incantations;jugonshi disappeared from the tenyakuryo after their official duties were usurped by the onmyoryo(bureau of divination).
+yakuenshi,of shohachiinojo(senior eighth rank,upper grade),responsible for managing the medicinal herb gardens
+ihakase,of shoshichiinoge(senior seventh rank,lower grade),responsible for training new physicians
+isei(medical students),students of ordinary status
+itokugosho,upper-level students
+harihakase,of jushichiinoge(junior seventh rank,lower grade),responsible for training new acupuncturists
+harisei(students of acupuncture)
+anmahakase,of shohachiinoge(lower grade senior eighth rank),responsible for training students of massage
+anmasei(students of massage)
+jugonhakase,of jushichiinojo(junior seventh rank,upper grade);this position disappeared after the onmyoryo usurped their official duties
+jugonsei(students of healing sorcery);they also disappeared after their official duties were usurped by the onmyoryo
+joi hakase,of shoshichiinoge(senior seventh rank,lower grade),responsible for training midwives;control over this position was transferred from the naiyakushi.
+jii,of shorokuinoge(senior sixth rank,lower grade),who worked as personal physicians to the emperor;control over this position was transferred to the tenyakuryo from the naiyakushi.
+yakusei,in charge of preparing medicine;control over this position was transferred to the tenyakuryo from the naiyakushi.
+yakuto,in charge of cultivating shinabe as well as medicinal herbs
+nyugyuin
+betto
+nyushichojo
+nyuko

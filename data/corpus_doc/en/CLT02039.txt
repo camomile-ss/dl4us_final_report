@@ -1,0 +1,186 @@
+middle japanese
+middle japanese is a stage in the development of the japanese language located between early middle japanese and early modern japanese.
+in this period the language lost many of its characteristics it had held since the ancient times,and got much closer to today's japanese.
+it is a period of about 500 years,roughly from the 12th century to the end of 16th century,and is generally divided into the preceding and latter terms.
+from the viewpoint of political history,the preceding middle japanese corresponds to the insei period(during the period of the government by the retired emperor)at the end of the heian period to the kamakura period,and the latter middle japanese to the muromachi period.
+background
+the end of 12th century is a transition period from nobles' autocracy to samurai feudal society.
+while the center of politics moved to the eastern japan,where seii taishogun(literally, "great general who subdues the barbarians")established the bakufu for management of national politics,a large number of new schools of buddhism were created in this period and the extension of their influence increased the number of literate population.
+in addition,portuguese missionaries came to japan at the middle of the 16th century.
+their language was introduced along with the western thoughts and technology,and various words of the portuguese language were brought into japan as loan words.
+portuguese missionaries,learning japanese for the purpose of spreading their belief,wrote a large number of grammar books and dictionaries and translated literary works.
+their works are very valuable materials for the study of middle japanese.
+phoneme
+vowel system
+there were five vowel sounds as follows:
+a-vowels/a/
+i-bowels/i/
+u-vowels/u/
+e-vowels/e/-?
+o-vowels/o/-?
+originally e-and o-vowels at the beginning of words were realized as demi-vowels of[j]and[w]respectively.
+this is a result of the integration derived from early middle japanese,but it is still unclear and remains to be further discussed how those vowels were pronounced when they followed consonants.
+furthermore prolonged sounds were created in the muromachi period.
+there were two types of prolonged o-vowels: "broad" and "compound" tones.
+it is considered that a consecutive vowel "au" turned into a broad tone,and "ou", "oo" and "eu" turned into compound tones[oː]and[joː]respectively,but some researchers insist otherwise.
+examples are shown below.
+"hayau"
+"omou"
+consonant system
+a list of consonants of middle japanese is shown below.
+in addition to these consonants,there were two phonemes:the syllabic nasal/n/and choked sounds/q/.
+/n/started to be represented as "n" and it turns into a uvular nasal at the end of segments but,when followed by plosives,affricate consonants and nasals,is assimilated into their position of articulation.
+on the other hand,/q/is represented by a small "tsu" and functions as reproduction of plosives and affricate consonants which follow it.
+furthermore labialized consonants such as/kw,gw/were also used in early middle japanese.
+in middle japanese,however,those labialized consonants became unified with unlabialized consonants when put before i-and e-vowels.
+/kwi/>/ki/
+/gwi/>/gi/
+/kwe/>/ke/
+/gwe/>/ge/
+however,there remained a difference between/ka/and/kwa/.
+sibilants/s,z/are palatalized before/i/and/e/as follows:
+/sa,za/
+/si,zi/
+/su,zu/
+/se,ze/
+/so,zo/
+joao rodriguez,in his book "arte da lingoa de iapam," stated that/se/was realized not as[ɕe]but as[se]in the kanto region.
+/t/and/d/are not dental sounds but,when followed by/i,u/,cause affricated changes as follows:
+/ti,di/
+/tu,du/
+some theory insists that phonemes except for/s,z/(/k,g/,/t,d/,/n/,/h,b/,/p/,/m/and/r/)were palatalized.
+roland lange advocates this theory on the basis of the hangeul notation of e-vowels in "iroha" published in korea(1492).
+yotsu-gana
+da-row sounds such as/di/and/du/have been affricated and confused with za-row sounds such as/zi/and/zu/.
+such confusion of "zi" and "di",or of "zu" and "du",is called the confusion of yotsu-gana(four kana characters).
+according to "arte da lingoa de iapam" by joao rodriguez,such confusion could already be seen in kyoto in those days,but these four characters were almost correctly distinguished in written materials of christians.
+voiced consonants
+some theories insist that voiced consonants are prenasalized in case of voiced plosives and fricative consonants,while others insist that vowels before voiced consonants become nasal vowels.
+/g/(g-sound)ex. "hage"
+/z/(z-sound)ex. "naze"
+/d/(d-sound)ex. "made"
+/b/(b-sound)ex. "nabe"
+this is also a remark from "arte da lingoa de iapam" by joao rodriguez.
+"shokai shingo",a japanese language textbook in modern korea,tells that/b/,/d/,/z/and/g/in the japanese language should be pronounced the same as hangul letters representing mp,nt,nz and ngk respectively.
+/h/and/p/
+it is considered that a sound[p]existed in the japanese language in the pre-literature period,but it turned into a fricative consonant[ɸ]as early as the end of old japanese and further changed into a sound[h]in early modern japanese.
+in middle japanese the[p]sound,which had once disappeared before old japanese,appeared again but as it paralleled[ɸ],it was treated as a newly-introduced phoneme/p/,independent from[ɸ](which is referred to as a phoneme/h/).
+it is used not only in words of chinese origin such as "sanpai" and "nippon" but also in mimetic words such as "pinpin" and "patto."
+in the middle of the heian period/h/became unified with/w/when not used at the beginning of words,so in the medieval period it was voiced when followed by/a/and/o/but not voiced before the other vowels.
+thus ha-row sounds not used at the beginning of words were as follows:
+"-ha"/wa/
+"-hi"/i/
+"-hu"/u/
+"-he"/ye/
+"-ho"/wo/
+semivowels
+as/i/was unified with/wi/,/e/and/ye/with/we/,and/o/with/wo/in the process of transition from early middle japanese to middle japanese,wa-row sounds were as follows:
+"wa"/wa/
+"wi"/i/
+"we"/ye/
+"wo"/wo/
+as to/w/in sounds other than wa-row sounds,/kwa/remains but/kwi/and/kwe/seem to have been unified with/ki/and/ke/respectively.
+unification of/e/,/ye/and/we/was almost completed before the end of the 12th century.
+as a result of successive fusion,/e/,/ye/and/we/were realized in every case and it is no longer possible to distinguish among them.
+ya-row sounds were as follows:
+"ya"/ya/
+"yu"/yu/
+("ye"/ye/)
+"yo"/yo/
+for reference,a-row sounds were as follows:
+"a"/a/
+"i"/i/
+"u"/u/
+"e"/ye/
+"o"/wo/
+structure of syllables
+originally syllables consisted of open syllables(a vowel,or a consonant plus a vowel)and it was not necessary to distinguish a syllable from a mora,but later words which ended with a consonant such as-m,-n and-t were newly borrowed from china.
+closed syllables,which consist of a consonant plus a vowel plus a consonant,were counted as syllables but moras were based on traditional open syllables.
+at first syllables which ended with-m and ones which ended with-n were distinguished,but in the middle of middle japanese they were assimilated into/n/.
+syllables which ended with-t,though being represented by "ti" or "tu," were represented only by "t" in christian materials,so it is considered that such syllables either accompanied vowels/i/and/u/or were realized as[t],but some theories insist otherwise.
+nichiguat(nichigetsu)
+butbat(butsubachi)
+sandhi
+syllables which ended with-m or-n or-t,when followed by a vowel or semivowel,caused sandhi and the consonant made a liaison such as-mm-,-nn-or-tt-.
+example of-m>-mm-
+sam+wi>sammi
+examples of-n>-nn-
+ten+wau>tennau>tennou
+kwan+on>kwannon
+kon+ya>konnya
+examples of-t>-tt-
+set+in>settin
+konnit+wa>konnitta
+but+on>button
+euphonic changes
+a euphonic change is a kind of change of sound which occurs sporadically.
+it is neither an inevitable change nor a one which occurs without exception,and a debate still continues as to detailed reasons why such a change occurred.
+appearing at comparatively early stage of language forming,euphonic changes had a great impact on figuration of verbs and adjectives of middle japanese.
+examples of euphonic changes of verbs are as follows:
+yom-/yomite/>/yonde/
+kuh-/kuhite/>/kuute/,/kuqte/
+there are two types of euphonic changes which may occur in "kuh-;" the first one can be often seen in dialects in the western japan and the second one in the eastern japan.
+examples of adjectives are as follows:
+/hayaku/>/hayau/
+/kataki/>/katai/
+in both of the examples above,-k-in the middle of the word is omitted.
+grammar
+so many of the grammar rules from the ancient times disappeared that japanese got closer to the today's form.
+one example of great developments is the use of the attributive form instead of the end-form.
+this change led to various events as stated below:
+it played an important role in the change of two-tier conjugation into one-tier;
+through a series of changes,two types of conjugations of adjectives were integrated into one;
+the rule of linked forms started to lose strength.
+"aru," which had been treated as an irregular conjugation verb,started to change into a regular four-tier conjugation verb.
+verbs
+middle japanese succeeded all of the nine types of verb conjugation from early middle japanese.
+in principle,examples of conjugation in ka-row sounds are shown(the same applies in case of adjectives).
+throughout this period,two-tier conjugation verbs gradually changed into one-tier conjugation.
+this process of change completed in early modern japanese,and in a way it can be considered to be a change caused by the integration of an end-form and an attributive form.
+adjectives
+there are two types of adjectives.
+they are normal adjectives and adjective verbs.
+historically the former can be further classified into two types.
+their conjunctive form ends either with "-ku" or "-shiku."
+the two types of conjugations mentioned above were no longer distinguished and were unified due to the following three events.
+the end-form and the attributive form were integrated.
+in the latter term,the suffix "-ki" attached to adjectives turned into "-i."
+in the kamakura period,end-forms of some adjectives with "shiku" conjugation took the form of "-shishi" (such as "migurushishi" or "tanomoshishi")but such a form was not generalized.
+there are two types of conjugations of adjective verbs which was inherited from early middle japanese.
+they are "nari" and "tari" conjugations.
+the most remarkable was transition of the attributive form from "-naru" to "-na."
+when the end-form and the attributive form were integrated,both of them acquired a new inflected form "-na."
+adjective verbs with "tari" conjugation were regarded as obsolete and subsequently were used less and less.
+change of two-tier conjugation verbs into one-tier
+a historical change in which,as to the attributive and classical imperfective forms of upper and lower bigraded conjugations,the ending "-uru," "-ure" became "-iru," "-ire"respectively and finally developed into inflected forms similar to those of upper and lower bigraded conjugations is called a change of two-tier conjugation verbs into one-tier.
+taburu>taberu
+suguru>sugiru
+such a change could be seen as early as the end of the heian period and the muromachi period but was not common yet,and gradually became generalized through the muromachi and edo periods.
+termination with an attributive form
+both in old japanese and in early middle japanese a sentence was sometimes terminated with an attributive form,especially in conversation,and such usage was generalized almost completely in the muromachi period.
+until early middle japanese a sentence terminated with an attributive form produced suggestiveness and a lingering feeling,but it became almost the same as a sentence terminated with an end-form after termination with an attributive form was generalized in middle japanese.
+conditional form
+the classical imperfective form developed into the conditional form.
+the classical imperfective form,previously used to describe what has already occurred(fixed condition),started to be used to describe what has not occurred yet(hypothetical condition),and fixed condition was gradually diminishing.
+in the conditional form of modern japanese,only hypothetical condition remained and fixed condition was no longer used.
+fixed condition is now represented by the usage of "tokoro," "hodoni" and "ahida."
+imperative form
+the imperative form was previously used with no suffix or with a suffix "-yo."
+in middle japanese,a suffix "-i"started to be used for verbs with lower bigraded conjugation or with ka-row or sa-row irregular conjugation.
+kure+i
+ko+i
+se+i
+in "arte da lingoa de iapam" rodriguez pointed out that a suffix "-yo" was sometimes substituted by "-ro" (for example, "miyo＝>miro").
+this type of imperative form with "-ro" was used in ancient japanese of the 8th century,especially in the eastern japan in ancient times,but now it has become the standard in modern japanese.
+linked form
+linked forms in which the existence of "zo,nam,ya,ka" caused the sentence to end with an attributive form became marginalized and disrupted in format,with the generalization of an attributive form being used as an end-form.
+linked forms in which the existence of "koso" caused the sentence to end with a classical imperfective form were more and more often accompanied by an adversative conjunction but remained for a longer time than the linked forms with an attributive form.
+even in modern times "-kososure" and "-kosoare," which are almost as rare as fossils,are still used.
+tense and aspect
+the tense and aspect systems were exposed to a drastic change.
+the perfective represented by "nu," "tsu" and "ri" and the past tense represented by "ki," "shi" and "keri" were obsolete and the perfect aspect "tari" developed into the general past tense.
+it gradually turned into "ta," which has become a form of past tense.
+postpositional particle
+a case particle "nite" turned into "de," which started to be newly used.
+"mu,"an auxiliary verb for conjecture,went through several phonetic changes(mu>m>n> ũ).
+it becomes a long vowel when followed by a thematic vowel of the imperfective form,but a sound "-y-" is sometimes inserted immediately before it.

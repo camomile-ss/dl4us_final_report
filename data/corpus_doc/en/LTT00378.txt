@@ -1,0 +1,15 @@
+jokotoba(a preface word)
+jokotoba(a preface word)is a rhetoric used mainly in waka(traditional japanese poems of thirty-one syllables),which is put before a certain word to modify it using a figure of speech,kakekotoba(a rhetoric in waka in which one word has more than one meaning),and a homophone,etc.
+summary
+makura word(poetic epithet convention)is a similar rhetoric used in waka.
+however,jokotoba is different from makura word in that the number of syllabic sounds is not fixed and there are longer jokotoba,and that the modified word is not fixed and created.
+therefore,it is considered to be a more complicated mode of expression than the makura word.
+there are two types of jokotoba:ushin no jo(semantic preface words)and mushin no jo(phonic preface words).
+ushin no jo is connected to the modified word by meanings,while mushin no jo is connected to the modified word by pronunciation.
+examples of jokotoba
+ushin no jo
+aki zukeba obanaga ue ni oku tsuyuno kenubekumo wa ha omohoyuru kamo
+<i'll disappear as tsuyu(dew)disappears.>
+mushin no jo
+kaze fukeba okitsu shiranami tatsuta yama yawaniya kimiga hitori koyuramu
+<kakekotoba between shiranami(foaming water)tatsu(ruffles)and tatsuta-gawa(tatsuta-gawa river)>

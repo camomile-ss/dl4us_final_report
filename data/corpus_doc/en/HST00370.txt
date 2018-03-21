@@ -1,0 +1,33 @@
+bunkyo-hifuron
+bunkyo-hifuron was a written literary theory compiled in the early heian period,in which theories to create prose and poetry were collected through the period of the six dynasties to the tang dynasty of china.
+it has been said that kukai,who went to study in changan in the middle of the tang dynasty,completed it in the konin era(810-823)after he came back to japan.
+it consisted of six volumes in total.
+although concerned comments of each family were chosen depending on kukai's own point of view,all sentences cited were written by chinese men of literature.
+only the preface for each volume was certainly written by him.
+that is why kukai cannot be the 'author' of this literature,but served in the position of editor.
+construction
+the six volumes were divided into heaven,earth,east,south,west,and north.
+kukai's intention was,as he wrote in the general introduction appended to the volume of heaven, 'the volumes are titled after the universe and because they are so everlasting as the sun and the moon are,they are collectively called hifuron(important theory).'
+as for the order for these six volumes,two opinions have emerged so far.
+that is,supposing the order of the first two volumes of heaven and earth was absolute,the problem was whether the order of the other four volumes of direction should be east,south,west,and north,or alternatively east,west,south,and north.
+jinichi konishi,who allegedly made notable achievements in the postwar studies on bunkyo-hifuron,adopted the latter.
+as the ground of his thesis,he mentioned there was a phrase at the end of the general introduction 'the theory is classified into 115 categories,i think,as follows;seifu(tones),chosho(a leading part of sutra sentences),8 in(八種韻,8 rhymes),4 seiron(四聲論,4 tone methods),17 sei(十七勢,17 powers),14 rei(十四例,14 examples),6 gi(六義,6 doctrines),10 tei(十體,10 formats),8 kai(八階,8 grades),6 shi(六志,6 wills),and 29 tai(二十九種對,29 replies),30 contents of peirui(文三十種病累,30 contents of disease related),10 shitsu(十種疾,10 disease),meanings of articles,rontaizoku(論對属,attached articles),and so on' before the phrase of 'the volumes are titled after the universe …' mentioned above.
+in detail,the word order of the above sentence was firstly 'seifu to 4 seiron' which appeared in the volume of heaven,secondly '17 sei to 6 shi' in the volume of earth, '29 tai' in the volume of east, '30 contents of peirui and 10 shitsu' in the volume of west, 'meanings of articles' in the volume of south,and 'rontaizoku' in the volume of north.
+as konishi indicated,it can be deemed that kukai himself insisted that the order of the volume should be heaven,earth,east,west,south,and north.
+in response to this,hiroshi kozen explained that evidently pairs were made,as the titles of the volume corresponded to each other such as east against west,and north against south(particularly the volumes of east and west were noticeable because they had small prefaces in the beginning),and concerning the format,in the volumes of east and west kukai selected each family's comments on his own discretion,while in the volumes of south and north they were cited as they were.
+he compared it to mandala and assumed that kukai should have imagined a mandala-like configuration with heaven and earth in the center and east,south,west,and north surrounding them clockwise.
+contents
+concerning the contents of the total of six volumes,when the order was heaven,earth,east,south,west,and north,the first volume of heaven described the shift of the tone seen in the chinese(the ancient kango[words of chinese origin])as well as the principle of the four tones,while in the volume of earth described the format of the poetry and materials to be depicted.
+the volume of heaven put a basis for theory of sound by liu shanjing,while the volume of earth put ars poetica by wang changling,jiaoran,shang guan yi,and so on.
+the following volume of east explained the kinds and usage of distich,the volume of south mentioned the ideal pattern of sentences and attitude to make,the volume of west discussed the things to be avoided about rhythm,and the last volume of north referred to the summary of the rules to be followed concerning distich.
+cited literature
+much literature was cited that can no more be seen today not only in china but also in japan,where some chinese classic books still exist.
+thus this literature can be said to be very precious from the viewpoint of its information value.
+the following are the citation outlines in each volume.
+the volume of heaven: "poetry rules" by wang changling in china(tang), "the essence of poetry" by yuan jing in china(tang), "a guidebook for the four tones" by liu shanjing in china(sui).
+the volume of earth: "poetry rules" by wang changling in china(tang), "discussion on poetry" by jiaoran in china(tang), "the new rules of poetry in the tang dynasty" by cui rong in china, "筆札華梁" by shang guan yi in china(tang), "the rules of prose and poetry" selectors unknown.
+the volume of east: "the rules of prose and poetry," and "筆札華梁" by shang guan yi.
+the volume of south: "poetry rules" by wang changling, "discussion on poetry" by jiaoran, "he yue ying ling ji" by yin fan in china(tang), "elegant lines of poets past" by yuan jing in china(western jin), "about prose and rhapodies" by lu ji.
+the volume of west: "the rules of prose and poetry," and "a guidebook for the four tones" by liu shanjing.
+the volume of north: "the secrets of prose and poetry" by du zheng lun in china(tang).
+bunkyo-hifuron contents

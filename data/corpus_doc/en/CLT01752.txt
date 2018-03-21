@@ -1,0 +1,68 @@
+eiji happo(the eight basic techniques)
+eiji happo(the eight basic techniques)is a term to express that the chinese character '永(ei)' contains all the八法(happo or hachiho,eight techniques)that are required in calligraphy.
+they are側(soku,dot),勒(roku,horizontal stoke),努(do,vertical stroke),趯(teki,hook),策(saku,horizontal stroke with right upward ending),掠(ryaku,stroke diagonally left down),啄(taku,short stroke diagonally left down),磔(taku,stroke diagonally right down).
+it is said that this was established at the same time as kaisho(chinese characters in standard[square]style).
+based on 'taihon hippo(most writing techniques),i.e.tenkaku hattai(eight basic elements of characters)are included in character "永",' and 'happo(eight techniques)were created at the beginning of the use of reiji(chinese characters written in the demotic semi-square style),and '八体(eight shapes)which have been passed from houhan's sai shigyoku via sho and o to later generations are sufficient for ten thousands characters,' which are stated in tang's cho kaikan, "gyokudo kinkei",a theory has been put forward for its origin that sai en,sho yo,and wang xizhi initiated.
+also in the literature of song dynasty,chi ei theory(song's shu chobun, "syoen seika"),cho kyoku theory(song's chin shi, "bokuchi-hen")and so on can be found.
+the details of the happo
+側(soku,side)
+fig.1
+li puguang, "eijihappo-kai"
+kaiseki' (bizarre stone)
+点' (ten,dot)of hikkaku(components of style of chinese characters).
+it is called '側(soku)' as it is written using the側面(soku-men,side surface)of the ink brush and its point.
+勒(roku,bridle)
+fig.2
+li puguang, "eiji happo-kai"
+gyokuan' (a desk decorated with a bead)
+横' (yoko,horizontal)of hikkaku
+勒' (bridle)is a leather strip put on the head of a horse to govern it with.
+just like controlling a horse to prevent it from moving on its own,move the brush as if pulling the leather strip.
+努(do,strive)
+fig.3
+li puguang, "eiji happo-kai"
+tecchu' (iron pole)
+竪' (tate,vertical)of hikkaku
+namely a vertical stroke.
+弓' (yumi)may replace the lower half of the character '努'.
+it means 'ishiyumi' (chinese crossbow).
+just like throwing a stone far away with a chinese crossbow,draw a vertical stroke in such a way that the middle part is bent left.
+趯' (teki,leap)
+fig.4
+li puguang, "eiji happo-kai"
+kani tsume' (crab leg)
+鉤' (kagi,hook)of hikkaku('hane' from jukaku[vertical stroke]or okaku[horizontal stroke])
+its tsukuri(right half of a character)is made up with '羽' (hane,feather)and '隹' (tori,bird)and means the outstanding tail of a雉(kiji,pheasant).
+combined with '走' (hashiru,run)placed as the hen(left half of a character),趯means jumping up to look outstanding.
+策' (saku,whip)
+fig.5
+li puguang, "eiji happo-kai"
+koga' (tiger's fang)
+提' (hane,rise)of hikkaku('hane' [hook]obliquely right upward)
+or '横' (yoko,horizontal stroke)drawn right upward.
+its ashi(lower half of a character)is 'セキ' (se ki)which is a hieroglyph expressing a branch with prickles.
+the hen of '刺す'(sasu,sting)has the same meaning.
+combined with '竹' (take,bamboo)as the kanmuri(the upper part of a character),it means a jaggy,notched whip.
+draw as if hit snap with a whip.
+掠' (ryaku,glance off)
+fig.6
+li puguang, "eiji happo-kai"
+saikaku' (rhinoceros horn)
+撇' ([hidari]harai,throw away)of hikkaku is drawn long.
+it is 'hidari harai' (glance off on the left).
+掠' (ryaku)means 'glance off'.
+just like a woman combs her long hair,move a brush left downward slowly.
+啄(taku,peck)
+fig.7
+li puguang, "eiji happo-kai"
+tori taku' (bird peck)
+撇' ([hidari]harai,throw away)of hikkaku is drawn short.
+啄' (taku)means 'pecking' and represents the shape of a woodpecker pecking a tree.
+磔' (taku,split)
+fig.8
+li puguang, "eiji happo-kai"
+金刀' (kinto,gold sword)
+捺'([migi]harai,press down)of hikkaku
+it is 'migi harai' (glance off on the right).
+磔' (taku)means 'crucifixion',but also means 'tear up and open internal organs'.
+unlike '掠' (ryaku)which is hidari harai,as if a sword tears up flesh and reaches bones,move the brush steadily rightward with stress and especially draw a triangle at the end with more pressure than '掠'.

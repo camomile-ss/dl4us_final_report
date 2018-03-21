@@ -1,0 +1,44 @@
+katsuragawa rest area
+the katsuragawa rest area,located at kuze-higashi-tsuchikawa town in minami ward(kyoto city)kyoto prefecture,is a stop on the meishin expressway.
+it was the only rest area operated by the road service organization,an incorporated foundation,before the privatization of the japan highway public corporation.
+in march 1998,lane widening next to the sakurai parking area at shimamoto town,mishima-gun(osaka prefecture)(between the oyamazaki junction/oyamazaki interchange and the takatsuki bus stop)forced its service to be discontinued,but subsequently the facilities were purchased and rebuilt.
+the site of the old sakurai rest area has been used for the takatsuki second junction.
+the katsura river,from which its name originates,is located just a kilometer from the rest area.
+road
+meishin expressway
+facilities
+inbound lane(toward kyoto minami interchange,kyoto higashi interchange,otsu interchange and maibara junction)
+parking lot
+large cars:54
+small cars:108
+toilets
+men:8 toilets(5 japanese style,3 western style)and 24 urinals
+women:34 toilets(24 japanese style,10 western style)
+for wheelchairs:1 toilet
+snacks(700 to 2100 items)
+shopping(700 to 2100 items)
+vending machines
+mobile recharger(700 to 2100 pieces)
+outbound lane(toward suita junction and nishinomiya interchange)
+parking lot
+large-size cars:68
+small-size cars:117
+toilets
+men:8 toilets(5 japanese style,3 western style)and 26 urinals
+women:36 toilets(25 japanese style,11 western style)
+for wheelchairs:1 toilet
+snacks(700 to 2100 items)
+shopping(700 to 2100 items)
+vending machines
+mobile rechargers(700 to 2100 pieces)
+next facilities
+meishin expressway
+(33,33-1,33-2)kyoto minami interchange-katsuragawa rest area pa-(33-3)oyamazaki interchange/(33-3)oyamazaki junction
+next sa/pa
+inbound lane
+(toward kyoto minami,maibara,and nagoya):otsu rest area
+outbound lane
+(toward kumiyama,maibara and nagoya):kusatsu rest area
+(toward nishinomiya):suita rest area
+(toward maizuru,tsuyama,okayama and tokushima):nishinomiya-najio rest area(chugoku jidoshado expressway)
+(toward matsubara):higashi-osaka rest area(kinki jidoshado expressway)

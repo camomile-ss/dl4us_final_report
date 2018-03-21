@@ -1,0 +1,324 @@
+kojiki(the records of ancient matters)
+according to kojiki's preface,kojiki is the oldest japanese history book dedicated by o no asomi yasumaro(or may be called the o no yasumaro)in 712.
+it is comprised of volume 1,2,and 3.
+summary
+according to kojiki's preface that states the process to completion of kojiki,o no yasumaro wrote and compiled the "teiki" (records of emperor's family tree)(genealogy of the emperor)and "kyuji" (a record of stories current at court)(ancient tradition)that hieda no are memorized and recited.
+it is said that the title kojiki was not originally a proper noun and was a general name that meant an old book,that is to say,it is not an official name.
+it is not clear whether the title of the book was named by yasumaro or by someone else.
+there is a theory that it is read as`furukotobumi,' but today,it is generally read as`kojiki' in on-yomi(chinese reading of kanji).
+it is not an official history compiled by the imperial court such as "nihonshoki" (chronicles of japan).
+however,it is possible to consider it as official history given that emperor tenmu stated in the preface that the emperor would advisedly select teiki,and find kyuji to eliminate the false parts and find the truth for it to succeed to the later ages.
+the gods that appeared in the "kojiki" are enshrined as saijin(main enshrined deities)in many shrines,and they have been significantly influencing the religious culture of japan until today.
+composition
+"kojiki" is composed of teiki(records of the emperor's family tree)part and the kyuji(a record of stories current at court)part.
+the imperial lineage is central to the "teiki" (records of the emperor's family tree)part,and it describes the names of emperors from the first to the thirty third generation,the names of the empress,prince,and princess,and the clan of descendants of the emperor as well as the name of imperial residence,reign duration,the oriental zodiac of the year of death,life duration,locations of imperial mausoleums,and major incidents during the reign of emperor.
+these issues are memorized and recited by kataribe(a reciter)of the imperial court,and kataribe was accustomed to recite them in mogari no saigi(funereal ceremony)at an imperial funeral for an emperor.
+during the middle of the sixth century,these issues were described in characters.
+"kyuji" summarizes the tales within the imperial court and stories on the origin of the imperial household or nation,and was written around the same time as teiki.
+"teiki" or "kyuji" was made based on recitations from the court nobles in the imperial court by the first half or the middle of the sixth century in order to explain the background of how japan was reigned by the emperor.
+some people say that these are not historical traditions that had been succeeded to the japanese race given that these were made based on such recitations.
+on the other hand,it needed to be widely accepted by the common people.
+it is said that such needs may be reflected in volume 1 of the "kojiki."
+kojiki is composed of three volumes;volume 1(preface,mythology),volume 2(from the first generation to the fifteenth emperor),and volume 3(from the sixteenth generation to the thirty third emperor).
+it contains various incidents(including mythologies or legends)from the beginning of heaven and earth(called ametsuchi)in the age of the gods,to the period of emperor suiko.
+it also contains a number of songs and ballads.
+apart from`norito' (shinto prayer), "kojiki" is the only document in which the term,`takamanohara' in japanese mythology(plain of high heaven)is often used.
+notation
+the text mainly uses a so-called variant of chinese language,while word-and-sound notation is used to describe parts such as ancient words or proper nouns where kanbun(sino-japanese)is slightly difficult.
+in rare cases,characters expressing the tone of kango(words of chinese origin)such as`up,' or`gone,' are laid out on the right side of the words where word-and-sound notation is used to express the accent of such words.
+any of these is the result of dedicated efforts of the compiler,o no yasumaro who was struggled to accurately and efficiently describe the content(refer to the preface).
+the word-and-sound notation is used to describe all the songs and ballads.
+above the main text where the word-and-sound notation is used,these are critical to study ancient special kana usage.
+distinction of`mo' in writing in ancient special kana usage is used only in the "kojiki."
+the theory that the kojiki was falsified
+aside from the main text of the "kojiki," it appears that the compilation history was not recorded and the oldest manuscript was from the period of the northern and southern courts(refer to the manuscript),therefore,some people don't believe the kojiki maintains the original issues prior to the period of the northern and southern courts and this adds to the theory that the original was falsified.
+on the contrary,archaeological evidence is also presented(refer to "kojiki" apocryphal book theory).
+study on the "kojiki"
+the "kojiki" has been eagerly studied since the early-modern times.
+the "kojiki-den" (commentary on the kojiki)composed of the forty four volumes by norinaga motoori during the edo period,a commentary comprising a huge volume,is a classic study of the "kojiki."
+the strict and demonstrative castigation significantly influenced later ages.
+the reasoning to affirm authenticity,the study to`adopt an outlook of compassion' based on the japanese classical literature developed by norinaga was to pursue the process of cleansing sympathetic feelings that are specific to japan,not possible in han-style structural logic.
+however,there is a view that the elimination of`kara-gokoro,' chinese mentality,was later transformed to kokoku shikan-emperor-centered historiography based on state shinto)based on a nationalistic view,or absolutizing mythology.
+after world war ii,study reports or commentaries by kenji kurano,nobutsuna saigo,kazutami nishimiya,or takamitsu konoshi were presented.
+the iwanami paperback edition by kenji kurano has sold a total of one million copies since it was first published in 1963,and became a long-selling book.
+some people pointed out that arbitrary annotation was included in it,referring to`kojikiden' (commentaries on the kojiki)that was published before the iwanami paperback edition was published.
+after the latter half of the twentieth century,the study on the "kojiki" shifted from formation theory to literary comment theory.
+sokichi tsuda or tadashi ishimoda is a famous writer of the formation theory,while iwao yoshii,nobutsuna saigo,or takamitsu konoshi is a famous writer of literary comment theory.
+in addition,it can be said that "kojiki no tassei" (the accomplishment of the kojiki)by takamitsu konoshi rewrote the previous study history.
+kojiki gisho(apocryphal book)theory
+after the early modern times,there have been some people who suspected that "kojiki" was a gisho(apocryphal book).
+kamo no mabuchi(a letter to norinaga),noriyoshi numata,kenmyo nakazawa,筏勲,masaaki matsumoto,iwao owa,and hayato oshima advocate the gisho theory raising suspicious points,for example;the completion of "kojiki" was not recorded in official history documents.
+there are two gisho theories;the theory that only the preface is gisho,the theory that the preface and main text are gisho.
+they are summarized as follows.
+in the prefaced gisho theory,the process to the completion of the "kojiki" was described in the preface(johyobun-memorial to the emperor)of the "kojiki."
+however,some people doubted the correctness in its preface and pointed out the possibility that the kojiki was gisho in that no other supporting evidence was publicly available.
+according to the main text gisho theory,the mythology of the "kojiki" contained mythologies that were newer than the "nihonshoki" (chronicles of japan).
+those mythologies were made earlier,during the early heian period,or were revised by norinaga motoori,a scholar of japanese classical literature in ise province such as hidehiro okada.
+however,the gisho theory was not accepted by jodaibungakukai(association for early japanese literature)or the historical society.
+because distinction of two kinds of`mo' in writing in ancient special kana usage that disappeared in the "manyoshu" (collection of ten thousand leaves)and the "nihonshoki" (chronicles of japan)still remained in the "kojiki."
+this is an important rationale to deny the gisho theory.
+one of rationales of the preface gisho history is that o no yasumaro is written in kanji as`太安萬侶' in history books("shoku nihongi" (chronicle of japan continued), "koninshiki," "nihongi kyoen waka" (the world of nihongo-kyo en-waka))other than "kojiki" while it is written in different kanji as`太安萬侶' only in the preface of "kojiki."
+however,in january in 1979,the epitaph of o no yasumari was unearthed in konose town,nara city,on the epitaph,it was stated that sakyo shijo shibo jushiinoge(junior forth rank,lower grade)the fifth order of merit,o no ason yasumaro七月六日卒之養老七年十二月十五日乙巳,thus,the rationale regarding the difference in kanji writing was denied.
+content
+o no asomiyasumaro states
+this is the preface stated in the style which o no asomiyasumaro,senja(author),used when reporting to the emperor.
+the first paragraph of the preface,meditating upon antiquity and comparing the present with antiquity
+this paragraph describes the main points of the "kojiki" that begins with the creation of heaven and earth.
+it is described that emperors governed the country well even though achievements of each emperor varied.
+your subject,yasumaro will state.
+a chaotic foundation is being formed,but a sign of life has not appeared yet.
+with no name and no movement,
+who can recognize its shape.
+(your subject,yasumaro will state a chaotic foundation is being formed,but a sign of life has not appeared yet.with no name,and no movement,who can recognize its shape.)
+their pace is different,as to whether it is fast or slow,so is their reality,whether it is simple or gorgeous.all emperors have never failed to look back upon antiquity,and to try to properly reestablish the ancient teachings that had almost collapsed,to enlighten today's world through such teachings,and to stop the loss of ancient wisdom.
+their pace is different,whether fast or slow,so is their reality,whether simple or gorgeous.all emperors have never failed to look back upon antiquity,and to try to properly reestablish the ancient teachings that were almost collapsed,to enlighten the today's world through such teachings,and to stop the loss of ancient wisdom.
+the second paragraph of the preface,the initiative for selection of records in the "kojiki"
+the second paragraph first describes the achievement of emperor tenmu in detail,and then describes the background that "teiki" and "kyuji" which emperor tenmu ordered hieda no are to recite couldn't be documented due to changing circumstances.
+the emperor says`as far as i understand, "teiki" and "honji" (accounts of the origin)that have been handed down to families are falsified and are not like the original one.'
+the original intentions will be lost within a few years unless corrected now.'
+these are precious teachings to be of the imperial court,and are meant to be a solid foundation to guide the people.'
+therefore,i will advisedly select teiki,and find kyuji to eliminate the false parts and find the truth for future generations.'
+at that time,there was a toneri(a servant)serving the emperor.
+his clan name was hieda,and his name was are,he was twenty eight years old.
+he was such a bright man and he was able to immediately express something which he saw in words and never forgot the words he heard.
+the emperor immediately ordered are to read and learn kyuji that describes the lineage and incidents of past emperors that the emperor determined and selected himself.
+the emperor says`as far as i understand, "teiki and "honji" (accounts of origin)that have been handed down to families are falsified and are not like the original one.the original intentions will be lost within a few years unless corrected now.these are the precious teachings of the imperial court,to establish a sold foundation to guide the people.therefore,i will advisedly select teiki,and find kyuji to eliminate the false parts and find the truth to succeed future generations.he was such a bright man and was able to immediately express something he saw in words and never forgot the word he heard.the emperor immediately ordered are to read and learn kyuji that describes the lineage and incidents of past emperors that the emperor determined and selected himself.
+the third paragraph of the preface,completion of the "kojiki"
+the third paragraph describes the background that yasumaro had mikotonori(imperial edict),and stated the recitation by are no hieda during the reign of empress genmei.
+the category of the content is referred to at the end.
+he specifically described his tremendous efforts to replace words with sentences.
+a well-known emperor was sorry about kyuji(a record of stories current at court)being incorrect,and attempted to correct pre-existing documents.on september 18,711,the emperor ordered his subject,yasumaro to present the kyuji that was selected and recorded immediately after the emperor settled in omiya,kiyohara in asuka,to the extent that hieda no are could recite,and yasumaro happily followed the emperor's words,thoroughly picking up kyuji.
+however,during the ancient period,the words and meanings were so unsophisticated that it was difficult to describe the content when organizing characters and forming a phrase by using characters from abroad.
+a well-known emperor was sorry about kyuji(a record of stories currently at court)that were incorrect,and attempted to correct pre-existing documents.on september 18,711,the emperor ordered his subject,yasumaro to present the kyuji that was selected and recorded immediately after the emperor settled in omiya,kiyohara in asuka,to the extent that hieda no are could recite,and yasumaro happily followed the emperor's words,thoroughly picking up kyuji.however,during the ancient period,the words and meanings were so unsophisticated that it was difficult to describe the content when organizing characters and forming a phrase by using characters from abroad.
+the description begins with the creature of heaven and earth and ends with the reign of oharida(emperor suiko).
+the period from amenominakanushi no kami(god ruling the center of heaven)to hikonagisatake ugayafukiaezu no mikoto was determined to be contained in kamitsumaki(volume 1),the period from kamuyamatoiwarebiko no sumera mikoto to the reign of homuda was determined to be contained in nakatsumaki(volume 2),and the period from emperor osasagi to owarida no omiya was determined to be contained in shimotsumaki(volume 3).i am honored to present these three volumes that i wrote.
+sincerely yours,your subject,yasumaro.
+the description begins with the creature of heaven and earth and ends with the reign of oharida(emperor suiko).the period from amenominakanushi no kami(god ruling the center of heaven)to hikonagisatake ugayafukiaezu no mikoto was determined to be contained in kamitsumaki(volume 1),the period from kamuyamatoiwarebiko no sumera mikoto to the reign of homuda was determined to be contained in nakatsumaki(volume 2),and the period from emperor osasagi to owarida no omiya was determined to be contained in shimotsumaki(volume 3).i am honored to present these three volumes that i wrote.sincerely yours,your subject,yasumaro.
+shogoinojo(senior fifth rank,upper grade)the fifth order of merit,o no ason yasumaro,january 28,712.
+kamitsumaki(volume 1)
+kamitsumaki describes the period from tenchikaibyaku(creation of heaven and earth)(japanese mythology)to the formation of the japanese islands and development of national land,and also describes the mythological age from tenson korin(tensonkorin-the descent to earth of the grandson of the sun goddess)to yamasachihiko.
+this is`japanese mythology.'
+it stated that various gods were born when the heaven and earth were created and izanagi and izanami were born in the end.
+izanagi and izanami descended from takamanohara(plain of high heaven)to ashihara no nakatsu kuni(the terrestrial land),and married.
+izanami gave birth to oyashima-no-kuni(great eight islands),and then gave birth to various gods based on animism such as yamanokami(god of the mountain),uminokami(god of the sea).
+without giving birth to all the gods required for kuni-umi(the birth of the land of japan),izanami died of burns because he gave birth to hi-no-kami(the god of the fire).
+her dead body was buried on hibanoyama mountain(present day yasugi city,shimane prefecture)located along the boundary of izumo and hoki provinces.
+izanagi missed izanami so much that he visited yominokuni(realm of the dead,the next world)to bring her back.
+however,he couldn't bring her back,and kuni-umi(the birth of the land of japan)was not completed.
+izanagi had misogi(purification ceremony)to clean impurities he had in yominokuni.
+when he washed his left eye,amaterasu oomikami was born;when he washed his right eye,tsukuyomi no mikoto was born;when he washed his nose,susanoo no mikoto was born.
+afterward,izanagi spent his time at the kakurenomiya in awaji-shima island which he first created.
+those three gods that izanami gave birth to were called the mihashira no uzuno miko(three noble children),and they played a central role among gods.
+there is no record left regarding tsukuyomi no mikoto after her birth.
+susanoo no mikoto is such a ravager that his elder sister,oomikami,suspected that he was rebellious against her.
+oomikami and susanoo no mikoto agreed to test his innocence.
+susanoo no mikoto turned out to be innocent,but he got carried away and became violent.
+oomikami who lost her temper locked herself in ama no iwayato(a rock cave where amaterasu-deity of the sun hid).
+various gods gathered to give their wisdom and to take her out of the cave,and it worked.
+meanwhile,other gods judged susanoo no mikoto to be expelled from takamanohara(the plain of high heaven)and was forced to descend to izumo province of ashihara no nakatsu kuni.
+although susanoo no mikoto had been labeled as just a ravager by that time,he changed and became a hero,exterminating yamata no orochi(the eight forked great serpent),which was a well known story.
+next,okuninushi(chief god of izumo in southern honshu island,japan,and the central character in the important cycle of myths set in that region),a descendant of susanoo no mikoto appears.
+it was followed by stories of okuninushi such as the white hare of inaba,an offer of marriage,and disasters(mythology of okuninushi),and then it stated that okuninushi proceeded the development of national land together with sukunahikona.
+after the national land was developed,the mythology of pacification of ashihara no nakatsukuni(the central land of reed plains)is described.
+amaterasu oomikami demanded the transfer of the sovereignty of ashihara-naka-tsu-kuni(the middle land of reed plain)to the grandson of the sun goddess,and okuninushi(chief god of izumo in southern honshu island,japan,and the central character in the important cycle of myths set in that region)and his child,kotoshiro nushi(a japanese ancient god)accepted it.
+his child,takeminakata-no-kami refused and didn't follow it,but later he accepted.
+once the gods of takamanohara(plain of high heaven)were granted the sovereignty of ashihara-naka-tsu-kuni,they had tenson ninigi,the grandson of amaterasu-omikami(the sun goddess)descend to takachiho of hyuga province.
+next it moves to the tale of ninigi's children,yamasachihiko and umisachihiko.
+a visit to the palace of sea god,which is said to be the root of the tales of urashima taro,and subsumption of foreign strain are described.
+kamitsumaki(volume 1)ends with the scene that yamasachihiko married the daughter of the sea god,and ninigi's grandson,emperor jinmu was born.
+main gods appear in kamitsumaki(volume 1)
+kotoama(the god of separated heaven),itsuhashira(one of the gods),hitorigami(the god of single existence)
+ame no minakanushi no kami(one of the gods in japanese mythology),hitorigami(the god of single existence),amahara no chushin no kami(the god in center of takamanohara-plain of high heaven)
+takamimusubi no kami(one of the gods),hitorigami(the god of single existence),deification of the generating force
+kamimusubi no kami,hitorigami(the god of single existence),deification of the generating force
+umashiashikabihikoji no kami,hitorigami(the god of single existence)
+amenotokotachinokami(one of the gods),hitorigami(the god of single existence)
+kaminoyonanayo(seven generations of the gods' world,the primordial seven)
+kunitokotachi no kami,hitorigami(the god of single existence),kokudo no kongen kami(the god of the foundation of the land)
+toyokumono,hitorigami(the god of single existence)
+uijini no kami(one of the gods)and suijini no kami(one of the gods)
+tsu no kui no kami(one of gods),suijini no kami(one of gods)
+otonoji no kami(one of gods),otonobe no kami
+omodaru no kami(one of gods),ayakashikone no kami(one of gods)
+izanagi and izanami(the god of man and woman),a couple
+mihashira no uzuno miko(three noble children)
+they were born when amaterasu izanagi washed his left eye.
+tsukuyomi no mikoto was born when izanagi washed his nose.
+he was born when susano izanagi washed his nose.
+amenooshihomimi
+okuninushi(chief god of izumo in southern honshu island,japan,and the central character in the important cycle of myths set in that region)
+ninigi
+hori
+ugayafukiaezu
+nakatsumaki(volume 2)
+nakatsumaki describes the period from the first generation,emperor jinmu to the fifteenth generation,emperor ojin.
+it begins with jinmu tosei(story in japanese myth about the first generation of the imperial family),and contains mythological tales such as yamatotakeru or empress jingu,which means that it was the period between the god world and the human world.
+the sovereigns from the second generation to the ninth generation,they are called the kesshi-hachidai(eight undocumented sovereigns).
+aside from genealogy,the tales are not described.
+one theory states that these eight generations are fictional added after ages,but another theory states that they existed.
+each emperor was recorded in japanese-style posthumous names,as done in chinese-style posthumous names,such as`emperor jinmu' corresponding to the japanese-style posthumous name was not defined when the "kojiki" was compiled.
+the existence of the emperors after emperor ojin are historically proved.
+there is a theory that empress jingu was himiko or had some relationship with himiko,which was not yet generally accepted.
+main characters appeared in nakatsumaki
+the first generation,emperor jinmu
+kamuyamatoiwarebiko no mikoto settled in the palace of kashiwara at unebi,and governed the country(the southeast area of mt.unebi in nara prefecture).
+he passed away at the age of 137.
+his misasagi(imperial mausoleum)is on kashi ridge in the northern part of mt.unebi(kashihara city,nara prefecture).
+the second generation,emperor suizei
+kamununakawa-miminomikoto settled in the palace of takaoka at kazuraki,and governed the country(minami kazuraki-gun,nara prefecture).
+he passed away at the age of forty five.
+his misasagi(imperial mausoleum)is on the hill of tsukida(takaichi-gun,nara prefecture).
+the third generation,emperor annei
+shikitsuhikotamade no mikoto settled in the palace of ukiana at kataimina,and governed the country(minami kazuraki-gun,nara prefecture).
+he passed away at the age of forty nine.
+his misasagi(imperial mausoleum)is at mihoto on mt.unebi(kashihara city,nara prefecture).
+the forth generation,emperor itoku
+oyamatohikosukitomo no mikoto settled in the palace of sakaioka at karu,and governed the country(minami kazuraki-gun,nara prefecture).
+he passed away at the age of forty five.
+his misasagi(imperial mausoleum)is over the valley of manago at mt.unebi(kashihara city,nara prefecture).
+the fifth generation,emperor kosho
+mimatsuhikokaeshine no mikoto settled in the palace of wakigami at kazuraki,and governed the country(minami kazuraki-gun,nara prefecture).
+he passed away at the age of ninety three.
+his misasagi(imperial mausoleum)is on the mt.hakata in wakigami(minami kazuraki-gun,nara prefecture).
+the sixth generation,emperor koan
+oyamatotarashihikokunioshihito no mikoto settled in the palace of akizushima at muro in kazuraki,and governed the country(minami kazuraki-gun,nara prefecture).
+he passed away at the age of 123.
+his misasagi(imperial mausoleum)is on the hill of tamade(minami kazuraki-gun,nara prefecture).
+the seventh generation,emperor korei
+oyamatonekohikofutoni no mikoto settled in the palace of iodo at kuroda,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of 106.
+his misasagi(imperial mausoleum)is in kataoka no umasaka(kita kazuraki-gun,nara prefecture).
+the eighth generation,emperor kogen
+oyamatonekohikokunikuru no mikoto settled in the palace of sakaihara at karu,and governed the country(takaichi-gun,nara prefecture).
+he passed away at the age of fifty seven.
+his misasagi(imperial mausoleum)is on the hill in tsurugi no ike(takaichi-gun,nara prefecture).
+the ninth generation,emperor kaika
+wakayamatonekohikoobibi no mikoto settled at izakawa palace of kasuga,and governed the country(nara city).
+he passed away at the age of sixty three.
+his misasagi(imperial mausoleum)is on the slope of izakawa(ikoma-gun,nara prefecture).
+the tenth generation,emperor sujin
+mimakiirihikoinie no mikoto settled in the palace of mizugaki at shiki,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of 168.
+he died in december of tsuchinoe-tora(one of the oriental zodiac)year.
+his misasagi(imperial mausoleum)is on a hill at the curve of the yamanobe path(shiki-gun,nara prefecture).
+the eleventh generation,emperor suinin
+ikumeiribikoisachi no mikoto settled in the palace of tamagaki at shiki,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of 153.
+his misasagi(imperial mausoleum)is in mitachino in sugahara(nara city).
+the twelfth generation,emperor keiko
+otarashihikooshirowake no sumeramikoto settled in the palace of hishiro at makimuku,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of 137.
+his misasagi(imperial mausoleum)is on the path of yamanobe(shiki-gun,nara prefecture).
+yamatotakeru(yamatotakeru no mikoto)
+he went to nobono(suzuka district,mie prefecture)and died there.
+his misasagi(imperial mausoleum)was made.
+he changed to a bird and flew off to shore.
+he went to shiki in kawachi province.
+because of this,the misasagi was made there to console his soul.
+thus,the mausoleum was called the mausoleum of the white bird.
+the thirteenth generation,emperor seimu
+wakatarashihiko no sumera mikoto settled in the palace of takaanaho at shiga,and governed the country(otsu city,shiga prefecture).
+he passed away at the age of ninety five.
+he died on march 15,in the year of kinoto-u(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at tatanami in saki(ikoma-gun,nara prefecture).
+the fourteenth generation,emperor chuai
+tarashinakatsuhiko no sumera mikoto settled in anato(chofu,shimonoseki city)and in the palace of kashii at tsukushi,and governed the country(kashii,fukuoka city).
+he passed away at the age of ninety five.
+he died on june 11,in the year of mizunoe-inu(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at nagae at ega in kawachi province(minamikawachi-gun,osaka prefecture).
+empress jingu
+okinagatarashihime no mikoto(the empress jingu)
+she passed away at the age of 100.
+she was buried in sakinotatanami no misasagi(ikoma-gun,nara prefecture).
+the fifteenth generation,emperor ojin
+homudawake no mikoto settled in the palace of akira at karushima,and governed the country(takaichi-gun,nara prefecture).
+he passed away at the age of 130.
+he died on september 9,in the year of kinoe-ushi(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is on the hill of mofushi at ega in kafuchi(minamikawachi-gun,osaka prefecture).
+shimotsumaki(volume 3)
+the generations from emperor ninken to emperor suiko is called the kesshi-judai(ten undocumented sovereigns),and shimotsumaki contains only issues such as a genealogy and few specific issues,as well as kesshi-hachidai(eight undocumented sovereigns).
+it is said that because those generations were close to the time when shimotsumaki was written,specific issues were omitted.
+main characters appeared in shimotsumaki
+the sixteenth generation,emperor nintoku
+osasagi no mikoto settled in the takatsu palace in naniwa,and governed the country(osaka city).
+he passed away at the age of eighty three.
+he died on august 15 in the year of hinoto-u(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at mozu in mimihara(sakai city,osaka prefecture)
+the seventeenth generation,emperor richu
+izahowake no mikoto settled in the palace of tamaho at iware,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of sixty four.
+he died on january 3,in the year of mizunoe-saru(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at mozu(sakai city osaka prefecture).
+the eighteenth generation,emperor hanzei
+mizuhawake no mikoto settled in shibakaki palace at tajihi,and governed the country(minamikawachi-gun,osaka prefecture).
+he passed away at the age of sixty.
+he died in july in the year of hinoto-ushi(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at mozuno.
+the nineteenth emperor ingyo
+oasazumawakugo no sukune no mikoto settled in totsuasuka palace,and governed the country(asuka,yamato).
+he passed away at the age of seventy eight.
+he died on january 15,in the year of kotsu.
+his misasagi(imperial mausoleum)is at nagae,ega,in kawachi province(minamikawachi-gun,osaka prefecture).
+the twentieth generation,emperor anko
+anaho no mikoto settled in anaho palace in isonokami,and governed the country(yamabe-gun,nara prefecture).
+he passed away at the age of fifty six.
+his misasagi(imperial mausoleum)is on the hill of fushimi in sugawara(ikoma-gun,nara prefecture).
+the twenty first generation,emperor yuryaku
+ohatsusewakatake no mikoto settled in asuka palace in hatsuse,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of 124.
+he died on august 9,in the year of tsuchinoto-mi(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at takawashi in tajihi in kawachi province(minamikawachi-gun,osaka prefecture).
+the twenty second generation,emperor seinei
+shiragaoyamatoneko no mikoto settled in the mikakuri palace at iware,and governed the country(shiki-gun,nara prefecture).
+the year and the age of death are not described.
+the twenty third generation,emperor kenzo
+wokenoihasuwake no mikoto settled in chikatsuasuka palace,and governed the country at the age of eight(minamikawachi-gun,osaka prefecture).
+he passed away at the age of thirty eight.
+his misasagi(imperial mausoleum)is on the hill of ihatsuki in kataoka(kitakatsuragi-gun,nara prefecture).
+the twenty fourth generation,emperor ninken
+oke no mikoto settled in the palace of hirotaka at iso no kami,and governed the country(shiki-gun,nara prefecture).
+the year and age of death are not described.
+the twenty fifth generation,emperor buretsu
+ohatsusenowakasazaki no mikoto settled in the palace of namiki at hase,and governed the country at the age of eight(shiki-gun,nara prefecture).
+the year of death is not described.
+his misasagi(imperial mausoleum)is on the hill of kataoka no iwatsuki.
+the twenty sixth generation,emperor keitai
+odo no mikoto settled in the palace of tamaho at iware,and governed the country(shiki-gun,nara prefecture).
+he passed away at the age of forty three on april 9 in the year of hinoto-hitsuji(one of the oriental zodiacs).
+he died on april 9,in the year of hinoto-hitsuji(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at ai in mishima(mishima-gun,osaka prefecture).
+the twenty seventh generation,emperor ankan
+hirokunioshitakekanahi no mikoto settled in the palace of kanahashi at magari,and governed the country(takaichi-gun,nara prefecture).
+he passed away on march 13,in the year of kinoto-u(one of the oriental zodiacs)
+his misasagi(imperial mausoleum)is at takaya-mura,furuchi,kawachi province(minamikawachi-gun,osaka prefecture).
+the twenty eighth generation,emperor senka
+takeohirokunioshitate no mikoto settled in the palace of iorino at hinokuma,and governed the country(takaichi-gun,nara prefecture).
+the year and the age of death are not described.
+the twenty ninth generation,emperor kinmei
+amekunioshiharukihironiwa no mikoto settled in the palace of shikishima,and governed the country(shiki-gun,nara prefecture).
+the and the age of death are not described.
+the thirtieth generation,emperor bidatsu
+nunakurafutotamashiki no mikoto settled in the palace of osada,and governed the country at the age of fourteen(shiki-gun,nara prefecture).
+he passed away on april 6 in the year of kinoe-tatsu(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)is at shinaga in sendai(minamikawachi-gun,osaka prefecture).
+the thirty first generation,emperor yomei
+tachibana no toyohi no mikoto settled in the palace of ikenobe,and governed the country at the age of three(shiki-gun,nara prefecture).
+he passed away on april 15,in the year of hinoto-hitsuji(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)was originally at ikenoue in ihare,and later,it was transferred to the misasagi in shinaga(shiki-gun,nara prefecture).
+the thirty second generation,emperor sushun
+hatsusebe no wakasagi no mikoto settled in the palace of shibakaki at kurahashi,and governed the country at the age of four(shiki-gun,nara prefecture).
+he passed away on january 13,in the year of mizunoe-ne(one of the oriental zodiac).
+his misasagi(imperial mausoleum)was on the hill of kurahashi(shiki-gun,nara prefecture).
+the thirty third generation,emperor suiko
+hatsusebe no wakasaki no mikoto settled in the palace of owarida,and governed the country at the age of thirty seven(takaichi-gun,nara prefecture).
+he passed away on november 13,in the year of mizunoe-ne(one of the oriental zodiacs).
+his misasagi(imperial mausoleum)was originally on the hill of ono,and later it was transferred to the misasagi in shinaga(uda-gun,nara prefecture).
+songs and ballads
+"kojiki" mainly about tales,and a number of songs and ballads are contained in it.
+it is highly likely that a great number of songs and ballads that were originally minyo(a traditional folk song)or zokuyo(popular song,ballad,folk song,ditty)are appropriately contained in "kojiki" in accordance with the tales.
+manuscripts,printed copies
+the existing "kojiki" manuscripts are divided into`ise-bon group,' and`urabe-bon group.'
+the oldest existing "kojiki" manuscript is the shinpuku-ji manuscript copied in three fascicles(national treasure)that belongs to`ise-bon group' copied by kenyu,a monk of osu-kannon temple from 1371 to 1372.
+according to okugaki(postscript),kamitsumaki and shimotsumaki are the books of onakatomi no sadayo and nakatsumaki is the book of fujiwara no michimasa in the basic book of popular edition.
+the series of three doka manuscripts composed of the doka manuscript(only the first half of kamitsumaki,copied in 1381),the dosho manuscript(only kamitsumaki,copied in 1424),the shunyu manuscript(only kamitsumaki,copied in 1426)are close to the shinpukuji manuscript,and they belong to the ise-bon group.
+all other manuscripts belong to the urabe-bon group,and the basic book of the popular edition was written by kanenaga urabe in his own handwriting(composed of volume1,2,and 3.copied during the latter half of the muromachi period).

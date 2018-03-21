@@ -1,0 +1,19 @@
+kokugaryo
+kokugaryo is a historical term referring to koryo(an imperial demesne)after around the mid-heian period,differentiated from shoen(manor in medieval japan).
+"kokuga" means the administrative institutions in ryoseikoku(provinces).
+summary
+since around the 10th century,the tax system consisting of the ancient family registration system and handen shuju sei(a system of periodic reallocations of rice land)stipulated by the ritsuryo system(a system of centralized government based on the ritsuryo code)had almost collapsed,gradually shifting into the kokushi ukeoi system,which made zuryo(the head of kokushi[provincial governors]who was sent to local provinces to administer)undertake tax collection in their provinces.
+accordingly,koryo under the control of zuryo began to be treated like their private assets.
+to deal with tax delinquencies designated to the main temples and shrines,and the high-ranked aristocracy including sekkan-ke(the families which produced regents),it became customary for zuryo to give away to those tax recipients the rights to collect taxes from parts of koryo,as an attempt to avoid poor evaluation with zuryo koka sadame,their job performance reviews.
+in this way,newly-established shoen,namely,kokumen no sho(a shoen allowed exemption from rice tax or other tributes),had been vermicularly spreading within koryo,strangling the tax collection from koryo.
+especially in the 11th century,a number of fire disasters occurred in dairi(the imperial palace),main temples and shrines,and it was difficult to levy extraordinary taxes for their reconstruction.
+therefore,manor regulation acts were frequently ordered to levy taxes(ikkoku heikinyaku[taxes and labor uniformly imposed on shoen and kokugaryo in a province])even on kokumen no sho,which was,after all,nothing more than an accomplished fact.
+these manor regulation acts prohibited establishment of new shoen after the designated base year,while legalizing these extraordinary taxes that were to be imposed on kokumen no sho created prior to the base year.
+before that,shoen were simply agricultural lands scattered in koryo,of which the tax collection rights were exclusively possessed by the high-ranked aristocracy,main temples and shrines.
+however,following these orders,the government took measures to integrate shoen into one domain in an attempt to differentiate between koryo and shoen,facilitating the levy of ikkoku heikinyaku.
+thus,shoen as a governing domain was established,where a shokan(an officer governing shoen dispatched by the senior aristocracy and main temples and shrines)was delegated authority for local administration and tax collection for the nation.
+eventually,the old provincial system,administered by zuryo collectively including shoen,was shifted into a new system,in which the control of land and people was roughly divided into two on the basis of shoen(administered by shokan)and koryo(administered by zuryo).
+koryo under such a system were regarded as kokuga(provincial government offices)areas controlled by zuryo,and were called kokugaryo.
+also,the historian yoshihiko amino advocates a concept of shoen koryo sei(the system of public lands and private estates),focusing on the fact that medieval japanese society consisted of shoen and koryo.
+after the kamakura bakufu(japanese feudal government headed by a shogun)was established,kokugaryo was gradually placed under the control of shugo(provincial constable)and jito(manager and lord of the manor),but still remained in the muromachi period.
+afterwards,it was effectively dismantled by taiko kenchi(the cadastral surveys conducted by hideyoshi).

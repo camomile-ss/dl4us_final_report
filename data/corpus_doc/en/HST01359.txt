@@ -1,0 +1,255 @@
+hansatsu(a han bill)
+a han bill was paper currency issued by each domain for use within their respective territories.
+summary
+the first han bill is said to have been issued by fukui domain in 1661.
+before han bills were issued,private bills were issued in ise province and yamato province.
+the yamada hagaki(issued in 1610),which is said to be the oldest existing bill in japan,was also a private bill.
+at that time,coin-casting technology was not well-developed,so private bills are assumed to have been issued when a large amount of low denomination coins were needed for purposes such as payment of workers on construction projects.
+private bills eventually led to the creation of han bills.
+later,han bills were issued by many domains,mainly territorial lords in saigoku(the western part of japan)where silver coins were commonly circulated.
+the purposes of issuing han bills were to supplement coins in times of shortages and to adjust the amount of coins in circulation within territories.
+such issuance was supposed to be based on a sufficient amount of standard coins retained by the domain,but actually,in most cases,domains tried to collect as many circulating coins as possible in exchange for issued han bills for the purpose of improving their financial situation.
+each domain regulated the circulation of currency independently;some domains forbade the circulation of other currencies,but many domains allowed the circulation of both han bills and the currency issued by the shogunate.
+when domains had difficulty managing han bills,panics,uprisings and destructive urban riots broke out over the exchange of han bills.
+han bills always had the risk of forfeiture whenever domains were broken up.
+the credibility of han bills was also at risk whenever the financial situation of the domain worsened.
+although han bills carried a face value,and were promised to be exchangeable for gold or silver coins,few domains could prepare enough coins to honor that promise.
+early on,domains themselves established hansatsu-kaisho(exchanger of han bills)to issue han bills.
+later,they were issued through wealthy merchants who were prominent in the distribution of han bills.
+there were many territories within the kinai-kingoku area(the shogunate,domains and hatamoto[direct retainers of the shogunate]),so a high percentage of trading was conducted within these domains.
+after the late edo period,trading with tegata(drafts)or han bills was active due to a policy adopted by the shogunate to control the amount of silver coins in circulation,so han bills were sometimes extensively circulated outside the issuing domain,against the expectations of the domains who had issued those han bills.
+if neighboring domains issued han bills,there was a possibility that good currency(coins issued by the shogunate)was exchanged for bad currency(bills issued by neighboring domains which had low credibility),which could affect the economy of the domain.
+to prevent that,the detached territories of small domains,hatamoto and various domains in the kanto region had to issue their own han bills.
+when the meiji government researched the issue status of han bills in 1871,they found that 244 domains(80 percent of all domains),14 magistrate's offices,and 9 hatamoto issued han bills.
+the meiji government issued the order of withdrawing han bills when haihan-chiken(abolition of feudal domains and establishment of prefectures)was introduced in 1871.
+although the government started to withdraw han bills in exchange for coins at the actual rate after issuing the order,they only completed withdrawing in june 1879.
+after haihan-chiken(the abolition of feudal domains and establishment of prefectures),and until the new currency had spread and circulated,the government issued the following:daijokan bills and minbusho bills(bills issued by the government akin to han bills);bills issued by prefectures placed in the old shogunate's territories;bills issued by exchange companies and commerce companies(companies established in the heart of commerce in various places by the government);han bills with a stamp of the ministry of finance showing yen,sen,and ri(units of old currency);and coins with a newly established exchange rate,such as kanei tsuho.
+types of han bills
+han bills were generally woodblock-printed,but some were hand-written with ink.
+sendai tsuho,which was a coin issued by sendai domain in 1784,was also broadly referred to as a han bill.
+in most cases,strong,small and thick japanese paper was used for han bills to make them easy to carry and durable.
+watermarks,colored paper and secret marks were used in some han bills to prevent counterfeiting.
+each domain was very careful in securing paper for han bills to prevent forgery.
+japanese paper made in najio-mura,arima-gun,settsu province(nishinomiya city,hyogo prefecture)was used nationwide because it was made with special soil and fibers taken from the bark of a clove-like bush to prevent it being eaten by bugs.
+han bills were guaranteed as exchangeable,and the kind and amount of commodities to be exchanged were clearly stated on the bills.
+han bills were especially common in the western part of japan where silver coins were also circulated.
+most han bills were ginsatsu(bills exchangeable for silver coins).
+other han bills exchangeable for coins included kinsatsu(exchangeable for gold coins)and zenisatsu(exchangeable for copper coins).
+some han bills were used as a form of azukari-tegata(equivalent to a modern gift certificate)marked for exchange with a commodity,mostly rice,instead of coins.
+in particular cases,there were han bills exchangeable for umbrellas,pottery wheels,threads,dried cuttlefish or dried kelp.
+moreover,some han bills were used as a form of furi-tegata(equivalent to a modern cheque),which were made from small thick japanese paper to be circulated among the general public under the credibility of issuers(domains)or money-exchangers.
+in order to develop monopolization of local products in the domains,there is a case where such products could only be bought with han bills.
+some domains issued exchangeable bills(inmotsusatsu)which their retainers were forced to use in purchasing presents for their colleague retainers,whose face value was very small compared with the price of presents the retainers had customarily bought,for the purpose of making the retainers save money.
+since the government banned the circulation of silver coins in 1868,han bills were only issued with values in gold or copper until 1871,when han bills were eventually taken out of circulation due to the arrival of the new currency system.
+many domains that issued ginsatsu in western japan and their detached territories in eastern japan reissued han bills stamped with the gold or copper value.
+the response from the shogunate
+the shogunate's response regarding han bills changed repeatedly.
+after an investigation of han bills in 1705,the shogunate prohibited their use in 1707 because han bills prevented the circulation of coins issued by the shogunate(the order for the suspension of bills in the hoei era).
+however,the actual reason was that han bills would interrupt the currency reform conducted by the shogunate.
+in 1730,the shogunate again allowed domains to issue han bills with conditions;large domains producing 200,000 koku(approximately 36 million liters of crop yield)and above could issue han bills valid for 25 years,and small domains(less than 200,000 koku)for 15 years.
+it is said that the purpose of this change was to improve the financial affairs of each domain,which were affected by the falling price of rice that resulted from the kyoho reforms(reforms made in the kyoho era of the edo period).
+in 1759,the issuing of new han bills was prohibited.
+later,restrictions were placed on the circulation of han bills,except for ginsatsu.
+despite the shogunate's restrictions,domains with financial difficulties continued to issue han bills without permission.
+the shogunate kept trying to circulate coins,but in 1867,at the end of the edo period,they finally issued three kinds of kinsatsu such as the edo yokohama tsuyo-satsu,the edo and kanhassyu tsuyo-satsu and the hyogokaiko-satsu.
+situations in each domain(tohoku region)
+hirosaki domain
+mitsugi nyui,the kanjo bugyo(commissioner of finance),introduced a hyofu,which was similar to a han bill,in 1756 to rebuild the economy of hirosaki domain in mutsu province,which had been battered by the horeki famine.
+the hyofu was used differently from han bills;it was similar to a bankbook,and business transactions were recorded on it.
+each merchant was only allowed to run one business and was forced to give all his products and savings of rice,gold and silver to the domain first,then later,a hyofu and products were granted to the merchant by the domain.
+merchants conducted all business using the hyofu and could keep 10 percent of the profit,but they had to give the rest to the domain.
+moreover,vassals were given a hyofu with the amount of silver coins depending on their stipends,and merchants wrote business records on it whenever they made a purchase.
+because introducing hyofu was too radical,it was abolished less than two years later and as a result,mitsugi nyui lost his position.
+kubota domain
+from 1753 to 1754,kubota domain of dewa province suffered from famine,so with permission from the shogunate they issued a ginsatsu with the value of one monme(an old currency unit in japan)of silver coins as seventy mon(an old currency unit in japan)of copper coins with permission of the shogunate.
+in the beginning,there were han bills with denominations of ten,five,three,two and one monme.
+later,three and two bu(another old currency unit in japan)bills were also issued.
+although han bills worked well at first,merchants expected the price of rice to go up because of famine,so they concealed rice and refused to trade it for han bills.
+because of the poor harvest the domain also had to buy rice with coins normally reserved for exchanges of han bills.
+amid social unrest,han bills were abolished in 1757.
+some people such as the karo(chief retainer)and the ginsatsu bugyo(commissioner of the ginsatsu)were held accountable for the failure and were sentenced to seppuku(suicide by disembowelment)or chikkyo(being confined to home).
+although the feudal retainers in the middle lower class close to the lord were implicated,there were special favors given to the satake family and old vassals by issuing them more stipends(the satake disturbance).
+sendai domain
+with the shogunate's permission,in december 1784 or january 1785,sendai domain of mutsu province started to issue sendai tsuho for use within the domain in order to improve the financial situation affected by the tenmei famine.
+sendai tsuho was the first provincial coin in the edo period.
+sendai tsuho was made at an isenba(coin-casting mint)in ishinomaki city,which was the financial center of the domain at that time.
+the area where the mint stood in the heart of ishinomaki city still retains the name 'isenba'.
+han bills were also issued as paper currency at the same time.
+issued han bills included jokyo,hoei,tenmei,masuya and ryogaejo bills.
+aizu domain
+aizu domain of mutsu province accepted the opinions of kyuhachiro nagai,the manager,and issued a kinsatsu in 1700 and a zenisatsu in the following year in order to overcome financial difficulties and to help feudal retainers.
+however,people in towns and villages did not accept those bills,so circulation of both the kinsatsu and zenisatsu was suspended before 1703.
+meanwhile,the domain,which had a detached territory in harima province,also issued a ginsatsu guaranteed by the tsuji clan of ozawa-mura,kato-gun,harima province.
+aizu domain also issued coins including the kanei tsuho,the micchusen of tenpo tsuho and the aizu ginban.
+situations in each domain(kanto region)
+okabe domain(hanbara domain)
+okabe domain of musashi province(later hanbara domain of mikawa province)issued a ginsatsu guaranteed by kumashichi kashimaya and hikojuro tennojiya,the money exchangers who had business with osaka dojima goyoba,in the detached territory of settsu province.
+the ginsatsu was mainly circulated in the domain's territories located in teshima-gun,nose-gun,kawabe-gun,and arima-gun in settsu province.
+in 1857,fraud committed by an officer of sakuraidani jinya(a regional government office of a detached land)caused a commotion and demands for drastic financial reform.
+in nearby asada domain,a reform was conducted by takaoki ishida(koemon daikonya),the vassal of nishi hongan-ji temple,and as a result their han bills were managed and circulated properly by peasants.
+consequently,people in okabe domain demanded reform following the example of asada domain.
+as a result,the currency exchangers in osaka stopped supporting the domain's han bills,so their han bills were issued by a kome bugyo(commissioner of rice)of sakuraidani jinya and were circulated as 'ginkokukata' by influential peasants in the territory of teshima-gun until the end of the edo period.
+situations in each domain(chubu region)
+hamamatsu domain
+hamamatsu domain of totomi province issued a ginsatsu in their detached territories of kato-gun and mino-gun located in the eastern part of harima province in roughly 1856.
+the dutch word voordeelig(for mutual profit)was written on the face of the ginsatsu to prevent forgery.
+the face values of silver coins were five monme,one monme,three bu and two bu.
+situations in each domain(kinki region)
+sayama domain
+sayama domain of kawachi province issued a ginsatsu in 1835,and a zenisatsu in 1836.
+the residence of rokuzaemon kotani in ikejiri-mura acted as the currency exchange office for ginsatsu.
+tannan domain
+tannan domain of kawachi province issued a kome-ginsatsu with the price of rice in silver coins(e.g. 'two sho[unit of volume]of rice for one monme in silver coins')in 1821.
+the zenisatsu was also issued at the tannan currency exchange office in the meiji period.
+kishiwada domain
+kishiwada domain of izumi province issued a han bill(ginsatsu)in 1676.
+various guarantors guaranteed the ginsatsu after it was issued.
+this proved that the bills were well circulated within the domain.
+since issuing of han bills was again permitted in 1730,a ginsatsu guaranteed by wealthy merchants located in the territory,such as the meshino family,who were a kaisen donya(wholesaler in port)in izumisano no less famous than gohei zeniya of kaga province,was issued.
+moreover,kishiwada domain had a large amount of debt with the meshino family,so the family had a strong influence over the finances of the domain.
+hakata domain
+hakata domain of izumi province issued a han bill guaranteed by buzaemon kurokawa of kurodori-mura in 1755.
+a ginsatsu guaranteed by kichijiro nakamura and seizaemon oue still remains.
+a zenisatsu was issued in the meiji period.
+asada domain
+asada domain of settsu province issued han bills in march 1677,which was exceptionally early for a small domain of about 10,000 koku.
+this might have been because most of the territories of asada domain were located in toshima-gun(toshimago)and kawabe-gun(takahirago)in settsu province close to osaka,which was the center of finance.
+due to an order from the shogunate,the domain once stopped issuing han bills;later,they again issued the han bill with the permission of the shogunate in july 1753 and continued until after the meiji restoration.
+moreover,asada domain issued han bills in the detached territory of bicchu province.
+amagasaki domain
+amagasaki domain of settsu province had territories in nishinomiya and hyogotsu where business was active,and were also surrounded by osaka and itami allowing the domain to issue han bills early.
+the first recognized han bill issued by amagasaki domain was guaranteed by shoemon aburaya in 1670.
+after the order for the suspension of bills in the hoei era lapsed,the domain issued han bills guaranteed by the townspeople of nishinomiya in 1730.
+amagasaki domain allowed guarantors of ginsatsu to borrow a large amount of money without any interest by mortgaging their houses and fields,so many people applied and there were dozens of guarantors.
+in 1769,villages in nadasuji including nishinomiya and hyogotsu(the essential business areas of amagasaki domain)were confiscated as territories of the shogunate.
+concerns regarding the economy of the domain strongly affected the circulation of han bills.
+because of this,old bills managed by village headmen were collected and unified new bills were issued by new currency exchangers.
+in 1818,han bills could be exchanged by rihe izumiya,zyuroemon hinokuchiya and the amagasaki exchange office.
+after that,han bills were changed repeatedly and guarantors also changed.
+in the early meiji period,the ginsatsu was replaced by the zenisatsu,and in addition the kinsatsu was issued.
+when the new meiji government collected han bills,one ryo(currency unit only used for gold coins)of kinsatsu was exchanged for 1 yen,500 mon of zenisatsu for 4 sen,and 100 mon of zenisatsu for 8 ri.
+moreover,amagasaki domain issued han bills at a kaisho(exchanger)in kamigori-mura,ako-gun and nakayasuta-mura,taka-gun in their detached territory in harima province,which was given by the shogunate in exchange for villages including nishinomiya and hyogotsu in nadamesuji in 1769.
+sanda domain
+in 1700,sanda domain of settsu province issued han bills as early as amagasaki domain and nearby asada domain.
+after the order for the suspension of bills in the hoei era lapsed,in 1740 the domain again issued han bills to ease financial poverty and to increase the amount of currency for economic growth.
+mita-cho,where sanda domain established its jinya,flourished as the center of commerce because it was close to the border between settsu province and harima province(where many territories of the shogunate,small domains,detached areas of domains in kanto region,and hatamoto were located).
+moreover,it was located on an important ground transportation route for rice running from eastern harima province,where good rice for brewing sake was grown,to nishinomiya-cho,muko-gun,settsu province,which was the center of brewing.
+as the sake brewing industry later developed rapidly in the nada area(a coastal area in the western part of settsu province),rice grown in the territory of sanda domain and its surroundings was also used for brewing sake.
+since sanda domain obliged outside merchants to use han bills issued by the domain within their territories,han bills were extensively circulated from the western part of settsu province and the eastern part of harima province.
+influential merchants and peasants both inside and outside of sanda domain guaranteed these han bills.
+however,han bills issued in the main territory of sanda domain,the nada area of settsu province,and the eastern area of harima province had different designs,so bills were not always circulated in an integrated fashion in all areas.
+sanda domain also issued han bills in their territory in hikami-gun,tanba province.
+takatsuki domain
+since the financial foundations of takatsuki domain of settsu province were weak(they also had difficulties monopolizing local products),they floated loans by borrowing money and using tanomoshi-ko(beneficial association)and goyokin(the money the shogunate temporarily charged farmers and merchants)to solve their financial difficulties.
+the domain could not issue han bills actively like other domains until 1868 or 1869.
+in the edo period,only an inmotsusatsu(a kind of ginsatsu)to be used to purchase presents for family members was issued,for the purpose of thrift.
+it was mandatory to use an inmotsusatsu whenever a present was purchased.
+although two percent of the face value was charged as a service fee to issue the inmotsusatsu,it could be exchanged for silver coins for free.
+akashi domain
+the matsudaira clan(tokugawa's relatives and a branch family of the echizen matsudaira family),the feudal lord of akashi domain in harima province of the time,issued han bills in november,1750,a little later than other domains in the kinai-kingoku area.
+at that time,ginsatsu with values of 50 monme,10 monme,3 bu and 2 bu were issued,and these were managed by a gin-kaisho(exchanger for ginsatsu)under the jurisdiction of a kanjo bugyo of the domain.
+during a period from april 1872 to december 1873,during which akashi domain became akashi prefecture and then a part of shikama prefecture as a result of haihan-chiken after the meiji restoration,han bills were exchanged to the new currency.
+a 10 monme bill was exchanged for 3 sen 9 ri,a 1 monme bill for 4 ri,and a 2 bu bill for 1 ri.
+moreover,han bills were issued by a hikikae-kaisho(exchanger)in ohara-mura,in their detached territory of mimasaka province.
+ako domain
+it was well known that yoshio oishi,the chief retainer,collected han bills in exchange for silver coins at a high rate(60 percent of the face values)and controlled social unrest when the genroku ako incident happened.
+ako domain of harima province first issued han bills in 1680.
+the domain prohibited coins and only allowed han bills to be circulated.
+the exchange rate was a big issue.
+the production and monopoly of salt supported ako domain financially.
+since most of the han bills issued under asano rule were collected on this occasion,only a few bills now exist and are traded at a high price.
+the nagai clan and the mori clan,who later entered ako domain,also issued han bills.
+since the nagai clan only ruled the domain for three years,no bills issued by them remain.
+meanwhile,various bills issued by the mori clan still exist because they were issued for a longer time.
+many historical articles state it is certain that people,except for merchants who had business with outsiders,used only han bills within the territory because mountains surrounded the territory of ako domain.
+although many domains only allowed their han bills to be circulated within the territories,few of them could do this as thoroughly as ako domain did.
+anji domain
+anji domain of harima province issued zenimonmesatsu(a kind of zenisatsu)with permission of the shogunate in 1822 under the influence of himeji domain,the large domain nearby,which resumed issuing bills in 1820.
+the face values were 10 monme,5 monme,1 monme,3 bu,and 2 bu.
+ginsatsu with the same values were later issued.
+historical data states that the domain used han bills for the construction of irrigation ponds and for saving villages that suffered from floods.
+as for special han bills,the domain issued goninsokusatsu with face values of one laborer and a half laborer,and ginhousatsuzasatsu exchangeable for large amounts of silver coins(from 20 me[unit of old currency]to 300 me).
+in 1871,when bills were exchanged for the new currency,10 monme of ginsatsu was exchanged for 1 sen,10 monme of zenisatsu for 9 ri,and both 1 monme of ginsatsu and 1 monme of zenisatsu for 1 ri.
+ono domain
+since ono domain of harima province financially suffered from both the fire that burned down houses in edo and an earthquake,a hikikae-kaisho issued four kinds of ginsatsu with the value of five monme,one monme,two bu,and one bu in 1856.
+after the meiji restoration,two kinds of zenisatsu carrying the values of 1 kanmon and 500 mon were also issued.
+ancient japanese characters were written on zenisatsu to prevent forgery.
+in 1871,when bills were exchanged for the new currency,a five monme bill was exchanged for one sen three ri,a one monme bill for three ri,and a two bu bill for two ri.
+tatsuno domain
+the oldest han bill issued by tatsuno domain of harima province in august 1805 still exists.
+in 1818,han bills were guaranteed by moemon and jozaemon,the kakeya(a financial agent of the warehouse),and were also managed by a currency exchanger placed in tate-machi near the castle.
+in august 1856,han bills guaranteed by tawaraya and okawaya,and by handaya and sakaeya were also issued.
+hayashida domain
+in november 1819,hayashida domain of harima province issued han bills(ginsatsu and zenimonmesatsu)almost at the same time as himeji domain,a large domain nearby.
+the face values of the zenimonmesatsu were 10 monme,5 monme,1 monme,5 bu,3 bu,2 bu,and 5 ri of copper coins.
+as the new government prohibited the use of silver coins in 1868,the domain issued kinsatsu with face values in ryo,bu and syu(units of old currency),the same as many domains in saigoku.
+himeji domain
+himeji domain of harima province owned a typical ryokoku(daimyos' own territory)-style land in the core area of the province,having a major influence even on the economy of the surrounding area which was a labyrinthian mixture of the territories of the shogunate,small domains and hatamoto.
+harima plain,owned by himeji domain,was an ideal place to produce cotton,so they earned money by monopolizing cotton.
+the domain opened a kitte-kaisyo(exchanger of kitte[merchandising certificates])in wata-machi near himeji-jo castle in 1820,and ordered a kakeya and a yotashi(merchant who assisted officials)to manage han bills.
+in march of 1821,a wata-machi kokusan-kaisho(domestic exchanger),who managed the monopolization of cotton,was opened,and a kitte-kaisho was later built next to it.
+the kokusan-kaisho issued a momen-tegata(a draft made of cotton)as a han bill.
+the domain bought cotton from producers using momen-tegata and exchanged the cotton for coins outside of the domain,in places such as osaka.
+then,they accepted the momen-tegata owned by the producers and gave coins in exchange.
+the momen-tegata of himeji domain had high credibility because they could steadily secure coins for exchange.
+moreover,the himeji domain issued han bills exchangeable for dried cuttlefish or dried kelp for use as congratulatory or condolence presents for feudal retainers.
+fukumoto domain
+fukumoto domain of harima province was a branch domain of tottori domain.
+fukumoto domain was a hatamoto ranked as a kotaiyoriai(a family status of samurai warriors in the edo period)from the middle of the edo period,until 1868,when it was again established as a domain because their yield reached over 10,000 koku after tottori domain gave them kuramai(rice preserved in a depository by edo shogunate and domains).
+their territories were located in the ichi-kawa river basin in the northern part of jinto-gun and jinsai-gun.
+although the southern part of both jinto-gun and jinsai-gun were owned by himeji domain,the northern part was owned by fukumoto domain and its two branch families which were hatamoto.
+fukumoto-mura,where the jinya was located,and neighboring awaga-mura were the political and economic center of the region.
+the domain issued ginsatsu and zenisatsu(zenimonmesatsu)between 1822(when it was a hatamoto)and 1868(after the domain was established).
+an exchanger for kitte was established in fukumoto-mura.
+mikazuki domain
+the territories of mikazuki domain of harima province were centered around sayo-gun,near mimasaka province.
+the oldest existing han bill of mikazuki domain was a zenisatsu(zenimonmesatsu)handwritten in ink,which was issued in 1817.
+in addition,various kinds of bills,such as the bills circulated at the mine in the territory,jinbadachin azukari-kitte issued by the kanjoba of the mikazuki domain,bills issued by a machi-kaisyo,a seisan-kaisyo and a sanbutsu-kaisho,and those issued by a shohokata and a kinkata in 1868,still exist.
+mikusa domain
+mikusa domain of harima province was a small domain holding 10,000 koku.
+the villages in the domain did not have enough local products,and the lord of the domain was in edo,so the domain was under strong control of the shogunate.
+due to these circumstances,although the domain was located in harima province,where han bills were well circulated,they did not issue han bills until 1857,at the end of the edo period.
+at that time,five monme,one monme,three bu and two bu ginsatsu,and five monme,one monme,three bu,two bu and one bu zenisatsu(also known as zenimonmesatsu)were issued.
+the amount issued totalled 980 kanme(unit of weight).
+after that,han bills were no longer officially printed.
+those bills were circulated until they were withdrawn in 1870.
+since the amount of han bills issued was small and the domain withdrew han bills earlier than other domains,there were no han bills stamped by the ministry of finance with the denominations in yen,sen or ri.
+yamazaki domain
+the territory of yamazaki domain of harima province was located in shiso-gun,in a mountainous area in the northern part of harima province.
+yamazaki domain issued han bills from may 1818.
+the domain continued issuing han bills guaranteed by various guarantors.
+some of those bills had hidden microscopic letters in the designs to prevent forgery,such as 'shisotsuyo' (circulated only in shiso-gun).
+there was an iron mine in the territory,and tetsuyama-kanjoba(cashier's office of the iron mine)also issued han bills.
+situations in each domain(chugoku region)
+bicchu-matsuyama domain
+the ando clan,which was the lord of bicchu-matsuyama domain of bicchu province during the genroku era,issued han bills,and the ishikawa clan,the next lords,continued issuing them afterwards.
+although a five monme and a one monme ginsatsu were issued as soon as the itakura clan entered the domain in 1744,the territory was devastated and the economy became tight because they actually had only 20,000 koku in spite of their 50,000 koku of omote-daka(face value of koku assessed by the shogunate).
+after their reserve fund was all used up in the tenpo era,they issued an additional large number of five monme bills.
+as a result,the value of the han bills dropped greatly and caused the economy to worsen.
+hokoku yamada,who was appointed as the consul,daringly decided to abolish han bills and exchange them for the face value only for a duration of three years.
+as a result,481 kan and 110 monme(8,019 ryo of gold)of the han bills collected and 230 kan and 190 monme(3.836 ryo of gold)of unissued han bills(711 kan and 300 monme[11,855 ryo of gold,one sixth of their fund]in total)were burned in front of feudal retainers and the people of the domain at chikanorigawara beside takahashi-gawa river by the order of hokoku on september 5,1852(old lunar calendar).
+later,hokoku issued han bills called 'eisen' carrying the values of 5 monme,10 monme and 100 monme.
+their reserve fund was also strictly managed so as not to be used fraudulently.
+the credibility of han bills was restored,and the industry of local productions became successful backed by proper investment and loans of the reserve fund.
+as a result,the domain paid off their debts,which were reputed to be as much as 100,000 ryo,in several years,and their han bills gained high credibility above the face values,creating a virtuous cycle.
+bingo-fukuyama domain
+a local book states that katsunari mizuno,who was the lord of bingo-fukuyama domain of bingo province at that time,introduced han bills issued by currency exchangers in the domain in 1630(earlier than common belief)for the purpose of promoting the industry in the domain.
+even if the common belief was correct,there is no proof of that because almost all of the han bills were collected and exchanged for silver coins before the mizuno clan of bingo-fukuyama domain and the mizuno family of yuki domain died out.
+although a piece of paper,which may be a han bill issued at that time,still exists,it is difficult to determine if it is a han bill because of bug bites and damages.
+therefore,the han bill issued by bingo-fukuyama domain in 1730 is the only recognized one.
+situations in each domain(shikoku region)
+tokushima domain
+tokushima domain owned awa province and awaji province,which was ruled by the inada clan(who were the vassals of the domain and also the lords of sumoto-jo castle).
+the ginsatsu and the zenisatsu issued by tokushima domain were circulated in both awa province and awaji province.
+an old ginsatsu with the year of 1680 written on it still exists.
+after the shogunate's suspension of bills finished,han bills were again circulated until the meiji period.
+in 1871,when bills were exchanged for new currency,1 monme and 100 mon bills were exchanged for 8 ri,and 3 bu and 2 bu bills for 2 ri.
+moreover,ginsatsu carrying high values(from 10 monme to 1 kanme of silver coins)were issued at sumoto ginsatsu place.
+situations in each domain(kyushu region)
+akizuki domain
+akizuki domain of chikuzen province was officially approved as independent from the shogunate,but it was established as a branch domain of the fukuoka domain,so those two domains supported each other in military and financial affairs.
+as a result,circulation of han bills was permitted in both territories.
+although akizuki domain issued han bills in 1704,a year after issuance in fukuoka domain,their han bills were withdrawn after only four years due to the order for suspension of bills by the shogunate.
+however,domains resumed issuing han bulls as soon as the shogunate allowed it in 1730.
+after the meiji restoration,bills were exchanged for the new currency;a five monme bill was exchanged for four sen two ri,a one monme bill for eight ri,and a two bu bill for two ri.
+this exchange rate was higher than that in fukuoka domain.

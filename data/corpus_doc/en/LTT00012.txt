@@ -1,0 +1,74 @@
+the tosa diary
+in "the tosa diary," ki no tsurayuki wrote about his thoughts and the events that occurred on his journey from tosa province to kyoto.
+the original manuscript seems to have been called "tosa no niki."
+it is said to have been completed around 935.
+summary
+tsurayuki,who had been the kokushi of tosa province from 930 to 934,wrote about his 55-day journey from tosa to kyoto after he had served out his term,pretending to be a female writer and using hiragana.
+in this time it was common for men to write a diary in chinese characters,and that is why he wrote it pretending to be a woman who served him.
+it includes 57 waka poems,too.
+the contents of the writing are diverse,but he gave particular emphasis to his love for his daughter,who passed away in tosa province.
+it is also considered that in order to write his lament objectively,he didn't write it from the male point of view such as tsurayuki himself or his servant,but from a court lady's view.
+in the history of japanese literature it was probably the first "diary literature," but it was approximate to a travelogue rather than the present diary.
+it had a great influence on the later writing in hiragana and the development of women's literature.
+there is a strong possibility that it had great influences on "kagero diary(the gossamer years)," "izumi shikibu diary," "murasaki shikibu diary," "sarashina nikki(diary)," etc.
+itinerary
+the following are the dates and routes in the work:
+in 934
+december 21:(departure)kokufu to(arrival)otsu
+december 25:(departure)otsu to(arrival)kokufu
+december 26:(departure)kokufu to(arrival)otsu
+december 27:(departure)otsu to(arrival)urado
+december 28:(departure)urado to(arrival)ominato
+in 935
+january 9:(departure)ominato to(arrival)naha
+january 11:(departure)naha to(arrival)murotsu
+january 21:(departure)murotsu to(arrival)
+january 22:(departure)to(arrival)
+january 26:(departure)to(arrival)
+january 29:(departure)to(arrival)tosadomari
+january 30:(departure)tosadomari to(arrival)izumi no nada
+february 5:(departure)izumi no nada to(arrival)miotsukushi
+february 6:(departure)miotsukushi to(arrival)kawajiri
+february 7:(departure)kawajiri to(arrival)
+february 8:(departure)to(arrival)torikai no mimaki
+february 9:(departure)torikai no mimaki to(arrival)udono
+february 11:(departure)udono to(arrival)yamazaki
+february 16:(departure)yamazaki to(arrival)kyo
+variations of manuscript
+the manuscript in tsurayuki's own handwriting has not survived,but it had been preserved in the treasure house in the rengeoin until the end of the fifteenth century,and the following four lines of manuscript,copied by fujiwara no sadaie(1235),fujiwara no tameie(1236),munetsuna matsumoto(1490)and sanetaka sanjonishi(1492),are well known.
+above all,teikabon includes two-page writing(following the model)at the end of the book,and it came to be very important in order to know tsurayuki's diction today,since the original is lost.
+incidentally,sadaie rewrote the entire manuscript except for the part in which he followed the model,depending not on the original use of kana but on the teika kanazukai(the distinction of using kana in the same pronunciation),which he invented,while his son tameie didn't write by following the model but copied the manuscript in the same way of using kana as the original;thus the copy written by tameie is considered to be the best version of the book as a whole.
+kikan ikeda chose the shohon(premised book)among more than 120 versions of the manuscript in order to reconstruct the original work.
+*is placed on the shohon.
+there are also major manuscripts that were not determined to be shohon but are important as part of its lineage.
+manuscript written by teika(book stock of sonkeikaku bunko,maeda ikutokukai)*
+gyobutsubon(emperor's book stock)
+manuscript written by genchin(not extant)
+manuscript written by tameie(the osaka aoyama history and literature museum)
+seikeishookubon(book stock of toenbunko,library of tokai university)*
+manuscript written by mitsuhiro karasumaru(not extant)
+manuscript written by munetsuna(not extant)
+konoekebon*
+hachijonomiyabon(not extant)
+book stock of the shoryo department,imperial household agency*
+manuscript written by sanetaka(not extant)
+sanjonishikebon*
+?
+oshimakebon*
+history of the study
+the oldest would be the appraisal made by sadaie in 1235,when he copied the manuscript.
+sanetaka sanjonishi put punctuation marks and shoten(marks to add kanji to show shisei)when he copied it,and he also collated it.
+around the seventeenth century,when the study of commentary became popular, "oral records of the tosa diary" was written by yuzuru kishimoto in the various shoron,becoming the first example.
+"the tosa diary's experiences abstract," written by bansai kato,doesn't have the year of creation in the book,but it seems to have been written around the same time that "the tosa diary with note" by bokuyu hitomi,which has a postscript dated 1661,and "the tosa diary's abstract" (by kigin kitamura)were completed.
+norinaga motoori said there seemed to be an influence of "the tosa diary with note" on "the tosa diary's abstract," but yuzuru kishimoto pointed out that it was impossible to explain the differences between the venerable classics quoted in both books.
+"the tosa diary with comments," made in may 1627,was nearly the same as "the tosa diary with notes."
+umaki kato wrote "the tosa diary's interpretation," in which the views of both keichu and kamo no mabuchi were included.
+also,akinari ueda added his own view to the mabuchi's theory and published the book.
+moreover,mabuchi's theory was rewritten by nahiko katori and brought out as "the tosa diary overheard" and "the tosa diary verbatim record."
+kishimoto explained the differences between "the tosa diary's interpretation" and "the tosa diary overheard," saying that 'what nahiko wrote is the earlier theory of agatai no okina,and what umaki wrote is the later one.'
+yuzuru kishimoto later published "a study of the tosa diary" (around 1815),picking and choosing some abstracts and checking them very closely,while mitsue fujitani wrote her major work, "study of the tosa diary."
+kageki kagawa also wrote "the tosa diary's new remarks" (in 1823),ascertaining historical evidence in detail.
+these three books are important in the history of the study.
+these studies are not only brilliant achievements in textual criticism and as studies of the versions of the book,but they also take a closer look at the issue of style and motive.
+in the meiji period maedakebon and sanjonishikebon were revealed,and textual criticism was conducted by junichi tachibana and yoshio yamada,etc.
+above all,kikan ikeda wrote "a study on critical dealing with the classics" (1941),concerning himself with the seikeishookubon,which is said to have been copied true to the original manuscript,and brought his study near to completion.

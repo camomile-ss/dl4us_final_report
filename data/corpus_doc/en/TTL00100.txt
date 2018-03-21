@@ -1,0 +1,35 @@
+kageyushi
+kageyushi was a ryoge no kan(official posts outside of the ritsuryo code)under the japanese ritsuryo system(a system of centralized government based on the ritsuryo code).
+it was created during the early heian period for the purpose of inspecting local administration.
+later,the inspections extended to include the naikan(offices locate in kyoto).
+kageyushicho,the office of kageyushi,was located on the north-west side of daijokan(council of state)and to the south of chumusho(ministry of central affairs).
+its japanese name was 'tokuruyoshikangafuruno tsukasa.'
+summary
+under the ritsuryo system,when the term of kokushi(provincial governor)expired,a document called geyujo(discharge certificate)was delivered from a predecessor to a successor as evidence to prove that the handing over of a job was carried out without any problems.
+in the nara period(late eighth century),the post of kokushi became a source for additional gains,such as kugaito(local source of revenue).
+under this situation,there were cases where disputes concerning additional profits would occur between a predecessor and a successor and the handing over of a job was not carried out smoothly.
+the emperor kanmu,who ascended the throne during the end of the eighth century,started to reconstruct slackened local administration in order to extend the imperial power throughout the nation.
+as a result,kageyushi was created as a post to take charge of the inspection and supervision of local administration.
+kageyushi's duty was to inspect geyujo which was brought back by a predecessor.
+by doing so,the government intended to reduce disputes associated with the change of kokushi and improve the quality of kokushi's administration.
+it is believed that kageyushi was created in 797.
+kageyushi was once abolished in 806,and instead kansatsushi,whose duty was to inspect local administration on gokishichido(five provinces and seven circuits)basis,was created.
+however,the inspection job of geyujo was succeeded by the left and right benkankyoku(controllers' office).
+before long,however,kageyushi was recreated in 824 because the number of disputes associated with the change of kokushi was on the increase.
+later,officials of naikan were also obliged to prepare geyujo when they changed,and such geyujo was added to the target of kageyushi's inspection.
+also,when the handing over of a job was not carried out successfully,a predecessor and a successor were obliged to prepare fuyo-geyujo in which the reason thereof and the arguments of both parties were described.
+thus,kageyushi became an important post which was in charge of the inspection and supervision of both central and local administration.
+its duty included dispute settlement when fuyo-geyujo was submitted as well as compiling kotaishiki,a code concerning the change of officials.
+kageyushi's inspection was called kanpan at the time,and its record(kageyushi-kanpanjo)was compiled in "seiji yoryaku" (examples of the politics in the heian period),a reference book for politics.
+one theory asserts that the significance of kageyushi gradually waned in the middle to late heian period because official posts increasingly became 'family business,' in other words,a certain post was exclusively inherited by a member of specific family.
+on the other hand,another theory asserts that as zuryo(the head of provincial governors)was actively appropriating public properties at that time,kageyushi's principal role shifted to the supervision of zuryo.
+it is considered that kageyushi continued to play a role in inspection until the end of the heian period when zuryo was active.
+official posts
+kami(minister)(corresponded to shogoinoge(senior fifth rank,lower grade)):one person,high-ranking officials,such as sangi(councillor)or benkan(controller),were often appointed to this post.
+suke(vice-minister)(corresponded to jugoinoge(junior fifth rank,lower grade):two persons
+jo(secretary)(corresponded to jurokuinoge(junior sixth rank,lower grade)):three persons
+sakan(secretary)(corresponded to jushichiinoge(junior seventh rank,lower grade)):three persons
+shisho(officer)
+shosei(a post managing paper works)
+shisho(使掌,a post doing clerical works)
+shibu(low rank bureaucrats)

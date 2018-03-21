@@ -1,0 +1,75 @@
+handen shuju-no-ho
+"handen shuju-no-ho" (the law of periodic reallocations of rice land)was a legal system related to provision and expropriation of agricultural land(rice land),enforced in ancient japan.
+the system laid down by handen shuju-no-ho was called "handen shuju-sei" (a system of periodic reallocations of rice land)or "handen-sei" (ritsuryo land-allotment system).
+handen shuju-sei was one of the basic systems of the ritsuryo system(a system of centralized government based on the ritsuryo code)in japan,adopted from the late asuka period;when the ritsuryo system was established,through the early heian period.
+based on the family registration system and keicho(the yearly tax registers)in the ancient times,rice land was allotted to nobles and people who had obtained the qualifications for receiving rice land from the government.
+meanwhile,when people died,rice land allotted to the people was confiscated by the government.
+as the allotted rice land was subject to taxation,rice tax was collected from the yield of the rice land.
+it is thought that this system was enforced under the influence of the equal-field system adopted in china in those days.
+start of handen shuju(a regulation of land ownership)
+according to nihonshoki(chronicles of japan),an imperial edict issued on the taika reforms in the new year of 646 mentioned, 'make the family register and keicho,and enact the handen shuju-no-ho for the first time.'
+this was the first appearance of handen shuju-no-ho.
+however,many experts have doubts about the description concerning the imperial edict issued on the taika reforms,so that it is difficult to conclude hastily that handen shuju-no-ho came into effect at this time.
+it is believed that handen shuju-no-ho came into effect either in 670 when the family register was first made,or after the enactment of asuka kiyomihara-ryo(the legal code of the japanese ancient state)in 689.
+handen shuju under the ritsuryo system
+handen shuju-no-ho came into effect on a full scale following the establishment of taiho ritsuryo(taiho code)in 701.
+handen shuju-sei was the most important system forming the basis of the ritsuryo system.
+according to the existing yoro ritsuryo code(code promulgated in the yoro period),the procedure for making application for handen shuju is recognized as follows.
+principle
+first of all,handen shuju was carried out once every six years.
+this is called rokunen-ippan(reallocations of rice land which were carried out once every six years).
+similarly,the family register was made once every six years.
+handen shuju was carried out concurrently with the renewal of the family register.
+based on the family register,rice land was allotted to the people who had newly obtained the qualifications for receiving rice land,while rice land was confiscated from people who had died.
+procedure
+the procedure for handen shuju started from the next year after the family register was made.
+from october 1 through november 1(old calender)of the next year after the family register was made,the government official of the capital or kokufu(provincial office)made account books and revised the state of changes by comparing the newest account books with those of the previous.
+and then,people applied to the daijokan(grand council of state)by next january 30(old calender).
+they received approval by february 30(old calender),thereby handen shuju was carried out.
+object
+in the ritsuryo system,kubunden(rice fields given to each farmer in the ritsuryo system),iden(fields given according to the court rank),shikibunden(rice fields given according to the position of government officials),kuden(rice fields given to those who did meritorious deeds for the state)and shiden(rice fields especially given by the emperor)were rice land subject to handen shuju.
+only jiden(rice fields owned by temples)and shinden(rice fields owned by shrines)were excluded.
+size of the allotted land
+kubunden
+male citizens:20 a
+female citizens:about 13.3 a(two thirds of the rice land allotted to the male citizens)
+kanko(slaves to public ministries)and kunuhi(government-owned slave):same as male and female citizens each(male-20 a,female-about 13.3 a)
+kenin(retainers)and shinuhi(privately-owned slave):one third of the rice land allotted to the male and female citizens each(male-about 6.7 a,female-about 4.4 a)
+iden
+shoichii(senior first rank):80 ha
+juichii(junior first rank):74 ha
+shonii(senior second rank):60 ha
+junii(junior second rank):54 ha
+shosanmi(senior third rank):40 ha
+jusanmi(junior third rank):34 ha
+shoshii(senior fourth rank):24 ha
+jushii(junior fourth rank):20 ha
+shogoi(senior fifth rank):12 ha
+jugoi(junior fifth rank):8 ha
+shikibunden
+daijo-daijin(grand minister of state):40 ha
+sadaijin and udaijin(the minister of the left and the minister of the right):30 ha
+dainagon(chief councilor of state):20 ha
+dazai no sochi(the chief of dazai-fu[local government office in kyushu region]):20 ha
+dazai no daini(senior assistant governor general of the dazai-fu):6 ha
+dazai no shoni(junior assistant governor general of the dazai-fu):4 ha
+for other lower posts from daikan(inspector[third highest of the four administrative ranks of the ritsuryo period]in dazai-fu to shisho[a person doing miscellaneous duties about documents],one to two ha rice land was allotted each.
+daikoku no kami(superior provincial governors):2.6 ha
+chukoku no kami(middle provincial governors)and daikoku no suke(superior assistant governors):2.2 ha
+chukoku no kami and jokoku no suke(senior assistant governors):2 ha
+gekoku no suke(junior assistant governors)and daikoku and jokoku no jo(superior and senior provincial officials):1.6 ha
+chukoku no jo(middle provincial officials)and daikoku and jokoku no sakan(superior and senior provincial assistant officials):1.2 ha
+chukoku and gekoku no sakan(middle and junior provincial assistant officials)and shisho:1 ha
+dairyo(directors of gunji):6 ha
+shoryo(assistant directors of gunji[district managers]):4 ha
+shusei(third-ranked officials of gunji)and shucho(a position in charge of drafting and accepting documents):2 ha
+kuden and shiden
+there was no standard for the size of the allotted land in kuden and shiden.
+decline and end
+handen shuju was gradually relaxed in the late nara period due to an increasing number of peasant wandering around or escaping,and the existence of shoen(manor in medieval japan)accepted those peasants.
+therefore,the emperor kanmu strove to maintain the handen shuju by adopting a system of juninen-ippan(reallocations of rice land which were carried out once every 12 year)instead of rokunen-ippan.
+however,due to the deficiency of rice fields,the complexity of the procedure for handen shuju,the increase of false registers and so on,handen shuju was abandoned in the early heian period.
+handen shuju carried out in 902 under the instruction of the emperor daigo was the last handen shuju in effect.
+following the equal-field system in the tang dynasty,the japanese government introduced handen shuju.
+however,the model country,tang dynasty introduced ryozei-ho(taxation law in enforcement in china until the ming dynasty)in 780 instead of the equal-field system that had already collapsed.
+therefore,it must have been difficult for japan at that time to introduce such a system.

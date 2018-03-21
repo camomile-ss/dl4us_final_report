@@ -1,0 +1,27 @@
+kenchi
+the term "kenchi" refers to the surveys of field size and size of yield(harvest)conducted during medieval and early modern japan.
+kenchi are equivalent to today's kazei daicho seibi(maintenance of tax registers).
+summary
+(note:the character "ken" from kenchi was usually written with the tree radical but was also sometimes written with the person radical.)
+under ancient japan's ritsuryo system,all the agricultural land in the entire country was officially owned by the state.
+but starting in the heian period,the system of complete state ownership of all land(and subjects)crumbled,and the state began to recognize as legitimate the existence of private estates,which were called "shoen."
+as a result,all over japan jurisdiction over land was split roughly in half,with half remaining under control of the various provincial governments as "kokugaryo" (public territories)and half becoming shoen(private estates).
+the provincial governments created registers called "ota bumi" (cadastral surveys)for all the kokugaryo,thereby getting a sense of the total agricultural land area and total yield,and so these ota bumi became the basis of the system of taxation.
+but for shoen,the state was unable to carry out such tax-related land surveys,or indeed to assess taxes at all.
+this system continued essentially unchanged through the kamakura and muromachi periods.
+in the tumultuous years of the muromachi period and the sengoku period(period of warring states)(japan),there was a tremendous increase in agricultural production,but because all japan had become a jigsaw puzzle made up of nodes of local authority who went through an endless cycle of prosperity and decline,and because the period also saw many feudal lords begin to declare their independence,it became extremely difficult to keep track of the true total agricultural productivity even on the land within one's own jurisdiction.
+but eventually there arose the sengoku daimyo(japanese territorial lord in the sengoku period),who by weathering countless wars and riots were able to establish their total authority over all the land within their domains,thereby rendering the system of public and private estates obsolete.
+some such daimyo began to conduct land surveys,which provided the data they needed in order to set up systems of taxation within their own domains.
+these land surveys were called "kenchi."
+but the majority of sengoku daimyo were unable to conduct full land surveys of their entire territory.
+most concentrated only on carrying out surveys of newly seized territory.
+this was because resistance among their chief retainers or the most powerful local families was strongly against any land surveys of their own(long-held)land holdings.
+nobunaga oda,who had such a meteoric rise to power,conducted a land survey of his entire territory,making an effort to maintain both a high agricultural production and accurate tax ledgers.
+after nobunaga died,his successor,hideyoshi toyotomi,carried out the first nation-wide land survey(which is called the "taiko kenchi" because one of hideyoshi's official titles was "taiko").
+yet in most cases it was not hideyoshi's own retainers who were personally conducting the survey,but rather was simply a system of personal reports by the various daimyo of the results of their own individual surveys.
+nevertheless,it was this survey that forced the entire nation to accept the kokudaka-sei(the system of taxing the feudal domains based on the number of koku of rice they were(supposedly)able to produce).
+another aspect of this taiko kenchi that is particularly ground-breaking is that it surveyed the cultivators,not the landlords,and so began the system of assessing taxes directly on the individual cultivators.
+as a result,the legitimacy of the positions of a great many medieval-period middleman tax collectors and the like were repudiated,since now cultivators were paying taxes directly to their local lords;at the agricultural village level,hideyoshi's survey had eliminated nearly all the extortionist middleman warriors who lived off others' effort in one clean sweep.
+in the edo period,which followed on the heels of hideyoshi's time,land surveys were occasionally conducted,either to take advantage of advances in agricultural techniques or the opening of new rice paddies,or because the bakufu(japanese feudal government headed by a shogun)or the domain conducting the survey had fallen into difficult financial straits.
+since such surveys had a strong tendency to increase the tax burden on farmers,occasionally farmers would riot in an attempt to prevent the surveys from being completed.
+the meiji government eliminated the old tax system,which taxed the overall agricultural production,and introduced a new nationwide land tax(based on the total amount--not the productivity--of land owned),and with this,kenchi,with their focus on yield,were no longer conducted.

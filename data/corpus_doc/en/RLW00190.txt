@@ -1,0 +1,59 @@
+limited express maizuru(train)
+"maizuru" is a limited express train operated by the west japan railway company(jr west)between kyoto station and higashi-maizuru station via the sanin main line and maizuru line.
+its symbol color is orange.
+the color is derived from a complex of red-brick warehouses in maizuru city.
+summary
+this fleet was introduced following the electrification and renewed operation of the maizuru line in october,1999,and its predecessor was a direct train bound for higashi-maizuru station that proceeded from the kyoto area on the sanin main line,which was set up when the express 'kinosaki(train)' increased the frequency of service with the timetable revision of october 1972.
+subsequently,in 1985 the limited express 'kinosaki(train)' began operating up to higashi-maizuru station.
+however,in march 1996,when the section between sonobe station and ayabe station on the sanin main line was electrified and the entire line between kyoto station and kinosakionsen station was also electrified,the operation of the limited express 'asashio' and express 'tango' was discontinued and the direct trains bound for higashi-maizuru station were totally suspended.
+consequently,the discontinued service of the direct train to maizuru city seriously hampered the convenience of the area,because the city wasn't just the center of the northern kinki region but also had maizuru port,a water gateway on the sea of japan side having an international container shipping route.
+in october 1999,the earnestly desired electrification of the maizuru line was completed and the fleet of this type of train was introduced with three round-trip services daily.
+later,that convenience was enhanced with the addition of 2.5 round-trip operations,and nowadays the train provides 5.5 round-trip services a day.
+additionally,since the obama line was electrified and opened in 2003,when there are many passengers such as during the tourist seasons and on holidays,the train is operated up to obama station running on the obama line.
+concurrently, 'kyoto discount round trip ticket,' which permits unlimited use for travel between wakasa-hongo/wakasa-takahama and kyoto city by using the non-reserved seats of ordinary cars of limited express trains,including this service(6,000 yen).
+competition with other means of transportation
+because maizuru city has the aspect of an administrative center with various public and government offices,most of which are related to maritime affairs,the train is frequently used for business travel.
+in that sense, 'maizuru' also faces severe competition.
+generally,concerning the transportation to the kyoto area,the train maintains an advantage because kyoto longitudinal expressway hasn't yet been fully opened to traffic,and the bus service that kyoto kotsu(maizuru)provides between maizuru and kyoto is limited to four round trips a day.
+however,the situation doesn't allow optimism because,in 2014,the whole section of the kyoto longitudinal expressway is scheduled to be opened up.
+for transportation to osaka and kobe,kyoto kotsu bus enjoys a more competitive position because the maizuru wakasa expressway has already opened up the entire section between maizuru and kobe.
+additionally,for a while jr west also provided two round-trip services a day with higher-category trains between osaka and maizuru;however,when this jr service was discontinued following the electrification of the sanin main line and maizuru line,kyoto kotsu bus in turn set up two new routes--between osaka and fukuchiyama/maizuru/miyazu,and between kobe and fukuchiyama/maizuru--in addition to the conventional route between maizuru and osaka umeda(two round trips daily).
+at the outset these were express bus routes with three round trips each,but they've subsequently enhanced their services to five round trips in the case of the osaka namba route,six round trips in the kobe sannomiya route,and a total of 13 round trips including the osaka umeda route,with a plan for further increased frequency;thus they're consolidating their strong position.
+the jr side also tries to compete by improving connections and introducing discount tickets,etc.,but to date no visible result has been achieved.
+the operating arrangement
+number of trains
+kyoto station-higashi-maizuru station:five inbound trains and six outbound trains
+of these,one round trip is sometimes extended up to obama station when there are many passengers.
+maximum speed
+kyoto station-ayabe station:120 km/h
+ayabe station-higashi-maizuru station:95 km/h
+higashi-maizuru station-obama station:85 km/h
+rolling stock used
+jnr/jr limited express series 183
+all the train sets of 'maizuru' are operated between kyoto station and ayabe station,being coupled with a limited-express train set starting and terminating at the fukuchiyama area,such as 'tanba';at ayabe station they are decoupled into a four-car train set for fukuchiyama and a three-car train set for kyoto.
+therefore,all the train sets of 'maizuru' are operated using only three ordinary cars.
+on special occasions such as the obon festival,this train provides auxiliary service in place of the limited express 'tango discovery,' which has a limited transportation capacity,and runs up to higashi-maizuru station with a full-scale train set of seven cars.
+train set
+green framed＝first-class car("green car")white framed＝ordinary car自＝non-reserved seat指＝reserved seat*whole train set nonsmoking
+a＝kinosaki/b＝tanba/c＝hashidate/d＝maizuru
+maizuru no.4 and no.10 are made up of a+d.
+maizuru no.3 and no.9 are made up of c+d.
+other trains of maizuru are made up of b+d.
+if two of these train sets--all outbound trains of maizuru,tanba nos.1,3,5 and 7,and hashidate nos.3 and 7--are coupled,the passengers can pass through from one train set to another(passing through cars 4 and 5),but since the trains are decoupled at ayabe station the passengers aren't allowed to go through the cars if station arrival is less than 15 minutes away(if the train goes nonstop at wachi station,it seems that decoupling is carried out shortly after this station is passed).
+stops
+-wakasa-hongo station-obama station>
+legend
+stations in parentheses():some of the trains stop.
+stations in parentheses[]:trains in special extensions are operated.
+stations in parentheses<>:some of the trains stop when their operations are extended.
+train numbers
+trains are numbered as 304xm(x is each train's ordinal number("go-su")).
+history
+october 2,1999: 'maizuru' began operating with three round trips a day between kyoto station and higashi-maizuru station.
+march 15,2003:with the electrification of the obama line,the train extended its operation using the track on the obama line,although its status was that of a special train.
+october 1,2003:the train's frequency of operation was increased by adding 1.5 round trips.
+the coupling of train sets with the limited express 'tanba(train)' began.
+march 13,2004:another round-trip service was added.
+operations were enhanced with the coupling of train sets.
+the coupling of train sets with the 'hashidate(train)' train also began.
+march 18,2007:the total prohibition of smoking was introduced.

@@ -1,0 +1,44 @@
+a list of kabuki ie no gei(specialty pieces of kabuki schools)
+kabuki ie no gei is a program list that is especially selected by the influential members of kabuki actors as the specialty pieces of their kabuki schools.
+kabuki juhachiban
+kabuki school:naritaya,danjuro ichikawa
+compiler:danjuro ichikawa(the seventh)
+shin kabuki juhachiban
+kabuki school:naritaya,the head family of ichikawa
+compiler:ebizo ichikawa the fifth,danjuro ichikawa(the ninth)
+kyoka gikyokujisshu
+kabuki school:takashimaya(kabuki),sadanji ichikawa
+compiler:sadanji ichikawa(the second)
+eno jisshu
+kabuki school:omodakaya,ennosuke ichikawa
+compiler:ennosuke ichikawa(the third)
+omodaka jisshu
+kabuki school:omodakaya,ennosuke ichikawa family
+compiler:ennosuke ichikawa,the third
+ennosuke juhachiban
+kabuki school:omodakaya,ennosuke ichikawa family
+compiler:ennosuke ichikawa,the third
+kakoshu
+kabuki school:tachibanaya,uzaemon ichimura
+compiler:uzaemon ichimura(the 15th)
+shinko engeki jisshu
+kabuki school:otowaya,kikugoro onoue
+compiler:kikugoro onoue(the fifth),kikugoro onoue(the sixth)
+kataoka junishu
+kabuki school:matsushimaya,nizaemon kataoka
+compiler:nizaemon kataoka(the11th)
+koga jisshu
+kabuki school:kinokuniya(kabuki),sojuro sawamura
+compiler:sojuro sawamura(the seventh)
+yodogimi shu
+kabuki school:narikomaya,utaemon nakamura
+compiler:utaemon nakamura(the fifth)
+ganjiro junikyoku
+kabuki school:narikomaya,ganjiro nakamura
+compiler:ganjiro nakamura(the first)
+shuzan jisshu
+kabuki school:harimaya(kabuki),kichiemon nakamura
+compiler:kichiemon nakamura(the first)
+kogeki hasshu
+kabuki school:mikawaya(kabuki),danzo ichikawa
+compiler:danzo ichikawa(the sixth)

@@ -1,0 +1,84 @@
+kyoto municipal subway,karasuma line
+karasuma line is a part of the kyoto municipal subway in kyoto city,kyoto,running from kokusaikaikan station(sakyo-ward)to takeda station(fushimi-ward).
+it was the first municipal subway line to be constructed in kyoto city.
+the section between kitaoji station and jujo station passes under karasuma street.
+route data
+length:13.7km
+rail gauge:1435mm
+number of stations:15(including the first and the last stations)
+double track sections:all
+electrified sections:all(dc 1500v,overhead line system)
+block system:signals set inside trains(with automatic train control(atc))
+maximum speed:75km/h
+all trains are 6 cars long now,but there are some stations long enough for trains with more than 6 cars.
+features
+there are many colleges along this line,so many students use it.
+some of the main universities/colleges,starting from the first station,are:
+kyoto seika university(catch a shuttle bus from kokusaikaikan.
+many people,however,use kyoto seikadai-mae station,kurama line,eizan electric railway);
+kyoto institute of technology(matsugasaki station,people often use shugakuin station,eizan electric railway as well);
+kyoto prefectural university and kyoto notre dame university(kitayama station);
+kyoto sangyo university(catching a bus from kokusaikaikan station,kitayama station and kitaoji station is the usual way there);
+otani university(kitaoji station);
+doshisha university(imadegawa campus,imadegawa station);
+heian jogakuin university(kyoto campus,marutamachi station);
+bukkyo university(murasakino campus,catch a bus from kitaoji station to go to murasakino campus-shijo extension center,shijo station);
+ryukoku university(fukakusa campus:kuinabashi station(keihan main line fukakusa station is closer),omiya campus:kyoto station);
+etc.
+many tourists visiting kyoto use this line too,but major sightseeing spots along it are very few,like kyoto imperial palace(imadegawa station,marutamachi station),and main streets(karasuma oike station),etc.
+so they usually change over to the kyoto municipal subway tozai line or take local buses such as kyoto city bus,kyoto bus,etc from each subway station.
+operation
+in addition to a service going up and down the line,there is a direct extended service from takeda station to kintetsu kyoto line.
+in the daytime,they have eight trains an hour,every 7.5 minutes(four trains going up and down the line,two local trains bound for shin-tanabe station and two express trains bound for kintetsu-nara station)to match their schedule with the kintetsu kyoto line's.
+the train is crowded between kyoto and karasuma,but gets quieter the closer it gets to either end of the line.
+people use this line more in the daytime on the weekends rather than on the weekdays.
+trains going up and down the line
+they have trains going up and down from one end of the line to the other four times an hour during the day.
+the platform guideboards in the stations and the destination signs on the trains say simply "kokusaikaikan" or "takeda."
+local trains going all the way to shin-tanabe
+they have two trains in an hour(every 30 minutes),which arrive at and depart from kintetsu-kyoto line shin-tanabe station in the daytime.
+the destination signs on the trains say "local/shin-tanabe" and "local/kokusaikaikan," and remain that way even within the karasuma line.
+they have only one train bound for kokusaikaikan station from kintetsu miyazu station in the early morning(there is no train bound for kintetsu miyazu station).
+because express trains don't stop at kodo station,which is near the doshisha university kyotanabe campus,and because the intervals between local trains stopping at kodo station vary from 7.5 minutes to 22.5 minutes due to their turning back at shin-tanabe,some people have requested local trains going through to shin-tanabe station up to kintetsu miyazu station(refer to the article on "kodo station".)
+express trains going straight through to kintetsu-nara line kintetsu nara station
+they have two express trains(though they stop at every station in the karasuma line)in an hour(every 30 minutes),which arrive at and depart from kintetsu-nara station in the daytime(and in the morning on weekdays).
+the destination signs on the trains say "express/nara" and "express/kokusaikaikan," but the latter turns to "kokusaikaikan" at takeda station(though some trains do not make the change).
+train models
+trains belonging to the karasuma line
+kyoto city 10 series emu
+note:within the kintetsu-line,they run only between takeda station and shin-tanabe or kintetsu-nara station,going straight through the subway line.
+there is no operation by kintetsu-line alone.
+the destination signs on the trains within the karasuma line,other than "kokusaikaikan" and "takeda," are "kyoto" (for some kintetsu trains bound for kintetsu-kyoto station), "kitaoji" and "kitayama" (which used to be the end of the line),and "karasuma oike".
+the "karasuma oike" signs are not normally used,although they were used on may 23 2005,when smoke appeared inside kyoto station(the names of the stations with emergency crossovers are included in most of the subway cars' destination signs).
+trains with extended service
+kintetsu corporation
+kintetsu 3200 series emu
+kintetsu 3220 series emu
+note:both cars also run on the kintetsu kyoto and kintetsu kashihara lines(only as an express train,mainly arriving at and departing from kintetsu-kyoto station),at the kintetsu tenri line(only as an express train,very few trains)and the kintetsu nara line(mainly as local,suburban semi-express,semi-express and rapid express).
+some trains run only within the kintetsu line or only within the karasuma line all day long.
+at kyoto station,the karasuma line and the kintetsu line both use each other's platforms.
+in addition to the same destination signs as the kyoto municipal subway,they also have destination signs used only for the kintetsu-line such as "kyoto station", "tenri station", "kashiharajingu-mae station", "kintetsu-nanba station", "higashi-hanazono station", "higashi-ikoma station", "yamato-saidaiji station" and "kintetsu-nara station(local,suburban semi-express,semi-express and rapid express)",etc.
+history
+on may 29,1981,service began on the section between kitaoji station and kyoto station.
+service began on the section from kyoto to takeda station on june 11,1988.
+on august 28,1988,the karasuma line and the kintetsu-kyoto line started running on each other's tracks.
+to shin-tanabe station.
+on october 24,1990,service began on the section between kitayama and kitaoji station.
+on may 22, "oike station" was renamed "karasuma oike" for the coming kyoto municipal subway tozai line's opening.
+the section between kitaoji station and kyoto station opened on june 3,1997.
+express trains started running directly between kokusaikaikan station and kintetsu nara station on march 15,2008.
+extension plan
+aburanokoji street has been designated a "high congestion area" (urban development project),and there is a plan to have the karasuma line diverge from the kintetsu-kyoto line and extend 4.4km from takeda station to near yokooji.
+the route will be between keihan main line's chushojima station and yodo station,passing under otesuji.
+on october 8,2004,the council for kinki regional transport(an advisory body to the ministry of land,infrastructure,transport and tourism)announced a plan to extend the subway south of takeda station for a better railway network from the mid-long term perspective.
+it is said that the plan had advanced to the point of getting the license for extending the line to misu,but brewers in fushimi revolted against it,saying "subway extension will stop the flow of the clear groundwater(fushimi),indispensable for brewing japanese sake" (when nara electric railway was planning to construct the existing kintetsu-kyoto line in the immediate area of fushimi as a subway line,they waged similar opposition campaign and had it changed to an elevated railway).
+in the end,that extension plan was arranged so that karasuma line would go through shin-tanabe station to meet kintetsu-kyoto line,but later on some trains started running straight to kintetsu-nara station.
+there is another plan to extend the karasuma line south of the yodo river up to rakunan-shintoshi(planned development south of the uji river),and matsuiyamate station.
+there was also a plan to extend the north end of the karasuma line up to the iwakura area,but there is very little chance of it being realized.
+there are some concerns that users of eizan electric railway might decrease if such a plan were carried out.
+stations
+local,express:they stop at every station within the karasuma line.
+as for the stations between takeda and shin-tanabe or kintetsu-nara station,see "kintetsu-kyoto line"
+1.it includes the number of passengers getting on and off the tozai line and excludes the number of passengers changing trains from karasuma line to tozai line or vice versa(i.e.it is the number of passengers who pass the gate at karasuma oike station).
+2.this includes the passengers using the train going through kintetsu-kyoto line.
+3.the actual junction for the kosei line is yamashina station on the tokaido main line(biwako line),but kyoto station is the arrival and departure station for all trains and the practical starting point,so we put it in this chart.

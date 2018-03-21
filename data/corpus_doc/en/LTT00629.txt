@@ -1,0 +1,145 @@
+komonjo
+in the study of history,komonjo(literally,old documents)refers to methods created to communicate one's intentions to a specific addressee.
+in short,it means things created to convey one's intentions to some specific addressee.
+summary
+therefore,when following to the definition above,compilations such as history books,personal records such as diaries and notes,and works of authorship such as books are not included in komonjo.
+however,these materials are called 'kokiroku' (literally,old records)and they are certainly important historical materials as well.
+on the other hand,materials such as e-mail and video letters to individuals are,as historical sources for studying history,included in komonjo.
+the word komonjo is a term mainly used in the field of japanese history.
+in the case of history for regions outside of japan,komonjo and kokiroku are usually lumped together and called monjo shiryo(documentary historical sources)or monjo,for short.
+most of the komonjo that have survived up to now are documents related to people's rights,claims,and titles.
+it was not because only documents related to people's rights,claims,and titles were issued in those days,but because only such documents were kept in a safe place and others were disposed of.
+it is the same today for people to keep important documents such as bonds and deeds in a drawer or a safe,while disposing of less important documents after they have fulfilled their roles.
+there are two cases of how komonjo survive:when an original document from the time('shomon' [正文])has been passed down in the addressee's family,and when a draft('soan' [草案]or 'dodai' [土代])has survived in the author's family as a duplicate.
+in addition,duplicates are made from shomon in the following cases:when the imperial court and bakufu send the same command to several regions;when documents received by ancestors are copied and distributed to a new branch family upon separation,or when producing documentary evidence during a lawsuit.
+these copies are called 'anbun' (案文).
+in addition,some documents were never disposed of and survived accidentally in other forms:by being copied down in manuscripts or when the reverse sides of documents which had already been fulfilled were reused to draft new ones.
+these kinds of documents are called 'shihai monjo' (紙背文書,old documents written on the reverse sides of others).
+paleography
+paleography is a category within history that studies komonjo,and is regarded as a field concerned with historical materials.
+the main object of its study is to categorize komonjo by style.
+in many cases,history departments in university humanities faculties have special courses and lectures for this in their curriculum.
+for most students majoring in japanese history,learning paleography is compulsory.
+in many classes,students receive instruction in basic knowledge such as the styles of komonjo and practice reading the actual documents.
+paleography existed even in pre-modern society,but its purpose was to judge whether documents produced as evidence in lawsuits and on other occasions were genuine or spurious.
+also,some experts on ancient rites and practices studied komonjo for the study of decorum and established shosatsurei(書札礼,epistolary etiquette).
+it was during the meiji period that scholars started studying this field as 'paleography' in the academic world.
+under the influence of western methods for studying history,it developed with scholars such as kunitake kume,星恆and katsumi kuroita as central figures.
+styles of komonjo
+there are various kinds of komonjo depending on when a document was written and who addressed it to whom.
+it was in the taiho-ryo(taiho administrative code)from the taiho ritsuryo(taiho code),which was established in 701,that the formal style of documents in japan was set.
+afterwards,it is said to have been modified by the yoro-ryo(yoro code).
+from the period of the ritsuryo codes to the period of regency,and government by cloistered emperors,these documents were used as official documents and were called kushikiyo-monjo(documents prescribed in the kushiki-ryo[law on state documentary forms in the yoro code]).
+however,simplified documents gradually became mainstream.
+in general,these simplified documents were called kugeyo-monjo(公家様文書,the style of documents used by aristocratic officials).
+after the kamakura bakufu(japanese feudal government headed by a shogun)was established,people of the warrior class began to find it necessary to issue various documents as well.
+they invented various kinds of documents on the basis of the kugeyo-monjo,and these are called bukeyo-monjo(武家様文書,the style of documents used by people of the warrior class).
+this classification of komonjo appeared in katsumi kuroita's thesis in 1903, 'nihon komonjo yoshiki ron' (literally, 'a study on the styles of old documents in japan'),although the publication itself was in 1940.
+then,after world war ii,the theory in shinichi sato's "komonjo gaku nyumon" ("introduction to paleography," 1971)became the standard interpretation.
+the category mentioned above covers documents issued by superiors to their subordinates.
+documents presented by subordinates to their superiors are categorized as joshin-monjo("a report to a superior," 上申文書)no matter when they were issued.
+kushikiyo-monjo
+shosho(詔書)
+documents issued when passing the imperial orders of an emperor on to his subordinates.
+they were issued at times of extraordinary grave concern.
+issued by nakatsukasasho(ministry of central affairs).
+chokushi(勅旨)or chokusho(勅書)
+documents issued when passing the imperial orders of an emperor on to his subordinates.
+they were issued on less serious occasions than the shosho.
+issued by nakatsukasasho.
+fu(符)
+documents issued by superior offices and passed on to their direct subordinate offices.
+i(移)
+documents exchanged between offices of roughly equivalent rank.
+cho(牒)
+documents exchanged between offices when the order of precedence among them is not clear.
+later it became the style of documents issued by ryoge no kan(posts outside the original ritsuryo code created by imperial edicts)such as kurododokoro(the chamberlain's office),kebiishicho(office of the police and judicial chief),and kirokujo(land record office).
+ge(解)(公文書)
+petitions presented by subordinate offices to their superiors.
+later,it also referred to documents issued even between individuals,when from a person of humble status to a more well-placed person.
+kugeyo-monjo
+senji(宣旨)
+documents of imperial commands,for which the procedures were simpler than those for shosho and chokusho.
+documents officially issued before they were reported to the nakatsukasasho(ministry of central affairs).
+kansenji(官宣旨)
+documents of imperial commands that benkan(officials of the controllers' office)signed and issued.
+they were simpler than senji.
+chosen(庁宣)
+from the mid-heian period on,yonin(remote appointments)were constantly made by kokushi(provincial governors).
+kokushi(provincial governors)ruled their assigned provinces through vicegerents they had dispatched.
+orders from the central government were conveyed to these provincial governors.
+chosen refers to documents issued by provincial governors remaining in the capital and passed on to their assigned provinces.
+rinji(綸旨)
+documents issued by benkan(officials of the controllers' office)and kurodo(officials of the chamberlain)in accordance with the will of an emperor.
+although the contents were imperial orders,as a matter of form,they were documents issued by benkan and kurodo.
+in the same way,documents issued by the trusted vassals of in(retired emperors and cloistered emperors)according to the will of a retired emperor are called inzen(院宣),documents issued by the trusted vassals of imperial princes,imperial princesses and nyoin(woman bestowed with the title "in")are called ryoji(令旨),and documents issued by the trusted vassals of court nobles who are ranked as sanmi(third rank)or higher are called migyosho(御教書).
+bukeyo-monjo
+kudashibumi(下文)
+the most prestigious documents issued by the seii taishogun(literally, "great general who subdues the barbarians")or mandokoro(administrative board)for the shogunal family.
+many of them are certificates of shoryo ando(acts providing authorization for land ownership and guaranteeing feudal tenure).
+gechijo(下知状)
+a style that blends kudashibumi and migyosho.
+often seen in written verdicts.
+migyosho(御教書)and hosho(奉書)
+documents issued by a shogun to convey general political messages and other things.
+documents with the same form as migyosho and issued by offices of the bakufu such as the mandokoro(administrative board)and the monchujo(board of inquiry)were called hosho.
+both originated from the migyosho in the kugeyo-monjo,and the senders were trusted vassals and chiefs.
+jikijo(直状)
+documents directly issued by their authors.
+the authors sign their names.
+inbanjo(印判状)
+documents with a seal on them instead of a kao(written seal mark).
+it is formally the same as a jikijo,but less prestigious.
+joshin-monjo
+gejo(解状)and sochinjo(訴陳状)
+gejo,which were originally exchanged only between public offices,came to be used between individuals.
+documents used when subordinates reported their opinions to their superiors.
+funshitsujo(紛失状)
+mainly for deeds related to lands;when a deed was lost,a person wrote down the source of his or her right,and petitioned his or her superior about it.
+if the right was recognized,the superior wrote that he or she certified the petitioner's entitlement in the margin of the report and the document was returned to the petitioner.
+they are called funshitsujo.
+ukebumi(請文)and uketorijo(請取状)
+documents that promise to give things such as rights,money and something valuable to someone in the future.
+later,changing in meaning,it became a document reporting that a subordinate had received a command from his superior.
+in documents used by people of the warrior class,they usually represent the second meaning.
+kishomon(起請文)
+a written oath.
+chakutojo(着到状)
+documents that were submitted in response to calls for the dispatch of troops when the submitter took part in a campaign.
+the commander who received it certified the contents by signing the document,and wrote down the submitter's name in the 'chakuto-cho' (arrival register).
+gunchujo(軍忠状)
+documents where a person listed his distinguished military service in battle and submitted it to his commander.
+the commander who received it certified the contents by his signature.
+bonds and deeds
+yuzurijo(譲状)
+documents written about what to transfer when transferring one's estate.
+baiken(売権)
+documents issued wherein a vendor recognized that the vendor and vendee had dealt in the vendor's property,and that the title had been transferred to the vendee.
+shakuyojo(借用状)
+documents wherein borrowers admitted that they had borrowed money and other valuables from lenders.
+when the debt was cleared,it would be handed to the borrower.
+respectful language in komonjo
+soro-bun
+polite language equivalent to the present 'desu masu' style(politeness expressions attached to the end of a sentence).
+for details,see soro-bun.
+ketsuji
+ketsuji(闕字)refers to a blank or two blanks placed as a mark of respect before some titles and words associated with an emperor,nobles,and temples and shrines when using such words in a document.
+it is prescribed in the kushiki-ryo(law on state documentary forms)in the taiho code,and it says that ketsuji should be used when words such as the following appear: 'a grand shrine,' 'the imperial tomb for a certain emperor,' 'the son of heaven', 'an imperial carriage,' 'shosho,' 'chokushi,' 'an imperial edict and imperial order,' 'an emperor's cultivating his or her virtue,' 'emperor's blessings,' 'emperor's grace,' 'emperor's words,' 'your imperial majesty,' 'the emperor's residence,' 'an empress,' 'the imperial court,' 'the crown prince,' 'his or her imperial highness.'
+it also says, 'when mentioning names usually written in honorific format(byoshutsu and ketsuji)without referring to these subjects in particular,such as when writing about history,do not use either byoshutsu or ketsuji.'
+however,during the heian period and afterwards,the range was not always as strict as prescribed.
+it was revived a little in the early modern period,and used until the end of the early-modern times.
+in 1818,the ketsuji system was established,but it was discontinued by an ordinance issued on september 29,1872.
+heishutsu(or byoshutsu,平出)
+an honorific format showing more respect than using ketsuji.
+the kushiki-ryo(law on state documentary forms in the yoro code)prescribes it along with ketsuji.
+heishutsu,aka byoshutsu and heito-shoshutsu(平頭抄出),refers to a way of showing respect;when words related to shintoist or buddhist deities and emperors appear in a sentence,the writer starts a new line and puts the relevant word at the top of that line,even if that word appeared in the middle of the previous line.
+it was used when words such as the following appeared in a document: 'the founders of the imperial family,' 'the former emperor,' 'the son of heaven,' 'emperor,' 'your imperial majesty,' 'the retired emperor,' and the posthumous titles of the emperor or the three empresses(empress consort,empress dowager and grand empress dowager).
+however,just like with ketsuji,as time passed,the rage of application became vaguer.
+taito(擡頭)
+an expression showing higher respect than when using ketsuji or hyoshutsu.
+in the honorific format called taito,when words for shintoist and buddhist deities or emperors appear in a sentence,not only is a new line started from that word,but the word itself is written starting at a position above the other lines.
+to start the line one character above other lines was called one-character taito,and to start two characters above other lines was called two-character taito,with the higher starting position above the other lines showing higher respect.
+(the maximum is five-character taito.)
+archives where people are able to access komonjo:
+nagoya city archives(anyone can access reproduced materials without charge.)
+nagano institute of radio wave technology library

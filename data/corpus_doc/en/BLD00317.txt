@@ -1,0 +1,13 @@
+hashirama
+hashirama is a bay,space or distance between two pillars of a palace and so on in traditional japanese architecture.
+it is also simply called ma.
+outline
+to express the dimension of the exterior surface of a building,the number of bays between two pillars is usually used instead of the sizes.
+in this case,hashirama of maguchi(width)is referred to as 'ken' and that of okuyuki(depth)as 'men' (sometimes men is expressed as 'depth is so-and-so ken').
+for instance, 'seven ken and five men' means the number of hashirama of maguchi is seven and that of okuyuki is five.
+since it has nothing to do with an actual dimension,the expression,a simply-expressed 'seven ken and five men' may possibly mean that okuyuki is longer than maguchi.
+when the numbers of ken and men are equal like 'three ken and three men',it is sometimes expressed as 'keda sangen' (three squared mats).
+in this case,as 'ken' of 'keda sangen' ('gen'＝'ken')is liable to be mistaken for 'ken' (＝6 shaku)(approx.1.818m)to express dimensions,attention should be paid.
+while sanjusangendo temple(thirty-three ken hall)in kyoto does not mean the length of the structure is 33 gen(approx.1.818 x 33＝59.994m)long,the name derived from the fact that the number of hashirama(bays)of the naijin(the inner sanctum located in the main hall)of the structure is 33 and its actual length is 65 ken(approx.1.818 x 65＝118.17m).
+ikkensha' or 'sangensha' regarding the main building of a shinto shrine means that it has one or three hashirama on the front facade of the building.
+and,in the case of large structures,sometimes,only the number of hashirama on the front facade is mentioned,for instance, 'daibutsu-den ichiu niju juikken' (the great buddha hall,one two-story building with 11 bays),then it is possible to know there are 11 hashirama on the front facade but not for the depth or the side only by this description.

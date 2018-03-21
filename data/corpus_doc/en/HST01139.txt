@@ -1,0 +1,63 @@
+dajokan fukoku and dajokan tasshi
+both the dajokan fukoku and the dajokan tasshi were a form of law promulgated by the dajokan(grand council of state)during the early meiji period.
+summary
+both the dajokan fukoku and the dajokan tasshi were a form of law during the early meiji period,promulgated by the supreme government office called dajokan(grand council of state),which was newly established after the meiji restoration.
+there had been no clear distinction made between the two types of law until 1873,when it was decided to release directives for government offices and their personnel under the name of 'dajokan tasshi,' and for the public under the name of 'dajokan fukoku' (dajokan fukoku no.254 of 1873).
+yet the rule was apparently not strictly applied,as in practice the dajokan tasshi form was still used to promulgate binding regulations intended for the public.
+the early meiji government internally lacked appropriate means of establishing a uniform direction over state governance,and there were laws and ordinances repeatedly issued with overlapping subjects,using various names for the laws,such as 'act,' 'bylaw,' 'order' and 'code.'
+there were also laws issued not under the name of dajokan itself but under the name of its sub-organizations,without their legal order of precedence defined.
+the dajokan system was abolished upon the establishment of meiji cabinet on december 22,1885.
+the kobun-shiki(official style)chokurei(imperial ordinance)no.1 of february 26,1886 was promulgated to formalize the validity and style of laws,and abolish the usage of dajokan fukoku and tasshi styles of law.
+validity
+any dajokan fukoku or tasshi issued prior to the establishment of kobun-shiki system remains valid unless it contradicts a law promulgated afterwards.
+the constitution of the empire of japan(the meiji constitution)promulgated in 1889 expressly provided that any existing dajokan fukoku or tasshi was valid unless it was against the constitution(article 76,paragraph 1).
+thus,dajokan fukoku or tasshi stipulating matters which should be stipulated by law(which should be legislated by the emperor with the approval of the imperial diet)under the meiji constitution was interpreted to be valid as a law,while dajokan fukoku or tasshi stipulating matters which should be stipulated by an order was interpreted to be valid as an order.
+constitution of the empire of japan
+article 76
+existing legal enactments,such as laws,regulations,ordinances,or by whatever names they may be called,shall,so far as they do not conflict with the present constitution,continue in force.
+there is no express provision in the constitution of japan promulgated in 1946,related to the validity of laws previously established.
+nevertheless,if a law under the meiji constitution can be classified as a law under the current constitution as well,it is interpreted that such law is still valid.
+an order under the meiji constitution,however,is deemed valid if only it stipulates matters which should be stipulated by an order under the current constitution as well,whereas if such an order stipulates matters which should be stipulated by law under the current constitution,it ceased to be effective in principle on december 31,1947(act on effect,etc.of provisions of orders effective as of time of enforcement of the constitution of japan,article 1).
+because of the confusion within the early meiji government as stated above which had led to many laws being issued for overlapping subjects,it was sometiimes doubtful whether dajokan fukoku or tasshi was deemed to cease to be effective due to establishment of a new contradicting law,in cases where such fukoku or tasshi had not been expressly abolished.
+dajokan fukoku and tasshi which are interpreted to be currently in effect
+as of may 2009,there are 11 dajokan fukoku and tasshi listed as currently effective on the japan laws and regulations data service system(法令データ提供システム),or 10 according to the japan laws and regulations index(日本法令索引).
+the fukoku and tasshi listed by the two databases above are not the same,due to different interpretations as to which are still in effect and which are not.
+promulgation on the changing of calendar system(dajokan fukoku no.337 of 1872)
+change in the calendar system from lunisolar(the old calendar,or tenpo calendar)system to solar(the new calendar)system was proclaimed.
+although the change was intended to introduce gregorian calendar,it was found later that provision was missing to specify "solar calendar years that are exactly divisible by 100,but not exactly divisible by 400 are not leap years."
+this was rectified through the imperial ordinance on leap years(chokurei no.90 of 1898).
+drawings of equipments for execution by hanging(dajokan fukoku no.65 of 1873)
+dimensions of equipments used for judicial execution of death penalty were specified.
+there is a supreme court precedent which held that this fukoku is in effect as a valid law(supreme court grand bench keishu vol.15,no.7,p.1106,1961).
+establishment of decoration(dajokan fukoku no.54 of 1845),renamed from 'announcement on establishment of military medal of honor' on april 30,2003
+awarding of decorations was proclaimed.
+the proclamation is interpreted as a valid order by administration and therefore is revised by cabinet orders(e.g.revision by cabinet order no.277 on august 12,2002).
+there are strong opposing views presented by some scholars specialized in constitutional laws,however,in which they assert that awarding of honors should rather be enacted by a law and therefore the current situation is against the constitution.
+prohibition of bids on disposed governmental property by government official in charge(dajokan tasshi no.152 of 1845)
+public employees belonging to a government office(i.e.personnel of the office)which plans to scrap its property are prohibited to take part in bidding for those national properties to be disposed.
+the japan laws and regulations index provided by the national diet library lists this tasshi as an abolished law.
+there is a similar provision in the national property act,article 16.
+conduct of judicial proceedings(dajokan fukoku no.103 of 1845)
+this fukoku defined principles of applicable laws for court proceedings.
+the japan laws and regulations data service system lists only articles 3,4 and 5.
+while it is widely accepted that provisions with regard to criminal proceedings have lost effect,there are disputes over whether the fukoku remains valid related to civil disputes,and if so,which are the provisions remaining in effect.
+if any part is in fact interpreted valid,it may be construed as a law.
+design of grand cordon of the supreme order of the chrysanthemum(dajokan tasshi no.97 of 1847)
+a tasshi defining the design of the badge and the star for the grand cordon of the supreme order of the chrysanthemum.
+it is interpreted as a valid cabinet order.
+penal code(dajokan fukoku no.36 of 1850)
+this old penal code was abolished and replaced by the current penal code(act no.45 of 1907).
+some supplementary provisions,for example those related to deprivation and suspension of civil rights,and those related to penal offense by counterfeiting in public elections,are partially held valid by articles 25 and 37 of the act for enforcement of the penal code(act no.29 of 1908).
+the provisions concerning the validity of deprivation of civil rights,however,are kept for the purpose of maintaining the effect of punishments imposed under the old penal code beyond its abolition,and are not meant to be applied to newer sentences(various acts provide that a person deprived of civil rights may be treated disqualified,but such a status is not treated as a conviction).
+provisions related to public elections are applicable to elections which are not subject to the public offices election act(such as elections of directors of public organizations).
+ordinance on medals of honor(dajokan fukoku no.63 of 1881)
+awarding of medals of honor was promulgated.
+this ordinance was revised several times by imperial ordinances under the meiji constitution(award giving was an imperial prerogative under the meiji constitution),and was revised by cabinet orders(e.g.cabinet order no.7 of 1955,cabinet order no.278 of 2002)under the current constitution of japan as well because the ordinance was administratively interpreted to be valid as a cabinet order.
+prevailing views,however,hold that any part of the constitution may not be enforced through a cabinet order without the existence of an underlying law,and accordingly it is pointed out that this ordinance on medals of honor should not have been revised by a cabinet order.
+publication of official gazette(dajokan tasshi no.27 of 1883)
+publication of official gazettes was proclaimed.
+penal provisions related to treatment of explosives(dajokan fukoku no.32 of 1884)
+provides penalties for using explosive substance for threatening public safety or for causing bodily harm to others.
+the provisions were interpreted as a law in effect(supreme court second petty bench keishu vol.13,no.7,p.1075,1959).
+convention for the protection of submarine telegraph cables(dajokan fukoku no.17 of 1885)
+joining the convention for the protection of submarine telegraph cables was proclaimed.

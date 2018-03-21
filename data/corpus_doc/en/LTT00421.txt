@@ -1,0 +1,72 @@
+japanese literature
+nihon bungaku(japanese literature)refers either to literary works written in japanese or to the academic field that studies such works and their authors.
+it is also known as kokubungaku.
+there are various theories about how to define japanese literature,and many factors are considered,such as language,the area of publication,and literary form.
+(recently some people are calling this literature nihongo bungaku(literally,literature written in japanese)due to the fact that in some cases the author's nationality or place of residence does not correspond to the language used,such as with foreign writers who write works in japanese.)
+categorization by historical period
+although paying attention to changes in political power is not always considered to be as suitable as it is for history,it is often used as a reference point.
+in addition,there are some scholars who differ on opinions about the categories of jodai(until the nara period),chuko(in and around the heian period),medieval,early modern,modern,and present,and in some cases chuko is not used at all.
+there are also various theories about the division between modern and present,and the border has yet to be settled on.
+saiichi maruya advocated dividing the history of japanese literature into categories based on historical periods using the chokusenshu(anthologies of japanese waka poetry compiled by imperial command).
+see also the chart on the periodization of japanese history.
+classical literature
+jodai literature(early literature)
+this refers to literary works written approximately up until the nara period.
+chinese characters were imported from the chinese continent by way of the korean peninsula,and people started to use chinese prose and manyo-gana(a form of syllabary used in the manyo-shu or collection of myriad leaves),which fitted chinese characters to their own spoken language.
+history books such as the "kojiki" (records of ancient matters,written 712 c.e.)and the "nihonshoki" (chronicles of japan,written 720 c.e.)and collections of poems such as the "manyoshu" (collection of ten thousand leaves)were produced.
+literature from the chuko period(the times around the heian period)
+this refers to literary works written roughly during the heian period.
+while chinese prose and poetry continued to thrive,the first of the chokusen wakashu(anthologies of waka poetry compiled by imperial command),the kokin wakashu(collection of ancient and modern poems),was compiled and waka poems achieved a status equal to that of chinese poems.
+although the official documents during this period continued to be written in chinese prose,expressing things in early middle japanese,using hiragana,started to become popular.
+during this period,works that can be said to be representative of japanese classical literature were written,starting with the "tosa nikki" (the tosa diary)written by ki no tsurayuki,then the miscellaneous compositions of "makura no soshi" (the pillow book)by sei shonagon,as well as "genji monogatari" (the tale of genji)by murasaki shikibu.
+medieval literature
+this refers to literary works written from approximately the kamakura to the azuchi-momoyama period.
+the "shin kokin wakashu" (new imperial anthology of japanese poetry),which is characterized by the elaborate techniques used,was compiled by fujiwara no sadaie and other poets.
+also,many works were written using a style that mixed japanese and chinese words,which can be said to be the direct predecessor of the modern japanese language.
+there are such works as the "hojoki" (an account of my hut)by kamo no chomei and the "tsurezure gusa" (essays in idleness)by kenko yoshida.
+there are also works of unknown authorship such as the "heike monogatari" (the tale of the heike).
+in addition to the above,noh drama also developed.
+early modern literature
+this refers to the literature written approximately during the edo period.
+in succession to the otogi zoshi,kana zoshi(novels written for women and children using kana rather than chinese characters to make them easily understandable)and ukiyozoshi(literally, "books of the floating world")were produced by saikaku ihara and others.
+meanwhile,kabuki and joruri(dramatic narrative sung with a shamisen accompaniment)flourished and became popular.
+haikai(seventeen-syllable verse)also became popular and people such as basho matsuo and issa kobayashi played leading roles.
+modern and present literature
+the literature of the meiji period and afterwards.
+with the opening of japan to the world,the influx of western civilization gave rise to a movement to westernize japan,and japanese literature was also affected dramatically.
+the idea of the modern western novel was imported into japan and modern japanese literature essentially began with works such as shoyo tsubouchi's "shosetsu shinzui" (the essence of the novel),futabatei shimei's "shosetsu soron" (general theory of the novel)and "ukigumo" (the drifting cloud).
+the concept of so-called 'literature' was born during this period.
+the boundary between modern literature and present day literature is quite vague,and there are various theories about it.
+the forms of japanese literature
+prose
+tales:furu monogatari(old stories,especially tales before the tale of genji),tsukuri monogatari(fictional tales),uta-monogatari(poem-tales),giko monogatari(archaistic fiction,referring especially to fictional writing during the kamakura and muromachi periods in imitation of the heian tales)and gunki monogatari(martial tales)
+narratives
+novels:novels narrated in the first person and gesaku(literary works of a playful,mocking,joking,silly or frivolous nature)
+drama:noh plays,kabuki and bunraku(ningyo joruri,dramas using puppets with joruri recitation)
+essays
+diaries
+travel literature
+biographies and autobiographies:ojoden(biographies of people who attained rebirth in the pure land)
+literary criticism
+chinese prose written by japanese people
+verse
+poetry:free verse,fixed verse and poems in prose
+waka poetry:tanka(literally, "short poems"),choka(literally, "long poems"),sedoka(poems where the first line is repeated)and bussokusekika(the buddha's footprint poems at the yakushiji-temple in nara)
+renga(linked verse):haikai renga(the origin of haiku),kyoka(comic or satirical tanka)and haikai(today also called renku)
+haiku:a fixed form and free-verse haiku
+senryu(satirical haiku):kyoku(a kind of humorous haikai without the usual haikai conventions)
+tanka poetry(the modern tanka)
+songs and ballads:the kiki kayo(ballads found in the kojiki and nihon shoki),imayo(literally "in the modern style",songs that were popular in the late heian period)and kouta(ballads sung to a shamisen accompaniment)
+chinese poetry
+literary activities related to japanese literature
+japanese literature has been greatly influenced by chinese literature,its close neighbor,since ancient times.
+it has connections with activities in ainu literature and ryukyu literature.
+japanese literature has deep connections with the establishment of modern literature in china and korea due to some of the founders of modern literature in those countries having come from among chinese and korean students who had studied in japan during the meiji period.
+studies in japanese literature
+especially in the study of classical literature,bibliographic studies are also often carried out.
+since the modern period,there has been some dispute about literature among prominent literary scholars.
+it eventually came to attract the attention of foreign scholars,and japanese literature,from classical literature to the modern,was widely made an object of study.
+in the late twentieth century,styles and techniques for studying literature varied significantly due to the influence of literary theory.
+see also the list of critics,comparative literature and literature in translation.
+literary awards
+since the modern period,numerous organizations for literary awards have been established and have contributed to the discovery and development of potential writers.

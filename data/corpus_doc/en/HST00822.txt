@@ -1,0 +1,78 @@
+sakushazuke
+a sakushazuke is a book which lists the writers of noh plays.
+there are several well-known books dating from the muromachi period to the edo period.
+this article describes the content of some of the popular sakushazuke.
+summary
+the oldest known sakushazuke is the description included within a book by zeami.
+"zeshi rokuju igo sarugaku dangi" states that:
+hachiman,takasago,yoro,oimatsu,shiogama,aridoshi,hakozaki,unoha,mekurauchi,matsukaze,hyakuman,higaki no onna,satsuma no kami,sanemori,yorimasa,kiyotsune,atsumori,takano,osaka,koi no omoni,sano no funabashi and taizanfukun by zeami.
+sotoba komachi,jinen koji and shii no shosho by kanami.
+shizuka,michimori and tangomonogurui by iami
+ukifune:a play by an amateur called motohisa yokogoshi.
+music by zeami.
+the new noh plays are included within this new book.
+although included in 'three elements in composing a noh play,' the names of the writers have been added.
+plays including ukai and kashiwazaki are the works of goro enamizaemon.
+approximately 30 noh plays are written with their playwrights in the above-mentioned manner.
+documents including "nohon sakusha chumon" and "jika densho" were written during the latter part of the muromachi period,and in the edo period,sakushazuke containing the traditions of each playwright were submitted to the shogunate.
+during the mid-edo period,motoakira kanze authored "nihyakujuban utai mokuroku" (catalog of 210 noh plays)based on these previous sakushazuke.
+the fact that authors of many noh scripts were detailed in sakushazuke all together means that they are important resources for the clarification of noh writers.
+however,there is a large difference between the reliability of the various sakusha-zuke,therefore,they shouild be used with caution by considering the circumstances surrounding the creation of such publications.
+popular sakushazuke
+sarugaku dangi
+written in 1430.
+the songs that served as a base as the noh plays listed by zeami in his 'three elements in composing a noh play' are arranged for each playwright.
+this was based on talks held with zeami himself and is one of the most trustworthy fundamental resources.
+zeami,kanami,iami,motohisa yokogoshi and goro enamizaemon are listed as authors.
+go on
+written by zeami in his final years and likely published before july and august of 1432.
+this book covers the art of noh music and was not originally written as a sakushazuke.
+however,it is used as a sakushazuke,since the approximately 70 noh songs cited are listed in the format of 'written by xx' and 'composed by xx.'
+like "sarugaku dangi," this is an extremely important resource,as it contains the words of zeami himself;but it should be used with caution because the opinion is divided regarding the definition of 'written by xx' and 'composed by xx' notation.
+kiami,kanami,kanze motomasa,gon no kami kongo,gon no kami konparu,fukurai,naami,rinami and kure yamamoto are listed as authors.
+songs,for which the playwrights are not given,are thought to have been written by zeami himself.
+nohon sakusha chumon
+"nohon sakusha chumon" is a sakushazuke released in 1524.
+it was compiled by kanemasa yoshida and written based on the talks he had with nagatoshi kanze.
+nagatoshi kanze was a famous master performer who supported the leading part at the kanze-za theater,and also wrote several of his plays.
+as such,this is a particularly reliable resource for the works of nagatoshi himself as well as his father,nobumitsu kanzekojiro,and zenpo konparu,who was also active during this period.
+its content is objective even when compared to the contemporary document "jika densho," making it a particularly valuable source.
+on the other hand,although outstanding songs whose playwrights are unknown are almost all attributed to zeami,the major writers kanami and motomasa are not included;as such,there are many incorrect descriptions relating to the songs other than those from the same period.
+there are also errors that have appeared to have been caused by mistakes made by kanemasa while compiling the original sources.
+in addition,the book includes many works by zenchiku konparu and miyamasu but there is very little information regarding these two individuals,so it is important to exercise caution when using this resource.
+of the surviving copies,the oldest is that appended to the end of bansai kato's "utaizosho" published in 1661,which contains the same content as yoshinari yamazaki's "kakyokuko" published in 1820.
+in addition to also being appended to the end of utai ryoho's "takasago zozosho" published in 1736,there are the copies owned by institutions such as shokokan.
+the book was originally untitled or may have been entitled "no sakusha" or "utai sakusha" but the name "nohon sakusha chumon" took hold since it was recorded under this title when it was reprinted in "zenchiku shu" by togo yoshida in 1915.
+zeami,nobumitsu kanze,nagatoshi kanze,zenchiku konparu,zenpo konparu,miyamasu,no omi,sanetaka sanjonishi,sadamori hoin takeda,hosokawa kogenji,onami,tadatoki otagaki,yoshinori konparu,tozaemon naito and kawakami kannushi are listed as writers,with 'the noh plays the writhers of which are unknown',which might be attributed to the konparu family.
+iroha sakusha chumon
+"iroha sakusha chumon" is sakushazuke that lists the names of noh songs according to the ordering of japanese phonetic kana with annotations of the names of the writers.
+the original list,on which this book was based,included many ancient songs that had not been seen since the early modern period,which appear to date from the latter part of the muromachi period.
+the additions made between 1578 and 1594 resulted in its current form.
+this book has the writer names annotated based on the same original sources as those of "nohon sakusha chumon",but as for the content,it is an alternative version.
+it is for this reason that it is useful for reviewing surviving copies of "nohon sakusha chumon."
+the complete set dating from the early modern period(owned by kozan bunko library)was untitled and only given the current name when it was recorded in "yokyoku kyogen" by makoto tanaka.
+it is sometimes also shown as "eshima honkayo sakusha ko."
+"kayo sakusha ko" and "ihon okyoku sakusha" are abridged versions of this work.
+jika densho
+"jika densho" is a noh text that is thought to have been written at the beginning of the 16th century.
+this book is thought to have gained its title,literally means 'personal excerpts,' due to the fact that it is a collection of excerpts of noh related texts of the author of which,as the first half of this is a sakushazuke and the second half is composed of miscellaneous excerpts of noh texts.
+however,only sakushazuke in the first half of it is often called "jika densho."
+the facts that zeami served as a compiler and that the first half was signed by him in 1442 and the second half in 1414 means that he is sometimes credited as being the author;however,this cannot be believed.
+the content of this publication is included in a book entitled "kazekuchi," which also features the signature of zenpo konparu at the end,but this is believed to be false due to the discrepancy in the book's content.
+this book also includes the signature of magojiro yoshitsugu tsunekado who succeeded zenpo in 1516,and it is highly likely that he served as editor.
+little is known of yoshitsugu tsunekado's career but it appears that he was an amateur or semi-professional writer of the konparu-ryu school.
+as sakushazuke,its content widely differs from those of the previously described "nohon sakusha chumon" related books.
+therefore,its content cannot necessarily be trusted and it should be used with caution.
+however,it includes writers such as sotoyama,saami,junijiro,kanze motomasa and ochi kanze who do not appear in other sakushazuke and it can be thought that details regarding these individuals is based on credible ancient texts,so although it is important to remain skeptical,this book will become a valuable resource if its content can be corroborated.
+kanze dayu kakiage/konparu hachizaemon kakiage
+these are the documents that all noh actors submitted to the tokugawa shogunate.
+they contain details of each performer.
+however,they are unreliable and do not have current value as historical sources.
+nihyakujuban utai mokuroku
+"nihyakujuban utai mokuroku" is a sakushazuke that was written in june 1765 by kanze motoakira,15th head of the kanze school.
+influenced by the study of(ancient)japanese literature and culture,motoakira undertook a major revision of noh poetry and prose known as the 'meiwa no kaitei' (lit.major revision during the meiwa era)and compiled utaibon(books of words and musical notation for noh plays);this book has the names of its writers annotated in the catalogue of the book.
+this book and "dokugin hachijyugokyoku mokuroku" published during the same period list a combined total of 245 noh writers.
+it is thought that this book was written based on the prior sakushazuke,emphasizes parts of "konparu hachizaemon kakiage," "kanze dayu kakiage" and "jika densho," and draws inspiration from "nohon sakusha chumon" and "kayo sakusha ko" in addition to incorporating the views of the texts now unknown.
+however,motoakira did not place great emphasis on the reliability of the sakushazuke,on which he based his work and as such,not only did he unquestioningly adopted sources containing numerous mistakes but it also appears as though he did not refer to fundamental sources such as "sarugaku dangi" an "go on."
+it is for this reason that this publication is not considered to have any value as a historical source now that the original source materials are known.
+it has,however,become a reference for the small number of songs that appear to have been written by lost and unknown sakushazuke.

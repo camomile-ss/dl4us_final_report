@@ -1,0 +1,74 @@
+kaitai shinsho(new book of anatomy)
+"kaitai shinsho" is a japanese translation of "ontleedkundige tafelen" which was a dutch book of medical science translated from anatomische tabellen written by a german doctor kulmus.
+it was the first book of full-fledged translation into japanese from a western language.
+it was written by genpaku sugita.
+it was published by ichibei suharaya in 1774.
+it consisted of four books of body text and one book of appended drawings.
+it was written in the chinese classics.
+history
+on april 18,1771,genpaku sugita,ryotaku maeno,junan nakagawa and other ranpoi(persons who studied western medicine by means of the dutch language)observed fuwake(dissection)of executed criminals at kozukappara execution grounds.
+(there is a theory that they were joined by hoshu katsuragawa,but it should be more natural to understand he did not attend there,judging from descriptions of "rangaku kotohajime" [the beginning of dutch studies]written by genpaku sugita at a later stage).
+genpaku sugita and ryotaku maeno had in each possession the "ontleedkundige tafelen," an immigrant book of anatomy from holland.
+genpaku sugita was so much struck by the preciseness of the "ontleedkundige tafelen" comparing it with the actual dissected parts of body,that he proposed ryotaku maeno to make a translation of it together with him.
+ryotaku maeno,who had long ambitioned to translate dutch books,agreed to genpaku sugita's proposal.
+from the next day,april 19,they gathered at the house of ryotaku maeno to start its translation,to whom junan nakagawa also jointed.
+it was hosan katsuragawa who recommended "kaitai shinsho" to seii taishogun(literally,a great general who subdues the barbarians).
+at the beginning,both genpaku sugita and junan nakagawa were unable to read the dutch language,and even ryotaku maeno's dutch vocabulary was not enough for translation.
+there were some interpreters in nagasaki city,which was however too far to ask any question to them.
+needless to say,there existed no dictionary for dutch and japanese.
+therefore,their translation work resorted to the means that may be called decipherment.
+their working circumstances were described in detail in the book "rangaku kotohajime" written by genpaku sugita in his later years.
+in 1773,when the achievement of their translation work became in sight,they published "kaitai yakuzu" (illustrations of a dissectioned body)in order to check public responses.
+in 1774, "kaitai shinsho" was published.
+persons concerned
+ryotaku maeno played a central role in their translation work,but his name was not written in any part of "kaitai shinsho" as an author.
+according to one estimate,ryotaku maeno refused to put his name in "kaitai shinsho" because he had once promised not to study for his own name when he prayed for accomplishment of his school work at tenman-gu shrine on his way to nagasaki for study.
+another estimate says that ryotaku maeno,an academic person,knew faultiness of his translation in kaitai shinsho and he disliked to ruin his reputation by putting his name on it.
+genpaku sugita said, 'i am both sickly and aged.i could die any day.'
+although he knew kaitai shinsho had some defectiveness,he hurried up to publish it.
+publication of "kaitai yakuzu" was also made by the same motive of genpaku sugita,against which,however,ryotaku maeno was reported to have shown his disamenity.
+however,genpaku sugita lived a life of 85 years,which was extraordinarily long in those days.
+on the other hand,junan nakagawa continued his study of dutch language even after publication of "kaitai shinsho."
+he and hoshu katsuragawa became pupils of carl thumberg,a swedish naturalist.
+hosan katsuragawa was a contemporary friend of genpaku sugita.
+he served as a personal physician to seii taishogun,being ranked as hogen(the second highest rank of hierarchy of physicians).
+he had never directly participated in the translation work,but let his son hoshu katsuragawa join the translation team.
+he provided three books of dutch medical science as supplementary materials.
+at the time of its publication,a book of "kaitai shinsho" was presented to o-oku(inner palace of edo-jo castle)through hosan katsuragawa who had feared of any possibility to violate taboo of bakufu(japanese feudal government headed by a shogun).
+hoshu katsuragawa,a son of hogen hosan katsuragawa,was later ranked also hogen.
+he was reportedly engaged in the translation work from the beginning.
+subsequently,he and gentaku otsuki contributed to the advancement of dutch studies.
+the other participants in the translation work were genjo ishikawa,whose name appeared in the preface of kaitai shinsho,as well as shoen karasuyama,whose name appeared in "rangaku kotohajime," shotetsu kiriyama,shuntai mine and so on.
+kogyu yoshio(eisho yoshio)was an interpreter of dutch.
+he was a writer of the preface in "kaitai shinsho" where he praised this book as a painstaking work of ryotaku maeno and genpaku sugita.
+gennai hiraga visited the house of genpaku sugita on february 11,1774.
+gennai hiraga,who was told that the translation of the text of "kaitai shinsho" was almost completed and a painter was being scouted for anatomical drawings,introduced naotake odano to genpaku sugita.
+naotake odano,a painter,was a samurai(a warrior)of kakunodate,akita domain.
+through the introduction of gennai hiraga,naotake odano was designated to draw original pictures of pictorial cut of "kaitai shinsho."
+within such a short period as only a half year before publishing "kaitai shinsho," naotake odano accomplished his first work in edo which became a monumental work in the history of japanese arts and sciences.
+contents of "kaitai shinsho"
+"kaitai shinsho" is generally understood as a translation of "ontleedkundige tafelen," but it had referred also to "thomas kaitaisho" (book of anatomy by thomas bartholin), "blankaart kaitaisho" (book of anatomy by steven blankaart), "caspar kaitaisho" (book of anatomy by caspar schamberger), "coiter kaitaisho" (book of anatomy by volcher coiter), "ambroise gekasho kaitai-hen" (book of surgery and anatomy by ambroise paré), "veslingius kaitaisho" (book of anatomy by johann vesling), "palfijn kaitaisho" (book of anatomy by jan palfijn), "barushitosu kaitaisho," "miskell kaitaisho" (book of anatomy by miskell)and so on.
+the front cover of "kaitai shinsho" was designed in imitation of "valverde kaibosho" (book of anatomy by juan valverde de hamusco).
+it also referred to some principles of japanese and chinese medicines.
+considering of such annotations seen everywhere in it as 'tasuku considers this as…' ('tasuku' was the real name of genpaku sugita),this "kaitai shinsho" may not be regarded as a simple translation but as a book reconfigured by genpaku sugita and others.
+the text was divided into four books.
+the content of each book was as follows:
+book no.1
+general statement,formations and names,elements of a body,general statement for skeleton and articulation,and details on skeleton and articulation:
+book no.2
+head,mouth,brain and nerves,eyes,ears,nose,and tongue:
+book no.3
+chest and diaphragm,lungs,heart,artery,vein,portal vein,abdomen,gut and stomach,mesentery and chyle vessel,and pancreas:
+book no.4
+spleens,livers and gallbladders,kidneys and bladders,reproductive organs,pregnancy,and muscle:
+drawings were put together in an separate book.
+subsequent influence and development
+it is important to acknowledge that,after the publication of "kaitai shinsho," the medical science not only achieved,but also advancement in the comprehension of dutch language was made significantly,which formed a foundation for the people to understand materials of western culture in japan under seclusion policy.
+furthermore,it gave a chance to foster human resources such as gentaku otsuki.
+during its translation work,several new words were created,like 'shinkei' (nerve), 'nankotsu' (cartilage), 'domyaku' (artery), 'shojomaku' (hymen)and so on,all of which are still used today.
+not a few mistranslation was found in "kaitai shinsho" although it was naturally unavoidable in any attempt of new translation,so that gentaku otsuki subsequently retranslated it and published "jutei kaitai shinsho" (re-revised kaitai shinsho)in 1826.
+genpaku sugita in his later years wrote in "rangaku kotohajime" on the circumstances and the way in which "kaitai shinsho" had been translated.
+converted words
+the term 'kaitai shinsho' has sometimes been converted to mean 'a book to explain about something.'
+also,this term has often been used in the sense of an instruction manual for the public,an explanatory book to unriddle mysterious background of cartoons and animations,an intellectual variety show on television,and so on.
+some examples are "tokoro-san no 20-seiki kaitai shinsho" (a tv show titled "20th century stories" presided over by george tokoro,reviewing japanese popular cartoon characters of 20th century like "invader," "ultra-man" and so on), "monozukuri kaitai shinsho" (an explanatory book on how various ordinary items are fabricated), "sex shinwa kaitai shinsho" (a commentary on sex mythologies), "devilman kaitai shinsho" (an instruction manual to unriddle mysteries of a cartoon series devilman),and so on.

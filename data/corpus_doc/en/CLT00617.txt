@@ -1,0 +1,45 @@
+saibara(a genre of heian-period japanese court music[primarily consisting of gagaku-styled folk melodies])
+saibara is a style of ancient music.
+there are theories about the origin of the word(an etymology)saibara including that it comes from mago-uta(a horseman's song)or togaku music,but it is not certain.
+heibonsha,toyo bunko can be procured relatively easily(translated and noted by noriko kimura,2006).
+also,there is "shinpen nihon koten bungaku zenshu 4.2" from shogakukan inc.,includes "saibara" translated and noted by jingoro usuda.
+summary
+the music is originated from among ordinary people in the early heian period,then adopted by court nobles.
+there was no fixed melody since it was originally sung by ordinary people,but fu(musical notes,note symbols)were chosen several times after it was introduced to the court as outa(song),and incorporated into gagaku(ancient japanese court dance and music),and two kinds of senpo,japanese seven-tone gagaku scale(corresponding to:so,la,ti.do,re,mi,fa)ritsu and ryo were established in the mid heian period.
+many lyrics are about old simple love affairs and take various forms such as sedoka(an ancient form of waka or tanka which consists of six lines with sound units arranged as six/seven/seven,five/seven/seven)in four phrases.
+how to sing saibara depends on the school,but biwa(japanese lute),so(a long japanese zither with thirteen strings),sho(japanese flute),etc.are used as the accompaniment and there is no mai(a formal,traditional japanese dance).
+the origin of the word(an etymology)
+there are various theories about the origin of the word 'saibara,' ('saiba' literally means 'to speed up horses')which are listed below:
+the song that was sung when carrying mitsugimono(tribute)from various provinces to the imperial court,to speed up horses.
+the name derived from that,a song 'ide aga koma hayaku ikikoso,' which means to speed up horses came first.
+songs that were sung when hauling sacred horses in daijoe(banquet on the occasion of the first ceremonial offering of rice by the newly-enthroned emperor).
+it means to make the god feel like appearing as a horse.
+the name came from being sung in the beat of saibari(songs in kagura[sacred music and dancing performed at shrine]).
+there is saibara(also written as催花楽)in togaku music,and the name was taken because the songs were sung to its beat.
+there was sebaru village in satsuma,and there were place names such as tantado,tsutsumigawa,and todorokoji around there,and gakunin(players)who lived there started to sing the song.
+it means bashi no uta.
+other than the above,songs of manners in daijoe were added to saibara;two songs 'chitosefuru' and 'asaya' belong to ritsu no uta(songs in ritsu gagaku scale)and four songs 'yorozuki,' 'kagamiyama,' 'takashima,' and 'nagasawa' belong to ryo no uta(according to 'renchusho'),as well as '絹鴨曲' (also called 'nanizomoso')which is sung in otoko toka.
+"kyokunsho" (a musical book of gagaku)describes a song called '安波波.'
+there are many cases in which ordinary tanka(31syllable poem)was sung with saibara beat.
+"shochusho" contains a waka poem composed by minamoto no toshiyori as saibara: 'as a boat carrying a load all the way to tsukushi province,i devoted myself to her,but my love was not accepted,and i am sleeping alone in my house,thinking of her.'
+a volume of saishi(a special envoy from imperial court in the case of a festival)in "utsuho monogatari" (the tale of the hollow tree)contains a poem which was chanted in the tune of 'okimi kimasaba' ('waie'), 'people would wait patiently for you as a long pole which has been used for a long time is needed to cross a deep water,' and also a poem was chanted in the tune of 'ise no umi,' 'my pole cannot reach the bottom of the water;i don't know about other people,but my love for you is the deepest.'
+saibara originated from the songs of the ordinary people such as riyo(ballad,folk song,popular song)and popular songs adopted by nobles for utaimono(utai,noh chant piece for recitation)in their banquets.
+new waka created by nobles were added to saibara,and songs of manners sung in daijoe are also included.
+these songs were sung in side shows of kagura,and songs such as osaibari(first half part of kagura),kosaibari(second half part of kagura),soga(a sort of songs and ballads which were popular among nobles,samurais and buddhist priests in a period from the middle of the kamakura era to the muromachi era),and zoka(other poetry)were originated from saibara.
+there are books that describe osaibari of kagura as saibaraburi(music based on melody and beat of saibara),and katei fushizuke hon(book with tunes)notes '大前張以下半出二於催馬楽一' (一and二are kaeriten[return marks to help read chinese literature in japanese]).
+"yoshino yoshimizuin gakusho" describes a kagura song 'sonokoma' as 'originally from saibara,' and "eikyokusho" (a musical document in the late of heian period)describes 'asakura' as 'a tune of asakura saibara,sing in three parts.'
+in addition,that "kagura-fu" describes '朝闇吹二返催馬楽拍子一' (一and二are kaeriten)in it indicates that these were originally saibara songs.
+for old songs in saibara,there are 'agakoma' in volume 12 of "manyoshu"(collection of ten thousand leaves),and 'kazuraki',a children's song sung during the enthronement of the emperor konin in "shoku nihongi" (chronicle of japan continued)and "nihon genho zenaku ryoiki" (set of three books of buddhist stories,written in the late 8th and early 9th century,usually referred to as the nihon ryouiki), 'imogakado' in volume 11 of "manyoshu," and 'kawakuchi' in 'kokin rokujo' (kokin waka rokujo).
+there are many songs that seem to be minyo(a traditional folk song)of kinai region as well as mikawa,echizen,owari,and ise provinces.
+around jogan era(japan),among these songs described above were collected into a book,then masanobu ichijo chose scores around 920(one theory says that fujiwara no tadafusa wrote scores),and later on,songs were brought down by the to and gen families.
+the gen family was more prosperous than the to family,and the gen family produced more masters of saibara.
+however,saibara started to lose its songs gradually,and also there were differences in songs that were brought down between the to and gen families.
+among 61 songs,some were lost in the latter heian period.
+thus,saibara songs were gradually decreased and almost became extinct in the sengoku period(japan),then in september 1626,suetsugu yotsutsuji was given mikotonori(imperial edict)and 'ise no umi' was restored.
+in february 1682,saibara was held and more songs were restored.
+there are five songs 'anatoto,' 'mumegae,' 'mushiroda,' 'minoyama,' and 'yamashiro' in ryo,and two songs 'ise no umi' and 'koromogae' in ritsu.
+saibara was sung with gagaku in the medieval period.
+in the medieval period,modified songs of saibara were sung in a hoe(buddhist mass)in temples etc.
+for example, 'aoyagi' was sung as 'gokuraku ha nisau kan ni yoseteya omoe sono kazari medeta mizu wo mite ruri no ike ni omoi wo kakeyo fukaki yaku ariya,' and 'ise no umi' was sung as 'ruri no chi no kotachi medetaya takara no ike no kogane no hama gotoni tamaya hirowamuya tamaya hirowamuya.'
+as such,gakaku was often used for horaku(pleasures of pious life)in the medieval period.
+for saibara accompaniments,sho,hichiriki(japanese shawm),fue(japanese flute),biwa,koto(a long japanese zither with thirteen strings),wagon(japanese harp),etc.were used.

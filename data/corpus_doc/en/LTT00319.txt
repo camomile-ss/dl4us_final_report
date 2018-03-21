@@ -1,0 +1,30 @@
+kakekotoba
+kakekotoba(a pivot word)is a rhetorical device used in waka poetry.
+summary
+kakekotoba is a figure of speech in which a pivot word that has homophonous or analogous-sounding words is expressed in such a way that it has two or more meanings.
+this linguistic device has been used from time immemorial.
+words used as a pivot word are almost always written in hiragana(japanese phonetic alphabet).
+examples:
+ausaka-yama: 'au' (to meet)/'ausaka' (osaka).
+matsu: 'matsu' (pine tree)/'matsu' (to wait).
+mi(w)otsukushi: 'mi(w)o tsukushi' (to dedicate oneself)/'mi(w)otsukushi' (channel buoys).
+within the poem, "hana no iro ha utsurinikerina itazurani wagami 'yonifuru nagame' seshi mani," the "yonifuru nagame" is interpreted twice.one interpretation is "the long spell of rain in the evening" and the other is "pass the time in the world(while)watching," which lets the poem carry both meanings as: "the color of the cherry blossoms has faded,and i have vainly passed the time in the world while watching the rain falling."
+sometimes more than one kakekotoba is employed in a poem,such as, "oeyama 'ikunonomichi' no tookereba mada 'fumimomizu' ama no hashidate,' where "ikunonomichi" and "fumimomizu" both have double meanings.in this case, "ikunonomichi" can mean "the road that goes through a field" or "the road leading to ikuno" (ikuno is a place name for the current asago city).additionally, "fumimomizu" can mean "have seen no letter" or "have not traveled by foot." putting them all together,the poem can be interpreted as: "mt.oe and the road that leads to ikuno through the field are far away,so i have neither seen a letter,nor traveled there to amanohashidate."
+kakekotoba in english
+the rhetorical device with the japanese kakekotoba is rarely found in english.
+as is shown below,however,figures of speech that use homophones or similar sounds are sometimes employed in english.
+spring forward,fall backward:
+in adjusting a clock for daylight saving time,time is put forward in the spring and backward in the fall,so one "springs forward" and "falls backward."
+two is the oddest prime number,since it is the only even one:
+this is a joke playing on the homophony of "odd" as an odd number as opposed to an even number,and "odd" as in "strange."
+furthermore,the word "one" that appears at the end is a pronoun referring to a prime number.
+(the meaning of the joke is that the prime number "two" is the oddest,meaning "strangest" as well as a mathematical "odd" number because it is the only even prime number).
+(the sentence starts with "two" and ends with "one";taking this as a pun,it follows that it contains a double kakekotoba).
+in poetry,stanzas often end with words that have the same final syllables(e.g.fall and hall).
+(rhyme)
+well-known words are replaced by word that have similar spellings.
+alice's adventures in wonderland is famously replete with such literary techniques.
+below is a technique in which a famous passage from shakespeare's dramas and "mother goose" is cited to suggest a separate meaning.
+for example,the american film title "all the king's men," which literally means "all the subjects of the king," is a citation from humpty dumpty through which the title suggests the tragic end of a powerful man.
+agatha christie's detective novels are renowned for many citations from "mother goose."
+these techniques are sometimes not fully captured in japanese translations.

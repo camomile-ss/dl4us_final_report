@@ -1,0 +1,16 @@
+ata(a unit of length used in ancient china and japan)
+ata is a length unit used both in china and japan.
+in china
+on the section of 'ata' (in pinyin, 'zhi')in shuowen jiezi(analytical dictionary of chinese characters),there exists a description that '8 sun('cun' in pinyin;1 sun is about 3.03 centimeters)of shu('zhou' in pinyin)was equalized with 1 ata,and that 10 sun of shu was equalized with 1 shaku('chi' in pinyin;1 shaku is about 30.3 centimeters).'
+here, 'shu' meant the circumference of a circle,and 'ata' was its unit.
+the ratio of the circumference of a circle to its diameter is about 3.14,and provided that we round off the second decimal place and regard the ratio as 3.2,the circumference of a circle whose diameter is 1 shaku becomes 3.2 shaku,and in ancient china,this 3.2 shaku was equalized with 4 ata.
+therefore,1 ata became 0.8 shaku.
+the japanese yata no kagami(the eight-span mirror;one of the imperial regalia)has 8 ata of circumference,in other words,the diameter of the mirror is 2 shaku(23.04 centimeters).
+1 shaku in the later han dynasty china was set at 23.04 centimeters(2 shaku),so it means the mirror of about 46 centimeter in diameter,and by now 4 circular mirrors of this size have been excavated in china.
+in japan
+ata' is the nominalized word of the japanese verb 'atsu,' which means 'measure with one's hand opened.'
+concretely,ata is the length from the tip of the middle finger to the tip of the thumb when they are opened,and shaku was originally defined to have the same length.
+in fact,the chinese character咫(reads as ata)seen in nihonshoki(chronicles of japan)was replaced with尺(reads as "shaku")in kojiki(the records of ancient matters),which is exemplified by yata no kagami(八咫鏡)replaced with八尺鏡.
+in japanese mythology,the length of 'yata' (八咫;8 ata)is often seen such as,in yata no kagami(八咫鏡)and in yata garasu(八咫烏;the sacred crow with the span of 8 ata).
+ata' is also read as 'saka.'
+yasakani no magatama(comma-shaped jewel)is written as八尺瓊勾玉in chinese characters,and the second character尺was originally written as 'ata' (咫).

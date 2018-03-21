@@ -1,0 +1,53 @@
+ci
+ci is a form of chinese poetry or an art form of ballad.
+as it flourished in the song dynasty,it is called soshi(songci in chinese).
+it was also called kyoku,zakkyoku,or kyokushi ci in the tang dynasty and the five dynasties period.
+as contrasted with kanshi(chinese poems),it is called shiyo as well;it is also known as chotanku because it consisted of lines of irregular lengths,short and long.
+since ci was originally composed in accordance with music,it is sometimes called ten ci,meaning "filling the music with verses," and also isei,meaning "to the tune of the music."
+since it has the same sound as the japanese word "kanshi(shi)"(chinese poems),it is also pronounced "tsu" taken from the chinese pronunciation to be distinguished from each other.
+in later years,ci was composed not to the music but to the tones of previous works,so it became regarded as a kind of recited verses like chinese poems.
+ci is composed according to each tune that had the different form;for example,in "okukonan(recalling the south of the chang jiang river) " the number of characters in each line is determined as 3,5,7,7,and 5 characters,and the 2nd,4th,and 5th lines should be rhymed.
+titles
+a particular title called ci-hai(label)is given to each tune.
+ci-hai used for the title of ci has nothing to do with the contents unlike poems.
+instead,a commentary indicating the contents was listed under ci-hai,or a short preface was added.
+however,in later years,the title was given according to the contents.
+the number of ci-hai
+according to "ci-fu詞譜" compiled by the emperor kangxi in the qing dynasty,the number of ci-hai amounts to 826 tunes,and it comes to as many as 2,306 including those with "the same tune but a different form."
+chief among ci-hai are roughly estimated at 100 tunes.
+the shortest ci-hai named "chikushi(bamboo branch song)" consists of 14 characters,and the longest one named "oteijo鶯啼序," 240 characters.
+history
+when a new music(kogaku)was introduced from the western regions in the tang period,the conventional musical system greatly changed.
+verses thus composed in accordance with music were the origin of ci.
+ci is considered to have various origins,from engaku(chinese court music)to popular music.
+in later years,after the tradition of those music and scores were lost,ci was composed based on the tones or the form of each line.
+classification of ci
+there are several ways to classify ci.
+when classified by the number of characters,it goes as follows:
+shorei
+a short piece within 60 characters
+a short piece within 61 characters
+a long piece more than the above
+the majority were shorei until the early sung period.
+in later years:
+shorei
+within 58 characters
+chucho
+from 59 to 90 characters
+chocho
+more than 91 characters
+this classification has no specific basis,but is used only as a guide.
+when classified by the number of stanza,it goes as follows:
+tancho
+undivided shorei
+e.g.: "gyokashi," "torenshi," "choshorei," and "jomurei"
+socho
+with two stanzas
+shorei,chucho,and chocho are in this category.
+e.g.: "bosatsuban," "seikogetsu," "mankoku満江紅," and "chorenka"
+sanjo
+with three stanzas
+e.g.: "ranryo-o"
+shijo
+with four stanzas
+e.g.: "oteijo"

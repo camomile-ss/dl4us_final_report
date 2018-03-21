@@ -1,0 +1,62 @@
+wamyo ruijusho
+wamyo ruijusho is a dictionary compiled in the mid heian period.
+in the johei era(in japan)(931-938),minamoto no shitago compiled it at a request of imperial princess isoko.
+it was influenced by "jiga" (erya),a classification dictionary in china.
+it was made in the following style:first,nouns were collected in chinese,were grouped based on their meanings,an item name was given to each group of nouns,a japanese pronunciation(called "wamyo," literally a japanese name)of each of these nouns was given using manyo-gana(a form of syllabary used in the manyo-shu[collection of ten thousand leaves]),and to each noun,explanations were given by citing its chinese document sources(dictionaries,chinese dictionaries arranged by the final sound of each word,and encyclopedia).
+it is not only provided with factors of a japanese language dictionary in the present day,but also provided with those of a chinese-to-japanese dictionary and of an encyclopedia,constituting its rare feature.
+since having been compiled,this document was used frequently for knowing japanese pronunciations for chinese words
+since the time when the study of japanese classical literatures started in the edo period,it has been highly evaluated as a document where information about vocabulary and about pronunciations of words is available,and in addition,it has also been highly evaluated in the fields of japanese literatures,of japanese language study and of japanese history,as a document in which information about states of society,customs and social systems is available.
+about the document
+the expression of '倭名類聚鈔' or '倭名類聚抄' is sometimes used instead of和名類聚抄(each of these expressions is pronounced as wamyo ruijusho equally),with the expression used depending on the copy.
+usually,the abbreviated expression of '和名抄,' '倭名鈔,' or '倭名抄' (each of these expressions is pronounced as wamyosho equally).
+there are wamyosho consisting of 10 volumes and wamyosho consisting of 20 volumes.
+because their contents are largely different with each other,each of them is called a '10-volume book' or a '20-volume book' for differentiation,and copies of each book remain.
+ekisai kariya positions the 10-volume book as the standard.
+jiro kameda,a japanese language scholar,says that the 20-volume book was augmented by later people.
+the 20-volume book covers the names of provinces,counties and villages,which constituted area units for administrative control in the ancient ritsuryo code-based system,constituting a basic historical document even in this aspect.
+examples:kanbe-go(village),yamadai-go,takagaku-go,kami-go,tadeda-go,homuchi(品治r or保無智in chinese characters)-go,and taima(當麻or多以末in chinese characters)-go,in katsuge-gun(county)of the yamato province
+configuration
+this book is configured using 'bu' (部)(categories)and 'mon' (門)(sub-categories),and the configuration of either of the 10-volume book and 20-volume book is different from the other.
+various wamyosho books
+many copies of wamyosho exist including complete ones and incomplete ones.
+in the edo period,wamyosho books copied using woodblock printing were published.
+however,the 10-volume books available at that time were manuscripts alone,and were scarcely published.
+therefore,the 20-volume books were mostly published.
+in the following,the wamyosho books that can be viewed by photographing,copying or directly viewing them are listed first for manuscripts in the order of the hand-copied ages and then for published books in the order of the printed ages:
+the 10-volume books
+today,the most widely used text of the 10-volume book is "senchu wamyo ruijusho" revised and annotated by ekisai kariya.
+however, "senchu wamyo ruijusho" was published in the meiji period as described below,and until then,its manuscripts were mostly available.
+of the 10-volume manuscripts, 'shimosa book' is unique because the contents of it and of the books related to it are quite different from those of other 10-volume books.
+therefore,in not a few 10-volume book manuscripts,shimosa book-related manuscripts are often referred to and corrections are written in red ink.
+however,kariya considered the shimosa book as 'falsification by the posterity,' and rejects it as 'the most inferior one of the various books concerned.'
+manuscripts
+the shinpuku-ji temple book:copied manually in the kamakura period,only volumes 1 and 2(owned by hosho-in shinpuku-ji temple)
+the ise 10-volume book:copied manually in the early muromachi period,only volumes 3-8(owned by the jingu library)
+the kyo book:copied manually in the first half of the edo period,only volumes 4-6(owned by the laboratory of japanese,the university of tokyo)
+the takamatsunomiya book:copied manually in the first half of the edo period,a complete book(owned by the national museum of japanese history)
+the matsui book:copied manually in the first half of the edo period,a complete book(owned by seikado bunko art museum)
+the kyoichi book:copied manually in the latter half of the edo period,only volumes 7-10(owned by the laboratory of japanese,the university of tokyo)
+the book copied manually by ekisai kariya himself:corrected as well as copied manually in the latter half of the edo period,a complete book(owned by the national archive of japan[former cabinet library])
+the maeda book:copied manually in the meiji period,a complete book(owned by maeda sonkeikaku)
+* 'shimosa book'-related manuscripts
+the tenmon book:copied manually in the latter half of the edo period,a complete book(owned by the laboratory of japanese,the university of tokyo)
+printed books
+the kyowa printed books:published in the first year of the kyowa era(1801),corrected by michikuni inaba(based on the shinpuku-ji temple book)
+yang shoujing's printed books:published in 1906,corrected by yang shoujing(based on shimosa book-related manuscripts)
+corrected and annotated books
+"senchu wamyo ruijusho":completed in 1827,published in 1883 by ekisai kariya(corrections were made with the kyo book as the base text)
+the 20-volume books
+today, 'genna kokatsuji-bon' (literally,books printed using old types in the genna era[1615-1624])are used most widely as the text of the 20-volume books.
+however, 'genna kokatsuji-bon' was a rare book and was scarcely available in the market until its photo-copy version was published in 1932.
+therefore, 'keian printed books' (books printed in the keian era[1648-1652])and 'kanbun printed books' (books printed in the kanbun era[1661-1673])were widely used instead,being published many times until the early meiji period.
+of the manuscripts concerned,the 'kozan-ji temple book' includes descriptions of the names of inn-concentrated places along roads in the ancient ritsuryo code-based system,after those of the 'province/county category.'
+in addition to including its own unique text that is not found in other 20-volume books,this book also includes many descriptions different from those of others.
+therefore,this book is used together with 'genna kokatsuji-bon,' especially when referring to the 'province/county category.'
+manuscripts
+the kozan-ji temple book:copied manually towards the end of the heian period,only volumes 6-10(owned by the tenri library attached to tenri university)
+the ise 20-volume book:copied manually in the early muromachi period,only volumes 1,2 and 9-20(owned by the jingu library)
+the daitokyu book:copied manually in the middle era of the muromachi period,a complete book(owned by the daitokyu memorial library)
+printed books
+genna kokatsuji-bon:published in 1617,corrected by doen nawa
+keian printed books:published in 1648
+kanbun printed books:published in 1671

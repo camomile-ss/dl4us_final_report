@@ -1,0 +1,374 @@
+soy-sauce
+soy-sauce is a general-purpose liquid fermented seasoning with salty taste and strong savoriness,made from soybeans and wheat using aspergillus oryzae and yeast,and it is mainly used in japanese cooking.
+summary
+soy-sauce is a seasoning which has been developed in japan.
+it is mainly made from soybeans,wheat,salt,and is generated through a complicated fermentation process using aspergillus oryzae,lactobacillus,and yeast.
+through this process,soy-sauce gains a flavor caused by fragrant constituents such as alcohol or vanillin,savoriness due to amino acid from soy beans,and sweet taste due to sugar from wheat.
+the reddish-brown color of soy-sauce mainly comes from maillard reaction.
+soy-sauce has a wide range of uses;putting it over food,dip a small portion of food in it,season food with it while stewing the food,making a soup or sauce from it.
+name
+examples using the term of 'soy-sauce' started to appear around the 15th century.
+the chinese characters, '漿醤' that represent soy-sauce,with readings in kana of 'shauyu' appeared in the old dictionary "bunmeibon setsuyo-shu" (a plain dictionary in bunmei era)established in 1474,which was the oldest example in documents.
+the chinese characters, '醤油' that represent soy-sauce,is a japanese-chinese word,and it made the first appearance in the article of november 24,1568 of "tamonin nikki diary," which was about 100 years later than the appearance of '漿醤' in "bunmeibon setsuyo-shu" stated above.
+on the other hand,it is represented as '漿油' in the article of july 25,1536 of "rokuon-nichiroku diary," and therefore the chinese characters '漿油' representing soy-sauce are likely to be older than '醤油.'
+in early times, '油' of '醤油' was read like chinese,and '醤油' was sometimes pronounced as 'shauyuu.'
+醤油' is sometimes written as正油.
+the order of using seasonings in cooking is expressed as 'sa-shi-su-se-so,' which means 'sa(sato[sugar]),shi(shio[salt]),su(su[vinegar]),se(seuyu[soy-sauce]),so(miso[soybean paste]),' in which soy-sauce is expressed as 'se' of 'seuyu,' however,it should be written in 'shauyu' in historical japanese syllabic writing.
+however, 'seuyu' is widely used as the so-called acceptable japanese syllabic writing.
+shitaji,another name of soy-sauce,came from the meaning of the base(shitaji)of japanese soup,and there are many theories regarding the origin of murasaki,another name of soy-sauce.
+it was said to be the court-lady language that came from the color of soy-sauce,or it was said to have a connection with the fact that soy-sauce in large quantities was produced along the foot of mt.tsukuba in the edo period.
+in english,it is called the soy-sauce,and daizu is called the soybean.
+soy contained in these words was from 'shoyu' (soy-sauce in japanese word)which was handed down through dutch language(soja).
+history
+the origin of soy-sauce
+the root of soy-sauce is regarded as hishio(salted food).
+hishio refers to 'salted food' in a broad sense.
+the chinese character, '醤' was used in 'rites of zhou' around the eighth century b.c.
+tracing the history of japanese '醤' in documents, '主醤,' the name of an official position which deals with醤(hishio),was found in 'taiho ritsuryo' (taiho code)in 701.
+the 'engishiki' (codes and procedures on national rites and prayers)which was promulgated in 923 stated that one and a half koku of hishio(a unit of volume:rice 1-koku is 180.39 liter,lumber 1-koku is 0.278 cubic meter)were made out of three koku of soy beans,and this showed that there were manufacturers and sellers of hishio in kyoto in this period.
+in addition,wamyo-sho(a dictionary compiled in the heian period)refers to 'niku-bishio' and 'shishi-bishio' (both meaning salted meat)in the item of 'salted food' and it also described 'mame-bishio' (salted beans)which was made out of beans in the item of 'hishio.'
+the birth of tamari(thick)soy-sauce
+soy-sauce is characterized by being produced using rice malt.
+"qi min yao shu" (the ancient chinese agricultural texts)in china around 500 stated the manufacturing method of hishio similar to japanese soy-sauce today.
+fermented food using rice malt was believed to be produced in asia regions such as china around from the fifth century to the sixth century.
+it is uncertain about the theory that the direct origin of soy-sauce is kinzanji miso(chunky barley miso conserve).
+according to the story,the manufacturing method of kinzanji miso;miso mixed with chopped vegetables,which was made in jingshan temple in zhenjiang,southern sung(present day zhenjiang,jiangsu province,china),was introduced to japan by hotoenmei-kokushi,a founder of kokoku-ji temple in yura town,kii province(wakayama prefecture)around the 13th century,and production of kinzanji miso started around yuasa town.
+tamari(dark sauce)from this miso was used as a seasoning and it is regarded as the original seasoning leading to the tamari soy-sauce today.
+however,no historical materials backing up the story were found.
+the first appearance of 'tamari' in documents was in "nippo jisho" (japanese-portuguese dictionary)published in 1603.
+it is stated in it that 'tamari:an extremely tasteful liquid obtained from miso and used for cooking.'
+the term 'sutate' (簀立)which was stated to be another name of 'soy-sauce' in "nippo jisho" was referred in "unpoiroha-shu dictionary," the old dictionary established in 1548,as '簀立スタテ味噌汁立簀取之也.'
+this is also remarkable to find out how soy-sauce was established.
+export to overseas in the 17th century
+export of soy-sauce overseas was commenced by the dutch east india company in 1647.
+it is said that soy-sauce was used in court cooking in the reign of louis xiv(the king of france).
+japanese soy-sauce in france was described in "encyclopedia,or a systematic dictionary of the sciences,arts,and crafts" (1765).
+according to the record at that time,to prevent corruption of soy-sauce,soy-sauce was firstly boiled,and was poured into a ceramic bottle,being sealed with bitumen.
+the bottle which was used to keep soy-sauce was a ceramic bottle called the 'conpra bottle,' and many 'conpra bottle' still exist.
+the appearance of koikuchi(dark-colored)soy-sauce and usukuchi(light colored)soy-sauce
+the main stream of japanese soy-sauce was the tamari soy-sauce until the early edo period.
+main production regions were concentrated in the kinki region mainly including yuasa town which was stated above and sanuki province(hiketa town,shodo-shima island).
+however,it took three years from starting production to shipment of tamari soy-sauce,and the amount of production couldn't meet the demand.
+around the 1640's,edo and around edo which was one of the places where soy-sauce was consumed the most because of its large population,the idea of 'koikuchi soy-sauce' which took a year to make came out.
+in 1666,magoemon-chotoku maruo created 'usukuchi soy-sauce' in present day tatsuno city,hyogo prefecture.
+soy-sauce in modern japan
+after the meiji period,the government introduced 'soy-sauce tax' taking advantage of soy-sauce as a necessity of life,whereas modernization of brewing technology and formation of business organizations proceeded.
+the 'soy-sauce tax' lasted until taisho period.
+after world war ii was over,soybeans,a main ingredient of soy-sauce,were not sufficiently supplied due to food shortages,and production of soy-sauce in japan faced a crisis situation.
+it is said that the general headquarters of the allied powers did not understand the importance of soy-sauce,and instructed soybeans to be hydrolyzed for efficient production of soy-sauce.
+for this reason,the method to use a hydrolyzed solution of soybeans for soy-sauce was introduced as a desperate measure,and production of soy-sauce using this method continued for a while after world war ii.
+as food supply was improving,the original method to produce soy-sauce came back,and the method to produce soy-sauce using the amino decomposition method is hardly used today.
+as low-salt food or westernized diets are getting popular,domestic soy-sauce consumption tends to be on the decrease.
+on the other hand,export of soy-sauce was on the increase due to reasons such as increase of japanese travelers overseas and japanese diets as a healthy diet became popular abroad.
+responding to such demand,kikkoman corporation constructed soy-sauce factories in the united states,and soy-sauce has been loved as an international seasoning.
+various soy-sauce
+japanese soy-sauce
+japanese soy-sauce has a long history.
+soy-sauce with a distinct flavor and rich tasting has been developed.
+according to japan agricultural standards(jas),soy-sauce is categorized into five types by production method,raw materials,and characteristics; 'koikuchi,' 'usukuchi,' 'tamari,' 'saishikomi' (soy-sauce brewed in soy-sauce again)and 'shiro' (white soy-sauce).
+soy-sauce is described as 'shoyu.'
+koikuchi soy-sauce
+koikuchi soy-sauce is the most common soy-sauce developed in kanto region.
+it makes up about 90%of soy-sauce output;generally,the term of 'soy-sauce' refers to koikuchi soy-sauce.
+it is used for seasoning various dishes.
+you can take the soy-sauce available in restaurants as koikuchi soy-sauce.
+the ratio between soybeans and wheat of raw materials of soy-sauce is half-and-half.
+the production area is noda city or choshi city,chiba prefecture,and shodo-shima island in kagawa prefecture.
+usukuchi soy-sauce
+usukuchi soy-sauce has a weaker flavor with a lighter color compared with those of koikuchi soy-sauce;however its salt concentration is high.
+it is believed that usukuchi soy-sauce was created by magoemon-chotoku maruo in tatsuno in 1666.
+one characteristic is that the wheat as a raw material is roasted slightly less compared with that of koikuchi soy-sauce,and it contains sake.
+it was originally consumed only in tatsuno,and shipment of it to kyoto went into full swing in the middle of the 18th century.
+it was commonly used ever since then.
+usukuchi soy-sauce is preferably used for soup,boiled food,and udon(japanese wheat noodles)soup as it makes the color and flavor of food easily alive.
+less rice malt and high ratio of salt water are added when preparing it.
+amazake(sweet mild sale)may be added before compression.
+since the highest emphasis is placed on the color of usukuchi soy-sauce,the one with dark color which was oxidized has a low value.
+therefore,the period until the expiration is shorter than that of koikuchi soy-sauce.
+tamari soy-sauce
+its flavor and color are rich.
+it is suitable for the soy-sauce for sashimi(raw fish),or sauce for cooking teriyaki(grilled meat or fish marinated in sweetened soy-sauce).
+it is mainly made from soybeans,and none or only a small amount of wheat is used to make it.
+its main production regions are tokai and kyusyu regions.
+saishikomi
+it is also called the kanro shoyu(sweet soy-sauce),and its flavor and color are rich.
+it is said that saishikomi was created in yanai city,suo province during the tenmei era(1781-1789).
+it is suitable for sashimi or sushi.
+non-heat-treated soy-sauce or soy-sauce are used in the preparation process instead of salt water.
+in general,moromi(unrefined soy-sauce)of usukuchi soy-sauce is used.
+shiro
+its color is light,and the color looks like the color of fish sauce(soy-sauce-like fish sauce)nam pla rather than that of soy-sauce.
+it tastes very salty and slightly sweet.
+it is good for boiled food.
+it is mainly made from wheat,and little of soybeans are used to make it.
+since the highest emphasis is placed on the lightness of its color,and therefore the period until the expiration is even shorter than that of usukuchi soy-sauce.
+reduced-salt soy-sauce,low-salt soy-sauce
+these soy-sauces are with lower ratio of salt,compared with that of general soy-sauce.
+reduced-salt soy-sauce is designated as 'special-use food' for patients with cardiac disease,kidney disease,etc.,by the ministry of health,labor and welfare.
+the salt content of reduced-salt soy-sauce is 9%,which is a half of that of general soy-sauce.
+the salt content of low-salt soy-sauce is 13%,which is 80%of general soy-sauce.
+there are two production methods;removing salt content from soy-sauce using ion exchange method and diluting thick soy-sauce.
+konbu kelp soy-sauce,sashimi soy-sauce,seasoning soy-sauce,tosa soy-sauce,etc.
+these soy-sauces are liquid seasonings that emphasize flavor,based on soy-sauce,with stock made from konbu kelp,stock made from dried bonito flakes,sweetener such as syrup,stevia added.
+there is no public standard,and therefore one 'sashimi soy-sauce' of one manufacturer may differ in taste from that with the same name of another manufacturer.
+soy-sauce abroad
+soy-sauce has been available in various parts of the world since japanese diets as a healthy diet became popular.
+soy-sauce is exported to more than 100 countries,and its output reaches to 140 thousands kiloliter per year.
+big manufacturers locally produce soy-sauce.
+seasonings similar to soy-sauce in other asian countries are also called soy-sauce in english regardless of production region or type.
+醤油soy-sauce(china)
+there is '醤油jiàngyóu' of china made from soybeans.
+the color of soy-sauce(china)is dark since soy-sauce(china)is mainly intended to be used to add color rather than flavor or taste to food.
+there are two types of soy-sauce; 'lao cho' (a chinese soy-sauce)which is creamy and mild; 'sheng cho' (a chinese soy-sauce)which is salty with lighter color.
+kanjan(a korean soy-sauce)(south korea)
+kanjan(a korean soy-sauce;kanjan means 'salted food')is the soy-sauce of korea.
+kanjan is darker than japanese soy-sauce in color,and it is usually blended and used with other seasonings as yangnyeom.
+it is used for sashimi for dipping or putting as in japan.
+kecap manis(sweet soy-sauce)and kecap asin(salty soy-sauce)(indonesia and malaysia)
+liquid seasonings made from soybeans have been used in indonesia and malaysia in history.
+they are represented by kecap manis(sweet soy-sauce,manis of kecap manis means 'sweet')and kecap asin(salty soy-sauce,asin of kecap asin means 'salty').
+kecap manis is creamy,sweet and salty seasoning with dark color.
+kecap asin is salty bland seasoning with lighter color.
+see ew(soy-sauce of thailand)
+in thailand,fish sauce(soy-sauce-like fish sauce)nam pla is often used;the soy-sauce, 'see ew,' made from soybeans is also used to season fried food.
+among them 'see ew dam' (sweet soy-sauce of thailand)and 'see ew kao' (spicy soy-sauce of thailand)are well known.
+soy-sauce(hawaii)
+in hawaii where many japanese people once emigrated and many japanese descendents currently live,original soy-sauce is produced.
+the soy-sauce in hawaii is similar to japanese soy-sauce;it is characterized by plain and salty taste with a slight soybean flavor.
+difference in preferences for soy-sauce
+soy-sauce has been developed over a long period of history to meet the demands of food culture according to region,and tendencies on physical aspect and sensual aspect vary in each region.
+localization of soy-sauce is closely connected to food culture in local regions,and it is not directly associated with the quality.
+in regions where separate soy-sauces are used,there are large differences in soy-sauce.
+for instance,koikuchi soy-sauce in the kinki region is particularly dark-colored in general.
+meanwhile,usukuchi soy-sauce is used to season boiled food or soup so that the flavor of soup stock wouldn't be spoiled.
+hokkaido and tohoku regions
+in the hokkaido and tohoku regions,soy-sauce is used in accordance with the food culture of the kanto region.
+in some parts within the region,the food culture using fish sauce(soy-sauce-like fish sauce)such as shottsuru fish sauce in akita exists.
+in akita,dashi-shoyu(soy-sauce broth)is preferably used.
+wadakan corp.and tohoku shoyu inc.are leading soy-sauce manufacturers in those regions.
+eastern japan
+in eastern japan,only koikuchi soy-sauce is basically used.
+this enhanced the requirement for the quality of koikuchi soy-sauce,thus,soy-sauce with light reddish color with excellent flavor and light texture became popular.
+kikkoman corporation,yamasa corporation,higeta shoyu co.,ltd.,and shoda shoyu co.,ltd.are leading soy-sauce manufacturers in this region.
+tokai region
+in the tokai region,separate soy-sauces are used for different purposes;koikuchi soy-sauce is for general purpose,usukuchi soy-sauce is used for boil food and soup,tamari soy-sauce is used for sashimi.
+the production region(mainly in hekinan city,aichi prefecture)of shiro soy-sauce is in the tokai region,which is highly used at home.
+yamashin co.,ltd.,ichibiki co.,ltd.,sanbishi co.,ltd.,morita co.,ltd.and sanjirushi corp.are leading soy-sauce manufacturers in this region.
+hokuriku region
+the soy-sauce in the hokuriku region is with the high ratio of mixed method,and it tastes sweet though not to the extent of the soy-sauce in kyusyu region.
+for koikuchi soy-sauce,it is lighter in color(the color is between the koikuchi soy-sauce in the kanto region and the usukuchi soy-sauce in the kansai region).
+usukuchi soy-sauce is also used.
+naogen inc.,yamato soy-sauce&miso co.,ltd.and fujigiku shoyu are leading soy-sauce manufacturers in this region.
+western japan
+in western japan,koikuchi soy-sauce is used for sashimi(tamari soy-sauce is also used for it),and usukuchi soy-sauce is used for boiled food and soup;the way of using separate soy-sauces is similar to that of the tokai region.
+shiro soy-sauce is also used.
+usukuchi soy-sauce is highly used,and the competition between soy-sauce manufacturers is intense.
+for that reason,preferences for particular manufacturers such as 'soy-sauce other than that of higashimaru shoyu co.,ltd.is not used' are seen in some restaurants in the kanto region as well as restaurants in the kansai region.
+higashimaru shoyu co.,ltd.and marukin chuyu co.,ltd.are leading soy-sauce manufacturers in this region.
+kyusyu region
+in kyusyu,koikuchi soy-sauce is darker than that of the kanto region.
+the soy-sauce which is less stimulating(it is described less pungent compared with the koikuchi soy-sauce in kanto)in dark color and with rich flavor is preferred.
+it is also characterized by higher ratio of mixed fermented method and mixed method(described above).
+creamy soy-sauce called 'sashimi soy-sauce,' to which sweetness and savoriness is added,is also used.
+the 'sashimi soy-sauce' has a feature of particular 'fitness' for fatty sashimi.
+fundokin shoyu.co.,ltd.,nibishi co.,ltd.,fujijin co.,ltd.and so on are the leading soy-sauce manufacturers.
+okinawa region
+in okinawa prefecture,soy-sauce was not mainly used since soup stock from konbu(a kind of kelp used for japanese soup stock),fish,pigs was often used to get savoriness.
+however,soy-sauce has been commonly used as the food culture has changed after the war.
+soy-sauce from manufacturers in other prefectures such as kikkoman corporation and yamasa corporation are mainly available in okinawa.
+small manufacturers such as akamarusou co.,ltd.are within okinawa prefecture.
+soy-sauce with citrus fruits marinated is popular.
+production method of soy-sauce
+basic production method(honjozo[authentically-brewed],koikuchi soy-sauce)
+soy-sauce produced within the nation is mainly honjozo,and koikuchi soy-sauce makes up most of it.
+the condition of 'honjozo' includes that rice malt which was created using aspergillus oryzae after steaming crops including soybeans,wheat and rice,is mixed with salt water or kiage(raw soy sauce)for ferment and maturation.
+adding steamed rice or sweet sake or enzyme such as cellulose in order to facilitate decomposition to rice malt is allowed.
+protease is exception.
+requirements for special grade by japan agricultural standard contain the item of 'it must be honjozo,' which means the special grade soy-sauce must be 'honjozo' soy-sauce.
+the process of soy-sauce production is as follows.
+raw material process
+soybeans(or defatted soybeans)are soaked,and they are steamed under pressure when they are swollen.
+wheat are smashed and made into rough flour after being roasted.
+pay attention to heat conditions.
+because,remaining soybean protein in the final process leads to turbidity in products(in heating),and raw starch in wheat are unable to be consumed as source of nutrient by general soy-sauce yeasts.
+production process
+manufacturing process of koji(rice malt):add seed malt to the mixture of steamed soybeans and smashed wheat with the mix ratio of 1:1,and produce soy-sauce malt through culture of it for three to four days under high humidity.
+aspergillus oryzae;mainly aspergillus sojae,sometimes aspergillus oryzae,is used.
+preparation process(the early stage):it is referred to as the 'preparation process' to add salt water to soy-sauce malt,and to move it to a brewing tank while breaking and mixing the whole malt.
+the mixture of malt and salt water is called the moromi(unrefined soy-sauce).
+enzyme from malt decomposes protein to amino acid,and decomposes starchiness to sugar.
+preparation process(the middle stage):fermentation by microorganism occurs in moromi.
+firstly,lactic acid was generated by lactobacillus(tetragenococcus halophilus),and the entire moromi became acid.
+secondly,alcoholic fermentation by yeast(zygosaccharomyces rouxii)occurs.
+most constituents of the flavor of soy-sauce are generated during this process.
+preparation process(the late stage):this is referred to as the 'ripening process,' and is the process to mature taste and flavor.
+active fermentation doesn't occur,and relatively quiet reactions such as aminoglycoside reactions are continued instead.
+flavor elements by candida yeast are generated during this process.
+regarding usukuchi soy-sauce,amazake(sweet mild sale)or malted rice may be added in the end of preparation process.
+compression process:moromi is wrapped in 'straining cloth' made of strong materials such as nylon,and is weighted to separate liquid from solid.
+the liquid is 'non-heat-treated soy-sauce' and the solid is 'soy-sauce cake.'
+fat from soybeans is separated and floats on the surface of the liquid during this process.
+this fat is called the 'soy-sauce fat.'
+the soy-sauce fat is not able to be used for food as it was generated through decomposition or oxidization using microorganisms.
+thus,manufacturers often have difficulty with disposal of soy-sauce fat as it doesn't have much utility value.
+heating process:non-heat-treated soy-sauce obtained in the compression process has a lot of proteins including various enzymes absorbed in the brewing process.
+heating this causes proteins to be heat-denatured and to be insoluble,resulting in a precipitate.
+heating process also adds scorching smell to the product,which kills microorganism.
+plate heaters and so on are usually used to avoid applying too much heat to products.
+when heat history is high,the color of a product becomes blackish,and its scorching smell would be too strong.
+clarifying and filtering process:remove the precipitate,and use diatomite filtration and precise filtration to remove insoluble solids such as a denatured protein contained in soy-sauce.
+turbidity in soy-sauce product leads to product accidents from the quality aspect.
+during this process,non-heat-treated soy-sauce is separated into 'heat-treated soy-sauce,' and 'sediment' which was left after removing precipitate and filtering.
+packing process:perform quality governing to heat-treated soy-sauce,and pack it in containers for commercialization.
+soybeans as raw materials
+for soy-sauce brewing, 'defatted soybeans' are mainly used.
+defatted soybeans may be called the processed soybeans for brewing.
+in general,they are generated as a subsidiary product when fat is produced from soybeans.
+the label describing 'soybeans' as a raw material refers to the unprocessed soybeans,the whole soybeans.
+when defatted soybeans are used,the label is indicated as 'defatted soybeans.'
+when whole soybeans are used as raw materials,many unprocessed fats from them are separated during the preparation process,and float over moromi making a fat film as it was prescribed in the paragraph of the preparation process.
+manufacturers supporting whole soybean soy-sauce advocated 'the fat film from the soy-sauce avoids oxidization of moromi' and 'glycerin decomposed from fat changes the flavor of the soy-sauce.'
+on the other hand,some point out that no big difference is seen in an analysis and a sensory test,and it is hard to determine 'whole soybean soy-sauce is tasty,' causing a controversy.
+fast brewing method by adding enzyme
+the technology of adding enzyme reagent in the early period of the preparation process shortens the brewing period.
+however,using this technology disables to use terms such as 'natural' or 'raw' on product labels as it is not meeting the industry standard of central fair trade control of soy-sauce manufacturing industry.
+mixed fermented method,mixed method
+both the mixed fermented method and mixed method use hydrolyzed vegetable protein resulted from neutralization by sodium hydroxide after raw materials are processed by hydrochloric acid.
+due to amendments to japan agricultural standards(jas)in 2004,among the methods, 'new type brewing method' (former name),the method of mixing to moromi is determined as 'mixed fermented method,' and the method of mixing to kiage soy-sauce and 'amino acid adding method' (former name)were determined as 'mixed method.'
+today,produced soy-sauce is largely honjozo.
+hydrolyzed vegetable protein has a special flavor and taste,and the mixed fermented method and mixed method are still used in the regions where those methods are preferred.
+mixed fermented method
+add hydrochloric acid to the raw materials for hydrolyzed solution,and hydrolyzed vegetable proteins are obtained.
+the method to neutralize this by sodium hydroxide and make it mature with moromi is called the 'mixed fermented method.'
+mixed method
+the method to produce a product by mixing hydrolyzed vegetable protein to kiage soy-sauce(squeezed liquid from moromi).
+the completion of maturation is not considered.
+additive
+preservative
+sodium benzoate or sodium methyl p-hydroxybenzoate that are with high antifungal effect are generally used for soy-sauce.
+some high-value-added products don't use sodium benzoate.
+alcohol
+in the case where sodium benzoate as preservative is not used,an antifungal effect from alcohol may be used.
+in the case where alcohol is added for antifungal effect,quality preservation of a product tends to be shorter than the case where sodium benzoate is added.
+sweetener
+licoriceare,stevia,high fructose corn syrup,saccharin are generally used.
+they soothes salty taste,and makes it mild.
+caramel
+caramel is added to make it blackish.
+special sweetness and flavor are added.
+seasoning(amino acid,etc.)
+sodium glutamate or nucleotide flavor is added to emphasize flavor.
+instruments
+kaibo stick
+it refers to a bar used to stir in a tank when soy-sauce or sake is produced.
+preservation of soy-sauce
+soy-sauce is not perishable even at normal temperature as it contains plenty of salt and alcohol.
+however,it is recommended to keep it in a refrigerator,being sealed and kept from oxygen.
+if it is left with oxygen,its flavor weakens as volatile components volatilize.
+especially,in the case where sodium benzoate as a preservative is not contained,a white film of yeast(film yeast)may be developed all over the soy-sauce.
+the reality of such film yeast is zygosaccharomyces rouxii,the same type as the main fermenting yeast of soy-sauce,which is the so-called 'mold of soy-sauce.'
+it is not harmful,but the flavor of soy-sauce is deteriorated,and the taste of soy-sauce is also deteriorated as it consumes sugar.
+in addition,the color of soy-sauce becomes blackish;the maillard reaction is proceeded by oxidization
+incidentally, 'long-term brewing' doesn't always mean high quality as deterioration proceeds also during the brewing period.
+soy-sauce manufacturer
+in recent years,japanese domestic manufacturers have decreased rapidly.
+it is said that they were over 2000 companies 20 years ago,and today,they are less than 1500.
+in the context of this,the price of soy-sauce is low and unstable,big manufacturers entered the markets in local regions,and the disposal cost of subsidiary products,and maintenance fee soared;small and tiny companies in the local regions have been closing their business.
+commoditization of soy-sauce as a product has proceeded,and profits gained from soy-sauce are generally low compared with other foods.
+whereas,requirements from the aspect pf hygiene are getting higher from year to year,and regulations regarding waste are stricter than ever.
+in particular,manufacturers that omit the manufacturing process of koji which requires energy cost,or that omit the preparation process which requires costs for labor and location and the disposal cost for soy sauce fat and soy sauce cake are on the increase.
+there are some cases:the case where processes until the manufacturing process of koji are outsourced;the case where non-heat-treated soy-sauce supplied by large manufacturers is used for heating and packing,omitting processes until the preparation process;the case where orders are placed to large manufacturers as oem.
+several manufacturers may work together as a cooperative association to found a factory where the manufacturing process of koji and preparation process are performed.
+middle and small manufacturers in local regions are closely related to the food culture in the local regions,and they are missed and asked to keep on their businesses from the aspect of preservation of culture.
+by prefecture,chiba prefecture,where large manufacturers;kikkoman corporation(noda city),yamasa corporation,higeta shoyu co.,ltd.(choshi city)are located accounts for 34%,hyogo prefecture where higashimaru shoyu co.,ltd.(tatsuno city)is located accounts for 16%,occupying the majority by them;the third is aichi prefecture(5%),the fourth is kagawa prefecture(4.5%),and so on.
+the names of many soy-sauce manufacturers begin with 'kikko xx' such as kikkoman corporation.
+evaluation of soy-sauce
+the quality of soy-sauce is evaluated by 'color,' 'flavor' and 'taste.'
+high brewing technology,brewing control,hygiene control,and maintenance management are required to produce high-quality soy-sauce.
+the color of soy-sauce
+the 'color' of soy-sauce varies according to maturing period or temperature in processes;its color;from light bronzed close to clear,to dark red brown close to black,exists.
+since soy-sauce contains rich amino acid and sugar,its color tends to be dark due to melanoidin generated from maillard reaction in the process apart from oxidation,heating,volatilization of constituents.
+generally,the soy-sauce in light reddish color is considered good,and high technology from the manufactural side and managerial side is required to produce such soy-sauce.
+in some regions,koikuchi soy-sauce in darker color may be especially preferred.
+the flavor of soy-sauce
+the 'flavor' of soy-sauce refers to 'top note';sensation of smell,and 'flavor';sensation of taste.
+most of the fragrant constituents are generated from yeasts including alcohol.
+organic compounds generated through strecker degradation from maillard reaction and scorching smell generated in the heating process are critical elements that feature soy-sauce.
+the oxidation in soy-sauce proceeds after being preserved for a long time,and the soy-sauce may gain a smell called the 'deterioration smell.'
+it may have a smell of decay from bacteria or miso-like smell resulting from the failure in hygiene control in the manufacturing process.
+taste of soy-sauce
+soy-sauces contain salt,savoriness,and sweetness.
+salt comes from the salt of raw materials;savoriness mainly comes from amino acid,and sweetness comes from sugar.
+amino acid was generated through decomposition of proteins from soybeans by enzyme generated by rice malt such as protease or amylase.
+sugar was generated through decomposition of starch from wheat.
+sensory evaluation of soy-sauce
+soy-sauce is evaluated mainly in color,flavor,taste by 'tasting.'
+the soy-sauce, 'the one in light reddish color,with fragrance and good taste,' is considered high-quality.
+generally,sweet fragrance like that of flower or fresh fragrance are considered good.
+however,some products have a 'bad smell' like that of damp-dried wiping cloth or of sweat.
+some are with the smell of 'rice malt,' 'miso' or 'alcohol.'
+the incense that is considered 'good smell' becomes a problem when it is too strong;the balance in smell depends on manufacturers.
+rating by jas(japan agricultural standards)
+jas(japan agricultural standards)rates soy-sauce according to the amount of contained nitrogen,unsalted soluble solid contents(extract),and alcohol as quality standards.
+the most important indicator among them is the entire nitrogen as the indicator of the grade of 'savoriness.'
+standard(koikuchi 1.2%or higher,usukuchi 0.95%)
+high-grade(koikuchi 1.35%or higher,usukuchi 1.05%)
+special grade(koikuchi 1.5%or higher,usukuchi 1.15%)
+apart from jas,the standard determined by japan soy-sauce association is as follows.
+premium quality;10%extra of special grade added(koikuchi 1.65%,usukuchi 1.265%)
+the best quality;20%extra of special grade added(koikuchi 1.8%,usukuchi 1.38%)
+the following indications can be used according to the agreement by central fair trade control of soy-sauce manufacturing industry.
+the high ranking soy-sauce is indicated as 'josen,' 'ginjo,' 'yusen,' 'yuryo.'
+the special ranking soy-sauce is indicated as 'tokugin,' or 'tokusei.'
+in case of 'the best quality' (1.2 times of premium quality)determined by japan soy-sauce association,it is indicated as 'noko' (thick).
+soy-sauce and microorganism
+aspergillus oryzae
+among molds,aspergillus oryzae is used for producing rice malt.
+both aspergillus oryzae and aspergillus sojae are used for soy-sauce brewing,and taxonomically,aspergillus oryzae is categorized into aspergillus flavus and aspergillus sojae is categorized into aspergillus parasiticus.
+both aspergillus flavus and aspergillus parasiticus are known as toxic molds that the produce deadly poison,aflatoxin.
+aspergillus oryzae and aspergillus sojae that are used for industrial purposes never produce aflatoxin during the brewing process.
+as a result of the research stated below,it was identified that the aflatoxin biosynthesis pathway of aspergillus oryzae doesn't function.
+it was because strains that didn't have aflatoxin biosynthesis function were chosen when high-quality aspergillus oryzae strains were gained from natural aspergillus oryzae,or aflatoxin biosynthesis function was assumed to be lost resulting from selection and breeding over hundreds years.
+yeast
+the yeasts that perform alcoholic fermentation in the middle of preparation process are called the 'main fermenting yeast.'
+in the past,the main fermenting yeast was categorized into halotolerant saccharomyces,but today,it is categorized into zygosaccharomyces rouxii.
+white molds that grow on old soy-sauce are the same kind as that.
+the yeasts that mildly produce fragrant constituents in the late stage of the preparation process are called the 'ripening yeast.'
+they are mainly candida yeast such as candida versatilis.
+lactobacillus
+in the past,it was considered as pediococcus lactobacillus,and it was categorized into pediococcus halophilus or pediococcus sojae.
+as a result of categorization by dna homology,it was identified to be the same kind as halotolerant lactic acid bacteria separated from anchovy or kimchi,and today,it is categorized into tetragenococcus halophilus.
+soy-sauce and japanese dishes
+soy-sauce is an essential seasoning for japanese cooking,and the invention of koikuchi soy-sauce in the edo period played a critical role for subsequent development of japanese cooking.
+it may be no exaggeration to say that dishes created in edo such as sushi,soba(japanese wheat noodles),kabayaki(grilled dish with sweetened soy-sauce),tenpura(deep-fried vegetables and fish with seasoned coating)would not exist without the invention of koikuchi soy-sauce.
+edo dishes,typical japanese dishes,are closely related to koikuchi soy-sauce.
+various theories regarding soy-sauce
+soy-sauce is made out of human hair
+in japan,due to supply shortages,producing food out of various raw materials was attempted from the taisho period to the early showa period.
+various raw materials as raw materials of soy-sauce were considered,and original products with advantages and disadvantages were produced.
+they are called the alternative soy-sauce.
+fish and shellfish,seafood,marine alga,chrysalis of silkworm,and baleen as raw materials were used.
+typical manufacturing method is to gain neutralized hydrolyzed vegetable protein through hydrolyzed solution of raw materials of proteins.
+there is a vulgar belief that wasted hair or blood of cows were used.
+in present day japan,there is a rumor as a urban legend that amino acid from human hair as a raw material of soy-sauce is used.
+however,plant-origin proteins are exclusively permitted by act for standardization and proper labeling of agricultural and forestry products or quality labeling standard except for carry-over;use of animal proteins such as human hair is prohibited.
+in addition,producing amino acids out of human hair requires extremely high cost and results in inefficient production when comparing collecting human hair to purchasing defatted soybeans.
+from the legal aspect,the product made out of amino acids from human hair can not be called 'soy-sauce' in present day japan.
+the illicit manufacture of soy-sauce in people's republic of china never ceased despite the prohibition by the government.
+drinking soy-sauce keeps one from going off to war
+it is said that some people actually drank a large amount of soy-sauce on the day before the induction exam in order to become ill and to evade military service when the conscription system was implemented.
+since soy-sauce contains a high concentration salt,it surely causes abnormal values in the exams for renal function and liver function if one drinks a large amount of soy-sauce.
+it is said that this act caused an irreversible disease or even a death due to acute presentation.
+using soy-sauce causes cancer
+it was a vulgar belief that was spread in the period from 1965 to 1974.
+it is not well-grounded,but the rumor that aspergillus oryzae produces aflatoxin seems to be based on the vulgar belief that 'taking a large amount of soy-sauce causes illness due to overdosing salt.'
+large manufacturers take two weeks to produce soy-sauce.
+it's theoretically impossible for honjozo soy-sauce to be produced within two weeks as it is unable to use the mixed fermented method and the mixed method.
+in the case where it is kept under relatively high temperature for two weeks after starting the preparation,moromi is liquefied by enzyme of aspergillus oryzae.
+it is not fragrant,and is dark in color,and the yield decreases as the fermentation process by microorganisms was omitted.
+when using the fast brewing method by adding enzyme that was mentioned earlier,the brewing period can be shortened to about one month.
+however,this method is not widely used;soy-sauce brewing is not nearly so simple that the brewing is finished when the raw materials are decomposed by enzyme reactions.
+museum institutes
+marukin chuyu memorial hall(shodo-shima island town)
+usukuchi tatsuno shoyu(light-colored tatsuno soy-sauce)museum(tatsuno city)
+yuasa soy-sauce museum

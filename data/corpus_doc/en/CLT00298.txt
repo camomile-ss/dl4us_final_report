@@ -1,0 +1,324 @@
+jiuta
+jiuta is a musical piece with shamisen(a three-stringed banjo-like japanese musical instrument)that was played in the areas of kyoto and osaka.
+it's a song of a local area(i.e.,the kyoto/osaka area)as opposed to an edo song.
+it's also called a hoshiuta(song by a buddhist priest)because it was written and taught by people who were blind.
+along with nagauta(a long epic song with shamisen accompaniment),it is a traditional form of japanese music that represents 'utaimono' (a musical piece that emphasizes the melody instead of the lyrics).
+furthermore,it is one of the sankyoku(instrumental trios).
+it has the longest history even among the many shamisen musical numbers that exist,and it is the origin of many shamisen musical compositions.
+nagauta and various schools of joruri(dramatic narrative chanted to a shamisen accompaniment),such as gidayubushi,are considered to have developed originally from jiuta.
+among the many pieces of modern traditional japanese music that developed in association with stage entertainment,such as ningyo joruri(traditional japanese puppet theater)and kabuki,jiuta is relatively independent from stage entertainment.
+summary
+initially,jiuta was established as a music that used shamisen in the area of kyoto and osaka.
+it was also played in edo until the genroku era.
+after that,it transformed into nagauta as an accompaniment to kabuki dance in edo.
+however,with the popularization of joruri music such as katobushi,jiuta in its original form was gradually played less and less.
+by the end of the edo period it was played mainly in kyoto and osaka,as well as in areas ranging from nagoya in the east and chugoku and kyushu in the west.
+after the meiji period it expanded again to tokyo with the ikutaryu school of so(koto,or japanese zither)music,and it spread quickly.
+today it's popular throughout the country except for okinawa.
+however,in tokyo it has a strong image as an accompaniment to 'kamigatamai' (dance developed in kyoto and osaka)in tokyo.
+therefore,it is often considered to have the graceful atmosphere of jiutamai(jiuta dance).
+however,jiutamai was created by adding dance movements to jiuta,so jiuta was not composed initially for the dance.
+moreover,the numbers played as jiutamai are only a part of the jiuta that have been passed down.
+when all the musical compositions of jiuta are considered,they are the most technical pieces among shamisen music,and many pieces emphasize their the instrumental characteristics.
+meanwhile,within the world of sankyoku focus is placed on 'tegotomono,' in which the instrumental aspect developed during the edo period and which was also influenced by the western music that was introduced since the meiji restoration.
+however,the jiuta that developed as an 'utaimono' also has the aspect of traditional vocal music.
+generally,in the world of jiuta and sankyoku shamisen is often referred to as sangen(three strings).
+history
+the early edo period
+introduction of shamisen and the origin of jiuta
+jiuta is considered to have started at nearly the same time as the introduction of shamisen.
+therefore,among shamisen music it has the longest history.
+a chinese stringed instrument called the sangen was introduced to sakai,osaka,through ryukyu toward the end of the warring states period(japan).
+the blind musicians(biwa hoshi)of todo-za(the traditional guild for the blind),who were passing down heikyoku(a narrative music for the tale of the heike played with a heike biwa(a japanese lute used to play the tale of the heike)),perfected the shamisen as an instrument.
+jiuta,as a form of sangen music,is considered to have started when shamisen took the form of being played with the plectrum used to pluck the biwa.
+kengyo(the highest title of official rank within the todo-za)ishimura,in particular,is said to be the patriarch of the rise of shamisen music.
+after that,jiuta was composed,played and passed down mainly by the blind musicians of todo-za.
+the oldest group of songs that still exist is 'shamisen kumiuta' (for example, 'ryukyu gumi' (ryukyu group)and 'hinda gumi' (hinda group)),which was completed early in the edo period.
+the middle edo period
+the stagnation of kumiuta and the origin of nagauta
+these take the form of a number of short songs that have been combined.
+however,people eventually grew tired of them,and by the genroku era 'nagauta' pieces,which have consistent themes throughout the songs,were composed.
+it seems that this was started by the kengyo in edo.
+kengyo asari and kengyo sayama are among the famous composers.
+later,songs were written in the area of kyoto and osaka.
+furthermore,nagauta became an accompaniment to kabuki dance in edo,and it developed into nagauta.
+sakura zukushi' (cherry trees for circle), 'konkai,' 'kodojoji' (kodojo-ji temple)and 'hana no en' (flower festival)are among the best-known numbers.
+the start of tegotomono
+however,from this time on the composition of not only songs but also pieces with instrumental music sections between songs emerged,such as 'sarashi' (bleached cloth), 'sandan jishi' (triple lion)and 'rokudan renbo.'
+this section is called 'tegoto,' and this type of music is called 'tegotomono.'
+at first there were only a few tegotomono numbers,and musically speaking most of them were relatively simple.
+however,great progress was made during the latter part of the edo period,and they became the representative form of jiuta composition.
+the origin of hauta and their popularity
+in addition,many pieces that weren't included in these categories were composed.
+they are called 'hauta,' but they are different from edo hauta(there are some numbers that incorporate hauta of jiuta).
+hauta included music for the masses,including some popular songs.
+they had the elements of light music,and they served as a point of contact between jiuta and songs that were popular among the masses.
+there were some songs composed not only by professional blind musicians but also by amateur music fans.
+generally,many of the pieces tend to be lyrical.
+by the mid-18th century a large number of hauta pieces had been composed,mainly in osaka.
+they were refined by people such as koto(the third title of official rank within the todo-za)tsuruyama,kengyo fujinaga and kengyo masajima,and became very popular.
+koto minezaki's 'yuki' (jiuta)(snow),written toward the end of the century,is famous as a masterpiece of hauta-type jiuta.
+other well-known pieces include 'kurokami' (black hair), 'tsuru no koe' (voice of a crane), 'kosu no to' (the reed screen), 'ashikari,' 'yukari no tsuki' (familiar moon), 'sode no tsuyu' (dew upon the sleeve), 'kiku no tsuyu' (dew on chrysanthemum), 'otoshi bumi' (letter dropped on the road), 'nagoya obi' (nagoya kimono sash), 'tsuyu no cho' (dew butterfly)and 'sode koro' (sleeve censer).
+sankyoku and sankyoku ensemble
+the jiuta shamisen,so(koto)and kokyu(chinese fiddle)were originally musical instruments in which the blind musicians of todo-za had specialized since the early edo period.
+collectively,they are called sankyoku.
+music for these instruments,known respectively as jiuta,sokyoku and kokyugaku,was established and developed.
+in terms of the genre,they were treated as separate musical forms,even if the performer was the same.
+therefore,at the beginning the different instruments weren't played together in ensembles.
+however,during the genroku era an ensemble of sangen and so(koto)was started by kengyo ikuta of kyoto.
+consequently,jiuta and sokyoku began to develop together.
+many of the songs that have been passed down to the modern age were composed using sangen,and the so(koto)was added later.
+it is considered that jiuta was established as a sangen music,while sokyoku developed at about the same time or thereafter.
+however, 'danmono' of sokyoku had sangen added to it later,and there are other pieces in which kokyu music was added to sangen.
+an ensemble with kokyu also(koto)was frequently performed,and an ensemble of the three instruments of sangen,so(koto)and kokyu--that is,sankyoku--emerged,being known as the sankyoku ensemble.
+in such an environment,jiuta developed as sangen music.
+the beginning of utaimono and absorption of various forms of joruri
+at the end of the 18th century koto fujio of owari composed many pieces to which verses from noh(classical japanese musical drama)were added.
+these are called 'utaimonno,' and pieces such as 'yashima,' 'mushi no ne' (sound of insects)and 'fuji daiko' (fuji drum)are well known.
+many pieces that used noh were composed from this time on.
+moreover,beginning in the genroku era handayu bushi(a style of joruri created by edo handayu)and eikan bushi of joruri were added to jiuta.
+furthermore,in the latter half of the 18th century shigetayu bushi was integrated into jiuta,and even the kengyo began to compose joruri pieces.
+well-known pieces include 'kamiji' and 'hashizukushi.'
+therefore,jiuta is also related to theater music.
+the origin of sakumono
+concurrently,a genre called 'sakumono' with comical content was born.
+it is called 'odokemono' (jokers),and examples such as 'kyoku nezumi' (musical mice) 'tanishi' (mud snail)and 'tanuki' (raccoon dog)have contents that feature animals that use their wits to overcome obstacles.
+others include 'kankatsu ikkyu' and 'naniwa juni tsuki.'
+it has a strong narrative aspect,and because it uses imitative sounds it can be said that this a unique genre within jiuta.
+it has been passed down among the jiuta and sokyoku musicians of kansai.
+it is also performed at shows by other musicians,such as those of the miyagi school.
+it requires an extremely rich variety of techniques,and it isn't an exaggeration to say that any one piece is challenging.
+the late edo period
+the perfection of tegotomono
+thus high-quality musical pieces were composed from the middle to late edo period.
+particularly,instrumental parts were improved.
+many pieces called tegotomono that have long instrumental sections between the sections with lyrics(called tegotomono)have been passed down.
+the person who perfected tegotomono was koto minezaki,who was popular in osaka during the late 18th century.
+he left many hauta masterpieces,including 'yuki' (snow),as mentioned earlier.
+however,he also wrote many pieces such as 'zangetsu' (a morning moon), 'echigo jishi' (lion of echigo), 'azuma jishi' (lion of azuma)and 'ume no tsuki' (plum moon)in which the tegotomono is long and technical,and in which the shamisen is a featured instrument.
+his junior musician,koto mitsuhashi,is also known for composing 'shochikubai' (pine,bamboo and plum blossoms)and 'nebiki no matsu' (pine seedlings).
+mitsuhashi increased the number of tegoto within his compositions,making them even longer and richer in variation.
+thus jiuta evolved to have a strong instrumental aspect.
+the start of kaede shiki sokyoku(so(koto)music with accompanying melodic style)and ensemble development
+in or around the bunka era,kengyo ichiura of osaka changed the so(koto)ensemble,which had been played almost in unison.
+he began to create so(koto)parts with melodies that were different from the shamisen parts.
+this is called 'kaede shiki sokyoku,' and it was further refined by people such as kengyo yaezaki.
+ensembles of shamisen also became popular.
+many 'kaede' pieces were written that differed from the original scores but with parts that had complex ensemble effects.
+also,various ensembles developed along with the sankyoku ensemble,such as 'uchiawase,' which combined a separate piece that could be played together with the original number.
+great progress in kyomono
+later,the mainstream composition of tegotomono moved to kyoto.
+first of all,kengyo matsuura created many tegotomono pieces to which the refined kyoto style was added.
+from then on,tegotomono jiuta written in kyoto was called 'kyomono' or 'kyoryu tegotomono' (kyoto-style tegotomono).
+furthermore,kengyo kikuoka(1792-1847)wrote many tegotomono pieces in kyoto.
+for most such pieces,kengyo yaezaki(1776-1848),who was successful during the same period,wrote the so(koto)parts.
+these pieces developed as jiuta and sokyoku ensembles,and the golden age of jiuta arrived.
+at the same time,jiuta and sokyoku became nearly inseparable.
+other than that,koto ishikawa of kyoto left pieces such as 'yaegoromo' (an eight-fold garment)and 'shin aoyanagi' (new green willow),which were extremely long and required very complicated techniques.
+additionally,kengyo mitsuzaki wrote masterpieces such as 'nanakomachi' and 'yoyo no hoshi' (stars in the night).
+at this time jiuta reached the point in shamisen technique where no further improvement could be made.
+improvement of the plectrum
+it was from the bunsei era to the first year of the tenpo era that 'tsuyama bachi' (tsuyama plectrum),a form of plectrum still widely used in jiuta today,was invented by kengyo tsuyama in osaka.
+the insipient movement toward sokyoku's independence
+kengyo mitsuzaki,a musician junior to kengyo kikuoka,was active during this period.
+he was also a disciple of the so(koto)expert yaezaki.
+he turned to so,which still had room for improvement,as opposed to jiuta,which had little room for dramatic development because it was already highly refined as a form of musical composition.
+therefore,he composed a number of pieces for so.
+thus sokyoku again began to develop on its own.
+it was then passed on to kengyo yoshizawa,and the development gradually took on this trend.
+the closer coupling of parts
+kengyo mitsuzaki left traditional tegotomono jiuta masterpieces such as 'sakuragawa' (sakura river), 'yoyo no hoshi' and 'nanakomachi.'
+however,in many of his original pieces he composed both the shamisen and so(koto)parts on his own for the first time.
+thus the parts became fixed but closely coupled,and the music reached a high degree of perfection as an ensemble form.
+this trend was passed down to his juniors,and similar works were created by kengyo ikuyama and kengyo yoshizawa.
+ikuyama's 'hagi no tsuyu' (dew on the bush clover)is known as the masterpiece of masterpieces.
+yoshizawa took one step further,and in numbers such as 'tamakushige,' he composed the three parts of shamisen,so(koto)and kokyu by himself.
+moreover,at the end of the edo period jiuta became popular not only in kyoto,osaka and nagoya but also in chugoku and kyushu,and numbers unique to the region were composed.
+after the meiji period
+confusion after the restoration and the spread of jiuta
+during the meiji period sokyoku developed on its own,and fewer jiuta compositions were created.
+obviously,jiuta composition didn't disappear entirely;numbers were written by people such as takisai furukawa and shunei matsuzaka in kyoto,kagekatsu komatsu in nagoya and tokumoichi nishiyama in okayama.
+however,so-only pieces became overwhelmingly dominant.
+the reasons for this phenomenon include the following:
+jiuta music had already been perfected.
+so(koto)was more receptive to accommodating the elements of western musical scales and ming and xing-era chinese music(as popularized in japan before the first sino-japanese war).
+compared to shamisen,which was musically associated with love and red-light districts,the sound of so was considered to match the bright,fresh mindset of the era.
+furthermore,todo-za was disbanded by the new government.
+a significant change that occurred in this period was the loss of musical activities that had been protected by a privileged system.
+thus the kengyo,who had lost authority,became hard-pressed.
+they even had to perform at yose(storytelling theaters)in order to make money.
+however,jiuta spread to the general public this way.
+particularly,along with the ikuta school of sokyoku,it was an opportunity for jiuta to spread again to tokyo and eastern japan,where jiuta had lost popularity since the middle edo period.
+there were many performers such as yukiteru nagatani,shunsho tomizaki,chikatoshi yonekawa,satoko kawase,eika fukuda,hanatoshi kaneko and yukihiro nakashio,who had moved to tokyo from kyushu,osaka and various parts of western japan.
+once the period of the spread of exclusively western culture was over,jiuta,along with sokyoku and shakuhachi(japanese bamboo flute),spread throughout japan to become home music,and they became popular.
+however,so(koto)became mainstream,and the composition of jiuta alone became rare.
+nevertheless,some jiuta-like numbers and pieces that used jiuta shamisen are created today by people such as michio miyagi.
+furthermore,ensembles that go beyond shamisen music(such as seiho kineya's 'sangen quartet' and 'sonata for two kinds of sangen' by bondai fujii)have been created.
+it has become more common for sankyoku ensembles to use shakuhachi instead of kokyu so that they consist of sangen,so(koto)and shakuhachi.
+today they are often performed in this manner.
+musical characteristics
+many pieces are reflective(introspective).
+many pieces were written by blind composers.
+thus it's considered that the majority of pieces express emotional content instead of visual substance.
+moreover,they have developed as pure music independent of theater.
+consequently,in general there are many expressions that are introspective and delicate,while dramatic expressions are rare.
+polyphonic and varied ensemble methods are well developed.
+among the modern traditional forms of japanese music they have the strongest instrumental ensemble aspect,and many are played in the ensemble fashion.
+with the development of 'tegotomono' there emerged ensembles that were complex and polyphonic.
+there are various ensemble techniques,such as jiawase,danawase,uchiawase,honte kaede ensemble and sankyoku ensemble.
+most pieces have so,kokyu and shakuhachi parts that can be played together.
+furthermore,many pieces employ shamisen kaede.
+there is a very strong element of instrumental music.
+tegotomono,which has long instrumental sections,is played most often,and the repertoire contains many pieces.
+for such pieces,more emphasis is placed on the 'tegoto' instrumental section than on the song.
+furthermore,depending on the piece,various shamisen techniques are employed,such as tonal ranges exceeding three octaves.
+instrumental pieces exist,though they are few in number.
+seiran,' 'junidan sugagaki' and 'yodanginuta' are examples of such pieces.
+furthermore, 'danmono' pieces,which belong to the instrumental genre of sokyoku,have been arranged for shamisen.
+there are many pieces that demonstrate parnassian artistry in the form of pure music,having transcended the simple illustration of nature or the effusion of emotions.
+shamisen techniques
+a large range of sounds is used.
+many few pieces use up to three octaves,particularly the 'tegotomono' numbers.
+pieces that use the widest range of tones can cover three and one-third octaves.
+overall,they require fine technique.
+they make use of many ornamental techniques,such as 'suri,' 'uchiyubi' and 'otoshibachi,' which are portamento methods that make use of the resonance created by the left hand.
+in tegoto,the sound form created by small,continuous and alternating up-and-down movements of the bachi is often used.
+additionally,special techniques such as 'gyakuhajiki,' 'surite' and 'bachi keshi' are sometimes used.
+these sounds are often used as onomatopoetic techniques to emulate sounds such as the wind and insects.
+as opposed to theatrical shamisen music such as nagauta and gidayubushi,virtually no dramatic expression,such as a forceful slapping of the bachi on the strings,is seen.
+key changes occur frequently,as do changes in tuning.
+any little piece usually contains a sectional key change.
+in numbers exceeding medium length there are frequent key changes.
+normally,the key changes to a dominant key or to a subdominant key,but in works by people such as kengyo matsuura unique key changes can be seen.
+the tuning methods include the key of c,ni agari,key of g,ichi sagari(san agari)(one note below base tuning,three notes up from base tuning),honchoshi,ni agari,san kudari,roku kudari and taka san kudari.
+in most of the medium-length pieces,at least one tuning change occurs.
+in long pieces,most often tuning takes place twice,but in many pieces it occurs three times.
+however,there are pieces in which no tuning takes place even if they are long,such as "yaegoromo."
+in such pieces the left-hand positioning is used for frequent tuning.
+on the other hand,tuning can occur in hautamono pieces such as "ukifune" (a drifting boat),even though they're short pieces.
+the purpose of tuning is to change keys but also to seek a change of mood through the use of resonance.
+examples of tuning
+for example,a sequence could be the key of g-key of c-san kudari-honchoshi,as in "toru."
+key of c-san kudari,in pieces such as "isochidori" (beach plover),and "shiki no nagame" (viewing the four seasons).
+key of c-honchoshi,in "ume no tsuki," for example.
+key of c-ichi sagari(san agari)-honchoshi,in "sakuragawa," for example.
+key of c-ichi sagari(san agari)-honchoshi-ni agari,in pieces such as "shochikubai" and "nebiki no matsu."
+honchoshi-ni agari,in pieces such as "azuma jishi" and "kajimakura" (ship rudder as pillow).
+honchoshi-san kudari-honchoshi-ni agari,in pieces such as "tamagawa" (tama river), "onoe no matsu" (pine tree on mountain)and "tama kushige."
+honchoshi-ni agari-taka san kudari,in pieces such as "shin aoyanagi," "sasa no tsuyu" (dew on bamboo leaf), "uji meguri" (uji tour)and "nanakomachi."
+san kudari-honchoshi,in "hagi no tsuyu," for example.
+san kudari-honchoshi-ni agari,in "nagara no haru."
+san kudari-ni agari,in "omokage," for example.
+roku kudari-san kudari,in "cha ondo" (tea song),for example.
+singing techniques
+many pieces emphasize the melody.
+songs are usually written so that one syllable is held long and the vowels have various melodies.
+particularly in hautamono numbers there are many songs that focus on interesting fushimawashi(intonations).
+furthermore,even in tegotomono numbers there are songs that emphasize the song's melody.
+the melody of the song is based on the intonation of the dialect in kansai,where jiuta originally developed.
+songs have a wide range of tones.
+the range usually covers two octaves.
+depending on the piece,there are those in which the high register is dominant while others are predominantly in the low register.
+this depends on the content,such as whether a song has a feminine content or whether it's for a memorial.
+there is virtually no narrative.
+there is a bit of narrative in "toru," but this is actually an addition of 'shiragoe' (plain voice)of heikyoku.
+other than that,pieces that have narratives are extremely rare.
+there is very little dramatic expression.
+it originally developed independent of the theater,and therefore dramatic expressions are rare.
+others
+among the modern traditional japanese music that uses sangen,it is unique because the performer sings as he or she plays the musical instrument.
+because it was popular in the kyoto and osaka area,it was called kamigata.
+furthermore,because it was passed down among the blind people of todo-za it was also called hoshi uta(because the blind people of todo-za,such as the kengyo,shaved their heads and wore uniforms called 'kengyo fuku' resembling the robes of buddhist monks,and therefore they looked like buddhist priests;but in performances other than heikyoku it is considered that they often dressed in a combination of a haori and a hakama with a family crest,as the formal attire of ordinary citizens).
+after the mid-edo period jiuta,sokyoku and kokyugaku,collectively called sankyoku,began to share common pieces for ensembles.
+they gradually became one,and by the latter half of the edo period they became inseparable.
+furthermore,after the late edo period sokyoku,which until this point had developed as an addition to jiuta,began to surpass jiuta.
+therefore,jiuta is sometimes considered to be a part of sokyoku.
+however,jiuta songs were composed originally as sangen miscues.
+therefore,numbers such as 'rokudan no shirabe' (music of six steps), 'hachidan no shirabe' (music of eight steps)and 'midare' (one of the best-known classical works for so(koto))are early sohonkyoku(numbers originally created for so(koto),but they can also be played in ensembles with sangen and kokyu).
+however,numbers such as 'chidori no kyoku' (a song for plover)' and 'aki no kyoku(autumn fantasy)are sohonkyoku('chidori no kyoku' is also a kokyuhonkyoku(a number originally created for kokyu))from the latter half of the edo period.
+therefore,they can't be called true jiuta.
+furthermore,jiuta shamisen can also be used as an accompaniment to kokyuhonkyoku.
+the classification of song types
+an extremely large number of songs exists for jiuta,and because of jiuta's long history there are pieces from various trends.
+therefore,the songs are categorized by various ways other than simply their musical forms.
+accordingly,a single piece can be listed under various groupings.
+for example, 'shin aoyanagi' is a tegotomono as well as a kyomono and a utaimono,but it can also be counted as one of the ishikawa no mitsumono(three songs composed by ishikawa).
+as another example, 'shochikubai' is a tegotomono,as well as an osakamono and shugimono,and it's one of the juni kyoku(twelve songs).
+there are categories that aren't necessarily used in every school.
+those that are based on musical composition
+shamisen kumiuta(a group of songs created by combining several short,simple songs or a group of songs composed in such a way;this is the oldest group of jiuta songs that are currently passed down only in limited schools).
+nagauta(a group of songs that have a consistent theme;many such songs are long)
+hauta(a group of miscellaneous songs;most tend to be short and lyrical)
+utamono(as opposed to tegotomono,this is a group of musical pieces that are only songs;if tegoto is included,then it's very short and the emphasis is placed on singing)
+tegotomono(a group of musical pieces that have genuine tegoto)
+danmono(numbers that were originally sokyoku)
+kinutamono(a group of musical pieces that came from and then developed from the sokyoku entitled 'kinuta')
+kigakukyoku(numbers that are played only with musical instruments but without songs;danmono and kinutamono are also included)
+those that are based on the places from which they came
+utaimono(a group of songs whose lyrics are partially extracted from noh verses,and the lyrics remain in nearly their original form)
+handayumono(pieces that came from handayu bushi of joruri)
+shigetayu bushimono(a group of pieces that come from joruri's shigetayu bushi,or those composed in that style)
+those that are based on the content and melody
+sakumono(a group of musical pieces with comical content;many of them have tegoto)
+shishimono(a group of musical pieces that are majestic and gorgeous,and with 'jishi' in their titles;they all belong to tegotomono)
+dojojimono(a group of music associated with dojo-ji temple)
+renbomono(a group of songs that have 'renbo' in their titles;they're songs that cheerfully describe love)
+shugimono(a group of festive musical pieces composed for celebrations such as weddings)
+tsuizenmono(a group of songs composed for memorial services of the deceased)
+fushimono(a group of songs that emphasize the lyrics)
+onryomono(a group of songs with vengeful ghosts as their themes)
+tsukushimono(a group of songs in which the words consist of a string of specific kibutsu(bowls,containers,utensils or tools),utamakura(place names used in japanese poetry,which have special meanings,moods,seasons or other references to history associated with them)or place names that are the themes of the songs;the titles usually end with 'tsukushi')
+those that are based on the places where they were composed
+the characteristics of style are included.
+osakamono(tegotomono composed in osaka)
+kyomono(tegotomono composed in kyoto)
+nagoyamono(a group of musical pieces composed by kengyo yoshizawa and those who belonged to his school)
+kyushumono(numbers composed in kyushu)
+those that are based on the teaching system
+tehodokimono(pieces for beginners)
+yurushimono(permitted pieces)
+mitsumono(three songs)
+junikyoku(a collective term for the 12 pieces that were particularly valued in osaka)
+those that are based on their composers
+matsuura no yotsumono(the four great masterpieces among the works by kengyo matsuura)
+ishikawa no mitsumono(the three great masterpieces among the works by koto ishikawa)
+miyagikyoku(a group of works composed by michio miyagi)
+those that are based on their uses
+shibaiuta(a group of songs that are used as accompaniments to theatrical plays)
+those that are based on tuning
+honchoshimono
+ni agarimono
+san kudarimono
+those that are based on the ensemble
+danawasemono(among the numbers that have tegoto separated into multiple dan(steps),a group of musical pieces composed so that the different dan can be played together)
+uchiawasemono(a group of pieces that are usually performed different musical pieces together;it is comprised of a main piece and the other pieces composed as suitable for the ensemble)
+characteristics of jiuta shamisen(sangen)
+it belongs to the chuzao(medium-neck)group,but the jiuta shamisen's neck and body are slightly larger than those of the medium-size shamisen of joruri.
+however,there are few schools that use the yanagawa shamisen(kyo shamisen),which is even slimmer than the narrow-necked shamisen.
+furthermore,often the strings used are of a heavier gauge than the ones used for nagauta.
+in a regular shamisen,the upper face of the neck gradually curves down to the area where the neck meets the body(this form is called 'hato mune' (pigeon breast)).
+the jiuta shamisen,however,has an upper face that is configured in such a way that it maintains its height until it meets the body.
+this design enables high notes to be played,up to two-and-a-half octaves above the open strings(in other types of shamisen,one and one-fifth or one and one-sixth octaves).
+it is said that the person who invented this design was yukiteru nagatani(1843-1920),a jiuta performer of the kyushu school who was active in kumamoto and tokyo during the meiji period.
+high positions are often used in the jiuta numbers of tegotomono,and this design enables high notes to be played more clearly.
+later,this design was used in the shamisen used for traditional folk songs,such as the tsugaru shamisen.
+the koma(bridge)is often made of water-buffalo horn,but on rare occasions it is made of ivory or tortoise shell.
+those made with metal weights(gold,silver or lead)embedded in two sections on the back side(the side that's in contact with the leather)are often used.
+the amount of weight affects the sound,and therefore jiuta performers usually use koma of various types depending on the character of the instrument,the tension in the leather,the weather and the melody of the music.
+the person who improved the koma is also said to be yukiteru nagatani.
+those that were originally used in the kyushu school gradually spread.
+in kansai,a type of koma called 'daibiro' was often used;made of water-buffalo horn and without any weights,it was designed with a large base.
+in any case,the koma for jiuta is very important in determining the sound.
+as far as that point is concerned,it can be said that it's the most highly developed among the bridges used in the world's acoustic stringed instruments.
+in many schools a large plectrum called 'tsugaru bachi' is used.
+it was improved by kengyo tsuyama of osaka sometime during the bunsei era to the first year of the tenpo era.
+from the part where there is a sudden flare,the plectrum quickly decreases in thickness and quickly thins toward the outer edge.
+because the plectrum has a large spread,the tip is sharp and has extra flexibility,and it is suitable for fine techniques.
+as the string is struck,the plectrum is made to touch the wooden case of the body so that the sound from the plectrum doesn't become too loud.
+this is also done to create a delicate sound.
+these arise from the musical characteristics of jiuta.
+jiuta is enjoyed as a pure music,focusing on the sound and savoring the quality of the sound within the room,instead of as an accompaniment to a play or a dance performed in a large venue such as a theater.
+as for the materials,those made entirely of ivory are considered best,and they're called 'marubachi' (rounded plectra).
+other than that,those whose handles are made of ivory and have plectrum tips made of tortoise shell are also frequently used.
+in the past,many of them had handles made of water-buffalo horn.
+of course,ivory and tortoise shells are scarce today,and consequently plectra made of synthetic resin are often used during practice.

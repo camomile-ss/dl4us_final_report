@@ -1,0 +1,32 @@
+gun-ku-cho-son henseiho(the law for reorganization of counties,wards,towns and villages)
+gun-ku-cho-son henseiho(the law for reorganization of counties,wards,towns and villages)was the law regarding a japanese local government system,established in 1878.
+history
+this law,one of the so-called three new bills related to the local government system,was enacted as dajokan fukoku or tasshi(edict or proclamation of the grand council of state)no.17 in july 22,1878.
+it was introduced to review the previous daiku-shoku sei(a centralized district system that abolished all pre-existing towns,villages and their offices and institutions),which had been unpopular as the system did not meet local circumstances.
+by 1900,gun-ku-cho-son henseiho was abolished or revoked one after another in every prefectures since 1888 when shi sei(a system of cities)and cho son sei(a system of towns and villages)were enacted and 1890 when fu ken sei(a system of prefectures)and gun sei(a system of counties)were enacted(precisely enforced in accordance with the supplementary provision in gun sei).
+contents
+it consisted of six articles and later nine articles after three articles were added by dajokan fukoku no.14 of 1880.
+it abolished the traditional daiku-shoku sei and established counties,wards,towns and villages in their place(article 1).
+the names and territories of counties,towns and villages established in the edo period could continue to be used(article 2).
+countries
+large counties were divided(article 3)and a guncho(county mayor)was placed by county(the first part of article 5).
+when the county was small,one guncho governed multiple counties(the latter part of article 5).
+an office of a county was called "gunyakusho" (county office)although it was not specified in the law.
+the guncho was appointed by the government.
+wards
+wards were established within counties exclusively in the three urban prefectures,treaty port cities and densely-populated areas,and multiple wards were placed in large densely-populated areas(article 4).
+a kucho(ward mayor)was assigned in each ward(article 5).
+like a guncho,the kucho was appointed by the government.
+regarding the three largest cities,according to the major city population statistics before a census was started,tokyo had 15 wards including kojimachi ward,and osaka had four wards;higashi ward(osaka city),nishi ward(osaka city),minami ward(osaka city)and kita ward(osaka city),and kyoto had two wards;kamigyo ward and shimogyo ward.
+as for other cities,a ward was placed in each city;nagoya city,kanazawa city,hiroshima city,wakayama city,yokohama city,sendai city,sakai city,fukuoka city,kumamoto city,kobe city,niigata city,okayama city,nagasaki city,hakodate city,akamagaseki city and sapporo city.
+(two wards in hokkaido were established in 1879 while the others in the previous year of 1878.)
+and the reason is unknown why wards were established in the low population cities such as akamagaseki ward(20,966 people)and sapporo ward(2,678 people)while no wards were done in the cities with a relatively large population such as toyama,kagoshima,fukui and tokushima.
+towns and villages
+a kocho(head of towns and villages)was assigned in towns and villages.
+in some cases,the kocho governed several towns and villages.
+as for towns and villages within wards,the kucho can be concurrently engaged in the kocho's role(article 6).
+the kucho was elected by the public and then appointed by the prefecture governor.
+purpose of the system
+this law restored the traditional county,town and village system for the convenience of the public as well as granted a certain level of local autonomy by introducing the public election for the kocho.
+meanwhile,it aimed to maintain the centralized government system by placing the guncho and kucho,who were appointed by the government,in a higher position than the kocho,while putting them under the control of the prefecture governor,who was appointed likewise and directed by the prewar ministry of home affairs.
+it was meant to establish the centralized administrative framework through the so-called "hamlet demise," which was not accomplished due to a strong connection local communities had.

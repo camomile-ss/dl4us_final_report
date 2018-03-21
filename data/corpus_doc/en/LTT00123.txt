@@ -1,0 +1,437 @@
+nihonshoki(chronicles of japan)
+nihonshoki(also referred to as yamatobumi)is a japanese history book established in the nara period.
+it is the oldest existing official history in japan,and the first of rikkokushi(the six national histories).
+selected by imperial prince toneri,et al.,it was completed in 720.
+it covers from japanese mythology to the era of emperor jito.
+it takes the form of classical chinese and is in chronological order.
+thirty volumes in total plus one volume of genealogy.
+the genealogy has been lost.
+process of establishment
+background of establishing nihonshoki
+unlike "kojiki" (the records of ancient matters), "nihonshoki" does not describe the background of its establishment.
+however,the later-established "shoku nihongi" describes how "nihonshoki" was established.
+an article by mizunoto-tori,may 720 in "shoku nihongi" describes as follows:
+先是一品舎人親王奉勅修日本紀至是功成奏上紀卅卷系圖一卷.'
+what this means is as follows(for the reason why the title is "nihongi" instead of "nihonshoki," refer to the title):
+nihongi has been edited at the behest of ippon(first order of an imperial prince)imperial prince toneri,now it is completed and thirty volumes of the history and one volume of genealogy are compiled and offered to the emperor.'
+reliability of description
+in the articles of emperor an in "jin shu" (history of the jin dynasty),a history book in china,there is a description on wakoku(japan)in 266,and also another description that wakoku paid a tribute in 413.
+during this period,there is no description in history books in china and no record of archeology,so that it is called 'the mysterious fourth century.'
+judging from johyobun(memorial to the emperor)of the five kings of wa,an inscription of the mirror of sumidahachiman-jinja shrine,and an inscription on an iron sword which was excavated from inariyama-kofun tumulus in saitama prefecture,et al.,it is thought that characters were used in japan in the fifth century.
+however,it is not clear whether characters were always used for recording in the imperial court in those days.
+some people say that the discovery of kinsakumei tekken(an iron sword with gold-inlaid inscriptions)made the existence of the emperor yuryaku certain and that the traditions around him,especially after emperor nintoku,has an reality to some extent.
+on the other hand,there is another cautious opinion that because the kojiki and the nihonshoki,and "joguki" (record of the crown prince)can not be relied on completely from the viewpoint of positivism,the names and family trees of okimi(king)before the emperor keitai are unreliable.
+according to the inscription of kinsakumei tekken discovered from inariyama-kofun,it is true that local gozoku(local ruling family)in the middle of the fifth century made a family tree for eight generations.
+however,it is not certain whether it is historically accurate or not.
+in the same way,it is not certain that it recorded the facts accurately about the ancestors of the imperial family before the latter part of the fourth century.
+there is the following description on the eastern barbarians in the 46th of heroes' biographies of the 81st volume of "zuisho" (the book of the sui dynasty).
+無文字唯刻木結繩敬佛法於百濟求得佛經始有文字.'
+they do not have characters.
+they only cut wood and tie ropes.
+after they admired buddhism and got buddhist sutras in baekje,they received characters for the first time.
+based on this description,there is a theory that characters probably began to be used commonly in the imperial court around 600 during the era of prince umayado(prince shotoku)and that there were no records of characters around the time of the enthronement of emperor keitai,which was only remembered as a tradition by the people of the yamato dynasty.
+in today's researches,the descriptions on the events before the emperor keitai in "kojiki" and "nihonshoki," especially the year of edition,are thought to be inaccurate.
+this can be guessed by the fact that there are three kinds of descriptions on the year of emperor keitai's death in "kojiki" and "nihonshoki" and that the editor of "shoki" adopted the theory of 531 based on a foreign material, "original records of baekje."
+there were various family trees of the past imperial family such as "joguki" which recorded the family tree of the emperor keitai and others before the establishment of national history by prince shotoku which does not exist now.
+however,these are not accurate because only the names of legendary people were written as ancestors on various family trees.
+some people say that "joguki," "kojiki," and "nihonshoki" were written based on these.
+if "joguki" was established around 600 in the era of empress suiko,the year when emperor keitai(king ohodo)died,that is,531,was 70 years earlier than that.
+in addition,it is thought that "teiki" (a genealogy of the imperial family)and "kyuji" (a record of stories current at court)which were the basic historical materials for the compilation of kojiki and the nihonshoki were established around the seventh century.
+in "nihonshoki" there is a following record of 620, '是歲皇太子,島大臣共議之錄天皇記及國記臣連伴造國造百八十部并公民等本記' (the prince referred to prince umayado(prince shotoku)and shima-daijin referred to soga no umako).
+there are few reasons for the assumption that the yamato dynasty at that time had accurate and enough records which could contribute to the compilation of history books.
+even if that compilation had been true,it is guessed that it had to have largely relied on oral traditions.
+in addition,according to "nihonshoki," most of the history books, "kokki" (a national record)and "tennoki" (a record of the emperors),which were written by prince shotoku et al.,were burnt down when soga no emishi and soga no iruka were killed,but others which escaped the fire were presented to the emperor tenchi.
+moreover,at one time the three books of baekje(百済三書)were regarded to be edited in baekje during the era of king widok in the latter part of the sixth century in order to submit to the king of wa(japan)from necessity for diplomatic policy against wakoku.
+it was thought that the editor of nihonshoki put a high value on those original texts.
+therefore,it was firmly believed that if descriptions of nihonshoki based on the three books of baekje were strictly chosen and combined,the real figure of the relationship between japan and korea could be objectively restored.
+however,among those descriptions which were considered to be highly reliable,there are a lot of words of king of baekje which show that he was a 'follower' who protected the emperor as follows;he governs 'the people' of the emperor and 'allotted' land,his country is a country of 'miyake' which makes 'cho' (tributes)and serves the emperor and he hopes that the emperor will make kaya countries which were originally 'allotted' land of the emperor but 'invaded' by silla 'belong to the home place again' by an imperial order.
+in another part,there is a description that says the king of baekje was 'given' the land of north jeolla province by the emperor.
+among the three books of baekje, "original records of baekje" has the largest amount of records.
+many descriptions of "the keitai section" and "the "kinmei section" based on it turn out to be nonsense without the assumption that the 'japanese emperor had a large land in the korean peninsula.'
+a description that says 'original records of baekje wrote that alla is the father country and japan is the home country' shows, 'the japanese mimana government' is also described in it.
+the directly controlled territory 'around 370' in the picture of 'the shrinking process of the territory of minama' in japan was determined by studying a story of 'the present' to king baekje and an old place name of the 'allotted' land which king silla invaded and putting the border on the most northerly line.
+that directly controlled territory was a vast area including jeolla-do,the southern half of chungcheong-do and the western half of gyeongsang-do.
+those depend on the three books of baekje and therefore,they have been relied on for a long time.
+however,it became clear that the common view which had been believed in japan was wrong.
+in "records of baekje" which was cited for the notes of "the jingu section" and "the ojin section," there are descriptions such as 'silla did not serve "貴国." "貴国" dispatched sachihiko and made him conquer,' 'akueo立つ,but "貴国"に礼なし,' and(manchi mokura) 'came to our country,and went and came to "貴国," and '"貴国" of japan.'
+the previous japanese scholars thought wrongly that this "貴国" showed 'your country.'
+all explanations were based on this.
+however,in the text of nihonshoki,japan is called '貴国' even in the conversation between third parties.
+the term "貴国" refers to the 'noble country' or 'divine land' reigned by the 'august emperor' or 'saint king.'
+the consciousness of 'shinkoku' (divine land)controlled by 'a living god' appeared in the same period of the appearance of the terms of 'japan' and 'emperor' in the text of the three books of baekje and it was the era of the emperor tenmu.
+it is thought that it not only didn't exist in the latter part of the sixth century but also in the era of 'the empress suiko.'
+today,the actual condition of the three books of baekje is thought of as follows.
+it is guessed that the original form of the text of the three books of baekje went back to the history books of the baekje dynasty.
+it is thought that the royal family and nobles of baekje who moved to japan after it was subverted from the end of the seventh century to the beginning of the eighth century compiled the history book of their home country again and presented it to the government of the emperor.
+and the compiler of nihonshoki greatly arranged this.
+even if 'the original text' of the three books of baekje went back that far,terms and meanings have to be understood in the context of the japan of '交' in the seventh and eighth centuries and it is impossible to quickly go back to the contents of the original history book of baekje.
+it is very difficult to guess the background of the records when those were described.
+anyway,the meanings of '交' in the seventh and eighth centuries have to be cut off overwhelmingly and the probability has to be guessed only by objective facts with taking enough precaution against the legitimization of the baekje dynasty side.
+this is because all royal family and nobles who were exiled after the end of the seventh century were organized as the followers of the emperor.
+it can be thought that there was a 'small baekje country' of 'king baekje' who was installed as hanpei(protector of the emperor)by the 'emperor' at the kudara county of nanba until the middle of the eighth century.
+it is totally impossible to understand the descriptions of nihonshoki based on the three books of baekje without regard to the backgrounds such as the period under the system of the japanese nation under the ritsuryo codes,the position as a follower of the emperor who led the compilation,and the expectation to maintain their political status.
+the land which was 'given' to king baekje by the emperor was a vast area from hongseong,yugu,and gongju in chungcheong-do to the watershed areas of yeongsan river and seomjin river in jeolla-do.
+this almost corresponded to the territory of the nation which king baekje had reigned independently and legitimately when baekje was subverted.
+however,the royal family and nobles of baekje of '交' who stayed in japan in the seventh and eighth centuries stood on the position of followers who have had to express it as a delegation of the sovereignty by the emperor.
+it is completely a fictional history which gives substance to these ideas and considers that 'goryeo,baekje,silla and minama' were 'the country which had a local government(官家)' that had land given by japan(元) 'as followers of海表' ("the keitai section").
+there is no disparity in saying it as 'a small empire of eastern barbarians' which has 'directly controlled territory' and 'a protected state.'
+since it is thought that some historical materials related to korea in nihonshoki were confused or forged,there are so many opinions.
+some questions arise against the descriptions of the korean peninsula in nihonshoki.
+kenichi kamigaito has pointed out that it is common knowledge that it was compiled in order to raise the authority of yamato and there are many fictional elements related to the korean peninsula.
+he pointed out that as background reference,there was a need to save dignity at least in words because nihonshoki was compiled soon after japan was defeated by silla at the battle of hakusukinoe.
+koichi yamauchi has pointed out the following;the yamato dynasty positioned silla of the korean peninsula as a 'barbarian country' by the recognition of the world which put itself on the center and despised surrounding countries and the sinocentrism which were introduced by china.
+and since such recognition of the world also existed in silla which accepted chinese civilization,it was merely a subjective recognition.
+ren'an shen,a chinese scholar,verified the reliability of nihonshoki,and as a result,he has pointed out that it is not wrong to correct the descriptions of nihonshoki with samguk sagi(history of the three kingdoms)which is the official history of korea.
+hideo suzuki has pointed out the following;after the defeat at the battle of hakusukinoe,the vision to see silla as a 'barbarian country' by the japanese nation under the ritsuryo codes in the eighth century exaggerated the fact that 'japanese followers of alla' were controlled by king baekje and that the dispatched army of the yamato dynasty was a kind of 'mercenary' of baekje,and as a result,the historical idea centering on the existence of a 'japanese government at minama' and the subordinance of baekje and 'minama' which were '官家' of the yamato dynasty was established when "ninhonshoki" was compiled.
+kojiro naoki has pointed out the following;as opposed to yamato which lost everything,silla defeated even the tang and achieved the integration of korea,so that yamato had a sense of crisis while it learned about advanced political systems and culture from the silla.
+the nationalism caused by such a sense of crisis appeared visibly at the time of compilation of nihonshoki.
+toshikazu hori has pointed out that there is a description on 'paying tribute to the court' by korean countries in nihonshoki,but all people coming from other countries were considered to be paying tribute to the court in chinese consciousness.
+title
+there is a theory that the original name was "nihongi" and another that it had been "nihonshoki" from the start.
+the theory of "nihongi" emphases that there is no character of 'sho' (書)in the above description on mizunoto-tori(kiyu),june 720 in "shoku nihongi" but characters for nihongi.
+in china,history books written in kidentai(biographical historiography)were called 'sho' (such as "kanjo" (historical records of the han dynasty), "gokanjo" (historical records of the later han dynasty)),while other history books in which the reign of the emperor was recorded in chronological order were called 'ki' (紀)(such as "records of the han dynasty" and "records of later han").
+if following this usage,it can be guessed that "nihonshoki" was named "nihongi" because it belonged to 'ki.'
+it is said that the fact that any of "shoku nihongi," "nihonkoki" (later chronicle of japan),and "shoku nihon koki" (later chronicle of japan continued)does not have the character for 'sho' in the title,supports this theory.
+in this case,the character for 'sho' can be regarded as being added in later years.
+the theory of "nihonshoki" emphases that the term of "nihonshoki" was used in old manuscripts and all historical sources around this time of establishment,that is,the nara period and the beginning of the heian period.
+for example,the term of "nihonshoki" appears in some documents such as the preface of "koninshiki" and 'engikoki' (延喜講記)which was cited from "shaku nihongi" (annotated text of the nihon shoki).
+the first appearance is regarded to be in 'koki' (ancient records)of "ryonoshuge" (commentaries on the civil statutes).
+koki' is regarded to be established in 738.
+the chinese history books such as "kanjo" and "gokanjo" which "shoki" referred to were usually called 'sho' as a whole including 'ki' in some parts.
+therefore,supporters of this theory guess that the existing "shoki" was named "nihonshoki" because it corresponded to the 'ki' of "nihon-sho," following the naming of chinese history book.
+in addition,some researchers think that "nihongi" is a different book from "nihonshoki."
+in "manyoshu" (collection of ten thousand leaves)both titles were used.
+source materials
+the materials of nihonshoki are classified into historical materials which became the authority of contents and chinese classic books(sangokushi(three kingdom saga),kanjo,gokanjo,huainanzi(the masters/philosophers of huainan)and so on)which became the authority on rhetoric.
+furthermore,it is thought that historical materials include the following.
+teiki(records of emperor's family tree)
+kyuji(mythical tradition)
+the records of ancestors which were transmitted by various clans(epitaph)
+the stories which were transmitted in local regions(fudoki(description of regional climate,culture,etc.))
+government records
+individual notes("iki no muraji hakatoko no fumi" (the book of iki no muraji hakatoko), "naniwa no kishi ohito no fumi(the book of naniwa no kishi ohito)(難波吉士男人書),and "korai samon doken nippon seiki" (高麗沙門道顯日本世記),("the diary of ato no sukune no chitoko" and "the diary of tsuki no muraji omi" which appear in "shaku nihongi"))
+engi(writing about the history)of temples
+overseas(especially in baekje)records("records of baekje," "the new selection of baekje" (百済新撰),and "original records of baekje")
+others
+in addition,according to "nihonshoki," "tennoki" (a record of the emperors),and "kokki" which were regarded to be compiled by prince shotoku and soga no umako in 620 were older history books,but they were burnt at the isshi no hen(the murder in the year of isshi)in 645.
+"nihonshoki" records many heresies in the form of notes which added to the main text.
+it is said that the descriptions of 'a book says' show that the defunct books written heresies were used for the compilation of "nihonshoki."
+in addition,although some articles of "nihonshoki" were cited from other books,their titles were not usually clear and only phrases such as 'a book says,' 'another book says' or 'an old book says' were written.
+however,the titles of some books were clearly written and some articles were cited from those books as follows,but none of which exist now.
+"old records of japan" (may 477)
+"korai samon doken nippon seiki" (june 660,may and november 661 and november 669)
+"iki no muraji hakatoko" (july 659 and june 661)
+"naniwa no kishi ohito no fumi" (july 659)
+"records of baekje" (may 247,march 250,april 277,in 294 and 476)
+"the new selection of baekje" (july 458,july 461 and in 502)
+"original records of baekje" (march 509,july 513,march 515,december 531 and april 544)
+"fudai" (hereditary)(a record before the enthronement of the emperor kenzo)
+"shin kikochu" (in 267)
+policy of compilation
+the compilation of "nihonshoki" was a big national project and also a very political project to characterize the imperial family and various clans in history.
+it is guessed that the decision of editorial policy and selection of original historical materials were politically led by an influential person.
+style and terms
+there are various researches which classify various characteristics such as styles and terms of "nihonshoki."
+according to those researches,the 25 volumes,that is,the rest of the total 30 volumes from which jindaiki(records of the period of the gods)in the first and second volume and the authentic records of the section of emperor tenmu and empress jito in the 28th,29th and 30th volumes are excluded,are roughly classified into the two categories.
+the first is from the section of emperor jinmu in the third volume to the section of emperor ingyo and emperor anko in the 13th volume.
+the second is from the section of emperor yuryaku in the 14th volume to the section of emperor yomei and emperor sushun in the 21st volume.
+it is regarded that the sections of empress suiko and emperor jomei in the remaining 22nd and 23rd volumes are added to the first,and the sections from emperor kogyoku in the 24th volume to emperor tenchi in the 27th volume are added to the second.
+it is guessed that there was a border of ancient history between the 13th volume and the 14th volume,that is,before and after the section of emperor yuryaku.
+by the way, "nihonshoki" has been thought to be written in genuine chinese writing style,but recent researches show that there are many grammatical deviations affected by japanese in vocabulary and usage.
+especially in the 24th and 25th volumes which describe the taika reforms there are many grammatical deviations affected by japanese.
+some scholars think that the description of the coup which aimed to kill the soga clan as treacherous retainers was 'added,' following the intentions of emperor genmei(a child of the emperor tenchi)and fujiwara no fuhito(a child of fujiwara no kamatari).
+in "nihonshoki" there is a description that shomyoo of baekje presented a statue of buddha and sutras on november 552.
+however,according to "jogu shotoku hooteisetsu" (biography of shotoku taishi)and "the origin of gango-ji temple," official introduction of buddhism was on october 12 in the bogo year(in the old lunar calendar,and it is guessed to be in 537 because it was not under the reign of the emperor kinmei),which is commonly believed.
+in this way,it is commonly known among researchers that some parts of "nihonshoki" can be guessed to be altered.
+the framework of calendars
+the research on calendars was already completed by kiyohiko ogawa(an astronomer)before the war.
+however,the situation at that time did not allow him to release it,so that it was finally disclosed after the war.
+"nihonshoki" is a history book written in a complete chronological order and all articles except jindaiki are described in the style of year,month and date(shown by the oriental zodiac).
+the first day of a month based on the oriental zodiac is written in an article,which makes it possible to calculate the date of the article based on it.
+for example,the establishment of the seventeen article constitution was on 'heiin saku(first day of the month)boshin,april 604,' which showed that the oriental zodiac of april 1 was heiin and that boshin was the third.
+in addition,the research of ogawa made clear that the two kinds of calendars of genka reki(genka calendar)and giho reki(giho calendar)of china were used.
+according to that research,the articles from heijutsu saku,november of koin year to kibi saku,october 399 were based on giho reki,and those from koshin saku,september 456 to teigai saku,december 667 were based on genka reki.
+although genka reki was older than giho reki,the new calendar was adopted for the older age and old calendar was adopted for the new age in "nihonshoki."
+as mentioned above,it is guessed that nihonshoki was compiled by two groups.
+genka reki was established by he chengtian in sung of the southern dynasty in china.
+it was implemented since 445 and it is said to be transmitted to baekje and japan at a very early stage.
+it is thought that giho reki refers to the linde calendar which was devised by ri junho in the tang and began to be used since 665.
+shinisetsu(a theory on the method for prophecy or a book describing it)
+in the meiji period,michiyo naka established a theory that the enthronement of emperor jinmu was defined in the kanototori year which corresponded to 660 b.c.because shinisetsu was introduced from china and adopted in japan,which has been accepted in academic world.
+it is said that it was based on the idea of shinyu kakumei(a prediction of revolution in kanototori of the chinese astrological calendar)in isho(chinese books which describe predictions and others),that is,a revolution to change the dynasty would occur in the first kanototori year considering 60 years as one cycle(元)and 1260 years of 21 cycles as one period(蔀),in accordance with the note from zheng xuan, '天道不遠三五而反六甲爲一元四六二六交相乗七元有三變三七相乗廿一元爲一蔀合千三百廿年,' in "yi wei" which was cited in 'kakumeikanmon' (in zatsubu(overall section)in the 26th section of "gunsho ruiju"(collection of historical documents compiled by hokiichi hanawa))by kiyoyuki miyoshi.
+based on this idea,the kanototori year,which was the first year of the former 21 cycles from the kanototori year of 601 when a capital was placed at ikaruga,was defined as the first year of the first period and the year of the enthronement of emperor jinmu on the assumption that the beginning of japan was the first revolution.
+according to another view,the calculation of michiyo naka is wrong and one period is correctly 1320 years as cited in 'kakumeikanmon,' so that the first year of back calculation corresponds to the kanototori year of 661.
+kinenron(a way of counting years)
+since the length of life of emperors in ancient times was extremely long,the dates of "nihonshoki" has been questioned since old days.
+according to today's theory,it is considered that the dates were altered into older dates by defining the year of emperor jinmu's enthronement as kanototori(660 b.c.).
+then,kinenron aims to clear this way of counting years.
+in addition,there is a description which corresponds to "samguk sagi" (history of the three kingdoms)in the section of emperor ojin,and the dates would correspond to "samguk sagi" if they go back to two cycles of the oriental zodiac,that is,120 years.
+therefore,it is said that the dates were defined 120 years earlier around this period.
+however,this calculation only corresponds to the articles which referred to korean history books from which "samguk sagi" originated.
+of course this does not correspond to the articles based on japanese traditions around it,and it is inconsistent with the date of "sanguo zhi" (history of the three kingdoms)which is cited in the former section of emperor jingu.
+on the other hand, "kojiki" does not record a date,but the oriental zodiac of the year of death of some emperors are described in the form of notes.
+oriental zodiacs in the past do not correspond to the year of the emperors' deaths in "nihonshoki" except the following emperors.
+the 27th emperor ankan(kinoto in 535)
+the 31st emperor yomei(hinotohitsuji in 587)
+the 32nd emperor sushun(mizunoene in 592)
+the 33rd empress suiko(tsuchinoene in 628)
+it can also be thought that the date around this period reflected the real date.
+in addition,there is another idea to define the dates in "nihonshoki" based on the oriental zodiac of the year of emperors' deaths in "kojiki," but it is not supported by many scholars for the above reasons.
+the main text and heresies
+there are many heresies in the form of notes after the main text such as 'a books says.'
+in china there had been no history book in which heresies were described in the main text until in the ching period.
+it can be said to have been a revolutionary history book for the world by the common sense of that period.
+or,this is the reason for the theory that the existing one was written much later than kojiki and others.
+in addition,in the notes of the section of april 541 in nihonshoki,there is a description on the order 'to choose one tradition and write other heresies when there were too many heresies to judge which ones were true and it is difficult to choose one because of too many old characters' about "teio honki" (the chronicle of emperors)after the notes on heresies about empresses and princes.
+it is not known to what extent these descriptions reflect fact.
+however,it often gathers attention that such a policy of compilation as describing heresies rather than choosing one tradition which was judged to be right corresponds to the overall situation of nihonshoki which can be seen today.
+one volume of genealogy
+in the article about the establishment of nihonshoki in shoku nihongi,there is a description that says '30 volumes of ki and one volume of genealogy.'
+it is thought that there was one volume of genealogy other than the existing 30 volumes in nihonshoki when it was established.
+while the '30 volumes of ki' of nihonshoki has been transmitted almost completely until today,the genealogy has not been left.
+in koninshiki(a lecture written by o no hitonaga),there is a description on this genealogy that 'it can be seen neither in zushoryo(the bureau of drawings and books)nor private libraries,' which shows that it had been already lost.
+however,among the records which gathered books existing in the kamakura period,there is a record that 'selected by imperial prince toneri,one volume of imperial genealogy,' so that it can be thought that it had existed until this time.
+in 'shinsen shojiroku' (new selection and record of hereditary titles and family names)there are some descriptions of '日本紀合' (nihongi go)which is thought to be the part verified by the lost part of the genealogy.
+there are various assumptions about what contents this 'one volume of genealogy' included.
+for example,although a genealogy is usually written for a person who appeared for the first time in nihonshoki,there are some people who had no genealogies.
+it is thought that they are omitted because they are explained in the genealogy.
+in addition,in another theory,the genealogy from the emperor ojin to the emperor keitai which is not seen in the existing texts of the kojiki and nihonshoki is regarded to have been written in this lost 'one volume of genealogy.'
+the articles on tai sui(an imaginary star directly opposite to jupiter)
+in nihonshoki there are some articles in which the oriental zodiac of the year is written at the end of the year of enthronement of each emperor,and those are called 'the articles on tai sui.'
+such articles can be seen in neither chinese history books which nihonshoki referred to nor later japanese history books such as 'shoku nihongi.'
+it is not clear what meanings these articles have.
+this article of tai sui exists in the end of the first year of enthronement for almost all emperors,but there are some exceptions.
+there are various speculations on the reason for these exceptions.
+some people say that this might be a trace that kotofu(the genealogy of the imperial family)was revised,which is not widely accepted.
+as to the emperor jinmu,it is not written in the year of his enthronement but the year when he began his eastern expedition.
+as to the emperor suizei,it is described both in the year of emperor jinmu's death before enthronement(即位前紀)and the first year of his enthronement.
+as to the empress jingu,it is described in the first,13th and 69th year of sessho(regent).
+as to the emperor keitai,it is described in the first and the 25th year of his enthronement.
+as to the emperor tenmu,it is described in the second year of his enthronement instead of the first year.
+imina(personal name)and okurina(a posthumous name)
+an emperor has imina,the name during the reign,and okurina which is given after the death.
+the chinese-style posthumous names which are commonly used today are those of the 41 emperors from emperor jinmu to empress jito and emperor genmei and gensho dedicated by omi no mifune in a lump from 762 to 764 during the nara period which are described in "shoku nihongi."
+however,naturally there is no chinese-style posthumous name in the original text of "nihonshoki" and emperors' names are written by imina or japanese-style posthumous name.
+the names from the 15th emperor ojin to the 26th emperor keitai are considered to be imina,that is,the names during their reign.
+they are characteristically combined with various simple factors including place names such as homuta and hatsuse,animal names such as a wren,words related to the human body such as gray hair and mitsuha,simple titles such as waka and take,and old honorific titles such as wake and sukune.
+constituent structure
+volume 1
+kamiyo no kami no maki
+the first section:the story about the beginning of the world and the birth of the gods(creation of heaven and earth(japanese mythology))
+the second section:the continuation of the mythology of the world's origin
+the third section:eight pillars of male and female gods and seven generations of(celestial)gods
+the fourth section:the story of kuni-umi(the birth of(the land)of japan)
+the fifth section:the story of the birth of mountains,rivers,grasses,trees,month and dates(kamiumi(bearing gods between izanagi and izanami))after kuni-umi
+the sixth section:izanagi died and susanoo(deity in japanese mythology)went to see amaterasu omikami(the sun goddess)before going to nenokuni(land of the roots).
+amaterasu omikami made a pledge with susanoo and gave birth from the belongings of the other.
+(a pledge of amaterasu and susanoo)
+the seventh section:susanoo committed an outrage and amaterasu hid behind ama no iwato(the cave of the sun god).
+gods finally pull out amaterasu after various trials.
+susanoo was exiled after he expiated his guilt.
+(iwato-gakure(the hiding of amaterasu omikami,the sun goddess,in the heavenly rock cave))
+the eighth section:susanoo went down to the ancient izumo region and met ashinazuchi and tenazuchi.
+susanoo killed yamatanoorochi(eight-forked-snake)in order to escape kushiinadahime(princess kushinada),and presented kusanagi no tsurugi(a sacred sword)to amaterasu.
+susanoo got married with the princess,who gave birth to okuninushi(chief god of izumo in southern honshu island,japan,and the central character in the important cycle of myths set in that region),and he went to nenokuni.
+volume 2
+kamiyo no shimo no maki
+the 9th section:the subjugation of ashihara no nakatsukuni(another word for the country or the location of japan),kuniyuzuri(transfer of the land)by onamuchi and son,the descent to earth of ninigi,the leading by sarutahiko(an earthly deity)and the birth of hoori and others.
+(the subjugation of ashihara no nakatsukuni and tensonkorin(the descent to earth of the grandson of the sun goddess))
+the tenth section:the story of yamasachihiko and umisachihiko
+the 11th section:the birth of kamuyamato iharebiko no mikoto
+*the chinese-style posthumous names after volume 3 were not seen at the time of the establishment of "nihonshoki," so that they are guessed to be added by another person later.
+volume 3
+kamuyamato iharebiko no sumeramikoto,the emperor jinmu
+volume 4
+kamununakahamimi no sumeramikoto,the emperor suizei
+shikitsuhikotamatemi no sumeramikoto,the emperor annei
+oyamatohikosukitomo no sumeramikoto,the emperor itoku
+mimatsuhikosukitomo no sumeramikoto,the emperor kosho
+yamatotarashihikokunioshihito no sumeramikoto,the emperor koan
+oyamatonekohikofutoni no sumeramikoto,the emperor korei
+oyamatonekohikokunikuru no sumeramikoto,the emperor kogen
+wakayamatonekohikoobibi no sumeramikoto,the emperor kaika
+volume 5
+mimaki iribikoinie no sumeramikoto,the emperor sujin
+volume 6
+ikumeiribikoisachi no sumeramikoto,the emperor suinin
+volume 7
+otarashihiko oshirowake no sumeramikoto,the emperor keiko
+wakatarashihiko no sumeramikoto,the emperor seimu
+volume 8
+tarashinakatsuhiko no sumeramikoto,the emperor chuai
+volume 9
+okinagatarashihime no mikoto,the empress jingu
+volume 10
+homuda no sumeramikoto,the emperor ojin
+volume 11
+osazaki no sumeramikoto,the emperor nintoku
+volume 12
+izahowake no sumeramikoto,the emperor richu
+mitsuhawake no sumeramikoto,the emperor hanzei
+volume 13
+oasazumawakugo no sukune no sumeramikoto,the emperor ingyo
+anaho no sumeramikoto,the emperor anko
+volume 14
+ohatsuse no wakatakeru no sumeramikoto,the emperor yuryaku
+volume 15
+shiraka no takehirokunioshiwakayamatoneko no sumeramikoto,the emperor seinei
+oke no sumeramikoto,the emperor kenzo
+oke no sumeramikoto,the emperor ninken
+volume 16
+ohatsuse no wakasazaki no sumeramikoto,the emperor buretsu
+volume 17
+ohodo no sumeramikoto,the emperor keitai
+volume 18
+hirokunioshitakekanahi no sumeramikoto,the emperor ankan
+takeohirokunioshitate no sumeramikoto,the emperor senka
+volume 19
+amekunioshiharakihironiha no sumeramikoto,the emperor kinmei
+volume 20
+nunakakuranofutotamashiki no sumeramikoto,the emperor bidatsu
+volume 21
+tachibana no toyohi no sumeramikoto,the emperor yomei
+hatsusebe no sumeramikoto,the emperor sushun
+volume 22
+toyomikekashikiyahime no sumeramikoto,the empress suiko
+volume 23
+okinagatarashihihinuka no sumeramikoto,the emperor jomei
+volume 24
+ametoyotakaraikashihitarashihime no sumeramikoto,the empress kogyoku
+volume 25
+ameyorozutoyohi no sumeramikoto,the emperor kotoku
+volume 26
+ametoyotakaraikashihitarashihime no sumeramikoto,the empress kogyoku
+volume 27
+amemikotohirakasuwake no sumeramikoto,the emperor tenchi
+volume 28
+amanonunaharaoki no mahito no sumeramikoto,the emperor tenmu,the first volume
+volume 29
+amanonunaharaoki no mahito no sumeramikoto,the emperor tenmu,the second volume
+volume 30
+takamanoharahiro no hime no sumeramikoto,the empress jito
+the existing books
+the oldest existing book was written in the beginning of the heian period(the tenth volume of the tanaka book(the tanaka original copy)and dankan(fragmentary leaves of a book)of the one volume which corresponds to the same copy).
+manuscripts are classified into the old book group and the urabe family group.
+(in addition to this, 'the ise group' can be another group according to another theory)
+those in which jindaikan(the volumes of divine age(volume 1 and 2))is written in the style of kogaki sogyo(small letters and double lines)are in the old book group.
+those written in the style of taisho and one indentation are in the urabe family group.
+it is thought that the original book was written in the style of kogaki sogyo,same as various books of the old book group.
+some books which are designated as a national treasure or an important cultural property are as follows.
+the old book group
+the sasaki book(the sasaki original copy)copied in the 9th century,the dankan of the first volume
+the same copy of the shitenno-ji book(the original copy of shitenno-ji temple),inokuma book(the inokuma original copy),and tanaka book.
+on the other side of the paper, "henjo hokki shoryoshu" (kukai's treatise on poetry and prose)(edited by shinzei)is written.
+there is no kunten(guiding marks for rendering chinese into japanese).
+it is held in a private collection.
+the original copy of shitenno-ji temple copied in the 9th century,the dankan of the first volume
+the same copy of the sasaki book,inokuma book,and tanaka book.
+as to the other side of the paper,it is the same as the sasaki book.
+there is no kunten(guiding marks for rendering chinese into japanese).
+it is held at the shitenno-ji temple.
+the inokuma book copied in the 9th century,the dankan of the first volume
+the same copy of the sasaki book,shitenno-ji book,and tanaka book.
+as to the other side of the paper,it is the same as the sasaki book.
+there is no kunten(guiding marks for rendering chinese into japanese).
+it is held in a private collection.
+the tanaka book copied in the 9th century,the tenth volume
+the same copy of the sasaki book,shitenno-ji book,and inokuma book.
+as to the other side of the paper,it is the same as the sasaki book.
+there is no kunten.
+it is held at nara national museum.
+the iwasaki book(the iwasaki original copy)copied in the 10 to 11th century,the 22nd and 24th volumes
+it is the oldest among those with kunten.
+shoten(marks to add kanji to show shisei)of the text is expressed in the six-tone style.
+compared to the zushoryo version,there are big differences both in the main text and kunten.
+it is held at kyoto national museum.
+the maeda book(the maeda original copy)copied in the 11th century,the 11th,14th,17th,and 20th volumes
+kunten is in the same style as the zushoryo version,but includes the old version to some extent.
+shoten is expressed in the four-tone style.
+it is held by maeda ikutokukai.
+zushoryo version(book stock of shoryo department)copied in the 12th century,the 10th,12-17th,and 21-24th volumes
+there are kunten(except volume 10).
+the 14th and 17th volumes are in the same style as the maeda book,and the 22nd and 24th volumes are in the same style as the kitano book.
+shoten is expressed in the four-tone style.
+it is held in book stock by the shoryo department,imperial household agency.
+the kitano book:group one includes the 22 to 27th volumes(copied in the end of the heian period)
+there are kunten.
+it was held by suketsuguo(資継王)of the shirakawahakuo family who had been jingi haku(a chief official in charge of matters relating to shintoism)from the end of the kamakura period to the period of the northern and southern courts at first,and later held by kanenaga urabe of the yoshida family in the middle of the muromachi period.
+it is held by kitano tenmangu shrine.
+the icho book(the original copy of the icho family)(the katei book(the katei original copy))copied in 1236,the second volume
+there are kunten.
+it is a collection of books once possessed by the icho family who was the shake(family of shinto priests serving a shrine on a hereditary basis)of the kamomioya-jinja shrine in kyoto.
+the text and kunten are guessed to be in the oe family style.
+it is held by the kokugakuin university.
+the urabe family group
+the original copy of kanekata urabe(the koan book)copied in 1286,the first and second volumes
+there are kunten.
+it was copied by kanekata urabe who was a member of the hirano family.
+he patiently described the differences with ten(点)of the oe family.
+shoten is expressed in the four-tone style.
+it is held at kyoto national museum.
+the original copy of kanenatsu urabe(the kengen book)copied in 1303,the first and second volumes
+there are kunten.
+it was copied by kanekata urabe who was a member of the yoshida family.
+he cited many private records such as "koninshiki" (which is mentioned below in the section of the old interpretation and the lecture of shoki).
+shoten is expressed in the four-tone style.
+it is held at the tenri library attached to tenri university.
+atsuta's book(the original copy of the atsuta-jingu shrine)copied from 1375 to 1377,the 1 to 10th and 12 to 15th volumes
+there are kunten.
+it is held by the atsuta-jingu shrine.
+zushoryo version(book stock of shoryo department)copied in 1346,the second volume
+there are kunten.
+it is a collection of books once possessed by chikafusa kitabatake.
+it is held in the book stock of the shoryo department,imperial household agency.
+the kitano book:group 2 includes the 28 to 30th volumes(copied in the end of the heian period to the beginning of the kamakura period),group 3 includes the 1st,4th,5th,7 to 10th,12th,13th,15th,17 to 21st volumes(copied in the period of the northern and southern courts),group 4 includes the 3rd,6th,and 11th volumes(copied in the latter part of the muromachi period)and group 5 includes the 16th volumes(copied in the end of the edo period).
+there are kunten(except the first volume).
+group 2 and 3 are a collection of books once possessed by suketsuguo of the shirakawahakuo family as well as group 1.
+suketsuguo added kunten,which is in the style of hakke unlike the main text.
+it is held by kitano tenmangu shrine.
+the original copy that kanemigi urabe copied in 1540,the 3 to 30th volumes:when kanemitsu urabe,the former head of the yoshida family,set the house on fire and ran away in 1525,hereditary books of the urabe family were also burnt down.
+therefore,kanamigi,who succeeded it at a young age,copied the transcript which was copied by sanetaka sanjonishi from the original copy of the urabe family before,and made shohon(a verified text)after collation with the original copy of the ichijo family(copied by kaneyoshi ichijo and checked by kanehiro urabe).
+at first,there were full volumes,but the two volumes of jindai(the age of the gods)were lost again.
+it is one of the oldest copies which has the full 28 volumes of jindai(the age of emperors)(人代).
+the lecture on shoki and the old interpretation of shoki
+since "nihonshoki" was written in genuine a chinese writing style in principle except songs and ballads,it was very difficult for japanese people to read.
+therefore,in 721,which was the following year after completion,there was an official opportunity for masters at the time to have a lecture in front of nobles at the imperial palace in order to read "nihonshoki" in natural japanese.
+this was called shoki-koen(lecture of shoki).
+it was a long course which took several years from the beginning to the last lecture.
+for example,a lecture in the johei era took seven years,although it was interrupted because of the tengyo war.
+the records of successive lectures were collated in the form of private records which wrote the year of the lecture on the title by participants(annual private records)and were also used as kunten for old manuscripts of "nihonshoki" (the old interpretation of shoki).
+the summary of the past shoki-koen(each year shows the year of lecture)is as follows.
+in 721
+the lecturer was o no yasumaro.
+the private records do not exist now,but are cited as 'the yoro theory' in the existing "koninshiki" and some old manuscripts of shoki.
+in 813
+the lecturer was o no hitonaga.
+only this private record exists in full form(what you call an "a" version of private records).
+however,compared to "koninshiki" (the japanese reading of a chinese character is written by manyo-gana(a form of syllabary used in the manyo-shu or collection of myriad leaves),and ancient special kana usage is also accurate)which was cited as 'the konin theory' in an old manuscript of shoki(jindaiki(records of period of gods)of the kengen book),the existing denpon(existent books of transcription and published books)(most of the japanese readings of chinese characters are written in katakana(syllable based writing system of the japanese language))was greatly deteriorated during the process of transcript,so that it is regarded to be different from the original form.
+in 839
+the lecturer was sugano no takahira(or shigeno no sadanushi).
+a private record does not exist.
+in 878
+the lecturer was yoshibuchi no chikanari.
+the private record does not exist,but it is said that 'the private record' cited in "shaku nihongi" of kanekata urabe refers to this.
+it is assumed that the writer of the private record was yatabe no nazane.
+in 904
+the lecturer was fujiwara no harumi.
+the writer of the private record was yatabe no kinmochi.
+a private record does not exist,but it is cited as 'a private record of nihongi' in "wamyoruiju-sho" (kango-japanese dictionary)and as 'a private record of kinmochi' in "shaku nihongi" of kanekata urabe.
+in 936
+the lecturer was yatabe no kinmochi.
+it is guessed that the "d" version private record which remains in a fragmentary fashion corresponds this.
+in 965
+the lecturer was tachibana no nakato.
+a private record does not exist.
+in addition,there are many old manuscripts which are cited simply in the form of 'a theory based on a private record.'
+it seems that these originated from any of the above annual private records,but unfortunately,it can not be specified.
+in addition to this,it seems that the bokun(kana(japanese syllabary))with shoten in old manuscripts of shoki were based on any historic theory.
+therefore,it can be the legacy of the above private records.
+in addition,there are two kinds of "nihongi shiki" (private notes on the chronicles of japan)which exist in full form now,that is, "b" version(corresponding to the volumes of the age of the gods)and "c" version(corresponding to the volumes of the age of emperors)which seem to be the same copies of the "a" version and "d" version.
+however,it is guessed that these are the abstracts of only bokun from an unknown old manuscript of shoki which pretended to be a record by transferring katakana to manyo-gana(it is guessed to be done from the insei period(during the period of the government by the retired emperor to the kamakura period),so that they are not direct legacies of the so-called annual private records.
+kyoen waka(a traditional japanese poem of thirty-one syllables made at a reception)
+after a lecture of nihonshoki in the gangyo era,a reception which celebrated the end of the lecture was held and participants made waka which related to "nihonshoki."
+"nihongi kyoen waka" was established by collecting those waka(established in 943).
+the existing book consists of the kyoen waka of each lecture in the gangyo,engi,and johei era.
+the contents of the waka tended to be stereotyped partly because gods,ancient sacred kings,and legendary heroes were often chosen as the themes of waka.
+for this reason,it has no specific character in literary terms.
+however,it is a very unique collection of poetry because it included the waka of nobles in the highest class at that time such as fujiwara no tokihira and fujiwara no tadahira.

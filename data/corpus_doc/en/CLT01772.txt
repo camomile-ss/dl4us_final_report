@@ -1,0 +1,18 @@
+japanese clock
+a japanese clock is a clock made in japan mainly during the edo period.
+a mechanical clock was first brought to japan in 1551 when francis xavier presented it to yoshitaka ouchi.
+it seems that domestic production of the mechanical clock was promoted since then.
+in 1605,tsuda sukezaemon masayuki presented a jimesho(self ringing bell)to ieyasu tokugawa.
+the tokugawa shogunate created clock engineers called "otokeishi," and the history of japanese clocks had started since then.
+characteristically,general clocks use the teijiho(system of uniform length hours),a timetable which divides a day into 24 equal parts,as a leading rule.
+in contrast,japanese clocks are manufactured under the futeijiho(varying length system),which divides seasonally changing sun's celestial objects infestation into 6 equal parts.
+strictly speaking,in the edo period,the length of day and night was not changed everyday,but changed every 15 days,so the clock device was set to it.
+a clock runs at the constant speeds,so there were a method of replacing a clock face every 15 days(wari-koma dial)and a method of exchanging two kinds of tenpu(weights),one for day and the other for night(nicho-tenpu),automatically at the border between day and night(ake-mutsu[dawn],kure-mutsu[dusk]).
+however,either method requires people to adjust time change every 15 days.
+however,the perpetual clock shown in the image changes the position of the characters showing time on the clock face full-automatically.
+this is an unprecedented revolutionary mechanism.
+since clocks were luxury goods and many of the holders were wealthy people at that time,many decorated clocks were also made.
+in addition,there were plentiful kinds of clocks,such as hanging clock,yagura-dokei(lantern clock),dai-dokei(clock with mounting),shaku-dokei(pillar clock with hour scale),makura-dokei(bedside clock),desk clock,keisan-dokei(paper weight clock),inro-dokei(medicine case clock),and pocket watch.
+some clocks had alarms or karakuri(mechanism).
+shaku-dokei is a clock whose weight attached to the upper part of the reed-shaped box moves machines in the box,and whose clock hands attached to the weight show scale.
+this is a unique japanese clock technology.

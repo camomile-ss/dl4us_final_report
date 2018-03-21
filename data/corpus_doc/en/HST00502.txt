@@ -1,0 +1,38 @@
+the case of student union of kyoto prefecture
+it is a popular name of a judgment by the supreme court of japan that mainly judged photographing for criminal investigation as lawful and constitutional.
+the judgment of the grand bench by the supreme court of japan(keishu vol.23,no.12,at 1625)dated on december 24,1969.
+the case was brought for obstruction of performance of official duties and bodily injury and the defendant claimed the illegality of the investigation which was judged as lawful after all and was convicted of the facts constituting the offense charged.
+the factual background
+on june 21 in 1962,the student union of kyoto prefecture organized the demonstration against the reform of university management because it included more authority of the ministry of education(at the time)to assign and control the presidents of the national universities.
+the demonstration march started at the front gate of ritsumeikan university.
+they marched with the students of ritsumeikan university in the lead and went to maruyama park in higashiyama ward of kyoto city,in kyoto prefecture.
+the defendant was a student of ritsumeikan university's faculty of law at that time and marched off the leading group of the demonstration to lead the demonstration march.
+the demonstration march was held after obtaining permission of the kyoto prefecture public safety commission,with the conditions that ''the marching shall be in fours'' and ''the marching shall proceed on the eastern side of the carriageway.''
+the demonstration march went down southward on kawaramachi street and reached the intersection of oike street.
+they planned to turn left at the intersection onto oike street.
+but the defendant,who did not know fully about the condition of permission,led the demonstration march around the center of the intersection.
+the defendant was going to turn to the left around there and continue to march as planned,but the riot police thought that they were not going to turn and tried to stop them from going straight on kawaramachi street to the south.
+they scuffled with each other,but the demonstration march continued to move and turned to the right to kiyamachi street.
+in the confusion the demonstration march was not in fours and moved forward in the center of the street.
+a police officer of kyoto prefectural police,who was engaged in inspecting the demonstration march to see whether or not there was violation of the conditions for permission and collecting evidence of any such violation,found that the march was in violation of the conditions for permission,and photographed the front part of the marching crowd.
+when the defendant saw that the police officer was photographing,he protested to the police officer ''who are you photographing for?'' but he was ignored.
+the defendant got angry and took the flag pole of a demonstration member and stabbed the police officer's lower jaw,causing an injury that would take one week to heal completely.
+the defendant was charged with obstruction of performance of official duties and bodily injury,but he claimed that the police officer's photographing was an illegal investigation and therefore the official duties were not legal and the charge was not valid(it is generally accepted that the charge for obstruction of performance of official duties is not valid when the official duties are illegal).
+the judgement of the court
+the defender was found guilty both at the first trial(kyoto district court)and the appeal court(osaka high court),so he argued jokoku appeal.
+the defendant claimed that kyoto city ordinance was in violation of article 21 of the constitution and the police officer's act of photographing the defendant against his will and the violation of the right of portrait(violation of article 13 of the constitution)without a warrant issued by a judge are also in violation of article 35 of the constitution which provides for the principle of warrant.
+in response,the supreme court judged that kyoto city ordinance was not in violation of the constitution and the police officer's act was not in violation of the constitution.
+remarkable points
+the judgment of the supreme court in this case is considered a significant precedent of the two points as follows.
+the right not to have one's face or appearance photographed without consent or good reason.
+first,in this judgment the right of portrait was guaranteed for the first time(it was not 'the right of portrait' itself that was guaranteed,but it has been recognized that the same constitutional benefit was guaranteed).
+the judgment stated 'as part of such citizens' freedom in private life,any person has the right not to have his/her face or appearance(hereinafter referred to as 'the appearance,etc.')photographed without consent or good reason' based on article 13 of the constitution.
+moreover it stated 'apart from whether or not such right can be referred to as right of portrait,it must be said at least that if a police officer,without a good reason,has photographed the appearance,etc.of a citizen,such an act should be regarded as being in violation of the purport of article 13 of the constitution and therefore it is unallowable.'
+legality of photographing
+second,the judgment allowed room clearly that photographing was not in violation of the constitution,even if the photographs had been taken without the citizen's consent or a warrant issued by a judge(and the photographing in this case was not in violation of article 35 of the constitution).
+this judgment stated 'if a police officer has photographed the appearance,etc.of a citizen in circumstances as below,the police officer was allowed to photograph without the citizen's consent or a warrant issued by a judge.'
+in case that a crime is being committed or it does not seem long since a crime was committed,there is an urgent need for preservation of evidence,and the photographs have been taken by an appropriate method within a generally allowable limit.'
+however,the judgment caused arguments mainly with the two opinions as follows.
+first,it was interpreted that the supreme court showed the criteria for photographing in the course of investigation legally required the three conditions as follows:(1)circumstances in which a crime is being committed or it does not seem long since a crime was committed;(2)there is an urgent need for preservation of evidence;(3)photographs taken by an appropriate method within a generally allowable limit.
+second,it was interpreted that the supreme court left room that photographing without the three conditions above was not always illegal and even in cases without those conditions(especially without(1)circumstances in which a crime is being committed or it does not seem long since a crime was committed)photographing could be legal.
+in subsequent cases,judgments proceeded from the second opinion,but decision of the second petty bench of the supreme court dated on april 15,2008(case number 2007(a)no.839)stated 'it does not go so far as to mean,as argued by the accused,that photographing of a person's appearance,etc.by police officials should not be permitted except in cases where it is found that the crime is currently being committed or has just been committed' and 'videotaping operations such as videotaping the defendant's appearance,etc.on the public road and in the pachinko parlor can be recognized as legal investigation activities',which means that the second opinion has been dominant,at least in precedents.

@@ -1,0 +1,98 @@
+old genealogies on the tale of genji
+among the genealogies of the tale of genji,in which characters in "the tale of genji" were systematically written in the form of genealogy as if they were the real people,genji monogatari kokeizu(old genealogies on the tale of genji)refers to the ones that were made before the genealogy produced by sanetaka sanjonishi.
+summary
+"the tale of genji," which is a long tale and consisting of 54 chapters,is a masterpiece in the history of japanese literature,and quite a number of characters appear in the tale.
+in addition,of the characters in the tale of genji,the people whose(possible)real names are known are only fujiwara no koremitsu and minamoto no yoshikiyo,lower-class servants of hikaru genji(some people include tamakazura,too,in them),but in the tale,most of the characters including hikaru genji are known by their 'nicknames' which were derived from their official positions or the names of their related places such as their residences.
+moreover,there are many characters who are only mentioned by common nouns such as 'ichinomiya' (this simply means the eldest son of the emperor,therefore all emperors can have their own 'ichinomiya')and 'onna sannomiya' (the third princess).
+that is why the characters' names often differ in the volumes where they are mentioned,or even in the same volume,characters are called by several different names.
+it is quite unusual that the major characters have only one name,while it is common that the same names refer to the different people in some places of the one volume.
+therefore,there are many cases where readers have to guess which name refers to which character in light of various situations.
+under such circumstances,it seems that the characters came to be organized and the genealogy was made for the readers of the tale of genji.
+because the genealogies which seem to have been made between the late heian period and the early kamakura period are extant,it is considered that such well-organized 'genealogies of the tale of genji' were already created during the insei period(the period of the government by the retired emperor).
+according to 'hikaru genji monogatari honji,' a commentary on the tale of genji written by ryogo,in some of the legendary surviving fragment of sarashina nikki(the sarashina diary),which was completed around 1060,sugawara no takasue's daughter,the author of the diary,wrote around 1020 that 'i read 54 chapters of the tale of genji keeping a book called '譜' at hand,' and there is a record which says that she visited around various scholars to know what the '譜' was.
+what is called '譜' is probably considered a kind of book which helped to read the tale of genji,but it is not clear what it exactly was.
+generally speaking,it is considered 'genji monogatari toshidate' (chronological table of the tale of genji),a kind of a prototype for something like a chronological table of the events that took place in the tale and the chronological table was attached to the later printed books of "the tale of genji" and the modern printed books.
+however,some people regard it as something like a genealogy or a chronological table with a genealogy.
+including kogetsu-sho commentary,it became common that a woodblock book of the tale of genji published from the edo period had a genealogy of the characters,and the tale of genji printed in type which was published after the meiji period inherited the tradition.
+today,there are many genealogies of the tale of genji which are independently produced in the form of a manual or a handbook together with chronological table and others.
+although it was eliminated in sanetaka sanjonishi's editing,the extant old genealogies of the tale of genji contain similar expressions,which would be impossible for each reader to make on the basis of his interpretation,for example,they all have an unusually longer commentary on a character named 'oborozukiyo' (the misty moon)(the tale of genji)than on other characters.
+that is why it is considered that the original manuscript,which seems to have been completed during the insei period,had already existed,and it had sometimes been transcribed and therefore revised.
+it is also thought that 'organizing' old genealogies by sanetaka sanjonishi was not a work thoroughly carried out from the beginning,but he just revised the text of aobyoshi-bon manuscript(in the sanjonishi group)which he had arranged in order to make the existing old genealogy of the tale of genji a reliable book.
+contents
+(including the old genealogies of the tale of genji)the genealogies of the tale of genji consist of the following parts.
+front matter
+genealogy
+funyu
+back matter
+genealogy
+characters appearing in the tale of genji were classified according to the paternal lineage,and it is the main part of the genealogy of the tale of genji,which is included in any kinds of genealogies.
+as the genealogies in those days which described the real family trees,there are two types to indicate relations between people;the one which connected people with a line,and the one which did not use a line.
+roughly,they are divided as follows.
+genealogy of emperor's families(most of them begin with the late emperor,and continues until kinjo no mikado[the tale of genji],which is the largest-scale genealogy including all emperors,imperial princes,and princesses;hikaru genji[usually called 'rokujoin']and his descendants are all included here.)
+the family of sadaijin(minister of the left),to no chujo(the first secretary's captain),kashiwagi,and kobai(aoi no ue[lady aoi],kumoi no kari,tamakazura are also included here)
+the family of udaijin(minister of the right)(kokiden no nyogo[empress kokiden],oborozukiyo are included here)
+the family of higekuro(makibashira,children of tamakazura are included here,too)
+the family of akashi(from the late minister,the father of priest akashi,down,his younger brother,late azechi no dainagon,his daughter and also the mother of hikaru genji,kiritsubo no koi[lower class court lady]are also included here)
+after this,small-scale genealogies such as the one concerning only rokujo no miyasudokoro and her father,minister,were attached.
+of these genealogies,the following points about each character in the work were explained.
+who the mother is
+which chapter the character appears in
+the name called in the text
+official court rank and achievements
+funyu
+this is a part where the characters whose origins were not clear and who were said that 'their parents are unknown' are respectively introduced.
+some manuscripts contain detailed explanations of them in the similar way as the characters in the genealogy,but other manuscripts simply have their names,and there are manuscripts that do not even have this part.
+front matter and back matter
+they are various descriptions of everything except lineage.
+some manuscripts do not contain these parts,and if they do have them,the contents differ widely.
+although it is not settled whether such descriptions were collected in the front matter or the back matter,the contents are largely as follows.
+the birth of the tale of genji(which explained the origin of the tale of genji in connection with the ishiyama-dera temple legend).
+explanations of titles for the chapters and prefaces to them(it is also called "genji monogatari mokuroku" (catalogue of the tale of genji),which sometimes came out in the form of an independent book.
+also,it sometimes contains different names for the chapters and explanations for the parallel chapters.
+the old genealogies of the tale of genji often include the names of the chapters which are not seen today.)
+explanations of the characters whose names are not known,but poems are known(they can also be considered descriptions of the ending of funyu).
+the number of characters mentioned in the genealogy(male characters:emperors**people,imperial princes**people,ministers**people,and female characters:empresses**people,sai-in(imperial princess appointed to serve the deities of the kamo-jinja shrines)**people,nyogo(a high-ranking lady in the court-a consort of an emperor)**people,and court ladies**people)
+descriptions about the number of poems on the basis of volume or composer.
+other various comments on the tale of genji
+classification
+kikan ikeda,who 'investigated 250 to 260 kinds of existing manuscripts,' classified genealogies of the tale of genji into the following three groups 'in terms of development.'
+each of them seem to respectively correspond to 'ancient annotation,' 'old annotation,' and 'new annotation' in the history of annotation of "the tale of genji."
+the genealogy after 'sumireso' (violet)
+the genealogy after 'sanetaka-bon' by sanetaka sanjonishi(which has a postscript dated 1488)
+the genealogy before(old genealogy)
+kikan ikeda classified old genealogies into three groups of 'kujoke-bon manuscript,' 'tameuji-bon manuscript,' 'shoka-bon manuscript,' and later added 'tenbun-bon manuscript' to them,making four groups.
+kujoke-bon manuscript group
+tameuji-bon manuscript group
+shoka-bon manuscript group
+tenbun-bon manuscript group
+they preserved the original form in this order,and the closer it comes to the present time,the more the manuscripts are said to have been revised by posterity.
+kazuko tokiwai considers that old genealogies of the tale of genji seem to have been handed down in the complicated process,and they can be classified into two groups of 'kujoke-bon manuscript' which is close to the original when it was completed and other group,stating that 'it is impossible to classify them clearly except 'kujoke-bon,' which seems to be close to the original manuscript.'
+sumireso is a genealogy which was collected in 'sumireso' (consisting of three books:the first and second volumes of genealogy of "the tale of genji" and the third volume of chronological table)written by kyubi kitamura,a disciple of norinaga motoori in 1812.
+other than these,it is possible to classify them into the manuscript consisting of one book and the one consisting of more than two books,or the one in the form of kansu(a scroll)and a booklet.
+meaning
+there are various interpretations of the tale of genji as to character's identity and so on,but in order to make a genealogy,it is necessary to decide which interpretation you accept.
+therefore if you examine the old genealogy of the tale of genji made in olden times,it reveals how the creator of the genealogy interpreted the tale of genji,which makes it possible to guess how the people in olden times interpreted the tale of genji to some extent.
+it also gives us a hint as to when the following names came to be used such as 'kumoi no kari,' 'ochiba no miya,' 'oborozukiyo,' 'nokiba no ogi,' 'ukifune(the tale of genji),' 'kashiwagi(the tale of genji),' 'tamakazura(naishi no kami-principal handmaid)(the tale of genji),' 'yugiri(the tale of genji),' 'empress akikonomu,' 'kurohige,' 'aoi no ue,' and so on,that do not appear in the text but were generated while people were reading "the tale of genji."
+sumori monogatari(tale of sumori)
+among the genealogies of the tale of genji which was made in olden times such as the 'old genealogy owned by tsurumi university,' some contain the descriptions concerning achievements of the person called 'sumori sanmi,' a grandchild of 'hotaru hyobukyo' (the younger brother of hikaru genji,and also called 'hotaru hyobukyo no miya' or 'hotaru no miya,' who appears in the present text of the tale of genji),and his name cannot be seen in the tale of genji widely circulating today.
+according to them, 'sumori sanmi' reminds readers of ukifune,who appears in the present popular edition of the tale and is loved by both nioumiya and kaoru.
+(however,it is said that after sumori sanmi made love with kaoru and bore him a son,she retired into a secluded life,so she was quite different from ukifune in the present text of the tale of genji at this point.)
+it is also said that the chapter called 'chapter of sumori,' which is not included in the 54 chapters of the present text of the tale of genji,existed,and the chapter contains these descriptions of 'sumori sami.'
+in addition,some old commentaries such as 'genji monogatari kokagami' (small mirror of the tale of genji)also mention 'chapter of sumori' or 'sumori sanmi.'
+there are two opinions about this sumori monogatari:one is that it was complementally written by posterity based on uji jujo(the ten quires of uji),and the other is that sumori monogatari including 'chapter of sumori' was once written by the same author who made the original story as a tale which took place after the death of hikaru genji,but for some reasons,it was thrown away,and later the present uji jujo which focuses on ukifune was rewritten.
+major old genealogies of the tale of genji
+old genealogy in the kujoke-bon manuscript
+it was completed before the early kamakura period,and the form of the character suggests that it was probably made at the end of the heian period,so this is regarded as the earliest old genealogy among the existing ones.
+it is not clear what the title originally was because it lacks the opening and ending pages.
+it has an impressed ownership stamp of 'kujo.'
+now it is preserved at tokai university in the toen bunko library.
+old genealogy attributed to tameuji nijo
+it seems to have been completed before the mid-kamakura period.
+owned by the old maeda family.
+in the ending,it mentions the titles of chapters such as 'norinoshi,' 'sumori,' 'sakurabito,' 'hiwariko,' and so on which are not included in the present book;the tale of genji in circulation,and says that 'they do not always exist.'
+old genealogy in the shoka-bon manuscript
+it is said to have been transcribed in 1258.
+owned by tenri university library.
+old genealogy in the tsurumi university manuscript
+it seems to have been transcribed at the end of the muromachi period,but the contents are close to the old genealogy in the shoka-bon manuscript.
+this genealogy has detailed descriptions of sumori sanmi.

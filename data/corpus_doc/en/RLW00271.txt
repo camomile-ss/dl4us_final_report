@@ -1,0 +1,158 @@
+railways in japan
+railways in japan include all railways and rail tracks(railway)in japan.
+this section describes,in the broad-sense,railways in japan.
+summary
+japan's railway,in a limited sense,means railways under the control of railway bureau of mlit(ministry of land,infrastructure,transport and tourism)based on the railway business act.
+railways constructed based on the act on rail tracks are called rail tracks(railway),which are technically different from railways,but generally called railways as well.
+the reason why there are two acts,the railway business act and the act on rail tracks,is that the act on rail tracks mainly covers railways set up on roads.
+in addition,while the railway business act used to be under the control of ministry of transport,the act on rail tracks used to be controlled collectively by ministry of transport and ministry of construction(ministry of transport and ministry of construction were unified and became ministry of land,infrastructure,transport and tourism in 2001).
+there are some other types of railways controlled by regulations other than the railway business act and the act on rail tracks.
+these railways include logging railways,mine railways,and colonial rail tracks which no longer exist.
+moreover,other than types of railways mentioned above,there are some railways constructed on private properties not based on the railway business act and the act on rail tracks.
+these railways include ones used for transportation to and from hotels,used as a small tram,and a sightseeing train,such as 'a train in wonderland' used in an amusement park.
+since japan is relatively a very dense country and railways have a significant role as a means of in-city and inter-city transportation,today's passenger transportation volume of railways in japan accounts for 40%of the world total in market share.
+in addition,some elements of railways including technologies,on-time operation rate,and service quality for passengers have reached the highest level in the world.
+however,in some under populated areas with very low transport density,there are some railway companies whose managing conditions are failing.
+on the other hand,however,there are some other small-and-medium-sized railway companies whose business has been kept in black due to their managerial efforts.
+definitions
+the following definitions are described in the railway business act,enforcement regulations of article 4 in japan.
+article 4:the types of railways defined in number 6 of paragraph 1 of article 4 by the ministry of land,infrastructure,transport and tourism are as follows:
+1.common railways:
+a type of railway which is extremely-common(railways that have two steel rail lines(railway)on which trains run,including from shinkansen to light railway and jinsha-kido-a railway system in which men push a passage car or a freight car)
+2.suspended railways:
+suspended monorail/skyrail(skyrail service hiroshima tankyori kotsu seno line)
+3.alweg railways:
+alweg monorail
+4.guideway transit systems:
+automated guideway transit system(agt),guideway bus(gbs)
+5.mukijo-densha(trackless trolley):
+trackless trolley
+6.funicular railways:
+cable cars
+7.levitated railways:
+magnetically levitated railway/linear motor train(there are some linear motor trains that are not levitated and thus belong to 1.common railways,for example,steel-wheel linear motor train)
+8.railways other than from number 1 to 7:
+imts(intelligent multimode transit system,the 2005 world exposition,aichi,japan,aichi expo line)was added to the railways that fall on the above category no.8.
+current situation
+*the historical flow will be described later.
+railway network configuration
+the nation(tetsudo-ryo(the predecessor of tetsudo-in)->tetsudo-in(railway bureau)->tetsudo-sho(ministry of railways(japan national railways))->ministry of transport)used to manage the major lines across the country once(from the meiji period when the first railway was constructed in japan to immediately after the world war ii),but japan national railways(jnr)itself was privatized into seven jr companies through the innovative change from the administrative organ to the public authority(japan national railways).
+other than jr groups,there are some private railway companies in some regions.
+major and second-tier private railway companies located in metropolitan areas mainly establish railway networks connecting the city center and the suburbs.
+the majority of the small-and-medium-sized private railway companies,on the other hand,usually connect the city,which is far from jr stations,and a jr station.
+subways are also a common means of transportation in large cities in japan.
+subways in japan are run by either special companies or local public enterprises(public transportation).
+there are also joint public-private venture railways,which were taken over mainly from unremunerative local lines of japan national railways and are managed through investments from local government bodies,in rural areas.
+streetcars are governed by the act on rail tracks and many of them are not 'railways' in a strict sense.
+the removal of streetcars has been promoted,but there are still some streetcars operated in some cities.
+they are managed by either local public enterprises(public transportation)or private companies(private railway companies).
+jr group
+in 1987,japan national railways(jnr)was privatized and split up into jr companies.
+among these jr companies,east japan railway company(jr east)is world's largest railway business entity.
+east japan railway company(jr east),central japan railway company(jr central),and west japan railway company(jr west)have sold all stocks held by the nation to the market and achieved a complete privatization.
+hokkaido railway company(jr-hokkaido),shikoku railway company(jr-shikoku),kyushu railway company(jr-kyushu),and japan freight railway company,on the other hand,are joint-stock-corporation-type special public corporations,which were run by a 100%investment of the government by taking application of laws regarding passenger railway joint-stock corporation and japan freight railway company.
+their stocks have not been listed yet.
+these four companies have very weak management bases,and because it is difficult to manage their business only with railway services,they are aiming for better profits with support from the government,such as funds for stable management,and by diversifying railway-related businesses.
+major private railways
+the 16 major private railways have large passenger transportation volume and are achieving a satisfactory level of profit.
+however,in accordance with the decline in population in japan as a whole,the number of passengers each railway company carries has been gradually decreasing.
+there are many major private railway companies which turn a profit from railway-related businesses such as real estate business other than railway business.
+small-and-medium-sized railways
+small-and-medium-sized railways in suburbs of the metropolitan areas play a role in the development of areas along the railway and the operation of commercial facilities around the station,thereby ensuring relatively-stable management bases.
+however,local private railways other than above are strongly affected by decline in population,and most small-and-medium-sized railways,except those which have tourism resources along its route and thus have good tourism business such as fujikyuko co.,ltd.,are running at a loss.
+many railways are forced to reduce their routes or discontinue some lines unless they have a certain demand for some transportation such as inter-city transportation and tourism transportation.
+there are also some railway companies that cannot execute some improvement strategies,for example,putting their existing trains on a faster track and introducing new cars,due to their financial difficulties.
+the environments surrounding the local private railways are becoming more and more severe because the amount of subsidy has been reduced or the payment of subsidy has completely stopped due to the severe financial situation of today's local public bodies and because after the railway business act was revised,it is now possible to discontinue railway lines simply by notification.
+public railways and others
+the railways run by local public bodies(public transportation)or joint public-private venture railway companies which were co-financed by private companies and local public bodies play roles for subways in cities and transport demands in areas where the transportation network is not well-organized.
+however,in local areas,there are some railway companies that took over unprofitable railway lines from japan national railways,and thus the managing status of every company is usually failing.
+in urban areas,on the other hand,there is a great demand for railways,and thus managing status of railway companies varies depending on the line.
+there are railway lines that are falling in a vicious cycle in which the fare needs to be increased due to increase in construction cost,which causes slower growth of the passenger transportation volume,and thus the areas along the line are hardly ever developed,while there are some railway lines that are achieving excellent results in passenger transportation,and thus the areas around the line are actively developed,such as tsukuba express of metropolitan intercity railway company.
+freight transportation
+with the privatization and separation of japan national railways,freight transportation was handed over to japan freight railway company.
+although rail freight transportation used to be the foundation of freight transportation in japan,the volume of rail freight transportation has drastically been decreasing after 1965 due to expansion of expressways and the enriching of home-delivery services,and in a decade from 1975,at a late stage of jnr,freight trains and their facilities were organized substantially to be taken over to japan freight railway company for management rationalization.
+even after japan freight railway company started its operation,the volume of rail freight transportation has remained low;however,the business of japan freight railway company is moving back into profit due to the increasing demand for environment protection,as well as to the management efforts including review of advantages of railway transportation,adoption of containers instead of freight cars(car load freight),and express delivery by introducing new cars.
+on the other hand,however,there are many small-and-medium-sized private railways(e.g.seaside railways)whose main services are freight transportations in local areas and which are in a tough management situation.
+passenger transportation volume
+passenger transportation volume of railways tended to grow until 1955 to 1964;however,after 1965,many small-and-medium-sized private railways were discontinued because of change in population distribution(concentration of population in large cities)along with change in industrial structures in the high economic growth period,and reduction in transportation volume of small-and-medium-sized private railways in local areas due to the widespread use of private cars.
+in the 1970's and later,the demand for long-distance transportation by railway has been further dropped due to increase in transportation by car and air,which was enhanced by cheaper air fares,development of roads including expressway construction using the road-related tax revenue system,and price-reduction in oil after the "oil shock."
+today,due to regression of population distribution to the city center triggered by low birthrate and aging,not only small-and-medium-sized private railways in local areas,but private railways in big cities are gradually having more lines connecting the city center and suburbs,whose transportation volume is changing from increase to decrease.
+in urban areas,on the other hand,there are some lines whose transportation volume is increasing year after year,and increase in transportation volume due to newly-opened lines can be also seen.
+in local areas too,there are some lines which are enjoying an increase in transportation volume because of various improvement strategies against automobile and airline companies and due to increase in tourists.
+speed
+some cars of shinkansen,which are specially designed and built to run at high speed,are operated at 300 kilometers per hour maximum('nozomi(train)' on the sanyo shinkansen line,nishi-akashi and to the west).
+the maximum speed of regular train lines,on the other hand,is set at approximately 120-130 kilometers per hour for major lines,except for only a few lines on which some trains are operated at 160 kilometers per hour maximum.
+the main reasons for this are as follows:
+many railways are adopting narrow-gauge lines,and thus the base cars are logically designed small,which makes installation of a high-power motor difficult.
+there are many linear lines because it is difficult to build many long,wide tunnels due to the issue of construction cost despite the large number of mountains(for operations of steam locomotives,it was more advantageous to avoid sharp inclinations even if the number of curves would be large;moreover,long,wide tunnels also have a problem of smoke from steam locomotives,other than issue of cost).
+because of the high population density,there are many railroad crossings,which introduced a rule in which the train must stop completely within 600 meters after the emergency brake is activated(600m provision).
+safety measures
+people's confidence toward railways which generally have higher safety than other means of transportation is showing a declining trend due to some serious accidents including the derailment accident on the jr fukuchiyama line.
+for this reason,each railway company is investing harder in safety measures these days.
+these measures include the nucleus ones such as automatic train control(atc),as well as more meticulous measures such as platforms doors,etc.
+barrier-free
+in accordance with the enforcement of a law regarding promotion of smooth transfer for elderly persons and physically disabled people in public transportation use,each company is making efforts in promoting barrier-free systems.
+expansion and improvement of escalators and elevators are mainly promoted especially in urban areas.
+many station lavatories have also improved to include multipurpose toilets.
+there are also some trains having multipurpose toilets.
+however,there are also many railway companies which have not made much progress due to their severe managing conditions.
+improvements in service quality
+to increase the number of passengers,improvements in service quality are necessary,and thus each company is implementing various measures.
+such measures range from the enrichment of human resources such as employee training,to the introduction of some convenient cards which can be used commonly among some railways without paying for fares even when a person uses more than one railway continuously,as well as some cashless systems.
+in addition,by setting up or soliciting some stores in the station yard(commonly known as 'ekinaka' -a space for commercial purpose set up in a station yard),railway companies try to boost users' convenience and raise their own revenue at the same time.
+because jr group is now able to conduct business more freely due to privatization compared to the jnr era,many tenants are developing stores in yards especially of major stations in urban areas.
+however,shops and stores near stations may often be affected by the tenants which are located in station yards,overwhelmingly advantageous locations.
+features of railways in japan relative to those in other nations
+accuracy
+it is said that railways in japan are highly reliable compared with railways in other nations.
+shunzo miyawaki,a railway travel writer,points out the large number of in-service trains and their accuracy is what japanese railways are proud of in today's world.
+in fact,there is a great story about some foreign railway officials who visited japan;they got a pocket watch from the japanese station attendants and checked the arrival time of a train,and when they saw the train arrived at the station on time punctual to a second,they said 'crazy!'
+incidentally,there are some documents introducing japanese people's sense of time,in which while most overseas railways regard a delay of 5 to 15 minutes as punctual(even for high-speed railways),a delay or early arrival of 15 to 30 seconds is regarded as not punctual.
+what supports the accuracy of railways in japan
+the large number of in-service trains:
+in japan,a heavily-populated country,the number of in-service trains naturally tend to be more,but,at the same time,a slight time lag of a train may affect other connecting trains;therefore,maintaining punctuality has been inevitable.
+complexity of the railway network:
+japan is one of the countries that has the best thought-out railway network in the world,if not as good as some countries like switzerland.
+trains are often connected to each other at a junction station and sometimes make connections and separations.
+in this case too,a slight time lag of a train may cause a larger time lag of other connecting trains,and thus high punctuality is needed.
+on the negative side,there are some cases where rationalization causes the following obstacles to the punctuality.
+poor infrastructures:
+railways in japan have poor infrastructures on lines and in station facilities for large number of trains and transportation volume.
+for example,there are some sections that should have a quadruple track,but actually have only a double track.
+therefore,a slight delay of a train can affect all of the other related lines.
+especially in recent years,for the purpose of rationalization,sidings and passing tracks have been removed,resulting in reduction in resilience against disruption in the time schedule.
+human capacity:
+many employees and workers used to be working hard to support the accurate train schedules before,and thus addressing the problem locally even for disruptions in the time schedule;however,due to reduction and rationalization of personnel and unification of instructions,it is getting more difficult to implement finely-tuned operation management in recent years.
+moreover,coping with disruptions in the time schedule is becoming less flexible due to use of computers.
+efforts to maintain punctuality
+railways in japan could never have maintained punctuality without their ingenious attempts and efforts.
+many relevant people such as koki yuki,a person called 'the god of train operation,' worked hard to maintain the punctuality of railways in japan,resulting in the maintenance of today's excellent punctuality.
+in recent years,there are some railway companies which have some more time allowance in case for the delay of trains by extending the required travel time,which used to be shortened as a countermeasure against competitors,through review of the time schedule.
+large passenger transportation volume
+high transport density
+the passenger transportation volume of railways in japan is high level,especially commuter trains operated on the major lines in the tokyo area and osaka area,and tokaido shinkansen connecting major cities has high transport density unlike any other railways in the world.
+in the tokyo area,the yamanote line,the chuo-kaisoku line,and some other lines carry 3000 to 4000 passengers at a time with 10 cars,and each major line all together carries around 100,000 passengers each way on a double track for an hour during rush hours;this can not be seen in railways in other developed countries.
+the design of six-door cars in which all seats are put away during rush hours cannot be seen in any other country,and images of the cutthroat rush hours are often introduced in foreign countries.
+railways in japan are very efficient from the perspective of energy consumption and land use,and economic activities in the national capital region(japan),which is the largest metropolitan area in the world,could not have been achieved without these railways;on the other hand,however,there are some problems from the perspective of social comfort and welfare,which has not reached drastic improvement over 100 years in the history of railways in japan.
+in addition,tokaido shinkansen is operated between tokyo and shin-osaka at almost the same frequency of commuter trains,with as many as ten trains operated per hour during the morning and evening rush hours;mid-and long-distance trains connecting large cities with this passenger transportation volume and frequency cannot be seen so far anywhere in the world.
+high passenger share
+the share of passenger transportation of railways in japan once dropped drastically through widespread of automobiles(motorization)from 1955 to 1974 but has still maintained about 30%,which is the highest level in the world.
+as mentioned earlier,trains operating in the tokyo and osaka areas,and the shinkansen are relatively more convenient than other means of transportation and thus are used and are popular on a daily basis.
+however,unlike in the tokyo and osaka areas,automobiles are more convenient than railways in local areas and there are many cases where railways are not used very frequently.
+incidentally,the share of freight transportation has been remaining low level under 5%.
+strength of private sector
+in japan,private railways take an important role especially in the tokyo area,osaka area,and nagoya area.
+similarly,after privatization,east japan railway company(jr east),central japan railway company(jr central),and west japan railway company(jr west)in the jr group have been remaining in the black.
+these jr companies and private railway companies are developing various businesses related to lives of the railway customers and residents living along the lines such as real estate business,retail business,hotel business,and other business,while attending hard to railway business.
+in other countries,it is said that it is extremely difficult to turn a profit with the railway business,and thus,the railway business cannot work out without the investments of the government or other organizations.
+while there are many countries in which the railway network was developed by private companies in pioneer days of railways,there are no countries in which private railways have maintained the railway network widely up to the present date except for japan.
+moreover,there are also no cases where railway companies are developing various related businesses.
+railways and urban development
+in japan,cities grow around the railway station,which is the center of people's lives and business and adds sparkle to people's lives,especially in the tokyo area,osaka area,and major terminal stations in local areas such as prefectural capitals and stops for shinkansen.
+furthermore,tokyu corporation,hankyu corporation,and some other companies have been implementing real-estate development by themselves to create suburban residential areas using their own lines as a core.
+currently,throughout the world,there are not very many cases where railway stations are functioning as a center of the town or a representative of the town as especially seen in the tokyo area and osaka area in japan.
+rather,there are many cases where the station used to be the center of the town,but was left behind in the development of the town and thus is now located in a rough area,or the station is located outside of the city center where not very many people gather.
+well-maintained public peace and high standards of cleanliness
+japan is one of the countries where railways have the best-maintained public peace and highest standards of cleanliness in the world.
+some people point out the deterioration of public security,but even if someone falls asleep on a subway in japan,he/she is unlikely to stumble into crime,and even at night,a woman can take a train alone in peace,which is worthy of special mention from a world perspective.
+in addition,while there are quite a few countries in which graffiti on the trains and trains with damages to property(vandalism)can be seen,these cases are very rare in japan and railway cars are generally respected as a public property and thus kept clean.

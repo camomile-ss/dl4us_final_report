@@ -1,0 +1,106 @@
+daigaku-ryo
+the daigaku-ryo was a set of educational institutions that was founded under the ritsuryo system to train government officials,which was controlled directly by shikibu-sho(the ministry of ceremonies-equivalent to today's national personnel authority).
+the daigaku-ryo provided education and examinations to students,namely government official candidates,and took charge of sekiten(traditional events for worshipping confucius),an important ceremony in confucianism.
+summary
+because a post named 'fumi no tsukasa no kami' (head of minister of education)is mentioned in the "nihonshoki" (chronicles of japan)entry for the year 671,and the preface of "kaifuso" (found recollections of poetry)includes the statement that the emperor tenchi founded a school,it is generally understood that the origin of daigaku-ryo dates back to this era.
+it is said,however,that the development of daigaku-ryo was delayed due to the influence of the ensuing jinshin war,and that the concrete daigaku-ryo system was finalized thanks to the introduction of the taiho ritsuryo code(gakuryo[the rule of education]).
+at first,daigaku-ryo mainly taught confucianism,the study referred to as myogyo-do(the study of confucian classics)in later years,but after two educational system reforms in 728 and 730(through the former,monjo hakase[professor of literature]and ritsugaku hakase[professor of the law],which was later referred as myobo hakase[professor of law],were introduced,and through the latter,the systems of monjosho[students of literary studies],myobosho[students of law studies]and tokugosho[distinguished scholars]were established),the facilities and system of daigaku-ryo were improved;for example,daigaku-ryo kugaiden(referred to as kangakuden(rice fields for schooling)in later years)was introduced,whereby food services were provided to students.
+the status of monjo hakase,who taught chinese classical literature other than confucianism,subsequently improved,their department,kidendo(the study of the histories),became highly ranked.
+the reason is that although daigaku-ryo was modeled on the university system in tang dynasty china,unlike in tang dynasty china where the rule that a nation should be governed based on confucianism was already established,in japan confucianism coexisted with buddhism and traditional shintoism,and the ruling classes in japan did not pay heed to the philosophy of confucianism as much as those in the tang dynasty did.
+instead,in japan,the knowledge of chinese classical literature was more welcomed as a requirement for cultural refinement.
+also,influenced by these trends,the education of confucianism in daigaku-ryo was regarded as a kind of 'technique' for the management of administrative jobs,and daigaku-ryo came to be considered an institution where middle and low ranking nobles made a name for themselves.
+daigaku-ryo failed to conquer traditional practice of teaching the children of high-ranking noble families at home.
+therefore,another reform was implemented in the early heian period,and an imperial decree was issued in 806,whereby shoo(princes who didn't receive any proclamation to be an imperial prince)aged over 10 and the children or grandchildren of government officials of goi(fifth rank)and above were required to attend daigaku-ryo.
+the imperial decree,however,was withdrawn in 812 due to backlashes from daigaku-ryo against a change in school entrance age from 17 years old to 10 years old and against the approval of de facto dropouts after four-year schooling,shorter than the dropout after the nine-year schooling specified by the provision of gakuryo,as well as objections from high-ranking nobles.
+later,this imperial decree was resurrected in 824,but there is no description about this decree in "engishiki" (an ancient book for codes and procedures on national rites and prayers),so it is considered that the decree was abolished before then.
+daigaku-ryo also promoted financial assistance measures such as the expansion of kangakuden,the offering of shikiden(a rice field provided for dainagon and the higher rank)to professors,and the provision of a study stipend and salary(financial aid)to students.
+in addition to these school attendance policies,because of a rise in interest in a tang dynasty-style culture,daigaku-ryo saw its heyday between the 9th century and the early 10th century,which corresponds to the first half of the heian period.
+triggered by the foundation of kangaku-in(a boarding school)by the fujiwara clan,many clans followed suit and founded daigaku-besso(an academic facility for nobles,or boarding schools),and the basis of the existence of daigaku-ryo was gradually beginning to be shaken.
+daigaku-besso was the system in which a clan as a whole ensured financial aids for schooling and the livelihood of students(their relatives)and assisted them in advancing into bureaucracy,so it resulted in a 'disparity' between people from clans that,having daigaku-besso,could offer a stable learning environment and people from other clans that could not.
+furthermore,a kind of academic cliques were formed among daigaku-ryo's professors,who disputed over not only theories but also students' success in life,particularly in the kidendo department,where fierce conflicts among the sugawara clan,the oe clan,and other clans took place.
+also,the status of daigaku-ryo gradually declined due to reasons such as a decrease in interest in chinese culture because of the abolishment of japanese envoys to tang dynasty china,the relaxation of the ritsuryo system,and the downfall of low and middle ranking peers owing to the establishment of fujiwara's sekkan(regents and advisers)government.
+the relaxation of the ritsuryo system also forced daigaku-ryo to lose its kangakuden,which was changed into shoen(manors in medieval japan),and put a strain on its finances,despite rescue measures targeting daigaku-ryo,such as the offering of suiko(government loans,often seed rice,made to peasants in japan from the 7th through 12th centuries),because they were not sufficient.
+ironically,the reason why daigaku-ryo could be maintained was that the spending of daigaku-ryo was reduced due to an increase in students from clans that possess daigaku-besso,who did not need a salary from daigaku-ryo.
+in 914,kiyoyuki miyoshi pointed out the deterioration of daigaku-ryo in article four of his 'iken junikajo' (12 opinions),but evidence that confirms the deterioration of daigaku-ryo itself,such as a drop in the number of students,cannot be found in historical materials prior to or after the opinions.
+therefore,it is considered that he issued a warning against the situation where the equality of education was vanishing due to the loss of kangakuden and the rise of daigaku-besso.
+meanwhile,there was a change in the government official appointment system;the system called 'dokyo' was introduced(in the mid-ninth century for the kidendo department and after the late ninth century for the kidendo,myobodo[study of codes],and sando[study of mathematics]departments),whereby daigaku-ryo students,by the recommendation of professors,were appointed as government officials of the jo(inspector[third highest of the four administrative ranks of the ritsuryo period])and sakan(secretary)ranks without examination.
+furthermore,in the 10th century,a similar system called 'donenkyo,' in which the target appointment position was jo(a provincial governor)was introduced.
+in addition,in the latter half of the 10th century,daigaku-besso(kangaku-in colleges,shogaku-in colleges,and gakkan-in colleges)were allowed to use the system called 'innenkyo,' whereby their students were appointed as jo of provinces by recommendation without examination.
+as a result,for students other than those who stayed in daigaku-ryo and aspired to a teaching career such as hakase(professor),graduation was no more a prerequisite for job appointment,and this prompted daigaku-ryo's examinations to lose substance and to become simplified.
+in the latter half of the 10th century,it was often the case that entrance exam questions were given to applicants in advance,or that preference was given to particular applicants by influential people.
+eventually,during the insei period(period of cloistered imperial rule),it became more common that influential people arranged the allocation of successful applicants,or that job appointment or success in an entrance exam was decided by applicants' offering of jogo(bribes for appointment)to daigaku-ryo.
+furthermore,in the late heian period,daigaku-ryo became unable to function because the kanshi ukeoi system(the system that allows the succession of governmental posts by heredity)was introduced,and government positions were monopolized by people from distinguished families(because the nobility abused the oni system,through which descendents of higher rank officials were given preference when assuming a post).
+this trend also reached daigaku-ryo,where professors,with the aim of bequeathing the post of hakase to their descendants,tried to monopolize knowledge by denying access to education to people other than their household,and they gave lectures only to their children and a handful of disciples not at daigaku-ryo but at their private residences.
+daigaku-ryo went into a decline due to the collapse of the systems of kangakuden and suiko,which were used to provide professors and students with financial aid and to maintain facilities.
+in 1154,the daigaku-ryo office building collapsed,but it was not rebuilt,and myogyodo-in college was used as the office building instead("heihanki" [the diary of taira no nobunori]).
+before long,after the great fire of angen in 1177,daigaku-ryo was closed.
+as for qualifications for enrollment,only children and grandchildren of nobles of goi and above or those of tozaishibu(families in charge of documenting their generations)were qualified,but children of government officials of hachii(eighth rank)and above were allowed to enroll if they wish.
+also,although few in number,there were cases in which common children of hakucho(inferior servant)status,who did not have kabane,were allowed to enter daigaku-ryo(guidelines on recruitment of monjosho[students of literary studies]and myobosho[students of law studies],which were drawn up in the tenpyo era[from 729 to 749],stated that 'children of hakucho and zonin' [lower-ranking government officials]were qualified).
+daigaku-ryo students had to take graduation examinations,and if they achieved a mark of 80 percentages,they then had to take one of the following examinations given by the shikibu-sho(the ministry of ceremonies):sinshi(daigaku student who passed a subject of the official appointment test),myobo(law),myogyo(the study of classic confucian writings),san(mathematics),or shusai(daigaku student who passed a subject of the official appointment test).
+if students achieved high grades,they were granted official court ranks between hachii and shoi(initial rank).
+in addition,some students stayed in daigaku-ryo as tokugosho(distinguished scholars)and aspired to a career as a hakase.
+the organizational structure of daigaku-ryo resembles modern universities;it was headed by 'daigaku no kami' (director of the bureau of education,equivalent to today's university presidents),and classes were conducted by hakase(equivalent to today's university professors).
+there were also top students(tokugosho)who can be defined as 'a graduate student' in the modern sense.
+initially,daigaku-ryo offered four subjects:kyo(confucianism)and san(mathematics)as well as two supplementary subjects,sho(calligraphy)and on(chinese pronunciation).
+afterwards,daigaku-ryo comprised kidendo(the study of chinese history),monjodo(literature),myogyodo(the study of confucian classics),myobodo(study of codes),and sando(study of mathematics)while kidendo and monjodo were integrated later(people of succeeding generations assumed that kidendo was absorbed by monjodo but this is wrong.in reality,the name of the doctorate was 'monjo hakase' while the name of the department was 'kiden(do).'
+also,it is considered that daigaku-ryo came to use 'xx do' for the name of departments before or after the introduction of the jogan-shiki code.
+incidentally,ondo(study of pronunciation of the chinese language)taught by on hakase(professors of pronunciation of chinese language)and shodo(calligraphy)taught by sho hakase(professors of calligraphy)were subjects that supplemented the study of myogyodo,and it is considered that the two subjects were practically integrated with myogyodo by the middle of the heian period.
+other contemporary educational institutions were onmyo-ryo(bureau of divination),tenyaku-ryo(bureau of medicine),and uta-ryo(bureau of traditional music),which were educational institutions for gikan(bureaucrats with specialized skills).
+facilities
+basically,daigaku-ryo's students lived in school dormitories,where they were given lectures.
+this system is called 'jikiso.'
+monjosho(students of literary),myogyosho(students of classic confucian studies),sansho(students of mathematics),and myobosho(students of law)lived in monjo-in,myogyodo-in,sando-in,and myobodo-in,respectively.
+also,in the heian period,powerful nobles founded boarding schools for their family members and relatives.
+this schools are called 'daigaku-besso.'
+structure of daigaku-ryo
+betto(chief officer):the president of daigaku-ryo and superior to kami(head).
+introduced during the heian period.
+1 kami(head)(equivalent to jugoinojo[junior fifth rank,upper grade])
+1 suke(deputy director)(equivalent to shorokuinoge[senior sixth rank,lower grade])
+1 daijo(senior secretary)(equivalent to shoshichiinoge[senior seventh rank,lower grade])and 1 shojo(junior secretary)(equivalent to jushichiinojo[junior seventh rank,upper grade])
+1 daizoku(senior clerk)(equivalent to juhachiinojo[junior eighth rank,upper grade])and 1 shosakan(junior clerk)(equivalent to juhachiinoge[junior eighth rank,lower grade])
+myogyodo(confucianism)
+1 daigaku hakase(equivalent to shorokuinoge[senior sixth rank,lower grade]):taught myogyodo
+2 jokyo(assistant professor)(equivalent to shoshichiinoge[senior seventh rank,lower grade]):taught myogyodo under the daigaku hakase
+3 and later 2 chokko:myogyodo instructors introduced in 728
+400 gakusei:students of myogyodo
+4 myogyo tokugosho:advanced students introduced in 730
+sando
+2 san hakase(equivalent to jushichiinojo):taught sando
+30 and later 20 sansho:students of sando
+2 myogyo tokugosho:advanced students introduced in 730
+ondo
+2 on hakase(roughly equivalent to jushichiinojo):taught ondo
+onsho:newly introduced students of chinese pronunciation
+shodo
+2 sho hakase(equivalent to jushichiinojo):taught calligraphy
+shogakusho:newly introduced;students of calligraphy
+myobodo
+2 ritsugaku hakase(equivalent to shoshichiinoge):taught myobodo introduced in 728 and also referred to as 'myobo hakase'
+10 myobosho:students of myobodo
+2 myobo tokugosho:advanced students newly introduced in 730
+kidendo
+1 kiden hakase:taught kidendo;introduced in 808 and abolished in 834
+kidensho:students of kidendo
+kiden tokugosho:advanced kidendo students
+1 and later 2 monjo hakase(shoshichiinoge to jugoinoge[junior fifth rank,lower grade]):introduced in 728 and taught literature
+20 monjosho:students of monjodo(later integrated with kidendo)
+gimonjosho(student passed ryoshi):preparatory advanced students
+2 monjo tokugosho:advanced students
+daigaku jikiso(daigaku-ryo's dormitories)
+monjo-in:the toso(east quarters)of monjo-in was owned by the oe clan while the seiso(west quarters)by the sugawara clan
+sando-in
+myobodo-in
+myogyodo-in
+daigaku-besso
+kangaku-in:the facility(boarding school)owned by the fujiwara clan
+shogaku-in:the facility(boarding school)owned by the imperial family and the ariwara clan.
+gakkan-in:the facility(boarding school)owned by the tachinaba clan.
+kobun-in:the facility(boarding school)owned by the wake clan.
+note
+in government-regulated organizations at that time,the lowest rank of the ikai(court ranks)was hachii(the rank of shoi also existed below hachii),and the definition of a noble of the time was a person ranked jugoi(junior fifth rank)or above whereas persons ranked between juhachii(junior eighth rank)and shorokui(senior sixth rank)were regarded as government officials(bureaucrats),who were not nobles in the strictest sense.
+incidentally,the word '-ryo,' if it can be defined in a modern sense,corresponds to the following organizations:bureaus,authorities,agencies of extra-ministerial bureaus,or governmental universities.
+it was the emperor saga who upgraded the status of monjo hakase from shoshichiinoge to jugoinoge,the rank from which persons could join the peerage,and the post of monjo hakase became a gateway to success for contemporary scholars.
+as a result,the department attracted legions of gifted and talented persons such as ono no takamura,sugawara no kiyomasa,haruzumi no yoshitada,shimada no tadaomi,miyako no yoshika,and ki no haseo while welcoming an unparalleled boom,and it can be said that the department reached its peak with the appearance of sugarawa no michizane.
+note
+during the edo period,the name daigaku no kami became the title that had been inherited for generations by the heads of the hayashi family,a confucian scholar family,thus being incorporated into the organizations of the edo bakufu(japanese federal government headed by a shogun)as the name of its supreme educational officer.

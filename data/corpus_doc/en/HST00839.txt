@@ -1,0 +1,44 @@
+mokuroku
+mokuroku are documents that are made for the purpose of either clarifying the place where something is kept or showing the name,content and the number of articles that are to be assigned or donated.
+summary
+the term mokuroku often refers to a table,a list or a catalogue.
+however,mokuroku can be categorized as follows based on historical examples.
+documents that clarify the name,content and number of articles in a particular place through a written record.
+documents that form the equivalent of deeds or receipts in relation to the delivery of articles.
+documents that contain the name of an article which are handed to the recipient instead of the real article when presenting tangible or intangible gifts.
+official documents in which the purpose and results of administrative actions are recorded.
+documents forming an index for a large amount of historical materials,books or documents.
+a method of itemization is used so that a lot of information can be searched through at a glance.
+in the world of historical science,bunsho mokuroku(lists of documents)are highly valued as tools to study the distribution of political and economical information at any one time,and tosho mokuroku(lists of books)are valued in understanding where books have been distributed.
+history
+bibliography developed in ancient china,and it is thought that it was brought to japan prior to the nara period.
+since ancient times many mokuroku were prepared at temples and administrative offices for the purpose of asset management and other business necessities.
+according to the official ritsuryo code,government officials were obliged to keep official documents and drafts and prepare corresponding mokuroku every 15 days.
+at temples,for example,books of materials were drawn up,in which buddhist altar fittings,ritual implements and documents were listed as well as a list of paddy fields and farmland.
+at government offices,the replacement record were made in order to confirm the amount of rice tax held at the time of the change of a provincial governor(kokushi),and the book of allotted farmland(handen chobo mokuroku)were made when farmlands were allotted.
+in the heian period,people began to create their own personal mokuroku.
+the eight buddhist monks who went to tang called "nitto hasso" (also called "nitto hakke"),namely saicho,kukai,eun,engyo,jogyo,soei,ennin and enchin,made a catalogue of imported items(shorai mokuroku)in which they recorded the list of books which they brought back from tang.
+two types of notable mokuroku were made by court nobles.
+the first type is one which is similar to the current catalogue of books.
+well-known mokuroku of this type include "nihonkoku genzaisho mokuroku" (the catalogue of chinese texts existent in japan),which was made by fujiwara no sukeyo on imperial order, "michinorinyudo zosho mokuroku",in which fujiwara no michinori recorded his personal library,and "honcho shojaku mokuroku" (the catalogue of books in our country),which is believed to have been made by sanefuyu shigenoi.
+the other type recorded the contents of diaries and documents for the purpose of checking precedents at a later date.
+"shoki mokuroku" was attached to fujiwara no sanesuke's "shoyuki".
+mokuroku relating to assets were also made,and deeds of assignment(yuzurijo or shobunjo),which were made in order to transfer territory and assets before or after a death,were made in the form of mokuroku.
+as the existence of documents was crucial when disputes occurred concerning territory and belongings,lists of assets,official certificates(kugen)and drawings were kept together with a catalogue of documents(ex.a catalogue of documentary evidences for a judical decision or real estate deeds of transfer).
+the record of the occasion when kanshin of todai-ji temple made bunsho mokuroku(catalogue of documents)in the 12th century still exists today.
+in medieval times,many mokuroku were drawn up by the lords of shoen(manors),court nobles,samurai and buddhist monks.
+various mokuroku were drawn up,including shoen mokuroku and shoryo mokuroku which were related to manors and landholding,kenchu mokuroku which recorded the results of kenchu(land surveys),sakuden mokuroku which showed the area under cultivation and the number of workers,and ketsuge mokuroku which showed the status of the payment of nengu(land tax).
+the kanjocho(account book)and nengu kaisai mokuroku(catalogue of land tax collection)which were prepared by the edo bakufu and domains in the edo period originated from the above.
+the law of the domain(bunkokuho)which the imagawa clan established during the warring states period(japan)was also called "imagawa kana mokuroku."
+through this,laws which had been independent administrative documents until that point were brought together into a code and promulgated in the form of a mokuroku.
+mokuroku given with a donation were required to have a certain degree of formality since the recipients were senior persons(including buddha and other deities enshrined at temples and shrines).
+later,these were transformed into the epistolary etiquette(shosatsurei)of mokuroku that were used when giving gifts.
+a mokuroku for donations was written on toneriko paper,which was then folded in three,and wrapped with another same sheet as a courtesy.
+different paper was used depending on the purpose of the mokuroku,as seen from the fact that twice-folded paper was used in the case of shinmotsu mokuroku(list of gifts)and yuino mokuroku(list of engagement gifts).
+the word "mokuroku" wasn't written on the old shosatsurei,only becoming standard in the meiji period.
+when giving gifts today,mokuroku in which gifts are listed are normally handed over at graduation ceremonies or weddings.
+even when giving a gift of money the term "mokuroku" is used,despite the lack of a list of gifts.
+documents which compiled information on martial art techniques and techniques used in the arts were also called mokuroku.
+these were also used as menkyo mokuroku(normally positioned above kirigami[student level]but below menkyo[master level])that certifies the instruction of the secrets of an art.
+zosho mokuroku(book lists)were also made during medieval and pre-modern times.
+when libraries were established in the meiji period,the principle of library material organization and the method of book classification were introduced as techniques of library science to make tosho mokuroku(library catalogue).

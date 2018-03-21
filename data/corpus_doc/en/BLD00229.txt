@@ -1,0 +1,92 @@
+kuruwa(castle compound)
+kuruwa is a general term for a castle compound,which is bounded by walls.
+the term may also written as郭.
+the term maru is also used for castles built during and after the edo period.
+kuruwas are the most important areas in a castle,and can serve as defensive positions,as spaces for building facilities,and as living quarters for soldiers.
+it is said that most castles built during the middle ages(mainly yamajiros[mountain castles])contain many kuruwas of small area,while those built during the early modern period(mainly hirajiros[flatland castles])often contain a lesser number of kuruwas of larger area.
+arrangement of kuruwas
+nawabari(castle layout)and major types of kuruwas
+one of the important factors in determining the issue of battles at castles is the shape and structure of the castle.
+for this reason,when a castle is to be built,the nawabari(castle layout)is determined and kuruwas are arranged,taking the location of the castle,etc.into consideration,with the intention of giving the defender an advantage.
+it can be said that the basic purpose of the nawabari is to effectively arrange three major kuruwas,or the honmaru(the core of the castle),and the ninomaru(literally "second circle")and sannomaru(literally "third circle"),both of which serve as auxiliary areas for the honmaru,so that the honmaru is surrounded by the ninomaru and sannomaru.
+the types of nawabaris can be roughly classified into the following styles.
+rinkaku style
+according to this nawabari,the honmaru at the center is surrounded by the ninomaru,and the ninomaru is surrounded by the sannomaru.
+while this arrangement increases the defensive capability of the castle in every direction,surrounding each kuruwa sequentially requires that a large area of land be allotted to the castle grounds.
+most hirajiros have adopted this style.
+(examples:yamagata-jo castle,matsumoto-jo castle,osaka-jo castle,etc.)
+enkaku style
+this is a variation of the rinkaku style,in which the circular or semicircular ninomaru and sannomaru are arranged around the honmaru at the center.
+(examples:tanaka-jo castle,etc.)
+renkaku style
+according to this nawabari,the honmaru and ninomaru are arranged in a parallel relationship.
+while this causes the depth of the castle to increase,the sides and rear of the honmaru may be exposed,making the castle more vulnerable to attacks on areas other than the otemon(central gate).
+(examples:matsumoto-jo castle[bicchu province],matsuyama-jo castle[iyo province],morioka-jo castle,etc.)
+heikaku style
+according to this style,the honmaru and ninomaru are arranged side by side,and other kuruwas surround them.
+there is a variation of the heikaku style in which a tsumenomaru is arranged adjacent to the honmaru instead of the ninomaru.
+(examples:ogaki-jo castle,shimabara-jo castle,oita-jo castle,etc.)
+teikaku style
+according to this nawabari,the honmaru is located adjacent to the castle walls,and other kuruwas are arranged to surround the honmaru.
+this arrangement is suitable for castles built along natural barriers such as swamps,rivers,mountains,or cliffs,since the "natural barriers" can cover the exposed sides of the honmaru.
+(examples:okayama-jo castle,etc.)
+kaikaku style
+according to this style,kuruwas are arranged in a stepwise shape.
+some yamajiros built in the warring states period(japan)and hirajiros built in the early edo period have adopted this style.
+they were often built by making full use of topographical features such as mountains and hills.
+(examples:himeji-jo castle,marugame-jo castle,kumamoto-jo castle,etc.)
+not all castles can necessarily be classified into one of these styles.
+there were many castles that should be classified into variations,expansions,and combinations of these styles(the combination of the rinkaku style and the teikaku style,for example).
+furthermore,there are also castles which cannot be classified in terms of these styles(tankaku style,for example).
+in addition,the same castle may be considered differently and classified into a different style depending on the researcher.
+there are also some researchers who classify castles in a more detailed manner using other classification names.
+other types of kuruwas
+in order to strengthen defensive capability,small kuruwas,such as an obikuruwa and a koshikuruwa,were sometimes built around the major kuruwas,such as the honmaru.
+in addition,other kuruwas were also built,such as a demaru,which was built independently of other kuruwas,and an umadashi,which was built in front of a koguchi(the entrance of the castle)to protect it.
+name and purpose of each type of kuruwa
+while kuruwas were called "ーkuruwa", "ーmaru",etc.,depending on their purposes,the names varied depending on the period and region.
+the majority of kuruwas called "ーmaru",such as the honmaru and ninomaru,were built in the early modern period.
+it is suspected that this naming is originated from the fact that in a book on strategy,it is described that "a castle is called a maru because a small circular castle is most appropriate to defend".
+honmaru
+it is also called ichinokuruwa(first kuruwa).
+the honmaru is the core of the castle,and includes living and administration quarters,such as a honmaru-goten.
+it becomes the final defense line during battle.
+refer to the section of "honmaru" for details.
+tenshumaru
+it is a kuruwa located in the honmaru and includes a tenshu(tower-like structure).
+some of them include a renritsu style tenshu(tower grouping)and others include a renketsu style tenshu(linked tower complex).
+the honmaru is also called by this name.
+in some castles,the tenshumaru is also called tenshukaku,tenshukuruwa,or hondan.
+ninomaru and sannomaru
+they are also called ninokuruwa and sannokuruwa,respectively.
+the ninomaru and sannomaru serve as auxiliary areas for the honmaru and widely vary in size depending on the castle.
+larger sized ninomarus sometimes included living quarters,such as a ninomaru-goten.
+some sannomarus included even samurai houses.
+regardless of their usage,however,their purpose was to defend the honmaru.
+nishinomaru
+it is used as a retreat for the castle ruler.
+it was ieyasu tokugawa who started to use the nishinomaru as a retreat.
+he used the nishinomaru of edo-jo castle as his retreat.
+himeji-jo castle and okayama-jo castle also include similar nishinomarus.
+obikuruwa and koshikuruwa
+they are elongated small kuruwas which are arranged surrounding the major kuruwas.
+some of them were arranged in a doubled fashion,such as those of osaka-jo castle during the toyotomi period.
+these types of kuruwas increased the time taken by the enemy to reach the major kuruwas and allowed the defenders to attack the enemy advantageously.
+however,kuruwas of yamajiros built in the middle ages were not suitable for a gun-shooting battle,because once a kuruwa is captured by the enemy,the next kuruwa often comes within the range of the enemy's fire.
+sokuruwa
+it is a kuruwa created by surrounding the castle town with a large moat,earthworks,or stone walls.
+if a castle has a sokuruwa,it constitutes the outermost defense line.
+refer to the section of "sogamae" for details.
+demaru
+it is an independent kuruwa provided to enhance the defensive capability of the castle,to strengthen vulnerable spots or structures,and to enable observation.
+one example is the "sanadamaru",which was built to the south of the sokuruwa of osaka-jo castle by nobushige sanada(yukimura sanada)during the osaka winter campaign.
+during the edo period,because the buke shohatto basically prohibited expansion of castles,large "daimyo gardens",which can serve as a demaru,were built,such as korakuen of okayama-jo castle.
+umadashi
+it is a small kuruwa placed in front of the koguchi.
+in addition to simply making it difficult for the enemy to enter the castle grounds,it also functions as a shooting position to allow the defenders to protect the koguchi.
+furthermore,it is also used as living quarters for a small group of soldiers when they sally out.
+umadashis widely vary in size from a small one built only by constructing earthworks,which is not worth calling an umadashi,to a huge one,such as those of nagoya-jo castle,shinoyama-jo castle,and hiroshima-jo castle.
+umadashis can be roughly classified into two categories;semicircular ones are called "maruumadashi" and rectangular ones are called "kakuumadashi."
+mizunotekuruwa
+mizunotekuruwa
+it is a kuruwa including the water supply of the castle.

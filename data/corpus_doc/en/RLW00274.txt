@@ -1,0 +1,257 @@
+yamatoji line
+yamatoji line is the nickname for the electrified section of rail between kamo station(kyoto prefecture)and jr nanba station that runs on the kansai main line of the west japan railway company(jr west japan).
+the section between tennoji station and imamiya station overlaps with the osaka loop line.
+green is chosen as the line color for japanese railways because it 'has the image of a relaxed old city as well as that of a newly developed area.'
+line data
+details of the yamatoji line
+jurisdiction and distance(operational kilometers):87.9 km
+west japan railway company(railway operator):
+distance between kamo station and jr nanba station:54.0 km
+track gauge:1067 mm
+number of stations:22(including both end stations)
+double track sections:
+quadruple track:between tennoji and imamiya(running parallel to osaka loop line)
+double track:between kizu and tennoji and between imamiya and jr nanba.
+single track:between kamo and kizu
+electrified section:the entire line is electrified(direct current 1500 v)
+signalling block system:automatic block signal
+security device:
+between kamo and oji:automatic train stop(base p system)and automatic train stop(system)
+between oji and jr nanba:ats-p(encoder system)
+operation center:shin-osaka general operations control center
+maximum speed
+between kamo and nara and between tennoji and jr nanba:95 km/h
+between nara and tennoji:120 km/h
+all lines are under direct jurisdiction of the osaka branch of the west japan railway company.
+summary
+the yamatoji line is one railway line that connects nara and osaka.
+yamatoji line has been used as the nickname for the line since march 13,1988.
+after the inauguration of jr,the number of direct trains running north to osaka station have been increased to three every hour.
+the bulk of the passengers use the stations in osaka prefecture,and although the number of passengers decrease in nara prefecture,there is a slight increase in other passengers,such as students.
+in spite of the large number of passengers,many of the railroad cars are old and operated with short-car sets in the kansai area.
+in addition to the construction work currently taking place to introduce an urban network traffic control system,there is construction underway near the hirano station to separate the joto goods line of osaka higashi line operating on a section of track used by incoming freight trains;while at the nara station,corresponding construction is taking place to elevate the track as well as making it barrier free.
+at each station on the yamatoji line,the icoca card and the ic card that is interchangeable with the icoca(see icoca),as well as the j through(jスルー)card can be used as a travel card by making an exchange at automatic ticket machines for a passenger ticket.
+in the eighth report of the council for kinki regional transport of 2004,plans were created to make the section between kamo and kizu a double track as part of the 'project for improving services by strengthening the power of transport and so on,' but there have been no developments toward this plan.
+scenery along the line
+form of operation
+on the yamatoji line,operations include running the home liner called 'yamatoji liner,' running yamatoji rapid services and rapid trains,running trains according to train type and train section,conforming to operations on the osaka higashi line and local trains(trains that stop at every station).
+in standard daytime operations starting from the osaka area,local trains run to kashiwara station(osaka prefecture)and nara station,rapid trains run through the wakayama line,and yamatoji rapid service trains run to the nara area.
+the following is a summary of each type of train.
+train classifications
+yamatoji liner
+the yamatoji liner runs once a day(during morning rush hour on weekdays)from kizu station to jr nanba station,and twice a day(during evening rush hour on weekdays)from osaka to kamo.
+numbered tickets(determining order of service)are needed in addition to passenger tickets for boarding.
+even though the railroad cars being used are japan national railways' (jnr)381 series limited express cars(old jnr cars that belong to the hineno train depot),the "yamatoji liner" is a rapid train rather than a limited express,meaning that you can use a seishun 18 ticket(a discount rail ticket)provided you have purchased a numbered boarding ticket.
+the yamatoji liner stops at kizu,narayama,nara,horyuji,oji station,tennoji station and shin-imamiya station.
+ever since every rapid train started to make stops at kyuhoji,the yamatoji liner became the only train to run nonstop between tennoji and oji.
+furthermore,in the osaka pocket edition timetable,no information is given about the stops in shin-imamiya and tennoji.
+due to a revision of the timetable made in march of 2009,saturday operations were cancelled and the yamatoji liner started to run only on the weekdays.
+yamatoji rapid service
+yamatoji rapid service is a typical train on the yamatoji line,running mainly during the daytime every twenty minutes between osaka station and kamo station(kyoto prefecture)(on saturdays and holidays it also runs during the morning and evening).
+rapid trains that run directly through the kansai main line and the osaka loop line have operated since the kansai main line was electrified in 1973 during the jnr period,but it was not until march of 1989 that these trains came to be called 'yamatoji rapid service.'
+the nickname was chosen by the public.
+the yamatoji rapid service starting and terminal station is tennoji,with an operational system set to depart from tennoji(osaka loop line platform)and run through kyobashi station(osaka prefecture),osaka and bentencho station,then from tennoji(yamatoji line platform),it runs to nara and kamo,makes a lap around the osaka loop line and then enters the yamatoji line.
+this is why the destination board indicates 'yamatoji rapid service,osaka loop line' for travelling from the kamo and nara areas to the osaka area.
+although all of the jr west japan 221 series run with a standard six-car set,some run with an eight-car set around rush hour.
+a number of yamatoji rapid service trains running on saturdays and holidays have their back two or four cars detached at oji and run through takada station on the wakayama line(nara prefecture)and gojo station(nara prefecture).
+a few trains arriving and departing from kamo are connected with trains heading towards iga-ueno station on the kansai main line as well as trains heading for kameyama station(mie prefecture).
+with speeds of up to 120 km/h,yamatoji rapid service trains used to run between osaka and nara in forty-one minutes and between tennoji and nara in twenty-nine minutes.
+however,as the efficiency of the 221 series became utilized to its full extent,with the majority of passengers getting on and off at tennoji and oji with insufficient stop times,persistent delays of a few minutes became a daily occurrence.
+taking advantage of the timetable revision made in march of 2001 to have the train stop at kyuhoji station,the required time between osaka and nara was extended to forty-four minutes at the fastest.
+furthermore,in the aftermath of the derailment accident on the jr fukuchiyama line,more time was added in the timetable revision made on march 18,2006 where the fastest time between osaka station and nara station was extended to forty-six minutes and to thirty-three minutes between tennoji and nara.
+by this timetable revision,trains headed for the osaka area came to have long stops in kizu and nara.
+although this change was allegedly made to resolve train delays,the required time to ride from kamo station has increased drastically.
+yamatoji rapid service trains are sometimes run temporarily to tenri on the sakurai line when the tenrikyo sect holds their regular meetings,
+direct rapid service
+direct rapid service on the osaka higashi line is a train that was established as part of the inauguration of the osaka higashi line on march 15,2008;it runs via the osaka higashi line,katamachi line and jr tozai line between nara and amagasaki.
+direct rapid service trains run eight times a day,with four runs in the morning starting from nara and four runs in the evening starting from amagasaki.
+railroad cars used on these trains are miyahara integrated operation center's jr west japan 223-6000 series(miyahara car)that utilize double-arm pantographs in order to run on the jr tozai line with rigid body overhead lines.
+during weekdays,three out of four direct rapid service trains running from nara to amagasaki use the same platform at kyuhoji as rapid trains running to jr nanba(the first train from kashiwara,mentioned below),so a timetable has been produced to make it possible to transfer between both trains.
+in addition to the direct rapid service trains that run between each station on the jr tozai line and nara,two rapid trains run to nara through kizu,and one rapid train and one regional rapid train run from nara.
+rapid service
+rapid service is classified as a typical train comparable to yamatoji rapid service that runs almost all day.
+stations it stops at are jr nanba,shin-imamiya,tennoji,kyuhoji and every station after oji.
+in a timetable revision made in march of 1997(mentioned below),rapid service was temporarily integrated as a regional rapid train,but in a revision made on march 15,2008,the regional rapid running to and from jr nanba once again became a rapid train due to many passengers mistakenly getting on the regional rapid train stopping at imamiya that runs through the osaka loop line,as well as to make a distinction between regional rapid trains running to and from jr nanba through imamiya.
+rapid service trains run during the daytime between jr nanba and takada on the wakayama line at ten-minute intervals in four-car sets of the 221 series.
+at oji,the train running to takada is connected to the train running to nara.
+(due to the line arrangement at oji,making a connection at the same platform is not possible,so the train has to wait for the local train it passed at kashiwara).
+because people were accustomed to the old line connections,which had been in use until 1997,consideration was given to connecting the line to the wakayama line(running to gojo,hashimoto,wakayama)and/or the sakurai line at takada.
+except during the daytime,rapid service trains basically run between jr nanba,nara and kamo,but there are some trains set up to run through the wakayama line.
+a few of these trains are connected to trains running to nara and kamo(also known as a "multilayer" train)and then disconnected at oji.
+this is the only case where the 221 series is limitedly operated.
+however,they are not used in the opposite direction since there is no railway signal at oji.
+direct trains are run from the sakurai line during morning rush hour,while in the past,there was also a direct train run in the evening that changed numbers and ran beyond gojo station on the wakayama line.
+the main cars in operation are the 221 series with four-car sets(yamatoji rapid services have six-car sets,as mentioned above).
+however,also put into operation during rush hour are nara train depot's jnr 103 series with six or eight-car sets,jnr 201 series with six-car sets(greenish brown color)and morinomiya train depot's 103 and 201 series with eight-car sets,giving a wider variation of cars than the regional rapid trains running on the osaka loop line.
+due to the rollsign being changed by a schedule revision made on march 15,2008,the color of the characters for 'rapid service' was changed from orange to green,while a green line was added to the lower part of the rollsign for the green-colored yamatoji line.
+the first rapid service train departing from kashiwara
+by a schedule revision made on march 15,2008,three rapid service trains were established to run on weekday mornings from kashiwara,originally a way station,to jr nanba.
+this revision was made because the direct rapid trains,newly established in accompaniment with the opening of the osaka higashi line,were operated via the same line as support for trains running in the tennoji and jr nanba areas.
+all three of these rapid trains departing from kashiwara as their first station for jr nanba are set according the timetable to be connected with direct rapid trains on the same platform at kyuhoji.
+however,a rapid train with kashiwara as a terminal station is not in operation.
+at tennoji station,these trains are sometimes connected to rapid trains from the hanwa line on the osaka loop line,but there are many cases where a connection is not considered.
+kashiwara city strung up a banner at the station for the first rapid service train departing from kashiwara that reads: 'commemorating the departure of the first rapid service train from kashiwara-commencement of temporary service.'
+this temporary service was not officially announced by jr west japan.
+anecdotes from the regional rapid period
+even after the integration of rapid service trains into regional rapid trains by the timetable revision made in march of 1997,the greenish brown 'rapid service' sign remained on the nara train depot's 103 series cars.
+this was because the sign used by one of the 103 or 201 series of jr nanba regional rapid trains traveling to nara via sakurai and takada during the morning rush hour did not carry the description 'regional rapid service jr nanba via sakurai and takada.'
+the train had a sign saying 'rapid service jr nanba via sakurai and takada.'
+regional rapid service(regional rapids)
+regional rapid service trains are a class of train that operate during rush hour and stop at every station on the osaka loop line.
+the section of rail where they are operated is between nara and kamo on the osaka loop line.
+these trains stop at every station on the loop line because the sections between osaka,kyobashi and tennoji are heavily congested.
+consequently,all of the trains are operated with eight-car sets,and although the 221 series is also used,nara train depot's jnr 103 series(greenish brown cars connected together as two four-car sets),the 103 series(orange)and the 201 series of morinomiya train depot are also operated.
+on the destination sign, 'regional rapid service:osaka loop line' is displayed on trains running around the osaka loop line with a last stop at tennoji,and 'regional rapid service:osaka,kyobashi' is displayed on trains with a final stop at kyobashi.
+local trains(local)
+local trains stop at every station and are mainly operated between jr nanba,kashiwara,oji and nara.
+during the daytime they run every twenty minutes between jr nanba,kashiwara and nara.
+after a timetable revision made on september 30,1995,the local train running to kashiwara was extended to oji and only trains in the daytime ran to nara and oji;from march 8,1997 to march 18,2006,another timetable revision had the daytime trains running to oji and nara operating at twenty minute intervals.
+this meant that at each station between kashiwara and oji,the number of running trains was decreased by half,changing back to twenty minute intervals instead of ten minute intervals.
+local trains heading to nara sometimes function as trains that trail behind rapid trains running to takada by waiting in a passing loop at kashiwara station and gathering up passengers travelling from oji station to the nara area.
+although local trains mainly run between jr nanba,kashiwara and oji during rush hour,there are some local trains that depart and arrive at takada station on the wakayama line.
+trains running to takada enter line four at oji station.
+there are early morning local trains that run between jr nanba and kamo,direct trains that run only one way from jr nanba on the nara line,as well as regionally operated trains that run early in the morning and late at night between oji and nara.
+around rush hour,regional trains run between nara and kamo in order to compliment the rapid train system.
+the standard cars in operation on local trains are the 103 and 201 series with six-car sets,but in the early morning and late at night,sometimes the 103 series are operated as a four-car set and the 221 series as a six or four-car set.
+in the past,the 103 series were operated with three-car sets,and on rare occasions the 221 series has been operated during the daytime as a local train with a six-car set.
+this occurs when the 221 series is operated in place of the 103 series when they are taken out of operation for inspection.
+connections with rapid trains and waiting for trains to pass
+as of march of 2009,island platforms for transfer between local trains and rapid trains were put into operation at kyuhoji,oji and tennoji(only for a few trains),and passing loops were put into operation for rapid trains at hirano station(jr west japan)and kashiwara.
+until the timetable revision of kansai international airport on september 4,1994,island platforms were operated at tennoji and the schedule had most local trains utilizing passing loops to allow rapid trains to pass at hirano and kashiwara.
+however,accompanied by the opening of kansai international airport,an increased number of trains on the osaka loop line running directly through the hanwa line(with the introduction of kanku rapid service and the haruka(train))made it impossible for trains to pass each other using the island platform at tennoji.
+to remedy this situation,an increased number of local trains were allowed to use the passing loop at hirano to allow rapid trains to pass,but in the oji area,a limit was imposed on the number of trains that could use a passing loop in consideration of keeping a balance with freight trains on the joto goods line of the osaka higashi line.
+consequently,from the evening on,even if local trains departed from jr nanba immediately after a rapid train,the following rapid train would catch up to the local train and be forced to run slowly until the kashiwara area.
+furthermore,until march 15,2008,the short section of track to the hanwa line was a single track,and because direct trains between the osaka loop line and the hanwa line use a level junction,they were sometimes forced to run slowly even around tennoji station.
+when it was put into practice to have rapid trains stop at kyuhoji in 1997(at the time it was only a stop for regional rapid trains),the opportunity was taken advantage of in 1998 by newly establishing passing loops at kyuhoji,and a main pattern was formed around making revisions to the timetable by putting in island platforms.
+from that point on,aside from the aforementioned local trains heading to nara that waited at passing loops for regional rapid trains running to takada,the number of trains waiting at these turnouts decreased at kashiwara.
+however,after a timetable revision made in march of 2006(due to the derailment accident on the jr fukuchiyama line),trains using these turnouts at kashiwara once again increased.
+especially for local trains running towards the oji and nara areas,after island platforms and rapid trains to follow the local trains were implemented at kyuhoji,the timetable became more flexible due to local trains waiting three stations ahead for only one rapid train.
+on the other hand,there were wait times of up to nine minutes at kashiwara,making it rather inconvenient for passengers using local trains that stop at this station.
+with the opening of the osaka higashi line in march of 2008,once island platforms were implemented at kyuhoji to make transfers between local trains running to the oji area and rapid trains,stop times generally became a few minutes longer at kyuhoji and a few minutes shorter at kashiwara due to many timetables being set to have local trains wait for the new train running on the osaka higashi line.
+due to a timetable revision made on march 14,2009,local trains running to the oji area no longer have to wait at hirano for other trains to pass.
+this is because part of umeda station's jr freight train operations was moved to kudara station,which is near hirano,due to the development of the north area of osaka station.
+this was done to prepare for the expected increase in the number of freight trains coming into hirano and kudara.
+see the structure of hirano station(jr west japan)for details.
+yamanobenomichi leisure
+yamanobenomichi leisure is run via nara and the sakurai line until takada on saturdays and holidays during the spring and autumn tourism season.
+depending on the time of year and the season,departures from the osaka side vary when departing from osaka,jr nanba or both.
+the yamanobenomichi is now run as a yamatoji rapid service and rapid train on the osaka loop line and yamatoji line and as a special train on the sakurai line.
+it stops at the same stations as a yamatoji rapid service and rapid train until nara,and while the stops on the sakurai line had varied depending on the year,a timetable revision was made in 2008 to have it stop at every station on the sakurai line.
+by a timetable revision made in march of 2006,the yamanobenomichi leisure was set to only depart from jr nanba,but after another revision made in march of 2007,a few runs departing from osaka were also established.
+previously,a yamatoji rapid service train was scheduled to run between osaka and nara,and then make a round trip between nara and takada as a special local train.
+the railroad cars used on this train are the 221 series.
+trains from lines other than the yamatoji line
+between kizu and nara,all nara line trains and some katamachi line trains run through to the yamatoji line;between kyoto and nara,the nara line operates a through service for its miyakoji rapid trains,its rapid trains,and its regional rapid trains and the katamachi line operates quarter rapid and regional rapid trains;and between shin-imamiya and tennoji(which runs parallel to the osaka loop line),nanki-bound special express trains,kanku rapid trains,kishuji rapid trains,and rapid trains from the hanwa line and osaka loop line run directly through to the yamatoji line.
+see the sections for each line for more information on these trains.
+new year's eve all-night operation
+within the urban network area,except for a few line sections,trains are operated all night from new year's eve to new year's day,but because of temples and shrines such as kasuga taisha shrine and chogosonshi-ji temple being along the line,local trains have recently been run roughly every thirty minutes between nara and jr nanba.
+before the opening of universal studios japan(usj)in march 2001,all night operations from december 31,2000 to january 1,2001 had local trains running every thirty minutes in the form of 'nara-oji-tennoji-nishikujo-osaka-kyobashi-tennoji' (operated similar to a yamatoji rapid train).
+in the past,there were cases of trains running all-night operations on the hanwa line to jr nanba.
+trains in the past
+local trains and trains that stopped at every station before electrification
+before the tracks were electrified on september 20,1973,there were trains which stopped only at hirano station(jr west japan)and yao station between tennoji station and kashiwara in addition to trains that stopped at every station between jr nanba and kashiwara(osaka prefecture).
+there were 'local trains' which stopped at every station between minatomachi,oji station and nara station and there was the timetable where the stops were different in local trains and the train which stopped at every station.
+there were also local trains that ran directly through kameyama station(mie prefecture)and nagoya.
+with respect to the nara silk road exposition
+during the 'nara silk road exposition' in 1988,special rapid trains were operated between shin-osaka,nishikujo,tennoji,oji and nara(kamo).
+a special 165 series' rapid train was also established to make one round trip between gobo station and nara(via the hanwa goods line on the kansai main line).
+special direct trains between shin-osaka and nara were operated as 'nara rekishi tanho' (literally, 'touring historical sites in nara')trains during the 'nara historic campaign' (mentioned below).
+rapid trains prior to 1997
+until a timetable revision made on march 8,1997,rapid trains ran nonstop between tennoji and oji similarly to yamatoji rapid services,and regional rapid trains running to and from jr nanba were mainly operated during rush hour.
+during the daytime,aside from regional rapid trains,rapid trains ran through yamato-koizumi station and koriyama station(nara prefecture)(their destination sign was orange,when in those days,the lettering of these signs was written in red),and daytime trains that ran directly between jr nanba and takada and came to stop at every station on the wakayama line were also operated as 'rapid trains' rather than 'regional rapid trains.'
+before the appearance of the aforementioned rapid trains that ran through the two stations,this category of train was operated as a 'rapid train.'
+although they were put in this category because they had a different pattern of stops on the osaka loop line than regional rapid trains,by a timetable revision made on march 15,2008,trains with this stopping pattern came to be called 'rapid trains' once again(kyuhoji was added as a stop for rapid trains in the past).
+rapid trains that operated on diesel before the tracks became electrified were first established to stop only at koriyama station between oji and nara,and they passed through horyuji station and yamato-koizumi.
+the stop at horyuji was later added,and the yamato-koizumi stop was also added in 1973 at the same time the tracks became electric.
+yamatoji hollywood
+on every sunday except the third sunday of the month from october 13 to november 24,2002,the yamatoji hollywood was a special train that was operated one way between nara and sakurajima station on the sakurajima line.
+used for this train were six-car sets of morinomiya train depot's 103 series usj wrap advertising cars.
+nara rekishi tanho
+during the nara historic campaign held by jr west japan from september 13 to december 20,2003,the nara rekishi tanho was a special rapid train operated between shin-osaka and nara on saturdays.
+this train was also operated during the autumn season in 2004.
+although the stops along its route were reduced to tennoji,oji and horyuji,which was less than regular rapid trains,it required a great deal of time to reach its destination because it stopped at kashiwara to wait for yamatoji rapid service trains to pass.
+the cars used for this train were six-car sets of miyahara integrated operation center's jnr's 300 subseries of the 117 series.
+express kasuga
+the 'kasuga' refers to the express train that ran between nagoya station and nara until march 17,2006.
+this train ran through kamo to nara on the yamatoji line,but from 1958 to september 30,1973,it ran between nagoya,nara and minatomachi(currently jr nanba)(the predecessor to this train appeared in 1949,running until 1966 as a local express).
+jr central's kiha 75 diesel car series were used from 1999 to the time the train was discontinued,but during the time the kasuga ran to minatomachi,jnr's kiha 55 and kiha 58 diesel car series were used.
+due to the discontinuation of the 'kasuga,' out of forty-six prefectures that have jr railway lines,nara became the only prefecture where not a single jr class train is run.
+how delays on the osaka loop line and other lines have an effect on the yamatoji line
+delays occurring on the osaka loop line and hanwa line sometimes have an effect on trains running on the yamatoji line.
+due to a 221 series in operation that enters the yamatoji line from the hanwa line,if disruptions occur in the hanwa line timetable,rapid trains leaving jr nanba for kamo and gojo are sometimes delayed as well.
+a quadruple track section separates the yamatoji line and osaka loop line between tennoji and shin-imamiya,and from shin-imamiya,trains arriving and departing from jr nanba also run on a track separated from the osaka loop line.
+the effect of delays of direct trains from other lines on the osaka loop line are somewhat alleviated by station schedule changes and transfers of trains over to jr nanba due to suspension of service and rescheduling of yamatoji rapid service trains.
+railroad cars in use
+railroad cars in use on the yamatoji line are described below.
+these are not descriptions of railroad cars mainly used on other lines.
+jr west japan 221 series(affiliated with nara train depot)
+although these cars are chiefly used in the rapid service system,they are also used as local trains early in the morning and at night.
+a few of these cars also operate on the wakayama line and the sakurai line.
+they were put into service starting from 1989.
+jr west japan 223-6000 series(miyahara car)(miyahara integrated operation center)
+cars from this series are used for direct rapid trains via the osaka higashi line.
+these cars were put into service after a timetable revision made on march 15,2008.
+operated between nara and kyuhoji on the yamatoji line.
+jnr 103 series commuter trains(affiliated with nara train depot and morinomiya train depot)
+all of the railroad cars that belong to nara train depot were transferred from other lines(keihanshin local train line,osaka loop line,katamachi line,etc.),while on the kansai main line,there has been no setup of a new commuter train since the tracks were electrified.
+at the time of electrification on the kansai main line,the jnr 101 series cars,which were transferred from the osaka loop line and chuo rapid trains,were put into operation,but from 1983 to 1985,the setup of having the 201 series on the keihanshin local train line was changed to the 103 series.
+six-car sets and four-car sets belong to nara train depot,and eight-car sets belong to morinomiya train depot,which connects to the osaka loop line.
+six-car sets are mainly operated as local trains on the yamatoji line and the osaka higashi line,but during rush hour they are also used as rapid trains on the wakayama line and sakurai line.
+the incorporation of the jr west 321 commuter train series into the keihanshin local train line(jr kyoto line and jr kobe line)and the fukuchiyama line resulted in the 201 series being transferred to the yamatoji line,decreasing the number of six-car sets in operation.
+however,since the number of six-car sets increased with the opening of the osaka higashi line,not all of the sets were replaced.
+four-car sets are mainly used on the nara line,but two are connected to make eight-car sets on the yamatoji line and used a regional rapid trains that run either directly through or operated exclusively on the osaka loop line.
+due to the 103 series cars on the yamatoji line and nara line being gathered from various areas in the kansai and capital regions,there are many train sets that were produced at different times and made in different shapes.
+due to a policy being enforced in timetable revision made on november 1,1986,where the number of cars in a set were reduced while the number of trains in operation during the daytime were increased,there were three-car train sets that existed from the end of the jnr period to the early jr period(six-car train sets,consisting of two three-car sets were run during rush hour).
+with the increase in the number of passengers,however,the adoption of the 207 series for the keihanshin local train line in 1994 meant that the saha 103 series was incorporated into the train set,resulting in 3-car train sets being replaced by 4-car train sets.
+jnr 201 commuter train series(affiliated with nara train depot and morinomiya train depot)
+this series were used on the former keihanshin local train line(jr kyoto line and jr kobe line)and the jr takarazuka line,with some affiliated with the morinomiya train depot(orange vermillion in color)and other affiliated with the nara train depot(greenish-brown).
+the cars affiliated with the morinomiya train depot are eight-car train sets used on the osaka loop line during rush hour and the early morning;at midnight they are used as rapid trains on the yamatoji line and operated not only as direct trains through osaka loop line,but also as trains running to and from jr nanba.
+the longest trains run all the way to kamo station(kyoto prefecture).
+the eight-car train sets were painted sky blue during the time they ran on the keihanshin local train line until december of 2008.
+all trains affiliated with the nara train depot are six-car sets(greenish brown).
+as a result of changes to the transfer project,trains which were assigned to operate out of the nara train depot from december 2006 began running on the 20th of that month.
+they have also been used on the osaka higashi line since march 15,2008.
+in addition to being operated on the yamatoji line and the osaka higashi line,these cars are also operated on the sakurai line and the wakayama line in the early morning and during rush hour.
+jr west 207 commuter train series(akashi quality control center,aboshi rolling stock depot)
+between nara and kizu,this series is utilized as direct regional rapid trains going through the katamachi line and jr tozai line.
+jnr 381 limited express series(belonging to hineno train depot)
+cars from this series are used on the 'yamatoji liner' between kamo,kizu,jr nanba and osaka.
+direction of the train
+priority seats are on the kamo side in each car
+restrooms in the number one and number four car
+priority seats are on the jr nanba side of each car
+restrooms are located in the number one and four cars when two four-car sets of the 221 series are combined to make an eight-car set
+when the 103 series is used on the yamatoji line,the direction of the cars made by morinomiya train depot face the opposite direction of cars made by nara train depot.
+although trains from the morinomiya train depot are set up as tcmmttmmtc from the kamo side,while trains from the nara train depot are tcmmmmtc,priority seats and car numbers are not reversed.
+furthermore,the direction of the 223-6000 series operated on the osaka higashi line faces the opposite direction on the yamatoji line.
+the 223-6000 series are mainly used on the jr takarazuka line,but when they are used on the yamatoji line,the positions of car numbers,priority seats and restrooms are opposite to that of other trains.
+the 207 series are operated on a track to kizu and the position of priority seats is not reversed.
+about the white line on the face of trains
+unlike other jr west japan trains,a white line is painted on the front of the 103 series and 201 series used on the yamatoji line as a warning to prevent accidents at railroad crossings.
+with the opening of electrified tracks on the kansai main line between minatomachi(currently jr nanba)and nara,the trains were painted yellow(yellow number five)(sometimes there was no banner).
+it became necessary to paint the trains yellow in order to urge caution against attempting to cross the tracks after the crossing bars were lowered since even local trains picked up speed and had unobstructed views on straight line sections.
+there are a few residential areas along the line between nara and oji,which is a pastoral and paddy field zone,and heavy fog peculiar to nara prefecture occurs between horyuji and oji(particularly from early spring to around summertime)near the yamato-gawa river and the tributaries,thus making warning colors necessary in order to enhance the visibility of the trains
+list of stations
+local trains stop at every station between kamo station and jr nanba station(omitted in the list)
+yamatoji rapid service trains:stop at every station between osaka,tsuruhashi and tennoji on the osaka loop line and at every station on the wakayama line
+rapid trains:stop at every station on the wakayama line and sakurai line
+only the train bound for jr nanba is in operation as a train starting from kashiwara
+regional rapid trains:stop at every station on the osaka loop line
+yamatoji liner:down-trains(car number one)depart from kizu and run to jr nanba;up-trains(car number two and four)depart from osaka and run to kamo
+aside from the single track between kamo and kizu,all sections are double track
+explanatory notes
+stations in specific metropolitan and urban areas 'within osaka city'
+station stops:(1):stop,(2):stop made only by the first train to depart from the station,(3):stop made only by trains running to jr nanba,(4):stop made only by trains that run to kamo,(5)passes through(6)operated only in the direction of the arrow),(7)does not pass through
+all stations on this section of track belong to osaka local areas.
+see the osaka loop line station list for connecting lines from each station on the osaka loop line.
+trains travelling beyond osaka station going by way of kyobashi station(osaka prefecture)stop at every station until tennoji station.
+the distance in kilometers between the ashiharabashi station is listed with imamiya station.
+osaka station's operational kilometers are the number of kilometers going through kyobashi and are used for calculating fares.
+the track via bentencho is 61.5 km.
+the five stations:narayama,koriyama,sango,kawachikatakami and takaida,as well as nara(west exit)are stations subcontracted by jr-west japan transportation service co.,ltd,while all other stations are under direct management.
+see closed stations on the kansai main line for more information on closed stations and abandoned signal stations.
+connecting lines in the past
+horyuji station:kintetsu tenri line(kinki nihon horyuji station)
+yao station:kansai main line freight feeder lines(kansai main line hanwa goods line)
+tennoji station:nankai tennoji branch line
+rail track arrangement

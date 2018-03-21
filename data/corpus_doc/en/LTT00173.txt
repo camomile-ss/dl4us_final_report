@@ -1,0 +1,22 @@
+renku
+renku refers to haikai no renga(humorous linked poem).
+they were written according to the traditional structure of haikai,and became the dominant poetic style from the muromachi period into the early edo period.
+the term "denjuteki na haikai renga" (traditional haikai renga)came into use beginning in the meiji period.
+the name 'renku' became common in 1904,when kyoshi takahama advocated using the term in order to distinguish renku from renga and haiku.
+however,this form of poetry has continued since the muromachi period,and its form is identical to that of haikai renga.
+haikai consists of hokku(later called haiku)and renku,but before the edo period 'haikai' meant the form of renku.
+the reason renku developed into an independent and distinct style is that haiku had begun to flourish,and so "haikai" became a general term that encompassed both haiku and renku.
+in terms of its formal structure,it follows the renga form,beginning with a three-line verse(ku)of five,seven,and five syllables respectively,followed by a succession of two-line verses of seven syllables each,until a length of 36 verses(kasen),50 verses(goju-in),or 100 verses(hyaku-in)is reached.
+the style of renku and shikimoku(renga rules)
+contemporary renku
+during the great flourishing of the haiku poetic form,which began with shiki matsuoka,torahiko terada wrote an essay on renku,one of the first such writings to focus on renga.
+rohan koda completed a commentary on the basho shichibushu(the canonical collection of haikai from the basho school),in which he laid bare the compositional style of basho's kasen(36-verse renku).
+under the influence of this and other prewar scholarly works,contemporary writers and poets of the late 1960s began to try their own hands at creating renku.
+the leading figures in these poetic efforts were makoto oka,saiichi maruya,tsuguo ando and jun ishikawa;they used to hold gatherings to create kasen(36-verse poems)together.
+each time they completed another kasen,they would discuss and debate the poem's mood and purpose,thereby exploring the latent potential of renku as an art form.
+oka developed the idea of renshi(linked poem)from such discussions,as well as by pursuing the possibility of composing poems in foreign languages.
+although ishikawa and ando have already passed away,oka and maruya have continued,as of 2006,to hold gatherings to create renku,the results of which are published in the magazine "subaru."
+it is said,however,that about a million people write haiku today,while only a few thousand create renku,making them quite a small group comparatively speaking.
+despite the fact that once people have gotten the knack of creating renku they often become fascinated with the improvisation and the pleasant creative stress it requires,several people have to gather together in order to create renku,and the compositional rules are more complicated than those for writing haiku;these and other factors seem to prevent very many people from joining the ranks of renku creators.
+moreover,quite a few haiku poets believe that "composing renku will make my haiku worse," which is also thought to contribute to renku's relative unpopularity(in a haiku,the poet can express his or her own little complete world,whereas in renku--which are sequences of linked verses,after all--each poet must leave conceptual space for additional thoughts to be added on,and thus cannot express any notion of completeness in any one verse;this is thought to be why many haiku poets look down on renku).
+for renku enthusiasts,the challenge ahead is how to make renku more of a major art form.

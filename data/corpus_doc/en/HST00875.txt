@@ -1,0 +1,279 @@
+yomei-gaku
+yomei-gaku is the japanese term for the school of confucianism established by wang yangming in ming dynasty china,which continued mencius' doctrine that human nature is fundamentally good.
+the name yomei-gaku became popular in meiji-period japan(1868-1912),before which it was known as o-gaku('yomei' is japanese for 'yangming' and 'o' japanese for 'wang').
+in order to highlight its differences with kunko-gaku(exegetics)during the kan and tang dysnasties and koshogaku(study of old documents)during the qing dynasty,yomei-gaku is sometimes called somin ri-gaku,which is a general term used to describe confucian studies during the song and ming dysnasties,and among ri-gaku,yomei-gaku is further called shin-gaku,min-gaku,or rikuo-gaku to distinguish it from shushi-gaku(zhu xi school).
+in english-speaking countries,yomei-gaku is classified,together with shushi-gaku,as neo-confucianism.
+before yomei-gaku
+looking back at the history of confucianism,as scholars during the song dynasty did,the mainstream before the sui and tang dynasties was kunkogaku("xunguxue" in chinese),which emphasized the readings of characters and exegetics(interpretation of words)of confucian classic writings.
+song dynasty scholars thought that kunkogaku scholars did not correctly understand the true aim of the sages(such as confucius)contained in the six classics(or the five classics)and they therefore believed it was necessary to attempt to understand the spirit of the sages from the beginning.
+to that end,while continuing to read the classics according to the study of kunko handed down from before the sui and tang periods,they more straightforwardly emphasized the oneness of the sages and the reader to build the assumption that the minds of the reader and the sage are uniform.
+as a result,confucianism after the song period also placed a strong emphasis on clarifying the ideological side of confucius(the sage's mind and reader's mind),which made confucianism more speculative.
+shushigaku and yomeigaku were the leading schools of this movement.
+shushigaku put the most emphasis on studying four particular books of the classics,known as the four books,also known in japanese as 'shisho',instead of the classics as a whole,which had a long history and did not allow for much new interpretation.
+the four books are 'the great learning' and 'the doctrine of the mean',which came from the 'classic of rites',one of the five classics, 'the analects of confucius',which had been treated as a semi-classic,and 'the mengzi',which had ranked with 'the xunzi'
+it is considered that the books were adopted because they were composed of relatively short sentences and the descriptions allowed readers to interpret them at their discretion.
+from among the traditional discussions on confucianism,shushigaku took mencius' 'theory of innate goodness' and held it in high esteem,which led to the debate over "innateness" and "goodness".
+for that reason,disputes among the various schools of confucianism often directly involved the interpretation of the 'theory of innate goodness'.
+in confucianism,which had emerged before the sui and tang dynasties and continued through the northern song dynasty,an ideological group called dogaku gradually rose to the fore after the middle of the southern sung period,when it was founded by zhu xi,and came to dominate ideological circles in the jiang nan area.
+later,when the yuan dynasty defeated the southern song dynasty,relations developed between northern and southern china and shushigaku began expanding into northern china.
+the interpretation by shushigaku was propagated in the form of commentaries on the four books and the traditional classics.
+the commentaries gradually came to be used in the national civil service examination during the yuan dynasty,and by the early ming dynasty,all the commentaries used in the examination were those of shushigaku.
+consequently,shushigaku became integrated with imperial court power and acquired strong influence on ideological circles.
+under the ming dynasty,in which it was first established,shushigaku's influence became very strong in most regions,although in jian nang,the dynasty's most commercialized area,some people had kept a slight distance between themselves and shushigaku since the early ming period.
+for example,although wu yubi(kangzhai)and chen xianzhang(baisha)in fuzhou,jiangxi province belonged to the shushigaku school,they emphasized practice and meditation instead of reading as a way to become a sage,which from a later viewpoint seems to be slightly different from conventional shushigaku.
+one important aspect of this is that zhan ruoshui(ganquan),a disciple of chen xianzhang,had exchanges with wang shouren(wang yangming)and,also,that the existence of a scholarly relationship between wang shouren and chen xianzhang cannot be denied;thus,some believe that all those indicate a relationship between the confucians in the jian nang area in the early ming period and the scholars of yomei-gaku after the middle of the ming period.
+but in general,ideological circles in the ming period were largely under the influence of shushigaku,and even wu yubi(kangzhai)and chen xianzhang must have thought they were practicing shushigaku.
+the above-mentioned interpretation is based on certain historical grounds,but it should be noted that the description is made under the influence of japanese study on modern chinese ideology.
+in the modern era,japanese scholars of chinese ideology have been required to follow philosophy(western philosophy),and have therefore emphasized the speculative side of shushigaku and considered it as comparable with the philosophy.
+as a result,the speculative sides of shushigaku and its derivative yomeigaku have been intensively studied and these speculative sides are considered to characterize shushigaku and yomeigaku.
+that is why most attempts to explain shushigaku and yomei-gaku generally focus solely on the speculative side.
+shushigaku(considered to have arisen in opposition to traditional thinking),and especially yomei-gaku(as described later,considered to have arisen in opposition to shushigaku,which was officially authorized by the ming court),were easily linked in a defeated japan to concepts such as modern thinking,antiauthoritarianism and human emancipation;as a result,most scholars have frequently attempted to extract from shushigaku and yomei-gaku the elements that are relatively close to these concepts and attempt to attach an ideological value to them.
+the features of yomeigaku described below are also the result of the above-mentioned reasoning;therefore,there are doubts that these features are the historical and general results of shushigaku and yomeigaku.
+(as of 2006)
+appearance of wang yangming
+as shushigaku became the dominant ideology,its function of protecting the regime became increasingly emphasized,and as a result,the element of moralism was getting lost.
+wang yangming was the person who managed to restore the moral ethics.
+in shushigaku,it is considered that 'ri(理)' (the law of everything,basis or standard for all things, 'it exists because it should be,and thus this is the law that should be so')exists in everything('there is ri in each tree and each blade of grass'),and that people can reach 'sei(性)' (the 'ri' existing in each individual,the five constant relations and the five cardinal virtues of confucianism)when they deeply understand 'ri' through study including reading about it.
+that is,shushigaku attempts to supplement ri in the individual mind by ri outside the individual mind.
+at first,wang yangming was a student of shushigaku,but he became frustrated reaching ri in 'each tree and each blade of grass,' and at last left shushigaku.
+when he left shushigaku,wang yangming raised the following doubts about the interpretation of kakubutsu chichi' ("extending knowledge through investigating everything"),the fundamental principle of shushigaku.
+first,he questioned the methodology,asking how it was possible that the ri in everything in the world could be reached.
+second,he questioned the fundamental principle,asking whether,despite zhu xi's idea that the ri outside the mind supplements the ri inside the mind,the ri outside the mind is necessary since the ri inside the mind must be perfect.
+contemplating these questions,wang yangming went back to the teachings of lu hsiang-shan,and elaborately developed them into what became yomei-gaku.
+although yomeigaku inherited the teachings of lu hsiang-shan of the song period,it was not a direct succession.
+yomei-gaku's emergence was not as drastic as shushigaku's.
+shushigaku is a comprehensive system of philosophy covering political science,ontology(the theories of ri and ki),exegetics("the four books",etc),ethics(theory of 'sei soku ri'),methodology(theory of 'kyokei kyuri'),amongst others,and zhu xi was great enough to develop an extremely consistent logic in that system.
+on the other hand,yomei-gaku reformed just the ethics and methodology sides of shushigaku.
+it should be noted that yomei-gaku did not cause a drastic paradigm shift,although ethics was undoubtedly the most important element of confucianism.
+fundamental ideas of yomei-gaku
+wang yangming's ideas can be seen in "instructions for practical living" ("chuanxilu" in chinese, "denshuroku" in japanese), "conclusions of zhuxi's final years("zhuxi wannian dinglun" in chinese, "shushi bannen teiron" in japanese),and "inquiry on 'the great learning'" ("ta xue wen" in chinese, "daigakumon" in japanese).
+the features of yomei-gaku thought can be condensed to the following terms.
+1.shinsokuri-a word representing the ethical side of yomei-gaku.
+shin soku ri' is a concept advocated by lu hsiang-shan as the antithesis to zhu xi's 'sei soku ri',and taken up by wang yangming.
+according to shushigaku's 'sei soku ri' thesis,one's mind is divided into 'sei' and 'jo.'
+sei' is the pure innate goodness given by heaven,while 'jo' is the activity of one's mind represented as feelings,and the extreme form of 'jo' is called 'jinyoku',or human desires.
+zhu xi stated that only the former corresponds to 'ri.'
+and in the thesis, 'ri' (＝sei)does not only exist as innate in human beings,but also exists in everything in the world.
+that is to say,shushigaku is characterized by the ubiquity of 'ri' and the existence of 'ri' both inside and outside of one's mind.
+but as can be seen from his statement that 'ri is nothing but my mind',wang yangming took a stance that one's mind,which is a combination of 'sei' and 'jo',is nothing but 'ri.'
+according to this interpretation,there is no need to reference the ri in the things outside one's mind to bring the 'sei' (＝ri)in one's mind to perfection.
+this idea carried the danger that the classics,which were the external authority,and even the authority of the real government,would become ignored.
+shin soku ri' (literaly,mind is nothing but ri)as advocated by wang yangming is basically a copy of lu hsiang-shan's idea,the only difference being that lu hsiang-shan did not divide one's mind into tenri and jinyoku but wang yangming,like zhu xi,believed in the "awareness of the heavenly principal(tenri)expels human desires".
+2.chiryochi-a word representing the methodological side of yomei-gaku
+ryochi' in 'chiryochi' originated from 'ryochi ryono,' meaning synderesis,used in "the mengzi" to indicate 'chi' (knowledge)in 'kakubutsu chichi,' but 'chiryochi' itself is a concept originally advocated by wang yangming based on that.
+first, 'ryochi' is the innate moral knowledge that everybody has in their mind irrespective of rank or social status("innate knowledge and ability are the same for the foolish person as they are for the sage")and the source of a person's vitality.
+in contrast to 'tenri' and 'sei',which remind people that they are given by heaven, 'ryochi' contains a strong nuance of that which is endowed to people by nature.
+ryochi' is treated as quite a dynamic concept in yomei-gaku.
+chiryochi' means completely exerting 'ryochi,' and it is believed that as long as people follow 'ryochi,' their behavior remains good.
+conversely,behavior based on 'ryochi' is not restricted by external norms;this is called 'muzen muaku' (literally 'no good,no bad').
+with regard to 'muzen muaku,' wang yangming left the "four sentences" ("si ju jiao" in chinese, "shi ku kyo" in japanese)shown below.
+the mind is free from good and evil.
+the mind is free from good and evil.
+if there is good or evil,it is a result of one's intentions.
+if there is good or evil,it is a result of one's intentions.
+to know good and to know evil is knowing good(ryochi).
+to know good and to know evil is good knowking(ryochi).
+doing what is good and setting aside what is evil is the fundamental principle.
+doing what is good and setting aside what is evil is the fundamental principle.
+they mean that one's mind,which is ri itself,transcends good and evil,and that it is one's intentions(i.e.one's activity of mind)that cause good or evil.
+the only thing that knows good and evil is 'ryochi',and to correct according to 'ryochi' is the fundamental principle.
+here,the expression 'transcends good and evil' does not mean that this idea and mencius' 'theory of innate goodness' are unconnected.
+and it should also noted that the character 'mu(無)' used in the first sentence,which usually indicates 'nothing', 'denying the presence',indicates 'being free from the conventional concept and value of good and evil.'
+but it is doubtlessly a misleading word,and the yomei-gaku was to split over the interpretation of 'mu,' which further invited fierce criticism from other schools.
+3.chi gyo goitsu-state of ryochi(1)
+here,the word 'chi' (ryochi)means 'recognition' and 'gyo' means 'practice'.
+this idea has been mistaken by shushigaku scholars who oppose yomei-gaku and by japanese people for the idea of emphasizing practice,which is different from its original meaning.
+in yomei-gaku,which denies the existence of 'ri' outside of one's mind,people do not attain 'ri' through external knowledge like the classics.
+instead,it is considered that recognition and practice(or experience)are inseparable.
+using the example of a person looking at a beautiful color, 'looking at it' belongs to 'chi' and 'being fond of it' belongs to 'gyo.'
+wang yangming explained that when people are looking at a color while feeling it is beautiful,they are already fond of it,therefore 'chi' and 'gyo',i.e.,recognition and experience,are not separate from each other and cannot be separated.
+he also stated that 'chi' was the beginning of 'gyo' and 'gyo' completes 'chi.'
+this is 'chigyo goitsu.'
+wang yangming stated that practice was a feature of ryochi,moral knowledge,that moral practice was based on ryochi,and that if 'chi' and 'gyo' were separate from each other,they were split by a selfish desire.
+shushigaku teaches that 'chi' should be first and 'gyo' should follow('chisen gyogo'),and 'chigyo goitsu' is the antithesis of that.
+4.combination of 'banbutsu ittai no jin' and 'ryochi' -state of ryochi(2)
+banbutsu ittai no jin' is the concept of considering all things,including man,identical in their origin,thus,all things form one body.
+this idea originated with cheng mingdao,and wang yangming combined the idea with ryochi.
+wang yangming considered that all things,including himself,formed one body so that the pains felt by others were his own pains and it was just natural to heal them;and that's all from 'ryochi'.
+yomei-gaku found grounds for social relief in this idea.
+5.jijo maren-the way to self-cultivation
+shushigaku emphasizes reading and meditation,whereas wang yangming stated that however hard a person cultivated himself in the static environment,such cultivation did not work if something serious happened,and that a person should strive to improve ryochi through daily life and work.
+this is 'jisho maren.'
+reinterpretation of "the great learning"
+somin rigaku placed a large emphasis on the four books as part of the classics,among which the status of "the great learning" rose after the song period,although it was interpreted differently by zhu xi and wang yangming.
+the major differences in interpretation between yomei-gaku and shushi-gaku are described below.
+1.text
+zhu xi made a substantial revision of "the great learning."
+it was said that,before zhu xi, "the great learning" had some sentences and words in the wrong order or that were missing and these errors were corrected in his "commentary on the great learning"("daxue zhangju" in chinese, "daigaku shoku" in japanese).
+zhu xi took over the critique of the text from his teachers cheng hao and cheng yi,and completed it by adding the words and phrases he thought had been dropped.
+in contrast,wang yangming used the original text as it was before the establishment of shushigaku.
+the text with the preface written by wang yangming is called "the old text of the great learning" ("guben daxue" in chinese, "kohon daigaku" in japanese).
+2.meaning of 'great learning'
+shushigaku defines great learning as the study of 'grown ups'.
+grown ups' here has its literal meaning of 'adult'
+in contrast,yomei-gaku defines it as the study of grown ups,by which is meant a person of virtue,as opposed to small-minded man.
+3. 'qinmin',one of the 'sankoryo'
+the sankoryo are the three comprehensive themes in the "great learning";in other words,it can be said that the object of the "great learning" is to explain the themes.
+zhu xi and wang yangming also significantly differ from each other in their interpretations of the second theme, 'qinmin.'
+zhu xi read the word 'qin',meaning 'being affectionate,' as 'xin,' meaning 'new,' and interpreted 'xinmin' as 'renovating the people',meaning that a man of virtue,who has discoverd his own virtue,spread it to others and renewed them.
+on the other hand,wang yangming simply read 'qinmin' as meaning 'to be affectionate to the people.'
+4. 'kakubutsu chichi',one of the eight steps
+the eight steps are the eight detailed items of sankoryo,consisting of investigation of things('kakubutsu'),extension of knowledge('chichi'),sincerity of the will('seii'),rectification of the mind('seishin'),cultivation of personal life('shushin'),regulation of family('seika'),national order('chikoku')and world peace('heitenka').
+zhu xi said that a person reached the level of sage through reading and self-cultivation,and sought the basis of this in 'kakubutsu chichi,' the top items among the eight.
+in other words,he interpreted the word as 'to investigate things' (investigate ri to the utmost in conformity with things,with 'kaku' meaning 'reach'.)
+on the other hand,wang yangming reinterpreted this part as meaning 'to rectify affairs' ('butsu' ＝ 'affairs', 'kaku' ＝ 'rectify'.)
+zhu xi took 'chi' to be knowledge comprised of moral knowledge and learned knowledge,which are inseparable,but wang yangming took 'chi' to be moral knowledge exclusively.
+affairs' means the place where 'yi' (will),which is the activity of one's mind,exists,and 'chi' means ryochi.
+therefore,wang yangming interpreted 'kakubutsu chichi' as exerting ryochi by rectifying 'yi.'
+in short,he reinterpreted the word as rectifying the incorrect mind.
+5.emphasis on 'seii'
+in shushigaku,the above-mentioned 'kakubutsu chichi' is considered to be the main point.
+on the other hand,in yomei-gaku, 'seii' is considered to be the main point.
+('the main point of great learning is to make intention sincere').
+yomei-gaku's innovations
+changing the view of the sage
+after the song dynasty,becoming a sage became a goal for people to reach by removing desire through reading and self-cultivation,as can be seen in the phrase 'one should study in order to become a sage.'
+that is,theoretically,anybody can become a sage with enough effort.
+but as most people did not have much time to spend on reading,this way to becoming a sage was virtually closed to them.
+in contrast,as yomeigaku denies authorities outside of one's mind,reading is considered dispensable.
+yomei-gaku encourages people to recognize that everyone equally has innate ryochi.
+one of wang yangming's disciples said 'the street is full of sages',which is considered to express the idea simply.
+in yomeigaku,not only great readers but also ordinary citizens are considered to have a good chance of becoming sages.
+when taken as a continuation of shushigaku,popularization of the sage after the song period culminated in yomeigaku towards the middle and end of the ming period.
+opening the way to acceptance of desire
+if the entire mind is considered to be 'ri',it is fundamentally impossible to deny only the desire in the mind.
+wang yangming did not completely deny the concept close to shushigaku that 'awareness of the heavenly principal expels human desires',but his disciples gradually began approving these desires as natural.
+as is well known,a monetary economy had rapidly spread throughout the country from the middle of the ming period.
+it might be superficial to conclude that there is a relationship between ideology and the economy,but the approval of desire in yomei-^gaku at a time the commercial economy was rapidly developing was,undoubtedly,an extremely timely ideology.
+lowering of the status of the classics
+when the mind was freed from external norms,the attitude of respecting and learning the classics such as the six classics declined.
+although wang yangming said, 'if i reflect on myself and find nothing wrong,i cannot accept it as correct even if confucius says it is,' he still treated the classics respectfully.
+but it is said that the four books were the only classics some of even his best disciples from the yomeigaku school read during their lifetime.
+accordingly,the classics were gradually losing their holiness,and the six classics began to be treated as mere history.
+this attitude was handed down through the zhedong shixue school,a faction of koshogaku during the ching period,including huang zongxi,and then by zhang xuecheng to zhang binglin.
+emphasizing the relationship between associates
+it is well-known that one faction of yomei-gaku often conducted workshop sessions.
+the close companionship within the faction led it to emphasize the 'associate' relationship of the 'five relationships' (father-child,superior-subordinate,husband-wife,young-old,and associates).
+in other words,they had extremely strong comradeship and solidarity.
+while four of the five relationships are vertical,that of 'associates' is based on a horizontal relationship.
+putting emphasis on the horizontal relationship caused a stir in the confucian values.
+subsequent development of yomeigaku
+yomeigaku's left wing-muddying the school of mind
+the best-known of wang yangming's top disciples include wang ji(also known as longxi),wang gen(also known as xinzhai),xu ai,youyang chongyi(also known as nanye),qian dehong(also known as xushan),zou shouyi(also known as dongkuo),luo hongxian(also known as nianyan),nie bao(also known as shuangjiang.)
+after wang yangming's death,yomei-gaku split into several factions.
+while yangming was still alive,the left-wingers,including wang longxi,clashed with qian xushan's group,which was moving closer to shushigaku again,mainly over the interpretation of 'muzen muaku' in the theory of ryochi,and after the death of their master,they split.
+yomei-gaku's left-wing was led by wang longxi and wang xinzhai,who are known the two wangs of o-gaku.
+wang yangming stated that mind is free from good and evil,but in the "four sentences"',he recognized good and evil in 'intention', 'ryochi' and 'things'.
+however,wang longxi's group also attributed 'intention', 'ryochi,' and 'things' to 'muzen muaku' as their master's theory lacked consistency.
+accordingly,they asserted that action based on them was also free from good and evil.
+this is called the 'theory of four forms of non-existence".
+that is to say,they interpreted 'ryochi' as something that transcends ethics,including good and evil.
+this was claimed to run counter by ethics by not only the right-wing,including qian xushan,but also by shushi-gaku,and their idea and actions were said to be muddying the school of mind and were fiercely criticized.
+the left also asserted that there is only a fine line between a lunatic and a sage.
+wang longxi
+as mentioned above,wang longxi reformed his master wang yangming's theory of ryochi,specifically,he added the two meanings shown below.
+first,wang yangming considered ryochi to be completely in one's mind,but his disciple,wang longxi,expanded ryochi into 'tensoku,' meaning 'the rule of heaven'.
+second,he advocated 'gensei ryochi' ("xiancheng liangzhi" in chinese)
+he stated that 'gensei' means a thing that has appeared in front of one's eyes,so that 'gensei ryochi' means that no intentional or deliberate self-cultivation is needed to make ryochi appear because ryochi autonomously makes the correct judgment by transcending good and evil.
+it can be considered that wang longxi perceived ryochi to be quite dynamic.
+it had been said from the song period that from its establishment,rigaku was strongly influenced by zen buddhism,and the left-wingers of yomei-gaku were especially influenced by buddhism and taoism.
+wang yangming was also similarly inclined,and it is said that wang longxi further strengthened that tendency.
+as evidence,it has been pointed out that wang longxi attempted to explain interpretations of the classics by positively using buddhist terms.
+he also recognized that both buddhism and taoism contain aspects of the truth and aimed to achieve "sankyo icchi" (unification of the three religions).
+this tendency was also seen in the wang xinzhai's group,which led to yomeigaku being criticized as no longer confucianism but zen buddhism teaching.
+wang xinzhai and the taizhou school
+like wang longxi,wang xinzhai also believed in 'gensei ryochi' but he stressed practical activities aimed at the good of the community instead of speculation.
+specifically,wang xinzhai put emphasis on the "classic of filial piety",or "xiao jing",and the four books but,ideologically,was characterized by preaching the teachings that he had learned himself without being obsessive about commentaries on the classics,advocating his original idea of 'junnan kakubutsu,' and maintaining a primitivism whereby he made the ancient times his ideal,but above all he made it his duty to propagate yomeigaku outside of the intellectual classes.
+wang xinzhai's group was called the taizhou school,which produced he xinyin,luo rufang(also known as jinxi),yang fusuo,li zhi(also known as zhuowu),zhou haimen,and tao wangling.
+they combined the shidafu elite's idea of responsibility for giving relief to the nation with the idea of 'chigyo goitsu' and developed the criticisms to be described below.
+some of them took this ideal to such a level that they reached the position of '侠' ('kyo)in japanese; 'xia' in chinese)or '遊侠' (yukyo in japanese; 'youxia' in chinese,meaning knight errant).
+li zhuowu
+li zhuowu was the last of the left-wingers of yomeigaku.
+unlike his predecessors,li zhuowu advocated an idea that was completely opposite to the basic concept of rigaku advocated by shushigaku to remove desire by reading.
+at first,li advocated the "theory of the child's mind" ("tongxin shuo" in chinese, "doshin setsu" in japanease)by reforming the theory of ryochi.
+the child's mind is the pure mind before learning about morals and external authorities such as the classics,and he said this is lost through reading and learning.
+he also stated that appetite and desire to wear clothes are innate human nature,meaning these are approved desires.
+yomeigaku's right-wing and the dongling dang movement
+at the end of the ming period,the yang dang faction,which sided with eunuchs including wei zhongxian,repeatedly came into conflict with the dongling faction,including gu xiancheng.
+the two factions were split by differing opinions on whether or not to approve the politics and the state of society of the time,and not formed by ideologies.
+therefore,those who were critical of eunuchs' politics joined dongling regardless of whether they were studying shushigaku or yomeigaku or not.
+but as most of the yomeigaku people who joined dongling were the right-wingers,dongling was critical of the excessive ideas and actions of the yomeigaku's left-wing.
+the dongling movement did not deny the idea of considering desire to be innate human nature,rather,it approved the idea,while making 'ri' play the role of controlling desire to establish more realistic policy and ideology.
+this became the beginning of the qing period koshogaku and the study of keiseichiyo.
+the major thinker was huang zongxi.
+huang zongxi was a disciple of liu zongzhou,a yomeigaku right-winger,and wrote books including "waiting for the dawn" (mingyi daifanglu)and "mingru xue'an".
+the former book describes how the nation should be from various viewpoints including political,economical,and militarily,sharply criticizes the autocracy of the emperor,and was re-evalued at the end of the qing period.
+that is the reason why huang is called "the chinese rousseau."
+the latter book can be said to be the first book on the history of chinese philosophy,and is still treated as a must for students of ming-period confucianism.
+huang zongxi did not approve of the yomei-gaku left-wing's approach of discussing matters idealistically,and sought to establish empirical scholarship that was based on fact.
+his approach developed into the zhedong xue school,a faction of koshogaku,which was to form the main trend of thought during the qing period.
+yomeigaku from the end of the ming period to the early qing period
+yomeigaku deeply influenced politics and thought during the ming dynasty;it then declined with the ming dynasty and during the qing dynasty,kosho-gaku replaced yomeigaku as the main school of the academic thought.
+but yomeigaku did not completely disappear,and led by the right-wingers during the early qing period it became more moderate;as emperor kangxi's statement that yomeigaku was 'not different from seigaku(＝shushigaku)' shows,yomeigaku was not considered unauthorized teaching.
+the slogan 'zhu(xi)and wang(yangming)as one' shows that yomeigaku was no longer the sole teaching but was merely treated as supplementing shushigaku.
+after the reign of emperor yongzheng,with shushigaku officially authorized and koshogaku at its height under emperors qianlong and jiaqing(known as qian-jia teachings),yomeigaku went into decline.
+yomeigaku attracted attention again at the end of the qing dynasty.
+yomeigaku at the end of the qing dynasty
+the depressed state of yomeigaku gradually changed after the opium war of 1840.
+yomei-gaku showed signs of reviving when wei yuan,who wrote the "illustrated treatise on the maritime kingdoms"(ch; 'haiguo tuzhi';jp: 'kaizu zushi')began reappraising yomeigaku and when zhu ciqi,the master of kang youwei,advocated 'zhu and wang as one' again.
+it is said that kang youwei,who was to establish the jinwen gongwang school,studied yomeigaku,including "yushitsu bunkou"("manuscripts from a darkened room")written by shoin yoshida.
+as described in the section related to japan,yomei-gaku was introduced into japan and left its mark on japanese history from the end of edo period onwards.
+it is said yomeigaku had a great influence on the meiji restoration,especially as an ideological driving force.
+even after the restoration,setsurei miyake wrote a biography entitled "wang yangming" to publicly honor yomeigaku,and several magazines were launched,including "yomeigaku",which looked for the basis of national morality in yomeigaku.
+after the sino-japanese war,chinese intellectuals at the end of the ching period began to pay attention to meiji-period japan,and especially focused on yomeigaku,which had declined on the chinese mainland.
+during the meiji period,as an increasing number of students came from china to study in japan,the enthusiasm of the japanese people for studying yomeigaku infected these chinese students so that yomeigaku began to be re-evaluated in china.
+the term 'yomeigaku' was introduced into china during this period.
+"fen shu" and "cang shu" written by li zhuowu,which had been almost forgotten in china as they were banned by the qing government,were re-imported into china as a result of the enthusiasm for studying yomeigaku in meiji japan.
+liang qichao,a disciple of the above-mentioned kang youwei,was the most influential figure in yomeigaku's reevaluation in china.
+liang qichao praised shoin yoshida,who embraced yomeigaku,so much as to publish "songyin wenchao" ("letters to shoin")in shanghai city in 1905.
+"de yu jian" and the 'lun si de' chapter of liang qichao's important work "xin min shuo",written during this period,show the influence of tetsujiro inoue's "nihon yomei-gakuha no tetsugaku".
+liang qichao more clearly showed this tendency when he lived in exile in japan after the 1898 coup over the hundred days' reforms;this tendency was closely tied with the creation of a nation-state that he sought at that time.
+liang qichao thought that national spirit and morality were indispensable to strongly unite the chinese people,who seemed like scattered sand lacking cohesion.
+yomeigaku was enhanced to infuse it into the spirit of the nation-state.
+liang qichao's idea to infuse yomeigaku into the spirit of the nation-state was in fact borrowed from the trend at that time in meiji japan.
+around the turn of the century,it was considered that europeanism was advancing to the detriment of japanese moral ethics and the samurai spirit,which led japan to recover these moral ethics and spirit through yomeigaku;this was background to the japanese people's enthusiasm for studying yomeigaku during the meiji period.
+liang qichao was influenced by this trend.
+in other words,liang qichao not only rediscovered and reevaluated yomeigaku but also introduced the movement to create a national spirit supported by yomeigaku into china from japan during the meiji period.
+development in japan
+the imported shushigaku's aims of universal order were attractive to japan's rulers.
+in contrast,yomeigaku tended to attach too much importance to individual morals and,against wang yangming's intentions,gave rise to an antiestablishment theory,which attracted those who opposed the regime.
+those who,driven by a personal sense of justice,affiliated themselves with the revolutionary movement were mostly students of yomeigaku.
+some people say that if a person puts his clamor to his action(to realize chigyo goitsu)based on chiryochi when he has not attained the state of mind that reflects ri(shinsokuri),the person is apt to aspire to start a revolution(hokoku yamada,described later,also believed that wrong understanding of yomeigaku might cause serious mistakes,so that he taught yomeigaku only to the disciples who understood shushigaku well enough to understand yomeigaku in comparison to shushigaku.)
+toju nakae and his disciple banzan kumazawa were leading yomeigaku scholars during the edo period.
+adherents of yomeigaku during the final days of the tokugawa shogunate
+the sonno joi(revere the emperor,expel the barbarians)movement of the last days of the tokugawa shogunate was influenced by yomeigaku.
+historical figures were shoin yoshida,shinsaku takasugi,takamori saigo,tsugunosuke kawai,and shozan sakuma;most of them in fact aligned themselves with the revolutionary movement(such as heihachiro oshio's rebellion).
+on the other hand,hokoku yamada,who in his deep knowledge of yomeigaku bears comparison with shozan sakuma,completely restored the moribund finances of the bitchu-matsuyama domain.
+adherents of yomei-gaku in various circles
+financial circles
+yataro iwasaki
+the founder of the mitsubishi zaibatsu
+eiichi shibusawa
+the founder of the dai-ichi kokuritsu ginko(present-day mizuho bank)
+others
+takeo hirose
+officer of the great japanese imperial navy,deified as war hero
+heihachiro togo
+officer of the great japanese imperial navy
+kensuke okunomiya
+shusui kotoku
+yukio mishima
+author
+masahiro yasuoka
+a fixer for the liberal democratic party in the early post-war period,yomei-gaku scholar
+development in korea
+yomeigaku was introduced into the korean peninsula in the early 16th century.
+nam yeongkyung and lee yo embraced yomeigaku early on.
+then,heo gyun and jang yu appeared and developed yomeigaku.
+the former criticized the ideological side of shushi-gaku from the yomeigaku point of view.
+he was the first person to approve of human desire in korea.
+the latter criticized shushi-gaku's 'chisen gyogo' (roughly,recognition first,and practice should follow)' and praised yomeigaku's 'chigyo goitsu' (roughly,recognition and practice at the same time).
+he adopted the aspect of respecting individuality advocated in yomeigaku,and advocated a theory emphasizing 'autonomy,self-reliance,and independence.'
+then,cheng chatoo(hagok),who can be said to have been a leading person of korean yomeigaku,appeared under the strong influence of jang yu.
+cheng chatoo(hagok)objected to the dualism of ri and ki advocated by zhu xi,instead preaching that ri and ki are inseparable and,extolling 'chigyo goitsu',placed a strong emphasis on practice.
+in yi dynasty korea,shushigaku was losing substance but through yomeigaku,cheng managed to revive confucianism.
+however in korea,yomeigaku remained a minority status.
+even more than in china,the home of yomeigaku,it drastically declined under shushigaku's oppression.
+for example,yi toegye's "records of learning" ("jeonseup rok byeon")quite harshly criticized yomeigaku.
+therefore,yomeigaku's influence on korean history is not as great as it was on those of china and japan.
+however,it is a fact that korean yomeigaku has influenced the practical learning and ideology of keiseichiyo.

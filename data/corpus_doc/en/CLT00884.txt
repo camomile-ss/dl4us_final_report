@@ -1,0 +1,29 @@
+hiochi(putrefaction)
+hiochi is one of the terms on manufacturing sake(rice wine),and it means that sake in the manufacturing process has become cloudy and spoiled,while being stored.
+it is caused by hiochi bacteria.
+there is a heating process during manufacturing sake to prevent this.
+outline
+hiochi happened frequently in the old days,because it was difficult to completely pasteurize sake in the wooden barrels of that time as their insides were insanitary.
+it was a disaster that troubled the sake breweries for years when it once occurred.
+this phenomenon itself has been known from ancient times,and the heating process to prevent it has been done from the middle ages(the times around the heian period)in the history of sake.
+but it is said that the usage of the words, 'hiochi', 'hiochi bacteria',has begun to be used since the meiji period.
+hiochi bacteria
+it is known today that 'hiochi bacteria' which cause the phenomenon called hiochi live on mevalonic acid(mva,also known as hiochi acid)created by aspergillus oryzae.
+hiochi bacteria are a species of lactobacillus,when they get into sake,sake becomes cloudy,oxidized and has offensive odor.
+alcohol of about 6%density is the most suitable environment for them to grow,but they grow in about 25%density alcohol with no problem.
+and they prefer the weakly acidic environment like sake.
+it can be justly said that sake is the ideal environment for hiochi bacteria to live.
+main bacteria are lactobacillus fructivorans,l.hilgardii,l.paracasei,l.rhamnosus etc.of the lactobacillus genus.
+the study on hiochi bacteria was launched by teizo takahashi of tokyo university in 1906.
+he discovered that there were bacteria which would not grow in the ordinary culture media,but grew when sake was added,and he named them genuine hiochi bacteria.
+this meant that some indispensable constituents for the bacteria to grow existed only in sake.
+after this,more researches were done by many microbiologists and zymurgists,but the progress was slow.
+at last in 1956,it was discovered that this constituent was mevalonic acid by gakuzo tamura of tokyo university who took the validation of microorganism quantification method.
+it was named hiochi acid at first,but renamed later in japan.
+heating process and hiochi
+if the heating process has not been done and hiochi bacteria have been left,even today when the safe brewing is guaranteed,it sometimes becomes overripe,sour and gives off hineka(abnormal odor of overripe sake).
+heating process is a kind of heat sterilization,its temperature zone is relatively low to avoid spoiling the quality of sake.
+an englishman named atkinson,who visited japan in the meiji period,watched this heating process at sake breweries in various parts of japan in 1881.
+he expressed a surprise to have seen that toji(sake brewing experts)applied the heat of 130 degrees fahrenheit(about 55 degrees celsius)to sake rightly as the temperature for them to be able to write the japanese character 'の' barely on the surface of sake in the environment without thermometers which was different from the western pasteurization.
+thereafter,the temperature of heating process was 60 degrees celsius at the time of the discovery of hiochi bacteria,and it is usually from 62 to 68 degrees celsius today.
+incidentally,there is a similar process in the manufacturing of chinese shaoxing rice wine,its temperature is about 85 degrees celsius.

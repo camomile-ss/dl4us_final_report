@@ -1,0 +1,7 @@
+"sanyo-ki" (the calculation manual)
+"sanyo-ki" (the calculation manual)is the oldest book on wasan(japanese mathematics)extant in japan,however,the author is unknown.
+the date it was published is also unknown but is estimated to be sometime between the azuchi-momoyama period and the early edo period.
+"warizan sho" (the book of division)by shigeyoshi mori published in 1622 has a description which seems to criticize "sanyo-ki" as being too difficult to understand,so the latter should be older than the former.
+this book introduces calculation with an abacus and describes how to calculate volume and interest rate as well as the method for surveying.
+this book is regarded as the starting point of the history of japanese mathematics.
+the only extant book is in the collection of shajidai-bunko at ryukoku university.

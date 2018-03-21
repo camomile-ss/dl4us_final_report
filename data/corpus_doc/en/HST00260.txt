@@ -1,0 +1,64 @@
+myoden
+the term 'myoden' (rice field lot manage by a nominal holder)refers to a basic unit of the governance and(tax)collection in the shoen-koryo system(the system of public lands and private estates),and this existed from the mid-heian period,throughout the middle ages in japan.
+this is also referred to as myo.
+history
+in the ritsuryo system(system of centralized government based on the ritsuryo codes),which started around the end of the seventh century or the beginning of the eighth century,the basic unit for tax collection was every single person.
+in the ninth and the tenth centuries,however,the citizen management system(including the ancient family registration system,the creation of the yearly tax registers,and the implementation of the law of periodic reallocations of rice fields)which supported the ritsuryo system began to collapse,so that the governance on a single-person basis became difficult to maintain.
+therefore the government established a governance system with a tax collection basic unit according to land(or koden,a field administered directly by a ruler).
+at first this reorganized koden administered by kokuga(a provincial government office)into a governance and tax collection unit called myoden or myo.
+the governance and tax collection system based on a myoden is called myo-taisei(the local tax management system based on rice fields).
+some peasants,handen(allotted farmland)farmers,old gunji(a district officer)families,and local kokushi(a provincial governor)scions of that time started to form a wealthy class called tato,and they gained riches by suiko(rice loans in ancient japan that had to be repaid after the autumn harvest at a substantial rate of interest)and farming activities.
+the tato people played a primary role in myoden farming.
+they paid a rice field tax to kokuga on behalf of other peasants within a myoden.
+this tax payment style was called fumyo.
+the fumyo caused debtor-creditor relations between tato farmers and other peasants,and this allowed the tato to become powerful enough for unofficial governance over other peasants and to increase their special skills of myoden management.
+in addition,the kokuga side found it more efficient to collect the tax through a small number of tato farmers,who owned a great amount of movable assets as well as many subordinate people and managed a large-sized farm which was expected to bring stable management,than to collect the tax from many peasants who only had small-sized unstable farm management.
+they also found it very efficient to rule the people through the tato.
+in the 11th century,the myoden system was also imported and adopted to manors whose territory had been enhanced because of consolidation around that time.
+farmland within a manor was reorganized into myoden fields,and the tato who became shomin(people living in a manor)managed the myoden.
+the size of a myoden within a manor depended on regions.
+most manors in the kinai(the vicinal territories of the capital)and the kyushu regions consisted of nearly equal-sized myoden fields,and each size was in the range of one to two cho(9,917 to 19,834 square meters).
+such manors are called kinto-myo-shoen(a manor consisting of equal-sized myo),and this type of manor existed mainly from the 12th century to the 14th century.
+the lords of the manors were so powerful in the kinai provinces and the kyushu region that they could divide their myoden equally and allot each peasant a portion of myoden in order to manage their manors effectively.
+on the other hand,many manors out of the kinai and kyushu regions consisted of extensive myoden larger than several cho and/or unequal-sized myoden.
+this was because the influence of a manor owner(called honjo,a proprietor of a manor)could not reach throughout his manor very much due to a long distance between his ordinary location and his manor in the regions other than the kinai and the kyushu regions.
+the consolidation of manors allowed equal privileges and status with an imperial demesne(or kokugaryo,a territory governed by a provincial government office)in the 11th century,and the land regularity in and after that century was called the shoen-koryo system.
+in this system,the tato managed several industries such as agriculture,fishery,and handicraft manufacturing on a myoden basis,employing subordinate labors.
+the tato farmers and the myoden fields were administered on a manor basis and supervised by a shokan(a manor officer)appointed as the lord of the manor,while the imperial demesnes were administered on a gun(district),go(village),or ho(settlement)basis,and gunji(a district officer),goji(a village officer),and hoji(a public land officer)supervised respective lands.
+more samurai warriors were assigned to shokan,gunji,goji,and hoji officers as military tensions increased in local societies,especially between manors and the imperial demesnes,and they eventually gained a stable position during the kamakura period,when a position called jito(a lord of a manor)was given to the kamakura-dono(the lord of the kamakura shogunate).
+although the tato undertook myoden management,they were not allowed to have private ownership of the myoden fields.
+nevertheless they strengthened relationships with land and subordinate peasants through myoden management,and some tato even started to accumulate neighboring myoden fields managed by other tato.
+under such circumstances,around the 12th and the 13th centuries,lords of manors,kokuga,and samurai warriors who were appointed as the local supervisors by lords or kokuga had to recognize the tato's influence,and they gave the tato permanent tenure of myoden in exchange for the firm land tax payment and the undertaking of public duties.
+thus the tato farmers developed into myoshu(an owner of rice fields),who owned the permanent tenure of myoden.
+some people in the myoshu class became jizamurai(local samurai)by doing military service as samurai,and this resulted in many myoshu people who made inroads into the samurai class.
+also,the myoden whose myoshu had permanent tenure were called hyakusho-myo(myoden of peasants).
+from the 14th century onwards,the concept that a hyakusho-myo could be private land increased,and the hyakusho-myo lands started to be traded at will among the myoshu people.
+the myoden always functioned as a basic unit of governance and tax collection in the shoen-koryo system,which included various forms of ruling.
+as the shugo-ryogoku system(the system of domination by a governor)grew in the muromachi period,however,the myoden fields were gradually integrated into the government of shugo(a provincial governor).
+in the sengoku period(the period of warring states in japan),the collapse of the myoden system rapidly proceeded accompanying the enhancement of the unified government by sengoku daimyo(japanese territorial lords in the sengoku period),and eventually,it completely disappeared due to the taiko-kenchi(cadastral surveys instituted by hideyoshi toyotomi)in the azuchi-momoyama period.
+characteristics
+there have been two major different opinions about the characteristics of myoden in the japanese historical science world.
+one opinion is that a myoden was an ownership and management unit in the farmer class.
+in this view,they think peasants,who had been unilaterally controlled by rulers,captured land ownership from the rulers as a result of a class struggle.
+historical materials clearly show,however,that the myoden fields were actually governed by lords,and tato and myoshu just functioned as a tax payment agency for lords.
+this makes the other opinion more dominant,and many researchers support this idea that a myoden was a basic unit of governance and tax collection in the shoen-koryo system.
+origin
+the term myoden(literally means a named paddy field)comes from the fact that a tato or a myoshu gave a name to the land he operated in order to distinguish his land from other lands.
+most myoden were named after a tato's name,and there were many myoden whose name sounded like a person's name across the country.
+today they still have some place names which are derived from myoden names,particularly in the western japan.
+e.g.tsunesada,kunihiro,hiroshige,and so on.
+relation to surnames
+in the mid-heian period,besides a full name used at the imperial court,the use of a pseudonym containing a domain name(myo)followed by a nickname(azana)became popular especially among early samurai warriors who were originally from the eastern provinces.
+for instance,a man named taira no yoshifumi,who had a career as a chinjufu-shogun(general of the northern pacification command),called himself muraoka no goro because he had his territory,or his myoden,in muraoka,sagami province and he was the fifth eldest brother(goro literally means a fifth boy).
+muraoka was his myo,goro was his azana,and the whole string of muraoka no goro was his surname.
+samurai didn't have their settled territories where they could rule as a feudal load before the shoen-koryo system was established,and kokuga gave management rights of myoden to them as well as ordinary tato and fumyo(local tax managers)by contract.
+consequently they were given an economic base which allowed them to keep their military power strong enough to maintain the public order.
+therefore their territories were formed on a myoden basis in those days,and their surnames were based on their myoden.
+once the shoen-koryo system was established in the 11th century,however,many samurai were appointed shoji(also known as shokan),gunji,goji,or hoji,and they began to own some manors or the imperial demesnes such as gun,go,and ho as their settled territories and to have tato and fumyo under their control.
+thus manors,gun,go,and ho became a basis of an origin place of a samurai surname(called honganchi)during that period.
+for instance,hatakeyama no shojiheijiro-shigetada,who was a shoji in hatakeyamano-sho,musashi province,owned that place as his territory,and watarigon no taifu fujiwara no tsunekiyo,who was a gunji in watari district,mutsu province,owned this place as his territory.
+this pattern of forming surnames was taken over by high-ranking samurai warriors,that is,the gokenin(immediate vassals of the shogun)class samurai during the kamakura period and the kokujin(local samurai)class or higher classes samurai during the muromachi period.
+however,in later periods,some ordinary farmers called tato and fumyo who managed myoden began to attempt to make inroads into the samurai class by offering military service for samurai who governed manors or imperial demesnes containing the myoden managed by the tato or fumyo,so that they could consolidate their hold over their myoden to own it as their territories.
+they were so-called jizamurai.
+this made the surname forming based on myoden popular again among samurai warriors in the newly-rising middle and lower classes from the muromachi period onwards.
+thus,myoden is deeply involved with the origin of surnames.

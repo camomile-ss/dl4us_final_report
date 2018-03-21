@@ -1,0 +1,100 @@
+kitakinki tango railway,miyazu line
+the miyazu line is a railway operated by kitakinki tango railway that connects nishi-maizuru station in maizuru city,kyoto prefecture,with toyooka station in toyooka city,hyogo prefecture,via miyazu station in miyazu city.
+it runs along the foot of the tango peninsula,transporting many tourists to amanohashidate,one of the three most scenic spots in japan.
+railway data
+railway length(operating distance):83.6 km
+track gauge:1067 mm
+number of stations:19(including the starting and destination stations)
+double-tracked section:none(the entire line is single-tracked)
+electrified section:
+the section between miyazu station and amanohashidate station is electrified(dc 1500 v.)
+the sections between nishi-maizuru station and miyazu station and between amanohashidate station and toyooka station are not yet electrified.
+block system(railway):restricted automatic block system(electronic sign checking system)
+maximum speed:85 km/h
+services
+due to the large number of sightseeing spots along the line,the company runs many higher quality trains for tourists.
+there are several limited express trains to and from kyoto station and shin-osaka station,via kitakinki tango railway's miyafuku line.
+the following trains and rolling stock are in use.
+while some higher quality trains used to go to kyoto via nishi-maizuru station on the maizuru line,the route was changed to via the miyafuku line following the timetable revision of march 15,2008,and consequently,only rapid and local trains operate on the section between nishi-maizuru and miyazu.
+via the miyafuku line
+jnr/jr series 183 limited expresses are used for the limited express 'hashidate(train),' running between kyoto and amanohashidate..
+jnr/jr series 183 limited expresses are used for the limited express 'monju(train),' running between shin-osaka and amanohashidate.
+ktr 001 series(from june 19,2005,to march 17,2007,the ktr 8000 was used)limited expresses(diesel cars)are used for the limited express 'tango explorer,' running between shin-osaka and miyazu/toyooka,with extra services as rapid/local trains between miyazu and nishi-maizuru.
+ktr 8000 series limited expresses(diesel cars)are used for the limited express 'tango discovery,' running from kyoto to fukuchiyama and toyooka(hyogo prefecture),with extra services as rapid train between kumihama and toyooka,while the same train partly used the ktr 001 series limited express(diesel cars)from june 19,2005,to march 17,2007.
+from march 15,2008,the route has run via the miyafuku line.
+in addition,the limited express 'tango discovery' runs between amanohashidate and toyooka and connects at amanohashidate with a limited express running via the miyafuku line.
+although all the surrounding lines are electrified,the only electrified section of the miyazu line is between miyazu and amanohashidate,so the west japan railway company(jr west)limited expresses 'hashidate' and 'monju,' which only run on that section,are electric trains,while the limited expresses 'tango discovery' and 'tango explorer,' which run on both the electrified and unelectrified sections,are ktr diesel trains.
+local trains run every one or two hours,in accordance with a time table arranged to connect with limited expresses at miyazu station and amanohashidate station.
+there are also the sightseeing trains 'tango-roman,' a rapid train which runs between nishi-maizuru and amanohashidate,and 'tango-yuyu,' a local train running on saturdays and holidays.
+rolling stock
+current rolling stock
+for express trains,please refer to the services section.
+ktr 700&800 series diesel cars
+ktr mf100&200 series diesel cars series(very rarely used)
+ktr 001 series limited express(diesel cars)(617d/650d)
+used for deadheading the tango explorer between nishi-maizuru and miyazu
+ktr 8000 series limited express(diesel cars)(615d/619d/663d/611d/667d/614d/664d(9664d)/672d(9672d))
+jnr/jr 183 series limited express(between miyazu and amanohashidate)
+rolling stock dated back to jr/jnr days
+steam locomotives-withdrawn on october 1,1972
+the miyazu line was the last japan national railway(jnr)line in kyoto prefecture continue using steam locomotives.
+the jnr 9600 type steam locomotive was used exclusively for hauling sectional cargo trains from nishi-maizuru station to amino station(some trains went,via the maizuru line,to ayabe station on the sanin main line)and also for such seasonal trains as the 'tulip-go' in spring and the 'hashidate-beach' in summer(as far as amanohashidate).
+the jnr c58 type steam locomotive also ran on the whole obama line.
+the jnr steam locomotive type 9600 belonged to nishi-maizuru engine depot(currently nishi-maizuru operation section of kitakinki tango railway);others belonged to toyooka engine depot(currently toyooka railway division of jr west),with the operation of cargo trains assigned to nishi-maizuru section and that of passenger trains to toyooka section.
+diesel cars-ordinary type cars belonged to fukuchiyama engine depot(currently fukuchiyama operation center of jr west),and the express type series kiha 82 and kiha 181 belonged to mukomachi operation center(currently kyoto general operation center of jr west)
+the jnr/jr kiha 10 series diesel cars also ran on the naka-maizuru line,which closed on november 1,1972.
+currently disused rolling stock
+jnt/jr kiha 20 series diesel cars
+jnr/jr kiha 55 series diesel cars
+jnr/jr kiha 58 series diesel cars
+jnr/jr kiha 40 series diesel cars(two generations)
+jnr/jr kiha 80 series diesel cars
+jnr/jr kiha 181 series limited express(diesel cars)
+history
+the miyazu line,which had originally been operated by japan national railways,was designated a special local line(3rd class)under the act for special measures to promote restructuring of japan national railways,and after being operated by west japan railway company,it was taken over by kita-kinki tango railway from april 1,1990.
+this line was the last one to be converted to a special local line.
+april 12,1924:opening of miyazu line,from maizuru(current nishi-maizuru station)to miyazu(15.5 miles ≒ 24.94 km.)
+opening of shisho station,shinonome station,kunda station,miyazu station and tangoyura station.
+july 31,1925:line extended from miyazu to tangoyamada(6.8 miles ≒ 10.94 km.)
+opening of amanohashidate station,iwatakiguchi station and tangoyamada station(currently nodagawa station.)
+november 3:line extended from tangoyamada to mineyama(7.8 miles ≒ 12.55 km).
+opening of kuchiono station(subsequently tangoomiya station)and mineyama station.
+december 25,1926:line extended from mineyama and amino(4.5 miles ≒ 7.24 km.)
+opening of amino station.
+december 15,1929:opening of minetoyo line(7.4 miles ≒ 11.91 km),from toyooka to kumihama.
+opening of tajimamie station and kumihama station.
+april 1,1930:operating distance units changed from miles to meters(miyazu line,34.6 miles＝>55.7 km,minetoyo line,7.4 miles＝>11.9 km.)
+may 25,1931:miyazu line extended from amino to tangokitsu(5.6 km).
+opening of tangokitsu station(current kitsuonsen station.)
+august 10,1932:it started operation of 10.8 km railway between tangokitsu and kumihama,which marked completion of work for its entire operation of the whole line.
+newly started sections and minetoyo line incorporated into miyazu line.
+opening of tangokanno station.
+january 20,1944:takano signal station established between nishi-maizuru and shisho.
+april 1:maizuru station renamed nishi-maizuru station.
+november 21,1946:takano signal station closed.
+june 22,1957:opening of tangokanzaki station.
+march 1,1962:opening of koyama station.
+may 25,1963:kuchiono station renamed tangoomiya station.
+october 1,1972:final trip of last steam locomotive(9600 type,belonging to nishi-maizuru engine depot,currently nishi-maizuru operation center of kitakinki tango railway)kept by jnr within kyoto prefecture from ayabe on sanin main line(via maizuru line)and nishi-maizuru to amino.
+march 14,1985:freight transportation discontinued.
+february 3,1987:abolishment of jnr miyazu line approved(became final line designated a special local line(3rd class.))
+april 1:transferred to west japan railway company,following division and privatization of jnr.
+april 7,1988:decision to convert to a joint public-private enterprise.
+june 22:6th ordinary general meeting of shareholders of miyafuku railway(currently kita-kinki tango railway)held.
+at meeting,resolution that miyafuku railway take over miyazu line after 'conversion plan' agreed and decided on.
+4th conference on measures for miyazu line special local line held.
+at meeting, 'conversion plan' unanimously agreed and decided,including succession of management of miyazu line by miyafuku railway.
+april 1,1990:jr west's miyazu line(84.0 km)abolished and kita-kinki tango railway's miyazu line(83.6 km)opened.
+tangoyamada station renamed nodagawa station,tangokitsu station renamed kitsuonsen station.
+january 10,1992:introduction of wireless train control system.
+april 16,1993:application for approval of modification of basic plan on electrification and speeding up of section between miyazu and amanohashidate,as well as modification of relevant railway facilities.
+may 13:approval of application for modification of the basic plan.
+may 14:approval of application for modification of relevant railway facilities.
+june 10:instruction for implementation program given,and authorization for railway development fund granted.
+july 21:groundbreaking ceremony for electrification and speeding-up work held.
+march 16,1996:electrification between miyazu and amanohashidate completed.
+west japan railway company commenced operation of electric expresses 'hashidate' and 'monju.'
+march,2008:renovation of maruyama-gawa bridge started.
+list of stations and connections
+former connecting lines
+nodagawa station(tangoyamada station):kaya railway

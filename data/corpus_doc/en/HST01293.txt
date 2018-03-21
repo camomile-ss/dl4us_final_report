@@ -1,0 +1,38 @@
+kani official rank system of ancient japan
+kani means ikai(court rank).
+the system for deciding government officials' ranks by matching up each government position to the corresponding ikai court rank was referred to as kanisoto(kani matching).
+the system to appoint someone a government position that matches his ikai was called the kani official rank system or kanisoto-sei.
+in japan,the kani official rank system was systematically improved by ritsuryo law(the ritsuryo system).
+it is incorrect to put a government post and the ikai court rank together and call it kani:i.e. "jugoinoge(junior fifth rank,lower grade)echizen no kuni no kami(governor of echizen province)."
+for this,the government post is echizen no kuni no kami and the kani is jugoinoge.
+for the ikai system,see the section of "ikai" and for government posts,see "government posts of japan."
+below is the explanation about the kani official rank system of japan.
+summary of kani official rank system
+the kani official rank system first came from china along with other political administrative systems,but was developed in its own way in japan.
+the system of grading government officials started in 603 with kani junikai(the twelve level cap and rank system)and went through several changes after that(see the section on the change of kani systems).
+both taiho ritsuryo(taiho code)set in 701 and yoro ritsuryo(yoro code)in 718 included a law called "kani law" (court ranking law),and the kani official rank system was established by this law.
+according to the kani court ranking law,for the imperial family,there were four levels of ikai from ippon(the highest rank given to an imperial prince)to shihon(the fourth rank given to an imperial prince)and other officials had 30 levels from shoichii(senior first rank)to shosoige(the lowest court rank).
+the purpose of the kani official rank system was to avoid the heredity of government positions and to employ the most suitable person for each position by appointing him a position in connection with his ikai.
+however,it was not easy to attain this goal from the beginning because some systems,such as oni no sei(the automatic promotion of people at the age of 21,whose parents were from imperial prince down to the fifth rank,or whose grandparents were higher than the third rank),were set up to give priority to the descendants of men of high rank to get promotion easily.
+although losing its significance,the ikai court rank system itself lasted until ritsuryo law was abolished in the meiji period.
+in fact,the ikai court rank system still exists after changing its function to one of the systems of awarding honors.
+contents of the kani official rank system
+mapping between government positions and ikai ranks is not necessarily fixed.
+the kani matching changed over times.
+the case where a man with a low ikai got a job of a higher level than his ikai was called shu,and that where a man got a job of a lower level than his ikai was called ko.
+the case where a man was offered but declined a position was called sani or mukan.
+high officials of jugoinoge(junior fifth rank,lower grade)and above and kurodo(imperial archives keepers)of rokui(sixth rank)were called tenjobito(a high-ranking courtier allowed into the imperial palace)because they had access to the imperial court;and the daijokan(grand councils of state)members of jusani(junior third rank)and higher and sangi(councilors)were called kugyo(high court nobles).
+moving up to goi(fifth rank)was termed joshaku(receiving a peerage),or koburi-tamawaru(receiving a crown).
+remuneration was basically paid according to their ikai.
+so,those who had different positions but ranked with the same ikai would be paid equal remuneration.
+during the heian period and later,men in higher positions such as the imperial family and kugyo,as well as upper ranked government officials and hakase(professors),were also receiving remuneration.
+kokushi(provincial governors)were allowed an additional income as kokushi as well as the remuneration paid by the government.
+changes in kani official rank system
+at the time when government posts were put into statutory form in the nara period,they kept their original meanings,but in the heian period,they started to represent high or low lineage as well and became symbols of kakaku(family status),and lost the original meaning as government posts of japan.
+originally,government posts were directly connected with national jobs and it was ikai that showed their social status;but because the posts started to symbolize their social and family status,the fundamental rules of kanisoto(kani matching),which had existed since the beginning of the ritsuryo system(the system of centralized administration established under the ritsuryo codes),started to change.
+the posts and ikai were the standard to show social and family status and had strong authority in court life until the end of edo period.
+kani official court rank matching chart
+see below.
+kani official court rank matching chart(yoro code 1)
+kani official court rank matching chart(yoro code 2)
+kani official court rank matching chart(ryoge no kan:a post outside the original ritsuryo code created by imperial edicts of japan)

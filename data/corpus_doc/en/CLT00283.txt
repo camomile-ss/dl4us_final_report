@@ -1,0 +1,27 @@
+tsuki-okure
+tsuki-okure means that under the gregorian calendar(the new style),dates of annually scheduled japanese programs or events are deferred one month compared to the taiin-taiyo-reki(lunisolar calendar)(the old style including the tenpo calendar,the kansei calendar,the horyaku calendar,and the jokyo calendar).
+it also means a calendar which is one month behind the new style.
+it is also called chureki because it is in the middle of the new style and the old style.
+due to the reasons described below,there is definitely an approximate one-month difference between the new style(the gregorian calendar)and the old style(taiin-taiyo-reki.)
+this is caused by a difference in the rules for determining in which month the same event(the spring equinox)should be performed,rather than a difference in the method of making the calendars.
+in the new style(the gregorian calendar),the spring equinox is in march.
+in ancient times in the west,the time of year around march of the current calendar was considered as the beginning of the year(and calendar for winter didn't exist)but later on,the winter solstice was considered as the beginning of the year(referring to the roman calendar.)
+the first council of nicaea in christianity agreed to establish the spring equinox on march(march 21)in 325.
+the gregorian calendar has followed this decision,too.
+in the old style(taiin-taiyo-reki),the spring equinox is in february.
+in ancient times in the east,the time of the year around the winter solstice was considered as the beginning of the year,but later on the time of year around the beginning of spring was considered as the beginning of the year(actually,a month having rain was considered shogatsu(january)).
+the chinese calendar which was used by the qing dynasty,used a method for determination of 24 divisions of the old calendar based on the ecliptic cycle,in which an interval between 24 divisions of the old calendar varied,and in the kakei era(china)rules were revised to call the month including the spring equinox february(kisaragi).
+the japanese tenpo calendar followed suit.
+after the calendar reform of january 1,1873,people tried to perform events on the same dates as the old calendar,but there were cases in which some events were found unseasonable due to the occurrence of the unavoidable one month difference,as stated above,like koi-nobori(carp rising,or boy's day)and tanabata(the star festival).
+the origin of koi-nobori is based on an old story that carp would grow to become dragons after ascending to heaven even in the rain,so samurai families flew the koi-nobori in may,a rainy season,of the calendar of that time in hopes of the success of their son's careers in the edo period.
+however,the month of may in the new calendar is not in the rainy season.
+originally,tanabata was on july 7 in the old calendar and used to be a seasonal term for autumn and was at the end of the rainy season in the old calendar.
+tanabata was an event which was held just prior to obon(a japanese buddhist festival,july 15 under the old calendar)following midsummer.
+on the other hand,the tanabata on july 7 under the new style would fall in the middle of the rainy season.
+because of the above-mentioned reasons,there is an approximately one-month difference between a date according to the gregorian calendar and the equivalent date according to the tenpo calendar(actually,the difference between the dates varies from year to year and this degree of variation is also approximately one month).
+for example,if one is added to the number of a month under the old calendar,dates in both calendars will be approximately corresponding.
+therefore,it was decided that using the dates of the gregorian calendar,the dates of events were deferred by one month.
+this is called "tsuki-okure."
+obon,which was july 15 in the old calendar,is held on august 15(one month later or 'tsuki-okure')in most areas,and there are many companies which have set the period around this day as summer holiday(the obon holiday).
+also,hina-matsuri(the doll festival)was march 3 in the old calendar but is now held one month later in many regions.
+tsuki-okure(holding events one month later)and the tenpo calendar are often confused and events performed in tsuki-okure are often called 'old___' (such as old bon),and while dates under both systems are very close,they are not the same.

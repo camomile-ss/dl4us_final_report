@@ -1,0 +1,52 @@
+goseibai-shikimoku(code of conduct for samurai)
+goseibai-shikimoku is a law code established for samurai government in the kamakura period.
+because it was established in the first year of joei era in 1232,it is also called joei-shikimoku.
+the name joei-shikimoku was created later,so it is better to call it goseibai-shikimoku officially.
+it is also called kanto goseibai-shikimoku,kanto buke-shikimoku and so on.
+history
+when kamakura bakufu(japanese feudal government headed by a shogun)was formed,there was no statutory law yet;however,it did not follow the ritsuryo law or the kugeho(laws issued by the imperial court)and the trials were held according to orders and precedents of morals which had been practiced by samurai since the birth of samurai.
+however,because mandokoro,the office of administration,and monchujo,the office of inquiry of early kamakura bakufu were operated by people of the middle-ranked nobles from kyoto with knowledge of myobodo(study of codes)and kugeho,the usage of the law accumulated by the kamakura bakufu was not established unrelated to the ritsuryo law and the kugeho.
+the bakufu expanded its power to the western provinces after the jokyu war,and gokenin(immediate vassals of the shogunate in the kamakura and muromachi through edo periods)and court nobles who were sent as jito(manager and lord of manor)had more legal troubles with lords of private estates and the local public.
+also it can be given that a huge number of precedents and usage of the law were formed and became complicated after almost a half century since the establishment of bakufu.
+therefore,regent to the shogunate yasutoki hojo took charge in establishing the goseibai-shikimoku by consulting with some of the hyojoshu(a member of council of state)including yasutsura ota and joen saito with assistance of the family patriarch tokifusa hojo.
+regarding the establishment,regent yasutoki wrote two letters('yasutoki shosokubun')to his younger brother shigetoki hojo who was stationed at rokuhara tandai(an administrative and judicial agency in rokuhara,kyoto)in kyoto,stating the spirit and purpose of shikimoku(law code).
+when it was established,court nobles already had the ritsuryo codes which mentioned the political system,but there were no clear laws and ordinances for samurai families.
+therefore,based on conventions of shogunal retainers since minamoto no yoritomo and agreements which had until then not clearly been stated,properties such as land and authorities of shugo(military governors)and jito were stipulated.
+according to 'yasutoki shosokubun,' they created a law written in understandable style to samurai since the kugeho was written in kanbun(chinese classics)and difficult to understand.
+accordingly,its characteristic is more of a law that was established to be supported by shogunal retainers than that which was established by the kamakura bakufu with an iron fist.
+also,although the law was established by the kamakura bakufu,it didn't work to the advantage of shogunal retainers,but it was operated fairly to every party to a suit.
+therefore suits using the goseibai-shikimoku were also accepted by higokenin(non-vassals)such as court nobles,temples and shrines who were the lords of private estates and a part of those were adopted also in the kugeho.
+after the fall of kamakura bakufu,it continued to work as the fundamental law of samurai until edo bakufu established buke shohatto(laws for the military houses).
+it greatly affected family laws of muromachi bakufu and the sengoku period(japan);it not only became the base of bukeho(samurai laws)but also was studied as great precedents of yusoku kojitsu(studies in ancient court and military practices and usages)by people,whether as court nobles or samurai families('shikimoku chushakugaku').
+after that,in the edo period,it became widespread as a text book of calligraphy also among the general public.
+according to yasutoki shosokubun,it was called shikijo first,but changed to shikimoku in consideration of the ritsuryo codes.
+provisions
+it included 51 articles.
+the number of articles was 3 times of 17,derived from seventeen-article constitution.
+we give some major articles here.
+article 3:shugonin-bugyo(post of provincial constable in kamakura period)in various districts
+article 7:territories
+article 8:possession of land
+article 9:rebels
+article 10:crimes of murder and bodily injury
+article 12:charge of abuse
+article 13:charge of violence
+to make up flaw and respond to new situations,additional laws were established occasionally,which were called 'addition of shikimoku' or just 'addition.'
+in yasutoki shosokubun it was written 'any other shortages should be added to write in the future,' indicating the necessity of additional laws from the beginning.
+bugyonin(magistrates)of kamakura and muromachi periods collected necessary additional laws and compiled a lot of additional laws including 'shinpentsuika' which has been passed down to the present.
+those transcription and published books were compared in volume 1 of "a collection of the historical material on the history of law system in medieval ages" compiled by shinichi sato and yoshisuke ikeuchi.
+contents
+it was the fundamental law of kamakura bakufu and the first bukeho in japan.
+it was based on the precedents('udaishoke no rei' [precedents of the family of udaisho(major captain of the right division of inner palace guards)])since the era of yoritomo and the morals of samurai society,and included many regulations of right,obligation and territory succession of gokenin.
+the regulations of 'kuikaeshiken' (a right to take back title to property)and 'nenkiho' (a legal principle for the statute of limitations on land in possession,which developed under bukeho)are considered as unique regulations to samurai family(there is also other theory).
+however,shikimoku was applied only to samurai society;kugeho was applied under the control of imperial court while honjo(proprietor or guarantor of manor)law came into effect under the influence of the lords of private estates.
+on the other hand,under the control of bakufu,kugeho and honjo law were rejected as not applicable.
+also,it is a generally accepted view that goseibai-shikimoku is a declaration of independence of bakufu law as it is recognized that goseibai-shikimoku,backed by the precedents since the time of yoritomo and the morals of samurai society,actively and independently established provisions which were different from or sometimes went against the ritsuryo law or the kugeho.
+however,there is also criticism to such a view.
+according to ichiro nitta(legal expert),the part which wrote about the precedents since the time of yoritomo and the morals of samurai society and especially most of the part which opposed to ritsuryo law and kugeho were not included in the articles,but were only mentioned in the forms of details and exceptions,while most of the matters not related to bakufu in the articles were based on the kugeho in the early kamakura period.
+also he pointed out that those who took part in the compilation were yasutoki and tokifusa of rokuhara tandai and middle-ranked nobles with knowledge of the kugeho and the descendants who were shogunal retainers.
+samurai(especially shogunal retainers)at that time were easily involved in problems with court nobles who were lords of private estates where they(samurai)worked as jito;goseibai-shikimoku was established in order to save samurai from such problems by making them understand the summary of legal order of the time centered in the kugeho and by working in harmony with the samurai society,therefore the reason was not to systemize the bukeho or to make a new order of law based on the bukeho;the kugeho was said to be still the base and was regarded as a formal model and material.
+also since the late kamakura period,it was also accepted by the court noble society,he pointed out that the back ground was the common policy goal of bakufu and imperial court to realize the principle of the rule by virtue of the sovereign through benevolent rule.
+the characteristics of goseibai-shikimoku was that it had many regulations regarding possession;what is noteworthy is that the article 8 included a principle 'those who do not enforce their rights will not be protected,' and there are also many others which can be said the origin of japanese law.
+shinichi sato expressed his opinion to seek the origin of '20-year occupation' of civil code article 162 in goseibai-shikimoku.
+however,according to kenjiro ume,one of the drafting committee members of minpoten(the legal code that stipulates basic regulations related to civil code),in old civil codes drawn up by gustave emile boissonade it was stipulated as 30 years based on the legislation of the time,but it became easier to figure out distant properties thanks to better transportation and also it was necessary to determine the rights more quickly because of more frequent transactions,it was shortened to 20 years,and he didn't mention the links to the old law in japan.

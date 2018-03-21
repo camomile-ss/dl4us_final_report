@@ -1,0 +1,57 @@
+sagano scenic railway's sagano sightseeing tram
+the sagano sightseeing tram runs along the sagano scenic railway between saga torokko station(ukyo ward,kyoto city,kyoto prefecture)and kameoka torokko station(kameoka city,kyoto prefecture).
+summary
+due to the electrification and double-tracking of railroads,the route between saga arashiyama and umahori on the sanin main line was retired in 1989,then revived for the torokko tram in 1991.
+it is the first railway in japan to be used exclusively for sightseeing.
+at first it was thought that there would be only a few passengers,or that,even if some people rode out of curiosity at first,it would in time become just another local line.
+however,the tram runs along the beautiful old sanin main line,and is near arashiyama and sagano,both famous sightseeing spots.
+passengers can enjoy excursions down the hozugawa river,and there are various tourist attractions along the track.
+through the efforts of sagano scenic railway personnel,such as the unique announcements and explanations made by the train crew,the torokko tram became the symbol of arashiyama sightseeing in no time at all.
+recently,its use by groups of foreign tourists has also become striking.
+it runs through the beautiful area along hozukyo gorge.
+in autumn,red maples are visible through the tram windows,while in spring one can see blossoming cherry trees which were planted by sagano sightseeing tram personnel.
+some tourists take the sagano scenic railway torokko tram to kameoka and return down the hozugawa river by boat;for this reason,even in the spring and autumn peak seasons,it is relatively easier to reserve tram seats in the kameoka-saga direction.
+route data
+jurisdiction(business type):sagano scenic railway(railway business type ii railway business),west japan railway(railway business type i railway business)
+line distance(working kilometers):7.3 km
+track gauge:1067 mm
+number of stations:4(including the station of origin and the destination station)
+double-tracked sections:none(the entire line is single-tracked.)
+electrified sections:none(no part of the line has been electrified yet)
+block(railway):staff block system
+the sagano sightseeing tram line is still owned by jr west(it is even registered as a route of jr west,with all sections belonging to sanin main lines),but the tram is run by sagano scenic railway as a type ii railway business under the law for railway businesses.
+there is a section between saga torokko station and arashiyama torokko station which is shared with the sanin main line,where the tram leaving from kameoka runs on the sanin main line away from kyoto,but in the opposite direction to the one taken by normal trains.
+parenthetically,sagano scenic railway is a wholly-owned subsidiary of jr west.
+operating pattern
+the entire route between saga torokko station and kameoka torokko station is run by a single tram going back and forth.
+the tram does not run on wednesdays(except for holidays and excursion periods),or during the winter(from december 30 until the end of february).
+as there is only one tram,and as the carriage management unit does not have maintenance facilities along the business line,the tram is sometimes sent to parent company jr west's rail yard for maintenance and inspection during the winter off-season.
+a flat-fare system is used,with adults costing 600 yen and children costing 300 yen(as of april,2008).
+all seats may be reserved beforehand;tickets are available to the general public for purchase one month in advance at the green(or 'midori')window at any major jr west station.
+(group purchasing is available by special request.)
+tickets for saga torokko station,arashiyama torokko station and kameoka torokko station may be purchased on the day;these tickets are sold on a first come,first served basis,but may sell out fast during peak seasons such as autumn,when the leaves change color.
+this route is included in the free region covered by the 'keihanshin zone' excursion ticket,so one can ride the tram by presenting the zone ticket.
+cars
+the tram is composed of five remodeled japanese national railways toki 25000-type cars(sk300-1,sk100-1,sk100-11,sk100-2,sk200-1)connected to a japanese national railways de10-type diesel locomotive(de10 1104)on the saga torokko station side.
+the sk300-type next to the diesel locomotive is a 'special car' called 'the rich,' whose shrouds and floor are transparent.
+since this car does not take passengers in rainy weather,tickets are sold only on the day and cannot be reserved in advance.
+sk200-type on the kameoka torokko station side is equipped with an operating center which remotely controls the locomotive.
+the windows of all cars other than the first one('the rich')are fitted with glass.
+the content of the handbill which introduces 'the rich' is considerably unique.
+history
+august 15,1899:kyoto railway began service between saga(present saga arashiyama)and sonobe.
+august 1,1907:the railway became nationalized.
+april 1,1987:when the japanese national railway was split up and privatized,ownership was transferred to west japan railway.
+march 5,1989:the portion of the sanin main line between saga and umahori was switched to a new double-tracked route.
+train service on the old line was discontinued.
+april 27,1991:the old sanin main line route was brought back by the sagano scenic railway as the sagano sightseeing tram,and service between saga torokko station and kameoka torokko station began.
+the torokko tram began running.
+list of stations
+saga torokko station-arashiyama torokko station-hozukyo torokko station-kameoka torokko station
+connecting routes
+saga torokko station:sanin main line(sagano line)(saga arashiyama station)
+hozukyo torokko station:sanin main line(sagano line)(hozukyo station)
+kameoka torokko station:sanin main line(sagano line)(umahori station)
+other
+in the driving simulation game 'go by tram' (first generation),one can drive a local train towards kyoto on the sanin main line,and the route used is this old one.
+a short while after the game went on sale,a show box containing its first-generation housing was put at the saga torokko station;however,possibly because it didn't bring in much money,the box was removed before long.

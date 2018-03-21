@@ -1,0 +1,64 @@
+tsuyama express kyoto-go
+tsuyama express kyoto-go is a daytime express bus route of chugoku expressway by joint operation of the two companies,west japan jr bus company and shinki bus,that connects kyoto city(kyoto prefecture)and tsuyama city(okayama prefecture)via oyamazaki-cho(otokuni-gun,kyoto prefecture),takatsuki city(osaka prefecture)and kato city/kasai city/shiso city(hyogo prefecture),mimasaka city/shoo-cho(katsuta-gun)(okayama prefecture).
+reservation is required for boarding due to the reserved-seat system on entire services.
+however,between internal hyogo prefecture to internal okayama prefecture(between takinoyashiro interchange and tsuyama station)seats become non-reserved only when there are vacancies,and reservation is not available.
+service identification number is 290xx.
+operating company
+west japan jr bus company
+the kyoto office is in charge of 2 round services.
+however,reservation center is in osaka.
+it runs out-of-service from 'tsuyama station' bus stop which is the terminus on tsuyama side,up to west japan jr bus company tsuyama depot(a yard in ninomiya,tsuyama city,okayama prefecture which is an annex to 'matsubaranaka' bus stop of chutetsu bus),then makes a change of direction and time adjustment.
+shinki bus co.,ltd.
+the tsuyama office is in charge of 2 round services.
+however,the reservation center is in kobe.
+stations and stops
+karasuma exit of kyoto station:it operates only boarding for down-bound(kyoto-tsuyama)and only alighting for up-bound(tsuyama-kyoto).
+tsuyama interchange(chugoku expressway)/tsuyama station:it operates only boarding for up-bound(tsuyama-kyoto)and only alighting for down-bound(kyoto-tsuyama).
+takinoyashiro interchange/hojo/yamazaki interchange/sakuto/mimasaka interchange/chugoku katsumada(chugoku expressway):it operates both boarding and alighting only when there are vacant seats.
+the bus service is usable between takinoyashiro interchange and the tsuyama station only when there are vacant seats.
+service route
+internal shimogyo-ku,kyoto city-national route 1-kyoto south interchange-meishin expressway-chugoku expressway-tsuyama interchange-national route 53-internal tsuyama city
+number of services
+4 round services per day during daytime
+history
+july 16,2004.
+start of operation.
+time required and fares
+karasuma exit of kyoto station-tsuyama station
+it takes 2 hours 55 minutes to 2 hours 58 minutes.
+the fare is 3,000 yen for one-way.
+student discount:one-way 2,400 yen
+karasuma exit of kyoto station-tsuyama interchange
+it takes 2 hours 45 minutes to 2 hours 48 minutes.
+the fare is 2,900 yen for one-way.
+student discount:one-way 2,320 yen
+karasuma exit of kyoto station-mimasaka interchange
+it takes 2 hours 34 minutes to 2 hours 37 minutes.
+the fare is 2,750 yen for one-way.
+student discount:one-way 2,200 yen
+karasuma exit of kyoto station-yamazaki interchange
+2 hours 2 minutes to 2 hours 5 minutes
+the fare is 2,150 yen for one-way.
+student discount:one-way 1,680 yen
+karasuma exit of kyoto station-hojo
+it takes 1 hour 34 minutes to 1 hours 35 minutes.
+the fare is 1,750 yen for one-way.
+student discount:one-way 1,400 yen
+karasuma exit of kyoto station-takinoyashiro interchange
+it takes 1 hour 23 minutes.
+the fare is 1,550 yen for one-way.
+student discount:one-way 1,240 yen
+facilities onboard
+four-row seat
+foot rest
+leg rest
+video and multi stereo
+restroom
+damp washcloth
+blankets
+reading light
+slippers
+parallel route
+chugoku highway bus(west japan jr bus company and shinki bus)
+limited express line and express line operate in parallel with the main line between takinoyashiro interchange and the hojo bus stop.
+however,the bus stops are different.

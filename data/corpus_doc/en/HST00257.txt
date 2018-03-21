@@ -1,0 +1,82 @@
+suiko
+suiko(government loans made to peasants)was a term that indicated the loans carrying interest observed in ancient and medieval japan.
+origin
+in the agrarian society worldwide,it is thought that a system,in which seeds were loaned to peasants in the planting season to make them pay back the loaned seeds and the born interest in the harvesting season,was launched in the early days.
+(an opinion suggests this was the origin of interest.)
+while a system of loaning is believed to have existed in china since long ago,a similar system may have existed in japan as well since ancient times,it is speculated.
+the word 'irashi no ine' (literally,loaning rice plant)appears in the article of april 12,646 in "nihonshoki" (chronicles of japan).
+this is believed to be the predecessor of suiko,regarded as a corroboration of the opinion that a system charging and paying interest had already existed by the middle of the seventh century at the latest.
+(there is also a skeptic opinion about the description in nihonshoki.)
+suiko under the ritsuryo codes
+the word 'suiko' first appeared in the ritsuryo codes enforced in the eighth century(yoro-ritsuryo-zoryo[a chapter in the code promulgated in the yoro period dealing with miscellaneous materials]).
+the system of loaning is widely believed to have already existed in japan before the enforcement of the yoro-ritsuryo-zoryo.
+however,stipulating the suiko in the ritsuryo codes is considered that the system of loaning was institutionalized by the government.
+(there is also an opinion pointing out the influence of the tang dynasty on the institutionalization of suiko.)
+suiko was originally regarded as a system to promote and encourage agricultural production,namely a kind of encouraging of agriculture.
+suiko was divided into two groups under the ritsuryo system(a system of centralized government based on the ritsuryo codes):one was the official suiko(ku-suiko)and the other was the private suiko(shi-suiko).
+furthermore,the suiko dealing with property and that dealing with rice and millet were transacted in different ways.
+the following are the details of suiko.
+in the ritsuryo codes,it was regarded as a common principle that suiko should be managed in line with the private and free contract relationship,without being managed by the government office.
+in the suiko dealing with property,one eighth of the loan was charged as interest every 60 days(annual interest at about 75%).
+however,the creditor was not allowed to charge more interest than the capital sum,even if the term of loaning had passed 480 days.
+furthermore,it was forbidden to calculate the interest by using the compound-interest method.
+it was also provided that the guarantor would be under obligation to pay off the debtor's loan when he ran away.
+in the suiko dealing with rice and millet,with setting the due date one year later,the creditor was allowed to charge a maximum of 100%annual interest in shi-suiko,and 50%annual interest at the maximum for ku-suiko.
+like the suiko dealing with property,calculation by using the compound-interest method was forbidden.
+it is characteristic of the suiko dealing with property as well as that dealing with rice and millet in that it charges interest at an extremely high rate.
+regarding the suiko dealing with rice and millet,a high interest rate might be reasonable,because the ratio of yield to the seeding stood very high.
+on the other hand,the interest rate in the suiko dealing with property was also fixed at a considerably high-level.
+opinions are divided on the reason.
+it seems that the suiko dealing with property was implemented frequently in the urban areas(heijo-kyo[the ancient capital of japan in current nara]and heian-kyo[ancient capital in current kyoto]).
+"nihon genho zenaku ryoiki" (set of three books of buddhist stories)written in the heian period vividly depicts the condition of the people living in the urban areas who became money-mad due to suiko or were suffering from repayment.
+moreover,a lot of loan bonds have been left in shoso-in monjo(shoso-in temple archives),which are the valuable historical materials of the suiko dealing with property in the nara period.
+suiko and tax system
+in general,the suiko dealing with rice and millet was frequently implemented in the agricultural community.
+originally,the suiko using rice and millet was aimed at saving peasants and encouraging agriculture.
+however,since charging high annual interest rates at 50%was admitted even in ku-suiko,local administrative organizations such as the kokufu(provincial office)and gunke(public office)started to forcibly loan seed rice to peasants in spring,although such seed rice should have been stored in the provincial offices' warehouse as shozei,the rice tax(belonging to so-yo-cho system[a tax system,corvee]).
+then,they made peasants pay back the loaned seeds with interest at 50%in autumn.
+the rice plant paid as interest was called "rito" (interest of rice plant).
+in the ritsuryo codes,shozei was regarded as the main financial resources for local administrative organizations(kokufu and gunke)among various land taxes.
+however,collecting shozei needed excessively complicated clerical work such as forming the family register and allotting farmland to peasants(handen).
+on the other hand,ku-suiko enabled local administrative organizations to secure a large sum of income without troublesome clerical work;therefore,many of those organizations implemented forcible ku-suiko,exploiting peasants for acquiring financial resources.
+thus,ku-suiko came to be recognized as a part of the land tax.
+knowing that peasants gradually became impoverished due to ku-suiko,the ancient japanese government of centralized governance decided in april 720 to reduce the annual interest rate of ku-suiko from 50%to 30%,and to forgive all debts born before 718,notifying various districts.
+however,the annual interest rate of ku-suiko was soon raised to 50%again.
+in addition,regarded as financial resources for provincial governors' salary,kugaito(local source of revenue)was separated from shozei in 745 and used as the fund for managing suiko,which created a direct relationship between the income through suiko and the provincial governors' salary.
+as a result,ku-suiko came to be implemented more extensively than before.
+afterwards,aiming at restructuring the nation under the ritsuryo codes,the emperor kanmu carried out a large scale of administrative reform from the late nara period to the early heian period.
+as a part of the reform,the annual interest rate of ku-suiko was reduced to 30%again.
+suiko in the early heian period
+ku-suiko became the main financial resources for local government along with shozei in the heian period.
+therefore,in the konin-jogan eras in the early heian period(the ninth century),the taxes policy of the government was converted from taxation on people,which was the initial policy mapped out under the ritsuryo codes,to the taxation on lands.
+for example,there were cases that the payment duty of ku-suiko was imposed on lands.
+it was provided that shozei should be stored in the warehouse(shoso)of local administrative organizations,and that they should manage the stored rice through ku-suiko.
+with the role of ku-suiko increasing,however,various troubles occurred in the management of suiko controlled by local administrative organizations,which caused difficulties in securing rito.
+in addition to the ku-suiko managed by local administrative organizations,rich people and influential farmers such as tato(cultivators)living in local areas implemented shi-suiko for petty farmers in those days.
+in the ninth century,many provinces had examined the land tax collecting system by combining the ku-suiko with the shi-suiko.
+under this system,local administrative organizations designated a small number of influential farmers as debtors,instead of small-scaled and extensive peasants with a tendency of stagnant interest payment,allowing those designated debtors to use the "honto" (rice plant as capital),which they had received through ku-suiko,for the financial resources of shi-suiko.
+borrowing the honto through ku-suiko at 30%interest a year,they lent it at 50%,which brought them in 20%a year.
+in addition,in the latter half of the ninth century,local administrative organizations attempted to secure income through suiko by allowing rich people and influential farmers in local areas to undertake the management of ku-suiko after admitting the private warehouse possessed by those people to be shoso(riso).
+this was called the riso-fumyo system(a percentage/unit of the yearly land tax yield taken in by the manager of an estate).
+in the riso-fumyo system,undertakers including rich people and influential farmers in local areas,who had come to be called fumyo(a local tax manager),were appointed to the officials for collecting taxes.
+if fumyo paid 30%of the total interest of 50%obtained through shi-suiko to local administrative organizations as interest for ku-suiko,they were allowed to keep the remaining 20%for themselves as a management fee for the shoso and the cost for undertaking the operation,etc.
+under this situation,shi-suiko,which had been inseparably linked to ku-suiko,were implemented half-forcibly.
+in shi-suiko,debtors gave the residential lands,cultivated lands,slaves and others as collateral,but many failed to repay the debts due to the high interest rate.
+therefore,the collateral passed to the lenders,with the result that the concentration and accumulation of wealth advanced.
+thus,the regional rule by the rich stratum gradually extended in around the mid heian period,which led to their prosperity in medieval japan.
+suiko in medieval japan
+after the riso-fumyo system was switched to the fumyo system(local tax manager system),the tax was comprehensively imposed on lands as kanmotsu(tribute paid as taxes),instead of shozei and ku-suiko,both of which were regarded as the official land taxes.
+the koden kanmotsu rippo(the law fixing the tax rate of kanmotsu)fixed the tax rate of the kanmotsu at 'danbetsu santo' (54 lit.of rice per 10a)in the mid 11th century,by which kanmotsu increasingly assumed the characteristics of land tax.
+following the development of the shoen koryo sei(system of public lands and private estates),a part of the tribute paid to the lord of shoen(manor in medieval japan),which was equivalent to the kanmotsu for kokuga-ryo(territories governed by provincial government office),was called nengu(land tax).
+meanwhile,resident landholders,rich people,influential farmers and others had gained power as the new ruling class.
+the shi-suiko managed by them had been maintained as private land tax.
+with the development of a monetary economy since around the kamakura period,suiko came to be implemented by using money,instead of the conventional suiko implemented by using rice.
+this is called risen-suiko(literally,suiko using money).
+in the medieval japan as well,suiko had characteristics not only of loaning but also of land tax.
+these characteristics namely suggested the fact that only the ruling class could implement suiko,as well as the ruling class could implement suiko within the regions that they ruled.
+the development of the monetary economy produced not only the risen-suiko.
+the money-lending system was also produced,which engaged in pure commercial transaction.
+the money-lending system gradually became the leading system from around the late kamakura period,which led to the abolishment of risen-suiko in the muromachi period.
+however,the rito-suiko(suiko managed by using rice plant)remained even in the late medieval period.
+it is known that there is an article on suiko in the historical materials compiled in the sengoku period(period of warring states)(japan).
+however,after the several matters relating to land ownership were drastically controlled through taiko-kenchi(the land surveys conducted by hideyoshi toyotomi)and other systems in the azuchi-momoyama period,suiko is believed to have been abolished by the beginning of the early-modern times.

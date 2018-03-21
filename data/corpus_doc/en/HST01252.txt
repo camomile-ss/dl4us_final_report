@@ -1,0 +1,54 @@
+minbu-sho
+minbu-sho(ministry of popular affairs)was a government-regulated organization under the ritsuryo system(a system of centralized government based on the ritsuryo codes).
+minbu-sho was also one of the ministries in the meiji period.
+(in the ritsuryo system)
+minbu-sho was one of eight central ministries under the ritsuryo system.
+with administration of finance and taxes,minbu-sho managed affairs related to families,the fields,mountains and rivers,roads,and land taxes nationwide.
+although okura-sho(ministry of finance)under the okura-sho ritsuryo sei(the political system based on the codes of the ministry of finance)also worked as an organization engaged in finance,minbu-sho was considered a more important ministry than okura-sho because the former handled land taxes and family registers related to the land taxes.
+by the way,jibu-sho(ministry of civil administration)handled family registers related to family names and other items.
+however,following the imperial decree issued on august 30,863(source; "ruiju fusensho" (a collection of official documents dating from the years 737 to 1093),vol.6),daijokan(the great council of state)was allowed to approve all applications made by each country to the central government,except application for exemption from kanmotsu(tribute goods paid as taxes or tithes).
+furthermore,daijokan was commissioned to notify each country of the taxation by daijokan-pu(official documents from daijokan to local governments)directly(however,approval of the application for exemption from kanmotsu remained as it was,issued with minbusho-fu(official documents from minbu-sho to local governments)).
+as these rules were succeeded after the repeal of "jogan-shiki code" (code issued in the jogan era),daijokan was entrusted to make many decisions on the duties related to minbu-sho thereafter.
+as a result,minbu-sho only engaged in the paperwork concerning the provinces.
+especially,in managing the fields,minbu-sho played a key role in dealing with various affairs related to the title to an estate,which was a by-product of the development of shoen(manor)since the mid heian period.
+shoen approved by the daijokan-issued daijokan-pu and minbusho-issued minbusho-fu was called "the tax-exempt shoen estate."
+personnel
+minbu-kyo,the secretary of minbu-sho,corresponded to shoshiinoge(senior fourth rank,lower grade).
+however,as mentioned above,the minbu-kyo was a responsible post for dealing with various affairs related to the title to an estate and land taxes,and therefore the kugyo(the top court officials)with a rank equivalent to or higher than the chunagon(vice-councilor of state)frequently held the post concurrently.
+in addition,personnel served as either taijo(senior secretary)or shojo(junior secretary),both of which managed the practical business of minbu-sho and corresponded to the hangan(inspector(third highest of the four administrative ranks of the ritsuryo period)),were often raised to jugoinoge(junior fifth rank,lower grade)in light of the length of service and called minbu-no-taifu.
+the quota of the posts equivalent to or lower than taifu(senior assistant minister)was as follows(refer to "shitokan(four classifications of bureaucrats' ranks)system in japan" in the section of "shitokan" for details).
+one for taifu(corresponding to shogoinoge(senior fifth rank,lower grade))
+one for shofu(junior assistant minister corresponding to jugoinoge)
+two for taijo(corresponding to shorokuinoge(senior sixth rank,lower grade))
+two for shojo(corresponding to jurokuinojo(junior sixth rank,upper grade))
+two for daisakan(senior alternate adjudicator,corresponding to shoshichiinojo(senior seventh rank,upper grade))
+two for shosakan(junior alternate adjudicator,corresponding to shohachiinojo(senior eighth rank,upper grade))
+note:the supernumerary post called gonkan was later attached to taifu and shofu.
+shisho(officials doing miscellaneous duties regarding documents)
+shosei(officials managing clerical works in kageyushicho(an organization auditing local governments in the ritsuryo period))
+shojo(low-ranked officials to convey petitions)
+shibe(low-ranked bureaucrats)
+jikicho(factotum)
+government officials working under high-ranked personnel in minbu-sho
+kazue-ryo(officials to audit the soyocho-cho(cho of soyocho tax system:textile goods or alternative money))
+chikara-ryo(officials to supervise land taxes,income and outgo,etc.)
+*rinin-a facility belonging to minbu-sho
+a part of soyocho-yo(yo of soyocho tax system;labor or alternative goods)and nenryo-shomai(tax paid in milled rice)were stored in the rinin and distributed on the occasion of various events,etc.
+both betto(chief officer)entrusted to the sadaishi(first secretary of the left)of the daijokan,and koto(secretary)entrusted to both kenmotsu of nakatsukasa-sho(the ministry of central affairs)and kazue-ryo managed this facility.
+minbu-sho(in the meiji period)
+minbu-sho was one of the ministries established in the daijokan on august 15,1869,administering the domestic and administrative affairs.
+however,minbu-sho was merged into okura-sho one month later,on september 16,1869.
+this merger resulted from the strong pressure exerted by shigenobu okuma(minbu-no-taifu)and hirobumi ito(okura-no-shofu)aiming to establish the centralized administrative framework by integrating a tax collection system(minbu-sho)and a financial system(okura-sho).
+they were supported by sanetomi sanjo and takayoshi kido.
+however,both ministries officially remained.
+these two ministries were also called 'okura-minbu-sho' by putting together,because leading members from the kyo down to the shojo concurrently served as managers of both ministries(for example,shigenobu okuma assumed the post of taifu of both okura-sho and minbu-sho,while hirobumi ito assumed the post of shofu of both okura-sho and minbu-sho).
+on the other hand,four members of sangi(councilor),toshimichi okubo,saneomi hirosawa,taneomi soejima and takayuki sasaki,who were supported by local officials,requested that the two ministries be divided again.
+as a result,under the leadership of toshimichi okubo,it was decided on august 6,1870 that both ministries would be divided again.
+however,the purge of the government officials who were former retainers of shogun,which was supported by toshimichi okubo,was not accepted.
+moreover,the management of the land tax was entirely entrusted to okura-sho.
+as a result,the side of toshimichi okubo and that of shigenobu okuma and hirobumi ito remained at odds.
+afterward,a compromise was reached between the two sides.
+kobu-sho(ministry of industry)advancing the encouragement of new industry separated from minbu-sho on november 13,1870
+then,minbu-sho was abolished after being merged anew into okura-sho on september 11,1871.
+however,backlash within the administration against the birth of 'mega-government office,okura-sho' was not settled.
+domestic and administrative sections other than the section engaged in collecting taxes were divided again on november 29,1873,with the result that the ministry of home affairs(prewar japan)was newly established.

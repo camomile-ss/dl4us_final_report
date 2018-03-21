@@ -1,0 +1,52 @@
+okesa-go
+okesa-go is an unofficial name given to an express bus service that connects kita ward,osaka city in osaka prefecture(osaka city)and chuo ward,niigata city in niigata prefecture(niigata city),running through shimogyo ward,kyoto city in kyoto prefecture.
+summary
+this service provides a overnight round-trip once a day.
+extra busses could run during weekends and busy seasons.
+between 28 july,2005 and 28 october,2007,this route also offered a daytime round-trip once a day.
+but,it was discontinued.
+operating companies
+hankyu bus co.,ltd.(toyonaka transportation office,hankyu bus co.,ltd.)
+niigata kotsu co.,ltd.(east nigata transportation office)
+bus stations and stops
+the busses departing from umeda stop at shin-osaka/senri new town/senri chuo/meishin ibaragi/maishin takatsuki/maishin oyamazaki/karasuma exit of kyoto station/kyoto shin-hankyu hotel/kyoto fukakusa for boarding only;those departing from niigata for alighting only.
+the busses departing from niigata stop at sanjotsubame/makikata higashi/toppara/niigata prefectural office/city office/furumachi/bandai exit of niigata station/bandai city bus center for boarding only;those departing from umeda for alighting only.
+the busses departing from umeda stop for alighting at bandai city bus center
+the rest areas where buses take rest stops at are kusatsu parking area and saiae parking area.
+route
+national route 423-(suita interchange)-meishin expressway-(kyoto minami interchange)-national route 1-(kyoto minami interchange)-(maibara junction)-hokuriku expressway-(niigatanishi interchange)-national route 116 nigata bypass,national route 8 nigata bypass-(meike interchange)
+hankyu bus and niigata kotsu busses stop at different places for crew changes,during which passengers are not allowed to get off.
+after departing from the kusatsu rest area,busses operated by hankyu bus stop for crew changes and car maintenance at the nanjo rest area,the oyabegawa rest area,and then the rendaiji parking area.
+on the other hand,after departing from the kusatsu rest area,niigata kotsu busses make two stops at the nanjo rest area and the arisomi service area.
+niigata kotsu busses make stops for a crew change and rest one time fewer.
+this enables niigata kotsu busses to arrive at and depart from the sakae parking area 15 minutes earlier in the morning than hankyu bus vehicles.
+this arrangement is made to mitigate congestion at niigata-ekimae and the bandai city bus center,the terminus.
+route busses arrive at these bus stops at short intervals,which makes it difficult for multiple busses to stop these places at the same time.
+express busses traveling from other prefectures also stop for alighting at the bus gates from 11 to 13(on a bus parking lane on the toko route)at the city bus center,the terminus.
+in addition,other route busses(the tsukefunecho line)also stop there.
+this situation necessitates the adjustment of the bus schedules.
+since other route busses(the ono-shirane line and the distribution center line)also used to start at the gates from 11 to 13,these were especially crowded with incoming and outgoing busses.
+however,these routes were changed on november 1,2007,as part of the omnibus town project,a scheme aiming to achieve comfortable transportation and living by taking full advantage of bus services.
+this makes the tsukefunecho line the only route using these stops.
+additional notes on daytime services
+the following describes the daytime bus service which is now discontinued.
+the busses took rest stops at the kusatsu rest area,the nanjo rest area,the kureha parking area,and the yoneyama rest area.
+the busses departing from osaka took a 25-minute lunch break at the nanjo rest area;those departing from niigata at the kureha parking area.
+they did not stop at senri chuo,meishin ibaragi,or kyoto station.
+history
+september 29,1988
+the service started to travel between the hankyu sanbangai bus terminal in umeda station,kyoto station,and niigata station(one overnight round-trip a day).
+july 24,1989
+the service was extended to the bandai city bus center.
+december 21,2001
+okesa-go started to stop at meishin ibaraki,meishin takatsuki,meishin oyamazaki,kyoto fukakusa,sanjotsubame,makikata higashi,toppara,niigata prefectural office.
+july 28,2005
+a daytime service started to provide two round-trips a day,one each during the day and night.
+october 28,2007
+the daytime service was discontinued.
+okesa-go again took on only a night bus service.
+train services in competition with okesa-go
+overnight express train service "kitaguni"
+special notes
+april 2008 marked the opening of the route that connects nagaoka city and sakai city through kashiwazaki city,kyoto city,and osaka city.
+this route is called the sakai-nanba-kyoto to kashiwazaki-nagaoka route.

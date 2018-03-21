@@ -1,0 +1,91 @@
+setsuyoshu
+setsuyoshu is a series of yojishu(a collection of useful characters)or japanese-language dictionary published from the muromachi period to the early showa period.
+it is also called 'setchoshu.'
+it is in the form of a large collection of kanji compounds each of which is accompanied by phonetic transcription in kana(the japanese syllabaries).
+summary
+it was during the middle of the muromachi period when setsuyoshu appeared as a yojishu or a japanese-language dictionary.
+the contents were simply the list of kanji compounds accompanied by their phonetic transcriptions in kana beside them.
+any descriptions of the meaning of the words were not contained.
+occasionally,however,brief annotations were appended.
+it can be regarded as a dictionary used for expressing household words in the written form of kanji.
+such household words in the setsuyoshu were basically arranged in 'iroha order' (traditional japanese alphabetical order).
+this form,however,was not a simple arrangement of words in 'iroha order.'
+instead, 'the iroha order' was applied only to the first syllables of words.
+under thus created iroha divisions(bu),such as 'i,' 'ro' and so on,there were semantic subdivisions(mon),such as tenchi(the world),jisetsu(seasons),kusaki(vegetation)and so on.
+in the late modern age,there appeared a new form in which the words were divided by category and subdivided by number of kana characters,which became mainstream.
+a great variety of forms emerged during the edo period.
+there were two trends in the forms:one was a dictionary-oriented form and the other was an educational book-like appendix-oriented form.
+it was especially owing to the setsuyoshu during the late edo period which contained more abundant illustrations and appendixes that the word 'setsuyoshu' became a common noun.
+the word was used as a synonym for dictionaries arranged in iroha order during the edo period,and then changed to mean educational books during the meiji period.
+on the other hand,a common noun referring to the nature of dictionary was replaced by another word, 'jibiki.'
+in modern times,the setsuyoshu has been utilized in the field of japanese philology(linguistics)for the purpose of acquiring the knowledge about uses of kanji,such as writing,reading,forms and usage of kanji.
+it also gives information about the difference in reading and meaning between the entries and modern words.
+the appendixes also help us to speculate on the way of life in those days.
+it used to be believed that the origin of the word, 'setsuyo' had been a phrase, 'yo wo setsushi hito wo aisu' (meaning economy in the use of resources and affection for the people)in xueer of "lun-yu"(analects of confucius).
+however,there is also another theory that the word was derived from 'setsuyo' (meaning everyday and everywhere use),which defined in "shiki" (also known as shiji,the chinese historical records).
+history
+kohon setsuyoshu
+in the 15th century,a book in the form of 'jibiki' developed in japan.
+for example, "kagaku-shu" (published around 1444)was a glossary in which the words were classified according to their meanings.
+chinese verse dictionary, "ruibun in'ryaku" was a kanji character dictionary(chinese dictionary arranged by finals)in which the words were classified based on their rhymes of japanese pronunciation of kanji.
+the method of collating words according to their first syllable with semantic subdivisions had been established as early as at the end of the heian period(during the period of government by the retired emperor)as represented by "irohajiru sho" (one of japanese dictionaries in the heian period)and its supposedly enlarged edition, "irohajirui-sho" (a dictionary written by tadakane tachibana in heian period).
+"setsuyoshu" was established in line with these trends.
+despite the original author being unknown,it had been established through subsequent corrections to the original.
+probably because the combination of the classifications in iroha order and by categories had been useful,the setsuyoshu began to circulate widely in contrast to other dictionaries,such as "onkochishinsho" (in which the words were classified in japanese alphabetical order or aiueo order and subclassified by categories)published in 1484 or "kagaku-shu" (a japanese dictionary made in the muromachi period).
+the setsuyoshu published during the muromachi period through the early edo period was called 'kohon setsuyoshu.'
+the printed editions included bunmeibon(edition in bunmei era,compiled in 1474),kuromotobon(literally,edition of black book),tensho 18 nen bon(edition in 1590),manjuyabon(literally,manju[bun stuffed with azuki-bean paste]shop edition)and ekirinbon(edition compiled by ekirin).
+the oldest of these was the bunmeibon,which fact indicates that setsuyoshu had been formed during the term from 1444,which was the estimated year of establishment of "kagaku-shu," to 1474,which was the year of establishment of the bunmeibon.
+according to the configuration,these could also be broadly divided into three types, 'isebon,' 'indobon,' and 'inuibon.'
+in the setsuyoshu,the words were classified in iroha order and sub-classified according to their meanings.
+the first category in the subclassification was 'tenchi' (the world)and old provincial names were included.
+as a result,the first entry in the early setsuyoshu was 'ise' (ise province).
+this type of setsuyoshu,in which the first entry is 'ise,' is called 'isebon.'
+at a later time,the names of provinces,such as ise,moved to the back of the book,and the first entry was replaced by 'indo' (india).
+this type of setsuyoshu is called 'indobon.'
+although 'iroha order' contains 47 characters as recited in 'the iroha' (a japanese poem,probably written sometime during the heian era),the iroha order in 'isebon' and 'indobon' consisted of 44 characters excluding 'ゐ' (wi), 'ゑ' (we)and 'お' (o).
+this was because the pronunciation of japanese syllables changed from the late heian period to the kamakura period.
+this change made the pronunciations of 'ゐ' (wi), 'ゑ' (we)and 'を' (wo)the same as those of 'い' (i), 'え' (e)and 'お' (o)respectively.
+as the keicho era began,there appeared new setsuyoshu based on 47 characters of the iroha syllabary including 'ゐ' (wi), 'ゑ' (we)and 'を' (wo)instead of the former 44 iroha characters,following teika kanazukai(the distinction of using kana in the same pronunciation)presented in the section of 'imi moji no koto' (嫌文字事,awful things regarding characters)in "gekanshu" written by fujiwara no teika(also known as fujiwara no sadaie).
+it is considered that the distinction in phoneme,such as between 'い' and 'ゐ,' had been lost at that time.
+in addition,there was little idea that same pronounced words could be differentiated by letter variations,except in the field of waka(a traditional japanese poem of 31 syllables and renga(linked verse).
+however,due to the aforementioned change of classification,the word 'indo' was moved to the section of 'ゐ,' losing its position as the first entry in the section of 'い' to another word, 'inui.'
+this type of setsuyoshu is called 'inuibon.'
+among the series of the early inuibon,there was edition called 'ekirinbon,' the name was derived from the word, 'ekirinshi' (records of ekirin)appearing in the postface of the book.
+it was also a widely distributed printed book during the edo period.
+in general,each entry was written in kanji in the form of a chinese character in kaisho(the standard style of writing chinese characters).
+it was accompanied by furigana(kana syllables written beside chinese characters to aid in reading)in the form of katakana(the square form of kana or the japanese syllabaries).
+in the era of the inuibon,however,as a derivative,there appeared new type of setsuyoshu,in which each entry was written in chinese character in cursive style and the furigana was in the form of hiragana(the cursive form of kana or the japanese syllabaries).
+after the edo period
+in the edo period,the printed setsuyoshu had been used continuously until the 'inuibon' and its lineages waned due to the undue increase of supplements and the change of the style.
+its calligraphic style also underwent changes.
+instead of kaisho,which had been the main calligraphic style of the setsuyoshu in the muromachi period,a writing style called 'shinsonigyo' (also referred as shinsonitai),in which kaisho and gyosho(a cursive style of writing chinese characters)or sosho(a very cursive style of writing chinese characters,more abbreviated and flowing than gyosho)were written in two rows side by side,came to be widely used.
+this type of setsuyoshu is called 'nigyo setsuyoshu' (in shinsonigyo style)or 'nitai setsuyoshu' (in shinsonitai style).
+considering the fact that gyosho and sosho were used daily and kaisho was used in formal occasions where one had to express respect,the above change was made in response to the users' demands.
+there were other forms of setsuyoshu,such as containing gyosho and/or sosho only or containing all of the three styles,kaisho,gyosho,and sosho,but these forms did not become popular.
+besides,the setsuyoshu became encyclopedic as the volume of appendixes and contents increased.
+especially in 1670, 'tosho' (superscription)first appeared in "kashiragaki-zoho-setsuyoshu" (setsuyoshu with published in edo period)and became the typical style of the setsuyoshu during the edo period.
+although the appendixes had been attached at the end of text in the muromachi period,this style had them on the separate columns at the top of each page as well.
+when the tosho first appeared,it mainly contained notes or explanations,then,it changed its role significantly from the column for explanations or notes for entry words below to the column for supplementary information.
+it contained a great variety of information about time line,map of japan,bukan(a book of heraldry),sado(japanese tea ceremony),kado(flower arrangement),manners,fortune-telling,recipes,and so on,which had no relation to the entry words listed below.
+later,it became inserted not only to end of a book or top of a page but also to opening page of a book.
+after the genroku era(1688 to 1703),the contents became more abundant with more copious illustrations.
+as a result,its style came closer to that of an encyclopedia for family use.
+the method used to search also showed gradual changes.
+first, "gorui setsuyoshu" (one of japanese-language dictionaries in traditional ordering of japanese syllabary based on a buddhist poem)was published in 1680.
+it offered a different method to search for words from the previous series of setsuyoshu.
+the method was called 'goruigata,' in which the words were classified by category and subclassified in iroha order in each of those categories.
+however,this did not become a mainstream search method.
+then, "hayabiki setsuyoshu" (quick search setsuyoshu)subsequently appeared in the horeki era(1751 to 1763).
+as the word, 'hayabiki' (quick search)in the name suggests,it aimed to make looking-up words quicker by completely eliminating the classification by category and adopting search by the number of kana instead.
+it was also a small-sized book that contained few appendixes with enhanced practicability.
+its derivatives in different forms,such as one with copious appendixes,were later published.
+that was the heyday of quick search setsuyoshu and a variety of quick search methods were invented.
+for example,there were "hayaji niju kagami" (in which the words were classified and subclassified in iroha order similar to modern dictionaries), "kyuyomaniai sokuzabiki"(in which the words were classified in iroha order and subclassified by kana at the end of each word)and "taisei seijitsu" (in which the words were classified in three steps:in iroha order,by category and by presence or absence of the japanese syllabary for voiced consonants).
+not only the appendixes but also the entries continued to increase,but in particular, "hayabiki setsuyoshu," which spawned many derivatives with different varieties of classification methods or attachment of appendixes,became most popular and began to drive out others.
+nevertheless,almost none of them offered a search method based solely on iroha order,a method that was similar to the modern dictionaries.
+instead,the classification by category based on meaning of words was still dominant among them.
+there were also two trends:one had abundant contents and appendixes like an encyclopedia and the other was purely made for looking-up purposes.
+as the meiji period began,under the influence of western culture,there appeared a modern style dictionary of japanese-language in which the words were arranged in the order of the japanese syllabary.
+even after this advent of the japanese-language dictionary,the setsuyoshu had survived for a while as convenient dictionaries for daily use.
+however,as the modern japanese-language dictionaries became miniaturized,the number of copies of the setsuyoshu dwindled.
+it was in the early showa period that the last edition was published,and the history of 'setsuyoshu' came to an end.

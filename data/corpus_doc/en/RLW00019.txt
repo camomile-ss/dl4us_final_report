@@ -1,0 +1,361 @@
+hankyu kyoto main line
+the kyoto main line is a railway of hankyu railway that connects juso station in yodogawa ward,osaka city,osaka prefecture,with kawaramachi station(kyoto prefecture)in shimogyo ward,kyoto city,kyoto prefecture.
+the popular name,kyoto lines,refers to the kyoto main line itself as well as the feeder lines.
+the line connects osaka and kyoto through a linear course along the right bank of the yodo-gawa river.
+the section between kanmaki station and oyamazaki runs in parallel with the tokaido shinkansen.
+the section between saiin station and kawaramachi station goes underground,and within this section the segment between saiin station and omiya station is the first underground line ever constructed in the kansai district.
+this line features the lowest fare and the direct transition between the shijo-kawaramachi area and the umeda area,both of which are very busy quarters.
+railway data
+railway distance(operation kilometers):between juso station and kawaramachi station,45.3 km
+track gauge:1435 mm
+number of stations:25(including the stations at both ends of the track section),one signal station
+double-tracked section:the entire line
+electrified section:the entire line(dc1500v)
+block(railway)system:automatic block system
+maximum speed:110 km/h
+rolling stock bases:hankyu railway shojaku factory,katsura depot
+types of operations
+the official starting point of the kyoto main line is juso station,but the trains running on the kyoto lines arrive at and depart from umeda station,and between umeda station and juso station the trains run on the two east-side tracks of the quadruple-tracked section belonging to the hankyu takarazuka main line.
+the trains running on the kyoto lines go nonstop at nakatsu station(hankyu),which has no platform.
+in the section between awaji station and takatsukishi station there is a train service that goes directly toward tengachaya station on the osaka municipal subway sakaisuji line,passing through the hankyu senri line.
+in the mornings on weekdays,sakaisuji-junkyu(semi-express)is operated from kawaramachi station,and in the evening it's operated up to ibarakishi station.
+between umeda station and awaji station there are also many through-trains that go directly toward kita-senri station via the senri line.
+basically,in the daytime the train operates at an interval of less than 10 minutes,while during rush hours the operation interval is capped at 20 minutes.
+the problem is that for the passengers who aren't accustomed to the line it's difficult to understand the operation system because the type of trains or stations at which to stop varies according to the hours,and the operation routes are complicated.
+because the line is operated with the senri line in an integrated manner,the operation of the senri line is also described below.
+the details of the types of trains are as follows:
+for the actual stops,please see the section on the list of stations.
+like the keihan main line,this line also denominates the train going toward osaka as the outbound train and the train toward kyoto as the inbound train.
+this is the arrangement made in accordance with the setup of the tokaido main line,in which the direction toward tokyo is designated as the inbound direction.
+however,in the case of the jinpo line the train going toward umeda station is called the inbound train.
+the timetable was revised on march 17,2007 for the first time in six years,and the following changes were made:the limited express began making stops at awaji station,the rapid limited express(integrated with commuter limited express)and express were discontinued(degraded to semi-express),and the semi-express began the service during the daytime.
+commuter limited express
+this type was operated during the morning rush hours and in the evenings or later on weekdays,and until march 2007,when the timetable was revised,this was the train that made the fewest stops among all types.
+until march 1997 the train would stop at takatsukishi station in addition to the limited express stops(umeda,juso,takatsukishi,omiya,karasuma and kawaramachi),and it was operated during the morning and evening rush hours on weekdays.
+because all limited express trains began making stops at takatsukishi station with the revision in march 1997,the operation of 'commuter limited express' was once discontinued,but following the revision in march 2001,in which the limited express stops underwent a significant change,this type was brought back with the same stops as before the discontinuation.
+with the timetable revision in march 2007,nagaoka-tenjin station,katsura station and saiin station were added to the stops,and the number of stations at which to stop became more numerous than that of the rapid limited express trains operated before the revision.
+because limited express goes nonstop at saiin station and omiya station,the stops of the commuter limited express became quite similar to those of the rapid express train.
+principally,all trains are operated with trains of the hankyu(electric)railway series 6300.
+therefore,this type of train is normally equipped with women-only cars.
+all trains are operated between umeda station and kawaramachi station,so there is no train whose operation is limited to a certain section.
+limited express
+this is the representative type of train running on the kyoto line;basically,it's operated during the daytime and in the evenings on weekdays,while on saturdays and holidays it runs nearly all day except for in the early morning and late evening.
+it doesn't stop at saiin station or omiya station,which are stops of commuter limited express.
+all trains are operated between umeda station and kawaramachi station,so there is no train that operates only in a limited section.
+during the daytime the inbound limited express train makes a connection with a local train(that arrived at and departs from takatsukishi station)at ibarakishi station,and with a semi-express train at takatsukishi station and katsura station;moreover,the outbound limited express train makes a connection with a semi-express train at katsura station and ibarakishi station.
+the operation is carried out with the three-door trains of hankyu(electric)railway series 9300,hankyu(electric)railway series 8300,hankyu(electric)railway series 7300,hankyu(electric)railway series 5300 and the two-door trains of series 6300.
+concerning the proportion of the limited express trains with three doors and those of series 6300 operated during the daytime,slightly more than half the trains are operated with three-door cars nowadays because of the increased limited express stops,and on weekdays several trains are consecutively operated with three-door cars during certain hours.
+on saturdays and holidays,two-door cars and three-door cars are alternately operated in principle,but during the nighttime the operation is exclusively undertaken with three-door cars.
+also,on weekdays women-only cars are designated only in the trains of series 6300.
+when series 6300 was introduced,some of the fleets that operated as limited express trains were carrying orange-background rollsigns with white letters that read "limited express."
+after the war,the operation was restarted in 1950,and until the revision of march 2001 this type of train was operated nonstop between osaka city and kyoto city.
+at that time the train would stop at umeda station,juso station,takatsukishi station(from march 1997),omiya station,karasuma station and kawaramachi station.
+the higher-category trains that operated between kyoto and osaka at that time consisted of two types--limited express and express trains--and the actual limited express stops eventually corresponded to the express stops,except for two stations(saiin station and omiya station)in kyoto city,at which the actual limited express went nonstop.
+rapid express
+this type of train is operated during the morning and evening rush hours and at night.
+with the revision of march 1997,the train started its operation(stopping at umeda station,juso station,takatsukishi station,katsura station,omiya station,karasuma station and kawaramachi station)and after the revision in march 2001 the train again began operating with the same stops as the former express train that was operated before the revision.
+however,all the trains of this type reach the final station without being passed by any other train,and in this sense it can be said that they have enhanced their speed(by comparison with the former express trains).
+the up operation as well as the down operation of the first train starts earlier,and that of the last train is finalized later than the limited express trains.
+the train is basically eight cars long,and occasionally the series 9300 is used.
+during the morning rush hours,some trains are operated with 10 cars.
+most of the trains are operated over the entire section,but some are operated in limited sections such as those starting from nagaoka-tenjin station for umeda station(only weekdays),starting from ibaraki station for umeda station(only holidays)or for kawaramachi station(only weekdays),starting from awaji station for umeda station(only weekdays).
+the trains that start from ibarakishi station for kawaramachi are operated using the series 6300.
+semi-express
+it is operated nearly all day.
+it was introduced in the place of the express when the timetable was revised in march 2007.
+it is operated between umeda station and kawaramachi station but with some exceptions.
+during the morning on weekdays,trains between umeda station and ibarakishi station are operated,and among them one inbound train makes a connection at its final station,ibarakishi,with a rapid express train that starts from the same station,and on weekdays at night there is a train that operates from umeda station to takatsukishi station.
+in the mornings on saturdays and holidays,the train starting from nagaoka-tenjin station for umeda station is operated.
+the demand during the daytime is somewhat small,so the train is operated with seven or eight cars.
+formerly,the operation was undertaken in a different form than the present one(see below).
+sakaisuji-junkyu(semi-express)
+during the morning and evening rush hours on weekdays,this type of train is operated as a through-train to the osaka municipal subway sakaisuji line(between tengachaya and tenjinbashisuji-rokuchome)and the hankyu senri line(between tenjinbashisuji-rokuchome and awaji).
+it was set up when the revision was made in march 2007,taking the place of the sakaisuji-kyuko(express)and sakaisuji-kaisokukyuko(rapid express)that had been running until then.
+in the morning,seven trains are operated from kawaramachi station or from takatsukishi station to tengachaya station,and in the evening seven trains are operated from tengachaya station to ibarakishi station.
+the trains that operate to ibarakishi station make a connection with a rapid express train bound for kawaramachi station at awaji station(in addition to this sakaisuji-junkyu(semi-express),while some local trains starting from tengachaya station for awaji station and those for kita-senri station also make connections with a rapid express train,a local train or a limited express train bound for kawaramachi).
+the name 'sakaisuji-junkyu' is used for convenience,and on the rollsign the train is denominated as 'junkyu' (semi-express).
+the rolling stock used by hankyu railway consists of the trains of hankyu(electric)railway series except series 2300,6300 and 9300,and they're always operated with the composition of eight cars.
+because the trains belonging to the osaka municipal transportation bureau are basically operated only up to takatsukishi station,they aren't used for sakaisuji-junkyu.
+however,in the past there was a occasion on which one of them proceeded to kawaramachi station for a test drive,and on another occasion a different train went as far as katsura station as a special-event train.
+incidentally,when the series 5300 wasn't equipped with an electric rollsign the train of this series would carry a plate comprised of three illuminable spaces on both sides of the body,where a rollsign is currently placed,and when the train(sakaisuji-junkyu)was operated the words sakaisuji and express were illuminated on the two of the three spaces with an unlit space in between,such as '堺筋急行.'
+the remaining space was used when this series was employed as semi-express train,which had been operated until the timetable revision of march 2001,but when it was used as a limited express no description was illuminated.
+local trains
+this type of train stops at all stations and is operated all day.
+the principal operation routes are as follows:the route within the kyoto line,between umeda station and kawaramachi station(during the daytime up to takatsukishi station);the route running on the track of the senri line between umeda station and kita-senri station via awaji station;and the route that connects tengachaya station(through the sakaisuji line)with tenjinbashisuji-rokuchome station and then goes to takatsukishi station via awaji station.
+principally,at awaji station the local train makes a mutual connection with a train that arrives at and departs from umeda station as well as with a direct train proceeding from the sakaisuji line.
+in the case of the local train bound for kita-senri station,on the led sign(on the lower scroll)at umeda station the train is indicated as 'direct' instead of 'local' (because the description 'local' might cause confusion with the local trains bound for shojaku station,takatsukishi station,katsura station and kawaramachi station on the kyoto line).
+during certain hours there are trains that depart from and arrive at shojaku station(in this case the trains belonging to the osaka municipal transportation bureau are often used for through-operation to the sakaisuji line due to putting in and taking out the trains from the depot).
+most of the trains are eight cars long,but the direct trains between kyoto and osaka,among others,are operated with a composition of seven cars.
+the trains that arrive at and depart from tengachaya station are operated in eight-car units,using hankyu railway series models other than series 2300,6300 and 9300,or series 66 as used on the sakaisuji line.
+regarding the operation from takatsukishi station and to the east,until 2001,all trains were less than seven cars long(because minase station and kanmaki station couldn't accommodate trains having more than seven cars).
+types of trains used in the past
+in the past the following types of trains were operated.
+rapid limited express(march 2001-march 2007)
+it was operated in the saturday and holiday morning and in the evening and at night everyday.
+this type would stop at katsura station in addition to the commuter limited express stops as of march 2001 or before.
+it would stop at the same stations as the rapid express,which was in service between march 1997 and march 2001.
+the operation was suspended due to the timetable revision of march 2007(basically,it was integrated with the commuter limited express).
+rapid limited express trains were operated in principle using hankyu railway series 6300,and the fifth car to the direction of osaka was designated as a women-only car.
+express(-march 2007)
+it was operated during the daytime and the evening,and in the late evenings on weekdays(only one inbound train,which terminated at takatsukishi station)(following this inbound train,a local train was operated as the last train,starting from umeda station for takatsukishi station).
+during the daytime,in which there was no local train service between takatsukishi station and kawaramachi station,express provided the service in the place of local trains that stopped at every station,and the outbound train of this type made a connection with a limited express train at katsura station and ibarakishi station,and with the inbound train at takatsukishi station and katsura station,respectively.
+depending on the train,it was sometimes operated with a composition of seven cars.
+this is the type of train that had been operated since the post-war period,and on march 2007,when its operation was suspended,it was making stops at umeda station,juso station,awaji station,minami-ibaraki station,ibarakishi station,and the stations between takatsukishi station and kawaramachi station.
+its stops until march 2001 were:umeda,juso,awaji,ibarakishi,takatsukishi,nagaoka-tenjin(the train would stop only in the morning and in the evening on weekdays until the revision was made in march 1979),katsura,saiin,omiya,karasuma and kawaramachi stations;today the rapid express is operated with the same stops.
+sometimes special trains were operated:on the day when a soccer game of the j.league was held,to minami-ibaraki station and nishikyogoku station,and when a bicycle race was held at kyoto mukomachi bicycle racetrack,to higashi-muko station.
+the operation was suspended when the timetable was revised in march 2007,and instead the semi-express was introduced
+sakaisuji-kaisokukyuko(rapid express)(march 2001-march 2007)
+during the evening rush hours on weekdays,this rapid express was operated as a direct train that ran through on the osaka municipal subway sakaisuji and hankyu senri lines.
+there were only three one-way operations from tengachaya station to kawaramachi station.
+there were trains that would stop at ibarakishi station and wait for a rapid limited express train to pass.
+the timetable revised in march 2007 changed its operation setup,and this type of rapid express had disappeared because it was necessary to make a connection with a rapid express train heading for kawaramachi at awaji station;instead,the sakaisuji-junkyu(semi-express)was introduced.
+sakaisuji-kyuko(express)(march 2001-march 2007)
+it was operated during the morning rush hours on weekdays,serving as a direct train between the osaka municipal subway sakaisuji line and the hankyu senri line.
+the operation was one-way from kawaramachi station toward tengachaya station,and there were trains that started from takatsukishi station.
+until the revision of march 2001 there was a train for kawaramachi station,and on the inbound track as well as on the outbound track it stopped at the same stations as sakaisuji-kaisokukyuko(rapid express),which was introduced with this revision.
+eight-car trains of the series 5300 had been exclusively used until the series 3300,which was completely equipped with renewed air-conditioning and an electric destination indicator(according to the type),started full-scale operation for the express service.
+the names sakaisuji-kaisokukyuko and sakaisuji-kyuko were used for the sake of convenience,and on the rollsign the trains' denominations were indicated as 'kaisokukyuko' (rapid express)and 'kyuko' (express),respectively.
+the rolling stock consisted of the trains of the hankyu(electric)railway series except for the series 2300,6300 and 9300,using the composition of eight cars,but the trains belonging to the osaka municipal transportation bureau weren't used.
+when the series 5300 wasn't equipped with an electric rollsign,the train of this series was carrying a plate composed of three illuminable spaces on both side of the body,where a rollsign is currently placed,and when the train(sakaisuji-kyuko)was operated,the words "sakaisuji" and "express" were illuminated on the two of the three spaces,leaving a space unlit in between,such as '堺筋急行' (the remaining space in between was used for the semi-express,which had been operated until the timetable revision made in march 2001,but when this series was used as a limited express no description was illuminated).
+the former rapid(march 1997-march 2001)
+stops:umeda station,juso station,awaji station,ibarakishi station and the stations from takatsukishi station to kawaramachi station
+it was introduced in 1997 in order to reduce the required time from the stations from takatsukishi station and to the east toward umeda station.
+it was operated only in the daytime.
+at that time there was a semi-express that would stop at minamikata station(osaka prefecture)and sozenji station,in addition to the express stops from takatsukishi station and to the west,but this train made a difference because,although it started making a stop at each station in mid-course,it went nonstop at these two stations,and therefore it was necessary to create an intermediate type between the express and the semi-express.
+with the timetable revision made in march 2001,the operation was suspended(basically,its denomination was changed to express).
+the denomination of 'rapid' started being used again from fy 2007 for a type of special train in the tourist season(the details are described later).
+the former semi-express(november 1982-march 2001)
+stops:takatsukishi station,ibaraki station,and the stations between awaji station and umeda station
+on the weekday mornings the outbound trains start from ibarakishi station,and for saturday mornings the outbound trains have been operated from takatsukishi station since 1997.
+following the revision made in march 2007,the semi-express was reintegrated into the operation,taking the place of the express.
+special train
+currently,this type of train is mainly operated on the kyoto main line during the spring and autumn tourist seasons.
+the rapid 'ii koto express(good thing/good ancient capital express)' (november 2007-)
+following the timetable revision of spring 2007,the types of trains in regular service were restructured,and this type was introduced in autumn 2007 in the place of the 'special limited express,' which is mentioned below.
+although it is a special train,the denomination 'rapid' was revived for the first time in six-and-a-half years.
+the nickname 'ii koto express' was carried over from the former special limited express.
+it runs between umeda station and takatsukishi station based on the time schedule of the semi-express,while between takatsukishi station and kawaramachi station it runs according to a schedule designed for special trains(which designates the same stops as those of the commuter limited express).
+owing to the introduction of the rapid train,the number of semi-express trains operated between takatsukishi station and kawaramachi station(in this section they would stop at every station)had to be reduced,and therefore the local trains between umeda and takatsukishi extended their operations up to takatsukishi station and to the east.
+in the case of the ordinary semi-express,the inbound train waits for a limited express train to pass at takatsukishi station,but this rapid train waits for a limited express train to pass at nagaoka-tenjin station.
+the outbound train waits for a limited express train to pass at ibarakishi station,just like the semi-express trains.
+as opposed to the former 'ii koto express,' this type didn't make a crew change at takatsukishi station.
+in fy 2007,it was operated on the three consecutive holidays starting from november 23,but whether it will be operated next spring like the former 'ii koto express' hasn't yet been determined.
+stops
+umeda station,juso station,minamikata station,awaji station,kami-shinjo station,minami-ibaraki station,ibarakishi station,takatsukishi station,nagaoka-tenjin station,katsura station,saiin station,omiya station,karasuma station and kawaramachi station
+the special limited express 'ii koto express'
+as the predecessor of the special rapid mentioned above,this type was formerly operated in the tourist seasons on the kyoto main line.
+it was operated on the express time schedule between umeda station and takatsukishi station,while between takatsukishi station and kawaramachi station it ran on the time schedule established for special trains.
+like other ordinary limited express trains,it could be used without limited express fares.
+on march 13,2001,its introduction was announced as a special limited express train for the tourist seasons,replacing the special express 'sagano express' that had been operated in the tourist seasons,and the service began on march 24 as the spring 'special limited express.'
+at the same time,public participation was called for in order to choose a nickname.
+on august 23, 'ii koto express' was chosen as its nickname.
+from november 11,the train started its operation with the denomination 'ii koto express,' and it was operated as a special limited express until the timetable was revised on march 17,200x.
+owing to the introduction of this special limited express,the number of the express trains operated between takatsukishi station and kawaramachi station(in this section they would stop at every station)had to be reduced,and therefore the operation of local trains between umeda station and takatsukishi station was extended to cover from takatsukishi station to kawaramachi station(some trains up to katsura station).
+normally,the inbound train waited for a limited express train to pass at takatsukishi station,but this type was operated on a time schedule in which it did not make a refuge stop and instead reached kawaramachi station first,without being overtaken by any faster trains.
+on the contrary,the outbound train of this type was passed by a limited express train at ibarakishi station as an exceptional case in which a(special)limited express train waited for a(regular)limited train to pass at a station.
+initially,the operation was rather frequently carried out such as on saturdays and holidays from late march to early may,and from late september to late november,respectively,but the number of operable days had been decreased year by year,and in 2006--the final year of this service--the train was operated only in early april,early may and late november with fewer than 10 days' service in total.
+hankyu railway has a rule of avoiding the description of 'special' on the departure information board at its stations to indicate a special train;however,for 'ii koto express' the description 'special limited express' was exceptionally used on the departure information board so that passengers wouldn't be confused.
+incidentally,the inbound train as well as the outbound train of this type made crew changes at takatsukishi station.
+stops
+umeda station,juso station,awaji station,minami-ibaraki station,ibarakishi station,takatsukishi station,omiya station,karasuma station,and kawaramachi station
+sagano express
+this is a special express train that was formerly operated between umeda station on the kyoto main line and arashiyama station(hankyu)on the hankyu arashiyama line on sundays and holidays during the tourist seasons.
+until the timetable was revised on march 24,2001,it had been operated in spring and autumn every year to transport sightseeing passengers to the arashiyama area.
+the final day of operation was november 26,2000.
+as opposed to the current special train, 'ii koto express,' running on the kyoto main line,this express was operated as a special train along the entire section within the kyoto main line.
+some of the trains of this type were operated instead of the shuttle trains on the arashiyama line.
+operation section(as of november 2000)
+umeda station to arashiyama station:between 9:00 and 12:00:about 10 trains in total---after arriving at arashiyama station,the train became a local train and doubled back for katsura station and went into katsura depot,or it was operated toward arashiyama station again after being deadheaded to umeda station,or it shuttled again along the arashiyama line as a local train.
+arashiyama station to umeda station:between 14:00 and 18:00:about 15 trains in total---after arriving at umeda station,the train was deadheaded to katsura depot.
+the above trains were operated with 15-minute intervals.
+the train for umeda station would stop at awaji station and wait for a limited express train to pass.
+stops
+umeda station,juso station,awaji station,ibarakishi station,takatsukishi station,nagaoka-tenjin station,katsura station,kami-katsura station,matsuo station,and arashiyama station.
+rolling stock used
+all the rolling stock employed on the kyoto lines was used,except for the hankyu(electric)railway series 6300.
+the sagano express was basically made up of six cars,using the fleets of local trains running on the kyoto main line,but when it was short of operable trains it managed to maintain the operation by cutting the two first cars toward the direction of umeda from the eight-car local and express trains(some of the eight-car trains of hankyu railway series 3300,5300,7300 and 8300 are made up in such a way that they can be decoupled into two-car units and six-car units).
+due to this arrangement,no spare eight-car trains became available,and sometimes the express operation during the daytime had to be handled by using the reserve trains of series 6300.
+osaka expo,a transportation train
+during the period of the japan world exposition '70(expo '70),which was celebrated in the senri hills,various types of special trains were in service to transport visitors.
+among them,the following were noteworthy in their operations.
+expo-junkyu(semi-express to expo)
+this train was introduced in the section between umeda station and kita-senri station as well as in the section between dobutsuen-mae station(on the osaka municipal subway sakaisuji line)and kita-senri station.
+for this service the trains of the osaka municipal transportation bureau were also used.
+they were the only trains belonging to the osaka municipal transportation bureau that passed along the hankyu line(nowadays there are deadheads that pass on the line nonstop when going in or coming out of the depot).
+stops(umeda route):umeda station,juso station,awaji station,suita station,kandaimae station,minami-senri station,bankokuhaku-nishiguchi station,and kita-senri station.
+stops(dobutsuen-mae route):stations from dobutsuen-mae station to tenjinbashisuji-rokuchome station,awaji station,suita station,kandaimae station,minami-senri station,bankokuhaku-nishiguchi station,and kita-senri station.
+expo-chokutsu(direct service to expo)
+this service provided transportation that directly connected the expo site with the hankyu kobe main line and the hankyu takarazuka main line,and the trains turned back via the spur track that had been laid within juso station.
+the operation sections were between bankokuhaku-nishiguchi station and takarazuka station and between bankokuhaku-nishiguchi station and kosokukobe station.
+stops(takarazuka line route):bankokuhaku-nishiguchi station,minami-senri station,kandaimae station,suita station,awaji station,juso station,sone station,toyonaka station,ishibashi station,ikeda station,kawanishi-noseguchi station,hibarigaoka-hanayashiki station,and takarazuka station.
+stops(kobe line route):bankokuhaku-nishiguchi station,minami-senri station,kandaimae station,suita station,awaji station,juso station,sonoda station,tsukaguchi station,nishinomiya-kitaguchi station,rokko station,sannomiya station,hanakuma station,and kosokukobe station.
+kageki-tokkyu(limited express to takarazuka revue)
+from 1950 to 1968,a direct train known as 'kageki-tokkyu' (limited express)was operated between kyoto station and takarazuka station through the kobe line and the imazu line.
+the train began its operation as an irregular direct limited express on march 21,1950.
+initially,there was a connecting track inside the yard of nishinomiya-kitaguchi station,which was a through track proceeded from the direction of kobe to the imazu line,and the train,after passing the ground crossing,switched back to enter the imazu line.
+after suffering difficult operations such as the train service through a devious route via the takarazuka line due to the large-scale reconstruction of nishinomiya-kitaguchi station and the suspension of service due to the construction of the sextuple-track section,this train service was discontinued on february 25,1968,immediately before the revision of the timetable was to be made following the inauguration of kobe rapid transit railway.
+incidentally,this train,which had no nickname,became familiar for "kageki-tokkyu" (revue limited express)and "kageki-go" (the revue)in or around 1954.
+crew
+the crews are shifted at awaji station and katsura station.
+also,at tenjinbashisuji-rokuchome station on the senri line the staff of the osaka municipal transportation bureau takes a turn.
+rolling stock used
+the trains on the kyoto line are basically made up of eight or seven cars.
+limited express and commuter limited express trains are operated exclusively with the composition of eight cars.
+rapid express trains are basically operated with eight cars,but some of them are operated with the 10-car composition in the mornings on weekdays,coupling two cars to the foremost car toward the direction of umeda.
+semi-express service is provided with a seven-or eight-car train,depending on the time schedule.
+principally,the local train is seven cars long but exceptionally eight cars;however,all the through-trains to the sakaisuji line are eight cars long.
+on the kyoto line,at the part of the platform,a little bit out of the required position at which the seven-car train is to stop,there is a notice indicating the forefront position and the time schedules of the seven-car trains.
+incidentally,in case of track no.2 of kawaramachi station,the trains made up of eight cars can neither arrive at nor depart from the track at present.
+according to the present timetable,only one train departing from track no.2 is a local train,which departs at 6:27(on weekdays as well as saturdays and holidays)heading for umeda station.
+the rolling stock used consists of:hankyu(electric)railway series 9300,hankyu(electric)railway series 8300,hankyu(electric)railway series 7300,hankyu(electric)railway series 6300,hankyu(electric)railway series 5300,hankyu(electric)railway series 3300,hankyu(electric)railway series 2300.
+the trains of osaka municipal transportation bureau series 66 also sometimes proceeds into the section between awaji station and takatsukishi station,in which mutual through-operation with the sakaisuji line is carried out.
+for details of each train series,please refer to the corresponding sections.
+for the composition and the cars used by type of train,please refer to the corresponding section in the chapter on the form of operation.
+history
+the kyoto line was inaugurated by shinkeihan railway,a subsidiary established by what was then keihan electric railway,during the early showa period as a new line connecting osaka with kyoto at high velocities.
+construction process
+keihan electric railway had already opened the railway,which is the current keihan main line,between osaka and kyoto in 1910.
+however,this was inter-urban transportation developed from the tramway,by taking the electric inter-urban railway in america as a model;however,since the railway was laid as if to fill the niche through already urbanized areas with many curves,it wasn't suitable for rapid transportation.
+the hanshin main line,which was inaugurated by hanshin electric railway in 1908,suffered similar conditions,and both of them were sarcastically called 'curve-gaisha' (company curved)as a parody of 'kabushiki-gaisha' (company limited).
+however,in 1920 hanshin electric express railway(hankyu)constructed the hankyu kobe main line in parallel with the hanshin main line.
+its route running straight along the sparsely populated mountain areas,made it possible for the line to provide high-speed operation.
+consequently,it triggered severe competition for passengers between the hanshin and hankyu companies.
+observing this situation,keihan electric railway tried to avoid a similar complication over its line,and seeing that the electric railway construction had started a boom,it decided to apply for high-speed railway construction like the one that the hankyu kobe line had achieved,in the under-populated area on the north of the yodo-gawa river for which various companies had already filed applications.
+at that time,japanese government railways(jgr),which was in charge of the management of japan national railway(jnr)and the jurisdictional control of private railways,was also anxious about the possibility of severe competition between railway companies,like the one that hanshin and hankyu were having.
+as a result,the license was granted to keihan,and it started to construct a new line.
+construction and operation by shinkeihan railway
+the initial plan was as follows:bifurcate a feeder line from morishoji station on the keihan main line(corresponding to the current senbayashi station);at akagawa,connect it with the line proceeding from the project site of kami-shinjo station to the south,and then extend the line to umeda station via sakuranomiya station and tenma station on the joto line(later osaka loop line);at umeda station,construct a general terminal station(after the inauguration of tenjinbashi station;subsequently,the plan was changed to bifurcate the keihan main line at noe station and extend the shinkeihan line from tenjinbashi station,but the plan was abandoned in 1932 and the license lapsed in 1942(see also the section on the keihan umeda line);however,since the elevation of the joto line was postponed due to the investment policy that prioritized the reconstruction of the great kanto earthquake,keihan,which had anticipated extending the line up to umeda station by making use of the site of the joto line once it was elevated,decided to look for an alternate site,based on the perspective that this new line project wouldn't be feasible for some time.
+in 1921,around the time that the construction project of the shinkeihan line was formulated,a private company called kita-osaka electric railway began operating with a line diverging from the hankyu kobe line and hankyu takarazuka main line at juso station,and reaching up to senriyama station(currently,the line is divided into two sections at awaji station,with the west section belonging to the kyoto line and the north section to the hankyu senri line).
+keihan planned to purchase this company in order to make use of the license to operate between awaji station and tenjinbashi(tenroku)station.
+all the lines that the company possessed were transferred in 1923 to shinkeihan which,in 1925,began operating between tenjinbashi station(current tenjinbashisuji-rokuchome)and awaji station.
+subsequently,along the section of the kyoto side there was a plan to open the line with underground tracks,but the plan was changed in order to hastily construct a provisional terminal station at saiin in order to meet the state-funded enthronement ceremony of emperor showa,and in 1928 the entire section of the line between tenjinbashi station and saiin station became fully operational.
+integration to keihan electric railway
+however,affected by the showa depression and the great depression,keihan electric railway,which was investing heavily in shinkeihan railway,hanwa electric railway(current hanwa line)and nara electric railway(current kintetsu kyoto line)among others,ran into financial difficulty.
+additionally,the company had to face serious problems due to the failure to attract users,because shinkeihan railway's terminal station,saiin station,was a provisional setup and the station itself(as well as tenjinbashi station on the osaka side,located at the edge of the city)couldn't provide convenience for users;moreover,the population along the line was scarce for the reason previously mentioned.
+shinkeihan railway therefore tried to restore the business through the merger with keihan electric railway in 1930,being integrated as the shinkeihan line of the keihan electric railway.
+consequently,the work to underground the line on the kyoto side was also hurriedly completed.
+the extension to omiya station(the terminal station on the kyoto side via the underground line)was completed in 1931;it was the first underground railway in the kansai district,earlier than the inauguration of osaka municipal subway in 1933.
+shinkeihan railway had also acquired licenses to construct two lines:one diverging at nishi-mukomachi station(currently nishi-muko station)toward baba in otsu city,through fushimi and yamashina,and the other running further through the underground of kyoto city from omiya station.
+of these,the latter was used when the hankyu corporation extended its operation up to kawaramachi station after the war.
+moreover,shinkeihan railway conceived a project to construct the nagoya express railway,which would extend from baba in otsu city to nagoya city across the suzuka mountains;however,due to the financial crisis(the showa depression)the project became a dead issue.
+high-speed operation
+owing to the scarce population along the line,this line could only concentrate its efforts on inter-urban transportation and focus on operating trains at high speeds,such as the super express that connected tenjinbashi and omiya in 34 minutes.
+on the other hand,the keihan main line,instead of setting up rapid reaching trains,enhanced the express and local train services,and in this way they tried to seek a compartmentalization of the operational focus between the inter-urban transportation and the wayside transportation(transportation for users along the line).
+its velocity was so exceptional that there was an anecdote that a rapid reaching train of hankyu railway type 100 was capable of getting ahead of the limited express 'tsubame,' the fastest train the japanese government railways had at that time(please refer to the section on the development of hankyu type 100).
+in 1937,when the section between kyoto station on the jnr tokaido main line and suita station(jr west)was fully electrified(the electrification between suita station and suma station was completed in 1934)and special rapid trains started connecting between kyoto and osaka in 36 minutes,keihan competed by increasing the number of trains on both lines and reducing the fares.
+from 1934,in addition to the introduction of the train connecting tenjinbashi station and omiya station,the train service arriving at and departing from juso station was introduced in order to make a connection with the hankyu line by coupling and decoupling this train at awaji station.
+after the integration to keihanshin express railway
+during the war,in order to control traffic,in 1943,keihan electric railway and hanshin electric express railway merged into keihanshin express railway(currently hankyu corporation)and the shinkeihan line was put under this company's management.
+after the war,keihan electric railway separated again as an independent entity in 1949;however,the shinkeihan line and its three feeder lines,the senriyama line(the section from awaji station and to the north of the current senri line),the juso feeder line(the section from awaji station and to the west of the current kyoto main line)and the hankyu arashiyama line,remained as a railway of hankyu corporation because the trains of the shinkeihan line had shared the track of the takarazuka line since 1945,arriving at and departing from umeda station,etc.
+at that time the denomination of the line became the actual denomination,kyoto main line.
+given such a background,the lines belonging to hankyu railway(except for the lines included in the kyoto main line system)are sometimes called the jinpo line,after the combination of the first chinese letter of the lines,in order to distinguish one from the other.
+even after the line's denomination was changed to "kyoto main line," tenjinbashi station was for a long time maintained as the starting station;however,following the completion of the so-called sextuple-track work(quadruple-track work between umeda station and juso station on the takarazuka line),the section between tenjinbashi station and awaji station became known as the senriyama line,and the kyoto main line,incorporating the juso line,designated juso station as its starting point.
+from around kanmaki station(osaka prefecture)to oyamazaki station,there is an elevated section,which was made in connection with the construction of the tokaido shinkansen running in parallel,and during the period of the elevation work from april to december 1963 the company hired the elevated tracks of the tokaido shinkansen,which had already been constructed at that time,in order to operate the trains using them.
+please refer to the section on hankyu trains that ran first on the railway of the tokaido shinkansen.
+the line had been competing over higher speeds with the tokaido main line in order to attract passengers,but since the late stage of the japan national railway the hankyu kyoto main line had been left behind in speed competitions owing to jnr's intensified investment in speeding up and developing new types of rolling stock,and after the privatization of japan national railway,the tokaido main line increased the number of stops,for example by making the special rapid train stop at takatsuki station,while maintaining its velocity;therefore,the hankyu kyoto line also had to change its policy to increase the number of stops in between as a means to attract passengers.
+first of all,the interval that was capped by 15 minutes for all trains in 1989 was changed,and the number of limited express trains was reduced by operating with 20-minute intervals,while the number of express was increased by operating with 10-minute intervals.
+in 1997,all the limited express trains began making stops at takatsukishi station.
+in the timetable revision of march 24,2001,the drastic readjustment of stops and restructuring of types of trains was carried out.
+the following points were changed:the denomination of limited express was changed to commuter limited express,rapid express to rapid limited express,express to rapid express and rapid to express,respectively;express was made to stop at minami-ibaraki station;limited express would have more stops than rapid limited express but fewer stops than rapid express;each type of higher-category train would have nearly twice as many stops as before;limited express became practically the same grade as the former express(this characteristic became more clear when awaji station was designated as an additional stop in 2007).
+at the same time,the semi-express and sagano express in the tourist seasons were discontinued.
+the special limited express train service during the tourist seasons was established.
+additionally,all the platforms within the entire line,except for platform 2 at kawaramachi station,became accessible by the eight-car train.
+consequently,the trains operated based on the daytime schedule were partially reduced in number on the section between takatsukishi station and kawaramachi station(the conventional limited express train was practically discontinued).
+regarding the time schedule for holidays,the total number of the higher-category trains operated directly between kyoto and osaka was reduced(eight limited express/express trains an hour were reduced by 25%to six limited express trains).
+the required time of the limited express train also increased by five to six minutes from 38 minutes when it ran nonstop from juso to omiya:now the outbound train requires 44 minutes and the inbound train requires 43 minutes on average,which is such a considerable slowdown that there is only a two-or three-minute difference from the time it took the express train on february 23,2001 or before.
+chronology
+april 1,1921:kita-osaka electric railway(kitaosaka denki-tetsudo)started the operation between juso station,awaji station and toyotsu station.
+april 1,1923:shinkeihan railway purchased the railway line from kita-osaka electric railway.
+october 15,1925:shinkeihan railway opened the section between tenjinbashi(current tenjinbashisuji-rokuchome station)and awaji station.
+january 16,1928:the section between awaji station and takatsukimachi station(currently takatsukishi station)opened.
+the voltage of the overhead wire was elevated from 600v to 1500v.
+november 1,1928:the section between takatsukimachi station and saiin station opened.
+april 21,1930:super express service began between tenjinbashi station and saiin station.
+in between,the train made only one stop at awaji station(during the tourist seasons it also stopped at katsura station,which was a station connecting with the arashiyama line)and connected kyoto and osaka in 34 minutes.
+september 15,1930:keihan electric railway swallowed shinkeihan railway.
+the section between tenjinbashi station and saiin station became the shinkeihan line,and the section between juso station and awaji station became the juso(feeder)line.
+suita station changed its name to keihan suita station.
+march 31,1931:the section between saiin station and keihan kyoto station(current omiya station)was inaugurated as the first underground line in the kansai district.
+may 13,1934:kanmaki-sakurainoeki station opened.
+september 1,1934:the operation of the express train on the shinkeihan line was extended to juso station,making a connection with hanshin electric express railway possible at juso station.
+april 15,1936:sojiji-mae station opened.
+1938:the super express was discontinued and was integrated with the limited express.
+may 16,1939:sakurainoeki station opened.
+kammaki-sakurainoeki station changed its name to kanmaki station.
+january 1,1943:takatsukimachi station changed its name to takatsukishi station.
+october 1,1943:hanshin electric express railway swallowed keihan electric railway to launch the keihanshin express railway.
+keihan kyoto station changed its name to keihanshin kyoto station,and keihan suita station's name was changed to suita higashiguchi station.
+april 8,1944:the line started to use the track of the takarazuka line,and it introduced the express train that arrived at and departed from umeda station.
+june 10,1945:a direct express train to umeda station was bombarded on the shin-yodogawa bridge,and since then the direct train service was suspended.
+february 1,1946:mozume station was opened in the section between higashi-mukomachi station and katsura station.
+january 1,1948:ibarakimachi station changed its name to ibarakishi station,sojiji-mae station changed to sojiji station and sakurainoeki station changed to minase station,respectively.
+march 1,1948:mozume station became disused.
+august 11,1948:the direct express service to umeda station,which was suspended due to the bombardment,was restarted.
+december 1,1949:keihan electric railway was unmerged.
+the shinkeihan line became a line of keihanshin express railway and changed its name to the kyoto main line.
+keihanshin kyoto station changed its name to hankyu kyoto station.
+a maximum speed of 110 km/h was permitted.
+december 3,1949:the operation of the direct limited express between kobe station and hankyu kyoto station was launched.
+october 1,1950:the operation of the limited express between osaka(tenjinbashi station)and kyoto was resumed.
+may 1,1954:suita higashiguchi station changed its name to aikawa station.
+december 1955:improvement work commenced to straighten the curved section between minamikata station on the juso line and sozenji station.
+january 31,1956:the improvement work to straighten the curved section near the jnr over-line bridge was completed.
+april 16,1956:a new limited express train service was introduced between osaka(umeda station)and kyoto;its required time was 38 minutes,and it operated at a 30-minute interval.
+the limited express train that arrived at and departed from tenjinbashi station was discontinued.
+july 1,1957:tondacho station changed its name to tonda station.
+february 18,1959:the section between umeda station on the takarazuka main line and juso station was equipped with quadruple tracks.
+out of the newly laid tracks,the two easternmost tracks began to be used by the kyoto line.
+together with the section between juso station and awaji station on the juso line,the section between juso station and hankyu kyoto station was denominated as kyoto main line.
+the section between tenjinbashi station and awaji station was incorporated into the senriyama line(later called the senri line).
+april 24,1963:the elevation work of the tracks of the tokaido shinkansen was completed,and the tenancy of the track between kanmaki station and oyamazaki station commenced for the shinkansen to use as a provisional track during the elevation work,which was scheduled to be carried out on the site extended in parallel along the keihan kyoto line.
+provisional platforms were installed at the stations located along this section.
+june 17,1963:the entire section between omiya station and kawaramachi station became fully operational.
+hankyu kyoto station changed its name to omiya station.
+the limited express train began to be operated in every 15 minutes with the required time of 42 minutes.
+december 29,1963:elevation work in the section between kanmaki station and oyamazaki station was completed.
+tenancy for the shinkansen track was completed.
+july 22,1965:enhanced equipment with the trains of series 2800 finished,and the limited express train shortened its required time from 42 to 39 minutes.
+august 24,1969:the dead section installed at juso station was removed.
+december 6,1969:mutual direct operation with the osaka municipal subway sakaisuji line started.
+march 8,1970:minami-ibaraki station opened.
+november 28,1971:the required time of the limited express train was shortened to 38 minutes(a record time).
+p-6(passenger car 6:hankyu railway series 100)was disused for the express train operation.
+october 1,1972:higashi-mukomachi station changed its name to higashi-muko station,and nishi-mukomachi station was changed to nishi-muko station.
+march 1973:the regular operation of p-6 was terminated.
+september 23,1976:with the timetable revision,the track no.7 at juso station became disused.
+all trains operated on the kyoto line began arriving at and departing from umeda station.
+march 5,1979:the operation of sakaisuji-kyuko(express)started.
+all express trains started making stops at nagaoka-tenjin station.
+november 27,1982:a new semi-express train service from ibarakishi station to umeda station was introduced for the morning commuting hours on weekdays.
+due to the elevation work of the tracks at ibarakishi station and takatsukishi station,the limited express trains were operated at reduced speed.
+december 16,1989:with the timetable revision,the number of limited express trains during the daytime on weekdays was reduced by extending the interval from 15 to 20 minutes,while the number of express and local trains was increased by reducing the interval to 10 minutes.
+no changes were made in regard to holidays,and the limited express and express trains were operated with 15-minute intervals.
+march 2,1997:a new rapid train service was introduced with the following stops:juso station,awaji station,ibarakishi station and all the stations from takatsukishi station to kawaramachi station.
+in accordance with the commuter limited express train service,limited express trains began making stops at takatsukishi station all day.
+the commuter limited express service was discontinued.
+limited express,express,and rapid trains were operated with 20-minute intervals on weekdays.
+march 24,2001:with the timetable revision,the train operation system that had been practiced since the inauguration underwent the following drastic changes:the denomination of the conventional limited express was changed to the commuter limited express and the rapid express to rapid limited express,respectively;and the limited express and special limited express,which operated in the tourist seasons with more stops than the rapid limited express but fewer stops than rapid express,were introduced.
+also,the denomination of the conventional express was changed to rapid express and rapid to express,respectively,and they began making stops at minami-ibaraki station as well.
+the semi-express and sagano express,which had operated in the tourist seasons,were discontinued.
+on weekdays,saturdays and holidays,the limited express,express and local trains were operated at 10-minute intervals during the daytime.
+consequently,the conventional limited express and express were integrated in order to reduce the number of trains in the section from takatsukishi station to kawaramachi station.
+november 11,2001:the special limited express for the tourist seasons,nicknamed the 'ii koto express,' started its service.
+march 16,2003:rakusaiguchi station opened.
+this was constructed on nearly the same site as that of the closed mozume station.
+march 17,2007:following a substantial revision made for the first time after six years,the limited express began making stops at awaji station and the conventional express was converted to a semi-express by designating additional stops at minamikata station and kami-shinjo station,etc.
+ii koto express,which operated during the tourist seasons,was also downgraded from a special express to a special rapid.
+list of stations
+a station of hankyu railway,written in japanese as西院,is pronounced 'saiin,' while the station of keifuku electric railroad,which is written with the same characters,is pronounced 'sai.'
+please refer to the section on saiin station.
+from umeda station,it takes about 20 minutes to transfer to the jr tozai line at kitashinchi station.
+in the case of the connection ticket to osaka municipal subway(the ticket must be the one through tenjinbashisuji-rokuchome station),it isn't permitted to make a transfer to the subway line at minamikata station(osaka prefecture)(including nishinakajima-minamigata station).
+this rule also applies to the ticket to kansai-airport station of nankai electric railway,which designates the transfer route via tengachaya station.
+new station projects
+the construction of new stations is announced in the following sections:
+nagaokakyo city and hankyu corporation reached an agreement in november 2005 to construct a new station on the crossover point of this hankyu line and the second outbound belt highway(kyoto jukan expressway(or trans kyoto expressway)that bypasses national route 478;in the planning stage)between oyamazaki station and nagaoka-tenjin station(however,the commencement and inauguration dates are yet to be determined).
+the elevation of rakusaiguchi station was also determined.
+may 26,2006:the construction of a new station around the boundary of the two district,4-chome of senrioka-higashi in settsu city and minami senrioka,along the section between shojaku station and minami-ibaraki station,was announced.
+the inauguration is generally scheduled for spring 2010.
+others
+in the eighth report of the kinki regional transportation council in october 2004,direct interoperation between the kyoto line and the kobe line is positioned as one of 'the principle programs to be studied concerning the improvement of existing facilities.'
+at one time there were through-trains operating to and from the kobe line;one was 'kageki-tokkyu' (limited express),which directly connected kyoto and takarazuka,passing through the kobe line and the hankyu imazu line,and the other was a limited express train,which was directly operated between kobe and kyoto from the post-war period until the 1930s of the showa period(for about a decade from 1955).

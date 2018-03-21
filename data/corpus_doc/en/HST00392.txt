@@ -1,0 +1,214 @@
+senji ryakketsu(占事略决)(the summary of judgments of divinations)
+"senji ryakketsu" (or "senji ryakuketsu")is the oldest existent book of onmyodo(way of yin and yang;an occult divination system based on the taoist theory of the five elements)which is believed to have been compiled by onmyoji(master of yin yang)abe no seimei in the heian period.
+senji ryakketsu is also written in chinese characters as "占事略決".
+because it is difficult to discern the difference between "决" and "决"from handwriting made with a brush,whether"决" or "决" is used depends on the judgment of persons who made transcripts.
+however, "占事略决" is the commonly used title,as the titles of some transcripts can be clearly discerned,and the most easily available "nihon onmyodoshi sosetsu" by shuichi murayama also followed suit.
+summary
+"senji ryakketsu" is believed to have been compiled before 1005 because,according to "sonpi bunmyaku" (a text compiled in the fourteenth century that records the lineages of the aristocracy),the author abe no seimei' s year of death was 1005.
+according to the okugaki(postscript)of the transcript possessed by the kyoto university library,seimei compiled "senji ryakketsu" in 983.
+however,in okugaki, "歳次己卯" is appended to the year;thus according to the oriental zodiac,it is in 979.
+at any rate,the oldest existent transcript was made in the kamakura period or later.
+the contents of "senji ryakketsu" are a basic explanation of divination called rikujinshinka and an explanation concerning the way of divination by rikujinshinka for each purpose.
+with "shikasandenho daiich" being at the beginning of the book,the explanation starts with the procedures of divination.
+rikujinshinka(an ancient form of divination from china based on astronomy and kanshijutsu(oriental zodiac))is one type of shikisenjutsu(an ancient form of divination from china that uses a board called shikiban and a spoon-like tool called a choku),and,along with taiitsushinsu(one of the divinations that was invented in china and mainly cast about important matters such as politics and economics)and kimontonko(an ancient form of divination from china which is still in use in china,taiwan,singapore,and the chinese diasporas in southeast asia),they are collectively called 'sanshiki.'
+during the heian and kamakura periods,rikujinshinka was regarded as the essential divination for ommyoji belonging to onmyoryo(bureau of divination).
+when inquired by the imperial court about the fortune of accidents,onmyoryo reported the results of rikujinshinka in the form of rikujin kanmon(a form of report of the divination practiced by onmyoji).
+some rikujin kanmon,including that of abe no seimei,still exist.
+though there are various theories on "senji ryakketsu," it is regarded indispensable documentary records(history)for the study of medieval onmyodo,since it briefly explains rikujinshinka based on the tradition of the abe family.
+about transcripts
+the oldest existent transcript is the book possessed by sonkeikaku-bunko(a library of the kaga maeda family),which was transcribed by abe no taito,the 11th generation descendant of abe no seimei,in the kamakura period.
+"nihon onmyodoshi sosetsu" by shuichi murayama compiles the text which was reprinted from the transcript possessed by sonkeikaku-bunko with the addition of unique revision.
+other than the above,a transcript possessed by the imperial household archives,a transcript possessed by the kyoto prefectural library and archives,and a transcript possessed by the kyoto university library are existent.
+while the description of the opening paragraph of the transcript possessed by the kyoto university library is "常以月将加占事",that of the transcripts possessed by sonkeikaku-bunko and imperial household archives is " 常以月将加占時".
+from the above fact,we can understand that there are two lines of transcripts.
+given the fact that "senji ryakketsu" is a commentary on rikujinshinka, "常以月将加占時" is considered to be correct.
+regarding this point,refer to the item of rikujinshinka.
+the transcript possessed by sonkeikaku-bunko
+the form of the transcript possessed by sonkeikaku-bunko is one volume of makinono(a hand scroll).
+according to its okugaki,it was transcribed by abe no taito in the kamakura period.
+according to ""sonpi bunmyaku",taito himself was not onmyoji though he was the 11th descendant of seimei.
+according to okugaki,taito transcribed in貞応6年(the sixth year of teio era(1227)),but actually,the teio era lasted only until貞応3年(the third year of the teio era(1224)).
+therefore,it is considered that the author mistook貞応6年for貞応元年(the first year of teio(1222)).
+murakami 1981,which asserted on one hand that the author mistook貞応6年for正応6年(the sixth year of shoo era(1293)),eventually concluded that the year in which the transcript possessed by sonkeikaku-bunko was written is unknown.
+regardless of the difference among the above views,the transcript possessed by sonkeikaku-bunko is the oldest transcript.
+this transcript was presented to the maeda clan,which was the lord of the kaga domain,by the head of abe family yasutomi abe in the early edo period.
+accordingly,this transcript has been possessed by sonkeikaku-bunko,which was initially the library of the lord of the kaga clan maeda family and is managed by maeda ikutokukai at present.
+the transcript possessed by the kyoto university library
+the transcript possessed by the kyoto university library is in the form of a book consisting of 41booklets.
+this book was possessed by the seike library of the seike clan,which was the family lineage of myogyo hakase(doctor of confucian classics).
+this book is possessed by the kyoto university library because the kyoto university library was donated from a descendant of the kiyohara family and also bought the documents of the seike.
+this book's image data are open to the public on the internet.
+according to its okugaki,this book was transcribed by abe no yasukiwa in the early kamakura period.
+also according to its okugaki,the original based on which yasukiwa transcribed was the one that was used when abe no yasuchika,who was called 'sashinomiko' in the last days of the heian period,instructed "senji ryakketsu" to his son abe no chikanaga.
+the description concerning "shinenho" is seen only in this book.
+the transcript possessed by the imperial household archives
+the transcript possessed by imperial household archives is in the form of a book consisting of 36 booklets.
+according to its okugaki,it was transcribed in the early edo period.
+it was not signed by its writer.
+this transcript was donated to the imperial court by the tsuchimikado family and was inherited by the imperial household archives.
+it was transcribed quite recently compared with other transcripts,which were transcribed in the kamakura period.
+the transcript possessed by the kyoto prefectural library and archives
+the transcript possessed by kyoto prefectural library and archives is in the form of a book consisting of 36 booklets.
+according to its okugaki,it was transcribed in the same year with the transcript possessed by the imperial household archives,and it was also not signed by its writer.
+this transcript is the one that had been handed down in the wakasugi family,which was the lineage of the keishi(household superintendent)of the tsuchimikado family.
+kyoto prefectural library and archives is administering it as the wakasugi family books,no.853
+the photograph of its full text is attached to "onmyodo kisoshiryo shusei" by shuichi murayama.
+characteristics of "senji ryakketsu"
+as abe no seimei,who appeared in many episodes,was a legendary figure in onmyodo,he is often mentioned as the author of onmyodo-related books.
+however,the fact that "senji ryakketsu" was compiled by abe no seimei is credible.
+there are two reasons for the above.
+the existence of rikujin kanmon written by seimei himself
+the existence of the oral tradition in the tsuchimikado family,the descendants of seimei.
+in view of the existence of rikujin kanmon,which proves the fact that seimei divined fortune with rikujinshinka,and the fact that "senji ryakketsu" is the commentary of rikujinshinka,there is no need to doubt the existence of the oral tradition in the tsuchimikado family.
+"senji ryakketsu" gives good descriptions about the formality and contents of rikujinshinka in the era when it was compiled.
+regarding the above,we will explain in the section of 'the characteristics of senji ryakketsu grasped as a senji ryakketsu senjutsusho' (a book of divination).
+the structure of "senji ryakketsu"
+"senji ryakketsu" consists of 36 chapters and each chapter is titled "o o ho".
+the titles of "senji ryakketsu" in modern language are as follows.
+chapter 1
+the way to make shika sanden
+chapter 2
+nine kinds of way to make sanden from shika
+chapter 3
+the way to call tenitsukijin(one of the gods in astrology)
+the procedures of the divination with rikujinshinka are explained in chapter 1 to chapter 3.
+namely,the way to make tenchiban(the board used in the process of the divination called shikisen)and derive shika sanden.
+when making tenchiban,a simple tool called 'shikiban' (a tool used in the process of making tenchiban)is sometimes used.
+chapter 4
+symbolism of juni tensho
+chapter 5
+symbolism of juni gessho
+the symbolism of juni tensho and juni gessho,which are emphasized in rikujin,is explained in chapter 4 and chapter 5.
+chapter 6
+goju(罡柔)of jikkan(ten calendar signs)
+chapter 7
+inyo(cosmic dual forces)of junishi(the 12 signs of the chinese zodiac)
+chapter 8
+the rule to convert ka to shi
+chapter 9
+ososhishuro,the seasonal changes in the power of gogyo(the cosmic dual forces(yin and yang)and the five elements(metal,wood,water,fire,and earth)in chinese cosmology).
+chapter 10
+symbolism of koku derived from ososhishuro
+chapter 11
+gogyo sojo sokokuho
+chapter 12
+junishi no kei
+chapter 13
+junishi no ha
+chapter 14
+the way to derive nittoku
+chapter 15
+the way to derive nichizai
+chapter 16
+the way to derive nikki
+chapter 17
+the number which kanshi(the oriental zodiac)stands for
+chapter 18
+the number which gogyo stands for
+chapter 19
+the respective colors which gogyo,jikkan,and junishi stand for
+the fundamental knowledge of onmyodo and the preliminary preparation for divination,such as the explanation about the rivalry of gogyo based on the philosophy of inyogogyo(the cosmic dual forces(yin and yang)and the five elements(metal,wood,water,fire and earth)in chinese cosmology),is explained in chapters 6 to 19.
+although the titles of chapter 12 and chapter 13, "gogyosokeiho daijuni" and "gogyosohaho daijusan" respectively,include the term "gogyo,the explanations are related not to sojo sokoku(compatibility between the cosmic dual forces)but to "the mutual relationship between junishi and nishi," the specific mutual relationship of junishi.
+chapter 20
+junikyakuho
+chapter 21
+junichuho
+chapter 22
+the method to deal with five questions raised by a person
+chapter 23
+the method to know gyonen(a way using the 12 signs of the chinese zodiac to make individual differences in the rokujin divination)of men and women
+specific fundamental knowledge of rikujinshinka is explained in chapters 20 to 23.
+namely,as the result of rikujinshinka is same shika sanden during one koku(two hours),it is required to cope with the following events.
+in the event where more than one client comes within one koku
+in the event where the result was bad and a client asks, "can i have a different result if i do a certain thing?"
+in the event where more than one question is raised within one koku
+chu was originally a long,thin bamboo spatula used for a lottery.
+chuho is the method to change shika sanden by getting a client to draw chu on which the signs of junishi are painted and using the sign which is painted on chu drawn by a client.
+in "senji ryakketsu",however,the method to automatically change hatsuyo(shoden),one of sanden,is explained.
+gyonen is one of 12 signs of junishi obtained,in the case of men,by counting one year for one sign in order of junishi on the premise that their year of birth is the year of the tiger and in the case of women,obtained by counting one year for one sign in reverse order of junishi on the premise that their year of birth is the year of the monkey.
+it is used to make individual differences in the rokujin divination.
+a simple method to calculate gyonen by the use of shikiban is explained in chapter 23.
+chapter 24
+the method to derive kubo
+like the case of chapters 6 to 19,kubo,one of the types of fundamental knowledge of onmyodo,is explained in this chapter.
+chapter 25
+the method to know the time when the result of divination,a good or bad omen,appears
+the method explained in the latter half of this chapter is rarely seen in other books.
+chapter 26
+36 notable kinds of ke(divination signs)and their symbolism
+the symbolism of 36 characteristic patterns of shikasanden are explained throughout this chapter.
+chapter 27
+the method to divine tatari(divine punishment),the cause of illness
+chapter 28
+the method to divine the life and death of the sick
+chapter 29
+the method to divine the time of delivery
+chapter 30
+the method to divine the distinction of sex of a baby to be delivered
+chapter 31
+the method to divine a person whom a client awaits
+chapter 32
+the method to divine lost or missing articles
+chapter 33
+the method to divine the escape of rokuchiku(6 kinds of livestock;horses,cows,sheep,dogs,pigs,and hens)
+chapter 34
+the method to divine whether a client can believe what he/she has heard
+chapter 35
+the method to divine a rainfall
+chapter 36
+the method to divine fine weather
+starting from chapter 27,concrete methods of divination;in other words,how to divine based on the outcome of shikasanden or tenchiban(the board used in the process of the divination called shikisen),are explained for various subjects.
+many of the subjects explained in chapter 27 and the subsequent chapters,such as 'the method to divine the life and death of the sick,' 'the method to divine the time of delivery,' 'the method to divine the distinction of sex of a baby to be delivered,' and 'the method to divine fine weather,' are closely related to daily lives or the movement of society.
+from such descriptions,we can gather the ways of living of people at the time,especially those of nobilities' family who were the client of seimei,as well as the subjects they were interested in.
+"senji ryakketsu" is a quite important document in order to learn about rikujin at that time.
+detailed notes added by descendants are seen on the transcript possessed by sonkeikaku-bunko.
+however,some of these notes are incorrect,indicating that the oral tradition deteriorated with the passing of time.
+characteristics of "senji ryakketsu" grasped as a divination book
+there are many descriptions in "senji ryakketsu" concerning the techniques of rikujinshinka or its fragments that are almost forgotten at present.
+one of important techniques of divination is 'okiho,' which surmises when the outcome of divination comes true.
+okiho,' which uses kakai(one of junigessho)described in "senji ryakketsu," is rarely seen in other books.
+also,no classical literature mentioned 'shinenho' other than the manuscript possessed by the kyoto university library.
+in chapter 27 and subsequent chapters,explanations are given concerning a special tenchiban.
+this is tenchiban which is made with a different way from tenchiban that is made based on the time divined and gessho,which appears at the beginning of the chapter 'shikasandenho daiichi.'
+concerning the techniques of this unique tenchiban,those explained in "senji ryakketsu" are more complicated than the current ones,or have not been passed down to the present.
+in "senji ryakketsu," 'the method to divine a rain' and 'the method to divine fine weather' are explained in independent chapters.
+in the case of other original texts of rikujin,such as "rikujinyaku," however,these two are lumped together into weather divination.
+such a method of divination that produces a yes-no answer to the questions belonging to the same category shows that rikujin of "senji ryakketsu" had a different character from contemporary rikujin.
+in "abe no seimei 'senji ryakketsu' shokai," hidesato matsuoka asserts that rikujin might have been reorganized in the era of the ming dynasty of china in the wake of general reform of divination.
+placement of "senji ryakketsu" in the abe family
+in "senji ryakketsu," descriptions are seen here and there that seem to have been written with the intention of making a list,or something like it,of the oral tradition inherited in the abe family.
+one example is a sentence found in "junikyakuho dainiju."
+又有范蠡十三人法省不載
+(the gist)
+although there also is jusanninho,i omitted it and didn't write about it.
+another example is the last sentence of 'sanjurokke daireishoho dainijuroku.'
+右三十六卦及九用次第,家々之説各不同.
+又有卅五卦,六十四卦法,或一卦之下管載数名,或一卦之内挙多説然,而事繁多煩省,而不載.
+具存本経,以智可覧之.
+(the gist)
+the methods to derive 36 divination signs and nine sanden explained earlier are different depending on families.
+also,there are cases where 35 divination signs or 64 divination signs are used.
+further,there are cases where some divination signs are lumped together into one divination sign or where one divination sign leads to many views,but i omitted these different opinions in order to avoid complicated explanation.
+in this book,i listed only need-to-know divination signs.
+a paragraph saying 'i didn't mention in ryakketsu,' which is found in these sentences,indicates a possibility that oral tradition was inherited in the abe family concerning what was omitted from explanation.
+matsuoka pointed out in his book that in the abe family,a person who was given instruction in "senji ryakketsu" received its list as the finishing of instruction.
+on the other hand,mediaeval onmyodo researcher shinji kosaka asserts that there is an inconsistency between rikujinshinka that was actually used in the heian period and rikujinshinka explained in "senji ryakketsu."
+further,a slip explaining "tenichijiho," which is different from what is explained in the text,is attached to the transcript possessed by the kyoto university library.
+in view of the above,it is also true that we cannot conclude "senji ryakketsu" was the abe family's list of instruction in rikujinshinka.
+the present state of the research on senji ryakketsu
+mediaeval onmyodo researcher shinji kosaka restored rikujinshinka used in the heian period based on existent rikuninkanmon and literature of the time.
+the results of research were published in his monograph mentioned below.
+in a string of his monograph,kosaka also restored sanden of rikujinshinka used by onmyoji.
+kosaka restored the original of "senji ryakketsu" and published the results as "abe no seimei "senji ryakketsu" to onmyodo".
+"senji ryakketsu" was written in relatively simple kanbun(sino-japanese).
+however,the contents are difficult to understand for persons who don't have knowledge about rikujinshinka even though they can read it.
+for example,the beginning of 'shikasandenho daiichi' is '常以月将加占時視日辰陰陽以立四課.'
+for persons who have a knowledge about kanbun,it may not be so difficult to read it as 'tsuneni gessho wo motte senji ni kuwae,nisshininyo wo mite motte shika wo tatsu.' (gessho and the time should always be used for divination and shika should be derived by seeing nisshinonmyo).
+however,knowledge about rikijinshinka is indispensable in order to understand that this paragraph is the explanation of the procedures to make tenchiban based on gessho and junishi of the time and derive shika based on the oriental zodiac of the day.
+in view of the above,divination researcher hidetatsu matsuoka published his book as "abe no seimei 'senji ryakketsu' shokai," in which he explained rikujinshinka as well as "senji ryakketsu."
+in this book,matsuoka focused his attention on the fact that "senji ryakketsu consists of 36 chapters and chapter 26 consists of 36 clauses.
+according to matsuoka's hypothesis,the author likened the whole "senji ryakketsu" to tenchiban or shikiban by incorporating the number of heaven 36 as well as the number of earth 72(36+36)into the structure of "senji ryakketsu."
+the boom of onmyoji and senji ryakketsu
+thanks to the boom of onmyoji/seimei which began in 1990's,the existence of seimei's "senji ryakketsu" also came to be known widely.
+in the "shaman king "series,a manga(cartoon)written by hiroyuki takei,a book titled "cho-senji ryakketsu," which seems to derive from "senji ryakketsu," appeared.
+based on this work,a trading card game "cho-senji ryakketsu" was also created.

@@ -1,0 +1,57 @@
+limited express tango discovery
+the "tango discovery" is a type of limited express train operated by kitakinki tango railway,and it's the nickname for the kitakinki tango railway ktr type 8000 diesel multiple unit used for this train service.
+the nickname means 'discovery of tango province' in japanese.
+it's among the trains that form the kita(north)kinki big x network.
+the current system of operation
+there are two operation routes starting from kyoto via the west japan railway company(jr west)sanin main line:the route that goes directly to toyooka station(hyogo prefecture)through higashi-maizuru station on the maizuru line,and through the kitakinki tango railway miyafuku line and kitakinki tango railway miyazu line;and the route in which the train terminates on the miyazu line after making a connection with the limited express trains 'hashidate(train)' or 'monju(train).'
+both of them are operated with the express train using its dedicated ktr type 8000 diesel multiple unit.
+the direct route to kyoto provides two round-trip services with a train set of layered structure,and tango discovery nos.1,2,and 4 are decoupled and coupled at ayabe station when running between kyoto station and toyooka station(hyogo prefecture)and between kyoto station and higashi-maizuru station.
+tango discovery no.1 is operated as a rapid train from kumihama station to toyooka station,and tango discovery no.2 operates as a rapid train from toyooka station to kumihama station.
+tango discovery no.3 is operated only between kyoto station and fukuchiyama station/higashi-maizuru station;it doesn't run on the lines of kitakinki tango railway.
+the trains arriving at and departing from toyooka station change their direction of travel at miyazu station,and those arriving at and departing from higashi-maizuru station change at ayabe station.
+as for the numbering of train units,the trains arriving at and departing from higashi-maizuru station are identified with the ordinal train number+3000d,and those operated within the kitakinki tango lines are identified with the train number+3010d
+to run between kyoto station and ayabe station/fukuchiyama station,this train requires considerable time compared with electric multiple-unit limited express trains such as 'kinosaki,' 'tanba' and 'maizuru.'
+operational outline on the kitakinki tango railway lines
+in the case of the route that terminates within the kitakinki tango railway lines,two round-trip services are provided between amanohashidate station and toyooka station,and these trains are given certain numbers in the 60s or 70s.
+the numbers of these trains comprise the ordinal number("go-su")and the letter "d."
+until this direct route to kyoto was set up,the operation was carried out with trains made up of two cars,and most of them connected with 'hashidate' or 'monju.'
+there was another route to secure a connection with a limited express train on the maizuru line(which wasn't electrified),and the trains were operated between ayabe station and amanohashidate station/kumihama station(between ayabe and nishi-maizuru they're operated as rapid trains)by making a connection at ayabe station with a limited express train proceeding to the kyoto area.
+currently,the operation is undertaken with only one train set.
+in each of two round-trip services between nishi-maizuru station and amanohashidate station,the train changes its train number and is operated as a local train(tango discovery nos.64 and 72 are operated only on saturdays and holidays as the limited express 'tango-yuyu').
+the following are the available connecting limited express trains:
+tango discovery no.63:the limited express 'hashidate(train)' at amanohashidate station
+tango discovery no.67:the limited express 'hashidate no.7' at amanohashidate station
+tango discovery no.64:*no connection with a limited express train
+tango discovery no.72:the limited express 'monju(train)' at amanohashidate station
+rolling stock used and train sets
+the train uses the kitakinki tango railway ktr type 8000 diesel multiple unit.
+all train sets are operated as ordinary cars(railway vehicles).
+legend symbols:自＝non-reserved seat,指＝reserved seat
+car nos.1 and 2 are operated between toyooka station/fukuchiyama station and kyoto station.
+car nos.5 and 6 are operated between higashi-maizuru station and kyoto station.
+between ayabe station and higashi-maizuru station,and between miyazu station and toyooka station,the direction of movement is inverted.
+during busy seasons,between car nos.2 and 5,two cars--nos.3 and 4--are coupled.
+except for tango discovery nos.1,2,3 and 4,the trains are made up of only two cars:the first and second cars.
+operation section and stops
+operating section
+between kyoto station and toyooka station(hyogo prefecture)/higashi-maizuru station:one outbound train and two inbound trains
+between kyoto station and fukuchiyama station/higashi-maizuru station:one outbound train
+between amanohashidate station and toyooka station(hyogo prefecture):two round-trip services
+stops
+kyoto station-nijo station-kameoka station-sonobe station-ayabe station-fukuchiyama station-oe station(kyoto prefecture)-miyazu station-amanohashidate station-nodagawa station-tango-omiya station-mineyama station-amino station-kizu-onsen station-(tango-kanno station)-kumihama station-toyooka station(hyogo prefecture)
+the stations shown in parentheses are the stops of some of the trains arriving at and departing from amanohashidate station.
+the train sets that arrive at and depart from higashi-maizuru station make stops at ayabe station and the subsequent stations as follows:
+ayabe station-nishi-maizuru station-higashi-maizuru station
+history
+march 16,1996:the train service started between shin-osaka station and kumihama station via the fukuchiyama line,the miyafuku line and the miyazu line of the kinki tango railway.
+between shin-osaka station and fukuchiyama station,the operation started with the train coupled with the l-limited express 'kita-kinki(train).'
+between ayabe station and toyooka station(hyogo prefecture),the train began the operation as a special express train,which makes a connection with the train that's operated from kyoto station.
+this train is categorized as "rapid" in the section between ayabe station and nishi-maizuru station,which is controlled by jr west.
+october 2,1999:following the electrification of the maizuru line,the operation route was changed by transferring to the limited express 'tango explorer' with the following stops:kyoto station-nijo station-kameoka station-sonobe station-ayabe station-nishi-maizuru station-(tango-kanzaki station)-(tango yura station)-miyazu station-amanohashidate station-nodagawa station-tango-omiya station-mineyama station-amino station-kizu-onsen station-(tango-kanno station)-kumihama station-toyooka station-kinosakionsen station.
+june 19,2005:the train set was changed by the timetable revision made following the restarted operation of the fukuchiyama line,which had been suspended due to the jr fukuchiyama line derailment accident.
+the trains that were running on the jr lines were operated with series 183 while they were on the jr line during busy seasons,but nowadays the cars used in the section aren't equipped with the ats-p type system.
+however,in the event they're operated exclusively on the ktr lines,the operation is undertaken with the ktr type 001 diesel multiple unit limited express known as 'tango explorer.'
+in summer 2005:a train set made up of one ktr 8000 series car was broken down and the service between kyoto station and nishi-maizuru station was substituted by jnr series 183 for a period of approximately 20 days.
+march 18,2007:all trains became non-smoking.
+march 15,2008:the trains began operating through fukuchiyama station.
+tango discovery nos.1 and 64,which had been operated between toyooka station and kinosakionsen station as a rapid train,were discontinued(this measure was probably taken because,after the route had changed,tango discovery no.1 became able to make a cross-platform connection(a connection allowing cross-platform transfer)with the limited express 'kitakinki no.7' at fukuchiyama station.

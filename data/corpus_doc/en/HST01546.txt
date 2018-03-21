@@ -1,0 +1,725 @@
+bankoku koho
+"bankoku koho" is a translated name of a commentary on international law,which gave considerable influences to various countries in east asia by diffusing modern international law in a period from the second half of the nineteenth century to the first half of the twentieth century.
+at the same time,it was a term used as a translation of "international law" before the current translation "kokusaiho."
+the first part of this article will focus on "bankoku koho",the first translation of the commentary,translated and named by w.martin and its re-translations to other languages and it will mention how international law originated in western europe brought by this book was accepted in asian countries.
+[remark]in order to distinguish between the translated term and the name of book,hereinafter, "bankoku koho" means the name of the book,and bankoku koho means translation of kokusaiho(international law)and international law itself.
+today,the term "kokusaiho" has different meanings compare to the time of its introduction,for example,in the matter of existence or non-existence of the right of national self-determination,and the term "kokusaiho(or international law)" in this article is used to denote one in the modern age.
+by the way,after publication of "bankoku koho," many books related to international law have been published one after another.
+when we consider influence to a certain case,it is difficult to determine whether the case was just affected by "bankoku koho" or by other factors.
+therefore,in such case,it is described as "bankoku koho" to mean the influence given by the modern international law system including "bankoku koho."
+summary
+"bankoku koho" was the title of chinese translation of "elements of international law," which was the representative work of henry wheaton,who was a jurist specialized in international law.
+this translated term,bankoku koho had come to stay as a translation of "international law," as the book "bankoku koho" became widely known,and even when translating commentaries on international law other than "elements of international law," this term "bankoku koho" was used for the title.
+the translator was william martin who was american protestant missionary,who had been engaged in missionary work in china at that time and the translation was the first book that introduced full-fledged international law to east asia.
+the translation taught countries in east asia what was international law and gave significant influences to domestic political reform and foreign diplomacy in various regions.
+in particularly in japan,there was larger and quicker response compare to qing dynasty in china,where this book was first published,and the influence which the book gave to japan during the end of edo and meiji restoration period is not negligible.
+period background:gradual penetration of the treaty system to the east-international order around the time of introduction of international law-
+kaichitsujo(order between chinese dynasty and neighboring countries)
+in the international society in east asia in pre-modern times,international order was formed and maintained having china dynasty,which had significant presence politically,economically and culturally,in its center.
+neighboring countries of china including japan,korea,viet nam and ryukyu has formed and maintained stable international order by taking various stances toward china.
+depending on what kind of stance was taken toward chinese dynasty,neighboring countries were classified into several categories of international relations such as sakuho(conferring a peerage with papers),choko(bringing tributary)and goshi(relation to conduct a limited amount of trade).
+according to various studies in the past,package of such various international relations has been often expressed as the choko-sakuho system,goshi system or kaichitsujo(it differs by the target period or researcher.)
+here,it is called conveniently kaichitsujo.
+kaichitsujo looked from chinese dynasty was a view of the world based on sinocentrism projected to the reality and it was international order in which china is recognized as "ka" (culture)and the more remote from china,which was the center of concentric circle-shaped hierarchy the more remote from "ka" and come closer to "iteki" (barbarians).
+uniqueness of this hierarchy was that the area directly controlled by chinese dynasty and other areas were not separated with clear separating lines such as border between countries but recognized as continuous one.
+in more details,regions are roughly classified into the following three categories:-regions which were directly controlled by an emperor of china,who received the will of heaven(administrative districts called "sho(province)" were set up.)-indirectly controlled area(influential persons in outlands were appointed to doshi/dokan(local governor)and a certain level of autonomous control was allowed in exchange of tributes.)-outside of the territory(regions in which "iteki" lived;land which was not covered by influence of the virtue of the emperor;so-called "kegainochi(land out of states reign)").
+it was supported by the concept that in areas which are not directly controlled by an emperor of china such as the second or third categories above,the virtue of an emperor of china lost influence,and the power of control of china decreases accordingly.
+even an area is categorized as "outside of territory",it means that the land is just not easy to influence by control of china(or the virtue of an emperor of china)and it should be controlled by an emperor of china.
+various countries outside the territory were roughly classified into those countries which obeyed the chinese dynasty and other counties.
+countries which sent envoys to china and served.
+to such countries,political and economical returns such as sakuho(emperor's approval)and choko(in exchange of tributes,premium was conferred and the countries were allowed to trade with china).
+existence of envoys for sakuho or choko was recognized as the proof of emperor's virtue influencing "iteki."
+china and such countries were deemed to have formed international relation which was based on hierarchical relation between "soshukoku(suzerain state)" and "hanzokukoku" (or "zokkoku" or "fuzokukoku")(tributary state).
+however,relation between "soshukoku" and "hanzokukoku" was considerably different from that between "soshukoku" and "zokkoku(subject state)" in modern era and control by china did not influence domestic politics and diplomatic affairs in general,and china was not involved in relation between "hanzokukoku" and other countries that did not serve chinese dynasty.
+therefore,exclusive relation between lord and vassal was not strong and example of "double choko" (one country also brought tributes to other country than china)can be seen.
+in the former dynasty,ming, "sakuho" and "choko" had a large weight in the relation with various foreign countries,and such system itself remained without large change until the era of qing.
+however,it does not mean that the weight of "sakuho" and "choko" in the era of qing was same as that in the era of ming.
+in qing era,visits from european and american countries increased compared to ming era and trade with less political meaning than "sakuho" and "choko" continued increasing.
+such trading relation was called "goshi."
+countries which had relation through "sakuho," "choko," or "goshi" were called respectively "sakuho-koku(countries which were conferred peerage)," "chokokoku(countries which bring tribute)," or "goshikoku(countries which are trading partners).
+the above description applies to kaichitsujo which chinese dynasties had and neighboring states including japan,korea,ryukyu and viet nam accepted or shared selectively such kaichitsujo and its basis,sinocentrism,and involved in a part of kaichitsujo.
+with respect to the degree of acceptance,however,it was not unified and there were difference depending on power relationship with china(geopolitical influence)of each region.
+for example,there were multiple states that had "petit sinocentrism" and recognized not china but themselves as the center("ka")and,therefore,it was not that kaichitsujo of china covered uniformly international order of east asia.
+however,international order which such countries conceived of had similar structure with each other based on kaichitsujo and such petit kaichitsujo of each countries compromised and coexisted with kaichitsujo of chinese dynasty.
+in other words,the state in which a batch of petit kaichitsujo of each countries existed overlapping with each other was the international order in the world of east asia in premodern era,namely kaichitsujo as a whole.
+therefore,we have no other way but to say that it is very difficult to find uniform international order which apply to every country or district.
+at last,treaty system originated in western countries replaced kaichitsujo(or a batch of such kaichitsujo)that was not homogeneous or uniform depending on country or district.
+treaty system
+under kaichitsujo,international relations had been controlled with "li system" based on sinocentrism.
+european and american countries brought,instead of "li system," international order in which international relations were controlled by treaties under modern international laws to east asia.
+based on such background,this international order is called treaty system.
+as the treaties forced by europe and america were unequal treaties,it is also called "unequal treaty system."
+it is believed that the origin of modern international order is the peace of westphalia(1648)and the modern international laws have been developed;as the principle of order that governs such international relations.
+it was defined that the subjects that should operate international laws were sovereign states(for more information on modern sovereign states,refer to "diplomatic concept brought by "bankoku koho."
+the biggest difference from above-described kaichitsujo is the existence of the principle of legal equality between sovereign states.
+in kaichitsujo,own country and neighboring countries were ordered and positioned from cultural point of view "ka" and "i," and,from political point of view,understood as the relations between lord and vassal(suzerain state-subject state).
+as a general rule,therefore,chinese dynasty and neighboring countries could not be equal in mutual relation.
+on the other hand,under treaty system,sovereign states are legally equal and even regardless of the size or scale of the countries or power.
+however,the principle, "all nations are equal," of the modern international law existed just as a principle,and,in reality,it was not generally applicable to all nations but should be called "international law of christendom" originally applicable only among christian nations.
+modern international law had sublime justice and generality as its idealistic principles,but,on the other hand,it was very cruel to non-european and american countries and it had a function to justify colonialism by western countries.
+under such international law,applicability depended on whether or not the country in question was a "civilized nation," but this "civilized nation" was a self-representation of europe and america.
+in other words,the criteria for "civilized nation" was how close to western culture and,with this criteria,countries in the world were classified into three categories.
+at first,europe and america were defined as "civilized nations," and ottoman turks,china,japan and so on were defined as "semi-civilized nation" ("barbaric nation")and african countries and so on were defined as "undeveloped nation."
+if any countries was classified to "semi-civilized nation," existence of sovereignty was approved but certain restrictions were applied to such national sovereignty.
+to be more precise,such countries were forced to accept unequal treaties through gunboat diplomacy(threatening diplomatic negotiation backed with military force such as battleships and cannons).
+if judged as "undeveloped country, "no national sovereignty was approved and the relevant region was judged as "terra nullius."
+as modern international law has "rule of occupation" (rule under which the county that discovered a land first has sovereignty)as one of its features, "undeveloped country" was automatically deemed as "terra nullius," and,therefore,colonies could be established freely(kobayashi 2002).
+as described above,modern international law had two faces to apply it differently to "civilized nation" and "non-civilized nation," and certain researcher call this as "double standard of modern international law." (takamura 1998)
+from the beginning of the nineteenth century,the range of application of this modern international law was expanded to whole world including,the middle and near east,africa and east asia through gunboat diplomacy that was contradictorily to the heralded idealistic principle.
+in east asia,the first example of this treaty system was treaty of nanking concluded after the opium war.
+the treaty concluded between the qing dynasty,which was the last dynasty in china,and great britain was an unequal treaty based on modern international law.
+after conclusion of this treaty,the qing dynasty concluded treaties modeled after it with various countries and,when "bankoku koho" was published,such treaties had been concluded with over twenty countries.
+however,conclusion of such treaties was one thing and whether or not they had intention to abide by the idealistic principle of international law is another.
+in turkey and china,the unequal treaty was understood as a privilege given to western countries and disadvantage to own country was not recognized.
+what helped to correct such understanding about international law and promote participation in treaty system voluntarily was a commentary of international law named "bankoku koho."
+original article:elements of international law
+author of the original article:henry wheaton
+the original article of "bankoku koho" is "elements of international law" by henry wheaton.
+wheaton was a jurist and diplomat who represents pioneer era of international jurisprudence in the united states of america.
+he started as a lawyer and experienced a judge in the new york maritime court and a reporter of the supreme court of the united states.
+while building his carrier in the legal world on one hand,he was appointed to u.s.charge d'affaires to copenhagen and u.s.charge d'affaires to prussia(later,a minister extraordinary and plenipotentiary)and played active roles as a diplomat on the other(matsukuma 1992).
+his experiences as a diplomat while belonging to the judicial circle evolved into the work, "elements of international law."
+in japan in the meiji period and chine,which did not have katakana,wheaton was written as "恵頓" (pīnyīn:huìdùn).
+character
+"elements of international law" was commentaries of international law which,at the time of its publication,had high authority and fame next to "de iure belli ac pacis" of grotius.
+the first edition of this book was published in 1836,it was very well accepted in english-speaking countries such as u.s.a and great britain but also in other countries in which europe languages were spoken,it was translated into languages of various countries starting with french and german versions.
+one of characteristics of this book is that it was written based on both of natural law and positive law.
+although details should be consulted with articles on natural law and positive law,natural law is a legal concept which does not look for the origin of law(basis on which law can exist,namely source of law)in artificial provisions but considers that source of law is derived from generality(or what thought to be)and justice.
+on the other hand,positive law is a legislation created by aritificial existence such as a legislative organ which does not adopt metaphysical generality as a source of law and has a nature to understand the law to be effective only in a certain region and era and,in other words,it means accumulated court cases,customary law and statutes.
+based on the above,the trend of the modern international law will be briefly described.
+grotius build a foundation of international law putting emphasis on the idea of natural law.
+in international jurisprudence after him,however,the tendency to attach more importance to positive law,and emmerich de vattel advanced a theory which was based both on natural law and positive law.
+wheaton also took an eclectic stance between natural law and positive law.
+with respect to the era in which wheaton was active,however,it was a period in which the flow from natural law to positive law was accelerated,and in revising his work "elements of international law," he shifted his standpoint gradually toward positive law.
+in particular,on the occasion of revision to the third edition,reference to positive law occupied a larger portion.
+however,he never abandoned natural law totally(matsukuma 1992).
+this "elements of international law" consists of four chapters, "source and subject of international law," "basic rights of nation," "rights of nation in times of peace," and "rights of nation in wartime," and it covered almost all basic matters for the modern international law.
+as its contents overlaps with that of "bankoku koho," it will be described later.
+chinese translation of "bankoku koho" -acceptance in china-
+history of translation
+for powerful countries which had acquired a lot of practical advantages by unequal treaties concluded after the opium war and the arrow war,it was needless to say desirable that the qing dynasty would learn international law.
+this was because they thought that if the qing dynasty would learn and abide by international law,it would be possible to make negotiation smooth and stabilized without using large-scale gunboat diplomacy again.
+therefore,movement to introduce "bankoku koho" was initiated from the european and american side.
+robert hart(his name in chinese:羅伯特•赫徳),who stayed in shanghai as an inspector general of customs translated a part of "elements of international law" and provided to the qing dynasty.
+on the other hand,china had maintained until the arrow war its solipsistic diplomatic attitude based on sinocentrism and would not adopt vital notions indispensable for modern international relation such as international law and treaty.
+because of the treaty of tianjin and the treaty of beijing resulted from the arrow war,the qing dynastic was obliged at least from diplomatic point of view to recognize western countries as equal existence to own country.
+in more details,the qing dynasty that had deemed foreign countries as "iteki" from its sense of value based on sinocentrism,but it prohibited to denote western countries as "i(夷,a character means other ethnic groups)" in its official documents and,at the same time,established zongli yamen which was a diplomatic organization in charge of modern international relations.
+such big switch of diplomatic policies of the qing dynasty was carried out by grand prince yixin and wenxiang who played leading role in political situations of the qing dynasty after the arrow war.
+they were high officials from manchus who conducted peace talk and there occupied the nerve center of newly established zongli yamen and had a complete control of diplomacy and modernization policy.
+grand prince yixin and others were originally moderates who had been against war with foreign countries and tried to carry out realistic diplomacy.
+in the same period,local high officials including guofan zeng and hung chang li,who quashed taiping rebellion,also understood importance of studying advanced technology of western countries and were promoting modernization of military system and industries.
+such activities were called yomu undo(western affair movement).
+namely,in the qing dynasty since 1860's,movement to absorb knowledge and technologies of western countries had been gathering momentum and interest in international law was its extension.
+in order to follow the lead of the style of western counties in diplomatic negotiation,the qing dynasty had to know their sense of value and principle of behavior.
+for such purposes,commentaries of international law was sought for.
+however,such acceptance of international laws was not made because they sympathized the idealistic principle of the modern international law and positively to take part in it.
+the reason for it was that in the negotiation with western countries,discussions did not mesh even if the qing dynasty refer to "fixed rule of the dynasty(precedents based on sinocentrism)" and requirements of the western countries could not be refused.
+it was conducted with the aim to carry out diplomatic negotiations advantageously by using in underhanded way international law which was valid among western countries and it had a nuance of acceptance as a tool for maintaining kaichitsujo rather than idealistic principle.
+therefore,such acceptance of international law has been commented as a diplomatic version of "learn the strong points of iteki and use them to defeat them." (a part of "illustrated treatise on the maritime kingdoms" by wei yuan).
+william martin and translation
+an american missionary,william martin(william alexander parsons martin;chinese name "丁韙良")set his hands to translation.
+after martin came to china in 1850,he stayed in china and played important roles in various areas such as drafting of treaty of tianjin,teaching of western scholarship in tongwen guan in beijing(literally,school of combined learning)and imperial capital university(former peking university)and mission of christianity.
+he is known with his significant influence to modern chine in the field of education and translation and translation of "bankoku koho" can be said to be his representative achievement.
+the reason why martin commenced chinese translation of "bankoku koho" was through insistence of john e.wade(chinese name:華若翰),who was u.s.minister in qing and anson burlingame(chinese name:蒲安臣)and robert hart.
+as martin had lived in china for many years,he had no difficulty in reading and writing chinese language.
+translating work was begun in 1862 when he was staying in shanghai.
+next,when a certain portion had been translated,he went to tianjin and submitted translation to chonghou,who was an influential official of the qing dynasty.
+after that,it was officially approved by zongli yamen and its publication was decided.
+with respect to the year of publication,there is a difference of opinion among researchers.
+one is november 1864(熊1994,sato 1996,and田2001)and january 1865,next year(banno 1973).
+translation of "bankoku koho" was possible only with cooperation by several chinese persons.
+based on uncompleted manuscript submitted to chongshi,text of translation was elaborated by four persons,shimeng he,dawen li,wei zhang,and jingrong gao,but the result was such that was commented as "meanings of sentences are ambiguous" and it had too many problems to published as it was.
+after obtaining official permission by zongli yamen,it was revised with cooperation by qin chen,changhua li,junshi fang,and hongtu mao,who were officials of zongli yamen,and translation was completed after a half year.
+the work involved large difficulties because concept of law was completely different between china and western countries,and there was a big difference in the way of thinking about international relations.
+the reason why martin did not give up translating work although there was difficulties was not only simple honor but he had s strong belief of his own.
+for him,who was a missionary,translation of "bankoku koho" was a part of his missionary activities for christianity in a broader sense.
+with respect to international law,martin said, "international law is applied among various countries and it cannot owned by a single country" (legend in "bankoku koho")and he understood that these official rules existed among european and american countries were as one of the best results generated by christian civilization.
+he intended to correct gradually assumption by sinocentrism that deemed the western world as iteki by making international law widely understood in china(through translating work for "bankoku koho").
+he had a vision that it will become an advantage later for mission of christianity.
+it can be said that such religious sense of responsibility was the core of motivation for the translating work(張嘉寧1991,sato 1996).
+after publication of "bankoku koho," martin assumed the job of teacher for english language,international law and politics in tongwen guan,which was a public language school established in 1865 with a purpose to bring up interpreters in the field of diplomacy,and,later,he was promoted to the school master.
+he often used the name, "international law and language school" as english name of dobunkan.
+from this,it can be understood that he did not look at dobunkan as a mere training institute for bringing up interpreters but as a bases for making international law widely understood(sato 1996).
+in fact,following "bankoku koho," translations of international law such as "星軺指掌," "公法便覧(introduction to the study of international law)," and "公法会通" were translated and published by dobunkan.
+they became a part of momentum to communicate various regions in asia what was international law and establish a foundation of modern countries.
+contents
+construction
+"bankoku koho" consisted of four volumes which contains 12 chapters covering 231 subsection and it was published by北京崇実館.
+300 copies were printed and distributed to officials in various regions starting with governors and junbu(grand coordinators).
+the construction is as follows:
+sentences in brackets were added by the writer.
+volume 1:釈公法之義、明其本源、題其大旨
+(meaning of international law is explained,the source of law is made clear and summary is described.)
+chapter 1.釈義明源(meaning is explained and the origin is made clear.)
+chapter 2.論邦国自治・自主之権(self-government of a nation and rights of autonomy are discussed.)
+volume 2.論諸国自然之権
+(natural rights of a nation are discussed.)
+chapter 1.論其自護・自主之権(rights of self-defense and autonomy are discussed.)
+chapter 2.論制定律法之権(right to enact statutes is discussed.)
+chapter 3.論諸国平行之権(right to equality of nations is discussed.)
+chapter 4.論各国掌物之権(proprietary right of a nation is discussed.)
+volume 3.論諸国平時往来之権
+(right to have relations between nations in peace time are discussed.)
+chapter 1.論通使之権(rights of minister are discussed.)
+chapter 2.論商議立約之権(right to conclude commercial treaty is discussed.)
+volume 4.論交戦条規
+(rule of conduct is discussed.)
+chapter 1.論戦始(opening war is discussed.)
+chapter 2.論敵国交戦之権(rights of countries in a state of war are discussed.)
+chapter 3.論戦時局外之権(right of neutrality is discussed.)
+chapter 4.論和約章程(peace treaty is discussed.)
+items treated in "bankoku koho" covers a wide range of subjects such as subjects and objects of international law,source of law,relation between international law and domestic law,relation between treaties,diplomacy and consular,explanation of territory and waters as a scope to which sovereignty of a nation covers,rules for treating international conflict and rules for peace talk,and neutrality of third party countries during war and,therefore,it can be called a book of systematic commentaries for international law.
+in order to show particular cases of international law,political systems and history of western countries were often referred to and,therefore,it functioned as a source of information on situations in europe and america which were thirsted at that time.
+regarding translation
+in comparing the original article and translation,we have to pay attention which version of the original article is used as the original text.
+with respect to versions of the original article, "elements of international law," the first and second versions were issued in london and philadelphia in 1863,the same year.
+the only difference between them was that while the former was issued in two volumes,the latter was published as one-volume book,and,other than that,there was no difference in contents for example.
+the third version(1848)was added with court cases and so on.
+the fourth edition(1848)was published in paris,france and the fifth edition(1852)was german edition.
+the author,wheaton,took part in revision up to the fourth edition and,after that,his friend,w.b.lawrence succeeded revision work resulting in the sixth edition published in 1855.
+this version is called sometimes lawrence version.
+in 1864,lawrence published the seventh edition,but,as a trouble occurred between wheaton's bereaved family and lawrence,revision work was left to r.h.dana.
+it was resulted in the eighth edition(dana version)published in 1866.
+judging from the timing of publication,the version which could be referred to for chinese translated "bankoku koho" is up to the seventh version.
+taking transportation condition at that time in consideration,however,arrival of the seventh version in asia was very late compared to the year of publication,it is understood that the reference to the seventh version was difficult.
+as it is quite sure that dana version was published only after the publication of "bankoku koho,"the original text for "bankoku koho" must have been one up until the sixth version.
+as it was not described in "bankoku koho" what was the original text,it cannot be identified clearly.
+judging from the timing of translation,paragraph construction,captions and sentences,the opinion that believe the sixth edition was the original text is most popular(sumiyoshi 1973,張嘉寧1991).
+main characteristics of the translation are as follows:
+it is not word-for-word translation.
+the first characteristics to be noticed is that "bankoku koho" is bold translation of which certain parts can be called free translation.
+as martin himself admitted,the translation was such that summarized the original using its drift,and detailed explanation of cases,data on timing and commentaries shown in the original were often omitted.
+use of newly created words
+the next characteristics was existence of many new words and transliteration.
+in introducing concepts in foreign culture,the largest difficultly exists in harmonization between such culture and culture of the own country.
+translation is a work in which the drift of the original is grasped at first and,then,words of the own language that is the closest to it,and the sentences are revised to make them natural ones,but,the shorter the history of translation is,the more such difficulties increase.
+the reason why is that,in order to introduce new concept that has not existed in the own culture,the translator is obliged to create new word and,then,if too many such new words are used,the translation becomes incomprehensible.
+the troubles which were experienced by martin and yan fu,who translated many documents later,or,even in japan,many intellectual persons who were involved n translation works in the end of edo period and meiji period are beyond our imagination.
+representative new words were "kenri(rights)," "shuken(sovereign rights)," and "minshu(republic)" and so on.
+they have been used until today not only in china but also in japan and,by that fact,we can say that we who are living in the present world have been enjoying the benefits of "bankoku koho."
+in this respect,refer to the following section regarding japan.
+one thins we have to note is that such newly created words settled down in china as they were.
+as the influence of "bankoku koho" worked very slowly in china,it did not occur so that new vocabulary used in it became popular in china and then they were disseminated to japan.
+after "bankoku koho" was brought to japan,most of new vocabulary was once settled down in japan and they were brought back to china by chinese students who visited japan on the occasion of booming of studying in japan occurred after the sino-japanese war(林1995).
+other than them,it contains newly produced words which were created by transliteration of proper nouns.
+transliteration of the word "president" to "伯理璽天徳" (pīnyīn:bólĭxĭtiāndé)is one example.
+today,it is translated as "大統領" to mean a head of republic,but,at that time,since readers had no knowledge of that kind,it was considered that,even if they used a newly created word,readers could not understand correctly and it was determined to express pronunciation of the work in chinese characters.
+this "transliterated" word was disseminated to japan and used,but gradually replaced with the translation "大統領."
+emphasis on understanding of natural law
+most important feature to be noted is that this translation had strengthened nature of natural law compared to the original text.
+as mentioned in the section for wheaton,at the beginning,the original text was based on both of natural law and positive law,but enlargement to strengthen the nature of positive law side was made in its third edition.
+in this "bankoku koho," however,contrarily to the original text of wheaton,the posture to understand international law attaching importance to natural law.
+this was a bias resulting from martin's religious sense of mission in which international law was grasped as metaphysical norm like natural law in translating "bankoku koho" as martin himself wrote in his letter to his friend, "my job is to make this atheistic government(qing dynasty[note by the writer])to recognize god and god's eternal justice.i would be able to give them spirit of christianity to some extent."
+it is believed that selection of vocabulary by four government officials who were dispatched from sorigamon and revised translation also affected to this tendency of attaching importance to natural law(張嘉寧1991).
+although we call it natural law,one in "bankoku koho" shows,while it is based on christian way of thinking,strong confucian color.
+this is because that martin and so on tried to add stress on "universality" by fully utilizing confucian terms in order to make international law easily understandable to chinese.
+under sinocenturism,imported concept was never accepted unless it was understood to be "true" (to be excellent universally)and "being originated in itself(to be of chinese origin)at the same time(sato 1996).
+in the case where such concept was accepted,it was often disguised with respect to its origin of the object of acceptance so that mental resistance could be reduced on chinese side.
+it appeared as a twisted argument such that lao-tzu went to india and became shakyamuni(legend of lao-tzu becoming an indian),and natural science in western countries was theory of mozi which had been transferred to the west and flourished there.
+"universality" mentioned above was ensured by "finding" in confucian scriptures such as rongo(analects of confucius)that concepts of international law existed in fact in old china.
+through such "discovery," readers became to have an impression that the origin of international law and confucianism had affinity with each other and,as a result, "bankoku koho" (modern international law)was accepted as one with global "universality" including china.
+inclination of "bankoku koho" to natural law is conspicuous in the section for description of the source of law which explained from what the law was originated.
+in terms of international law,words with confucian words such as "性" and "義" were used in combination with "法" and,therefore,the structure became such that made chinese easily understand international law bringing it closer to natural law.
+for example,although "natural law" is translated as "自然法," in modern language,martin gave it a translation "性法."
+this "性" means the basic principle of confucianism, "理" and,if "理" which is considered to be the origin of all beings and to be a rule dwells in individual thing,it is "性."
+in the case of human being,it means types of virtue, "five constant virtues" (benevolence,justice,courtesy,wisdom and sincerity).
+(for more information,refer to the section "seizensetsu" [the ethical doctrine that human nature is fundamentally good].)
+accordingly,when people at that time saw the word "性法," it was accepted with understanding that modern international law was(confucian)morality and law which were blended together.
+namely,although modern international law including "bankoku koho" is such that prescribes rights and obligations between nations,it was understood to be such that was universal and metaphysical rule which should be abided by nations all over the world.
+the tendency of translation by martin as described above affected acceptance of international law in east asia and,in japan,it was understood combined more deeply with confucian concept of natural law.
+acceptance
+diplomatic concepts brought by "bankoku koho"
+china and neighboring countries learned diplomatic concepts,which had not existed before that,from "bankoku koho."
+diplomatic concepts used today in asian countries including japan and china was brought with this translation.
+the following diplomatic concepts function not only as mere knowledge written in books but also concrete requirements or guideline to determine whether a nation is "civilized country" accepted by the modern international law.
+it was understood that modern international law was not applicable or it was restricted in application to any nation which did not share same diplomatic concepts.
+national sovereignty and mutual respect for it
+"bankoku koho" attaches weight to that each nation has sovereignty and the sovereignty was an indispensable requirement for the appearance of nation and in the first half of the book,spaces were spent most for sovereignty.
+sovereignty in international law means that the nation is independent externally,has the supreme power internally and can reject any interference from something other than them.
+in more concrete terms,it means to have authority to control territory,people and properties and other rights such as law-making,administration and judiciary and the borderline that divides areas to which such rights are applicable and not applicable were made clear.
+principle of equal traffic between nations
+when any country has traffic with other countries in the same treaty system,they should associate with each other equally regardless of the size of nation.
+for example,when dispatching ministers,not only one party dispatches a minister,but,in usual case,both countries dispatch ministers to each other.
+it is also required that,in concluding any treaty,languages used and signatures are required to be equal.
+it was acknowledged with each other that ministers in foreign countries have diplomatic privileges such as one for not easily arrested and guarantee of status for ministers were promised.
+abiding by international law and treaties
+traffic and association between nations are conducted based on concluded treaties and,if the nations have no intention and capability to abide by it,conclusion of such treaty has no meaning.
+therefore,if treaties or international commitment is not(or,cannot be)abided by,it is deemed inappropriate as a "civilized country."
+whether or not a foreigner staying in the country could be protected anytime was understood to be a criterion whether or not the country was a "civilized country" with respect to governance of the nation and consideration for foreign countries.
+transferred political thoughts
+translation of "bankoku koho" brought not only diplomatic ideas.
+together with them,many thoughts were made to be known by people in asian countries.
+conception of natural law
+although traditional way of thinking which understood that laws should be prepared and enacted by an emperor("national laws are family laws of an emperor")was dominant until that time,new conception of heaven-sent law without mediation by an emperor was brought in.
+conception of democracy and republicanism
+in explaining domestic laws of each country, "bankoku koho" often mentions political systems such as monarchy and republic making chinese people,who knew only monarchy,know that there were various political systems in the world.
+thought of nomocracy
+conception of separation of powers
+(何2001)
+other than those, "bankoku koho" contains a map of the world,which was not included in the original book,at its top showing that china was a part of the world and a country among a large number of countries.
+wide-spread dissemination of "bankoku koho"
+although modern international law including "bankoku koho" was known to governmental officials and intellectuals,those who did not become the majority in a short period of time in china.
+it can be said that its penetration was rather slow compared to japan,for which explanation will follow.
+however,the number of officials who were dispatched to overseas countries as diplomats increased and interest in "bankoku koho" among such people was increased.
+due to expectation for such demands, "bankoku koho" was reprinted and there are several editions including上海申昌石印本(1898)and pirate editions.
+before long,it started to be adopted as a text book for jurisprudence in newly established schools where western studies(western and american knowledge)was taught(田2001).
+it was after the sino-japanese war that "bankoku koho" had been accepted and recognized more widely(林1995).
+because of increase in interest after the war on japan in the meiji period and resulted booming of study in japan,it was disseminated to the continent that there was a close relationship between acceptance of modern international law and fukoku kyohei(fortifying the country,strengthening the military).
+chinese students not only tried by themselves to absorb new knowledge in universities in japan but also published own magazines in which their translations were published and also published their articles in the form of books.
+later,they were brought to the continent and gave significant influences in politics and thoughts.
+in this period,a large number of translations(not limited to those related to laws)were brought from japan to the continent and,for the convenience of people looking for new knowledge,several book catalogs were made.
+for example,when looking for books which relate to pedagogy and have been translated into chinese,such catalogs were used to find the name of book.
+representative catalogs at that time were "日本書目志" (1898), "増版東西学書録" (1902年), "訳書経眼録" (1934)and so on,and we can find in such catalogs a large number of books related to international law.
+some of them are shown below and we can know from the large number of translated books in japan that such translation played a certain role to make chinese people accept modern international law at the end of qing dynasty.
+"bankoku koho shi",one volume,translated by蔡鍔,published by広智書局
+"bankoku koho seigi" one volume,translated by林啓,published by閩学会
+"bankoku koho yoryo" by jinzo numazaki,two volumes,translated by袁飛,published by訳書彙編社
+"koho shinpen" four volumes,translated by丁韙良,published by広智書局
+"bankoku koho yoryaku" by(英)労麟賜,four volumes,translated by林学知,published by広智書局("労麟賜" means w.b.lawrence who was involved in revision of the original article.)
+books listed above were published in china.
+"kokusai shiho(international private law)" by teiji ito,published by tokyo hogakuin,1888
+"堅土氏万国公法" by james kent,translated by蕃地事務局,and proofread by ryutaro odo
+"bankoku koho fu hanketsurei(international law with court cases)" edited by ryuzaburo fujita,published by okajima hogyokudo,1891
+"波氏万国公法" by shogo akiyoshi
+"海氏万国公法," right to publish is owned by the ministry of home affairs(japan)
+"bankoku koho yoketsu(summary of international law)" edited by jinzo numazaki,published by hakubunsha,1888
+"kokusai shiho(international private law)" by ryojiro fukuhara and teitaro hiraoka,published by kinkodo,1892
+books listed above were issued in japan and brought to china.
+as acceptance of modern international law had progressed,not only mere translation but also works in which "bankoku koho" was annotated by chinese people were issued.
+"万国公法釋義" annotated by cáo tíngjié (1901)is a typical example.
+cáo tíngjié experienced occupation of three provinces in the northeastern china by russia after giwadan war and "万国公法釋義" was prepared by adding annotation to "bankoku koho" with the aim of protecting the nation with international law.
+"bankoku koho" in diplomacy at the end of qin dynasty-example of utilization-
+so far,explanation on how qin dynasty accepted modern international law was given,but it was not so that qin dynasty accepted it passively.
+as described later, "bankoku koho" was accepted as a tool to convince western countries and use as a tool was conducted since the early period.
+the following cases are a part of examples of utilization.
+dagukou incident between prussia and denmark
+the first diplomatic negotiation based on international laws was a negotiation with prussia in 1864.
+at that time prussia was in a state of war against denmark and seized three belgian-registered vessels at taku river mouth in territorial waters of qing dynasty.
+on the other hand,grand prince yixin blamed prussia for the action and claimed it was considered to be infringement of sovereignty according to "bankoku koho."
+prussia took a severe attitude at first,but changed it after the qing dynasty took a tough stance and grand prince yixin rejected a meeting with new minister of prussia,then prussia paid 1,500 pounds of reparation and released the belgian vessels.
+at the time of the incident, "bankoku koho" was not published yet,however the qing dynasty had studied the contents previously(田2001).
+protection for chinese abroad
+traditionally qing dynasty had not provided protections for chinese who lived abroad for purposes such as trade;however,the qing dynasty came to know that western countries set commerce as foundations of a country and actively protected merchants in foreign countries,then the qing dynasty also started providing protection for chinese abroad based on 'bankoku koho' (motegi 2000).
+negotiation over ili region between the qing dynasty and russia
+in 1871,russia dispatched military units and seized the ili region.
+in response,the qing dynasty sent zuo zongtang,destroyed yaqub beg's forces and regained control of xinjiang area except ili region.
+however,russian military units remained in ili region,qing had to negotiate over withdrawal with russia.
+with regards to the negotiation,there were fierce debates whether the negotiation was right or wrong in the qing dynasty,and both side repeatedly cited "bankoku koho"as ground of their allegations.
+zeng jize,who conducted the negotiation,also abided by international law and negotiated with russia(田2001).
+bankoku koho' and social evolutionism
+"bankoku koho" started being accepted in china as understanding of natural law through confucian morality as mentioned above;however,a gap between "bankoku koho" and actual global situation,in which imperialism worked anywhere was gradually recognized.
+this approach to "bankoku koho" was changed dramatically by new thought,social evolutionism also brought from european and american countries.
+yan fu introduced the thought by his translation,titled "天演論" (translation of "evolution and ethics" by t.h.huxley)(published in 1898),and it dominated china in end of the century making phrases such as 'the best always win' (弱肉強食), 'the survival of the fittest' (適者生存)' and 'struggle for existence' (優勝劣敗)famous.
+from the confucianism and natural law perspective,the public and moral characteristics of "bankoku koho" were considered to have been derived from heaven(nature);however,from the 'social evolutionism' perspective,this same heaven was said to promote competition between countries in order to facilitate their evolution through friendly rivalry.
+in that case,conceptions of protection for the weak or equality were not included,and also the role of heaven was completely changed.
+namely the world situation,in which strong countries annexed small countries(age of imperialism)was considered natural providence and resulted in believe that principles of "bankoku koho," such as '万国並立' or '万国対峙' (equality of countries)were mere slogans.
+later,as spreading of thought that to be a civilized country(equal to a strong country)was necessary to dissolve unequal treaties and reap a benefit of 'bankoku koho,' the thought became a factor to promote fukoku kyohei reform(fortifying the country,strengthening the military)aiming powerful western countries.
+influences
+coexistence of two contrary concepts,kaichitsujo and treaty system and disappearance of kaichitsujo.
+conclusion of the treaty of nanking brought treaty system to china,but kaichitsujo based on sakuho and choko did not fall apart at a time and still coexisted with the treaty system for a while.
+the qing dynasty built relationships based on treaties between european countries and american;on the other hand,the qing dynasty maintained relationships based on kaichitsujo with asian countries around china such as korea,vietnam and ryukyu and tried to keep the relations on a permanent basis.
+however,as those asian countries which conducted sakuho and choko to the qing dynasty became colonies of western countries and america,the qing dynasty was also put pressure continuously by powerful countries after the opium war,especially when ili region was seized by russia,the sino-french war,the taiwan expedition and the japanese-sino war occurred.
+kaichitsujp,of which china was the center completely disappeared by conclusion of treaty of shimonoseki(1895)because the last country,which conducted choko to the qing dynasty dropped from kaichitsujo by the conclusion of the treaty.
+change of sinocentrism(change of a view of the world)
+disappearance of kaichitsujo affected change of sinocentrism,which supported kaichitsujo as the basis of the thought.
+it took a long time for acceptance of "bankoku koho" in china.
+as western countries had been using "bankoku koho" for their profits,people in china had strong distrust in "bankoku koho" and this psychological resistance among people made smooth acceptance of "bankoku koho" impossible.
+another reason is attributed to motivation for translation of "bankoku koho."
+at first chinese side did not recognize that translation of "bankoku koho" directly meant joining the system based on international law.
+chinese side understood that treaty system was partially-modified kaichitsujo based on choko and goshi and acceptance of international law was just a special case.
+for example,grand prince yixin,who asked permission from the throne to translate "bankoku koho," needed "bankoku koho" only to enable him to refute the arguments made by powerful western countries in their diplomatic requests.
+with regards to one-sided most-favored-nation treatment based on unequal treaties,it was not considered unfair at first but as benefits for iteki given by china based on a thought "一視同仁" (china treats all iteki equally).
+as explained above,the idea based on sinocentrism was stuck in minds of topsiders of the qing dynasty,and those topsiders recognized china as a special exception and thought international law should not be applied to china.
+progressing translation work of "bankoku koho" together,however,the thought of grand prince yixin and that of the translator martin were absolutely different.
+after the arrow war,however,a lot of issues were raised as europeans and north americans started to create colonies and concessions and go inland for trading or missionary work of christianity in china.
+for instance,incidents against christianity called kyoan(教案)which put local officials in troubles frequently occurred in many places and even officials in remote place from coastline were troubled.
+it is because there were europeans and north americans who came from the direction of tibet.
+because of these troubles,the bureaucracy of china had to be cautious about negotiation with powerful countries which always tried to make profits shielding themselves behind international law and treaties.
+these difficulties in administration created the attitude toward acceptance of "bankoku koho."
+against the thought that unequal treaties,starting treaty of nanking were grace given by the qing dynasty,unequal sides of treaties were gradually recognized,and revision of those treaties was set as diplomatic objectives.
+some of the reformist government officials and intellectual people understood disadvantages caused by the situation that china was outside of international law system.
+having the understanding that china was outside of international law system made suppression of kyoan incidents or effort to revise unequal treaties difficult.
+fucheng xue,who worked actively as a diplomat proposed to hand out "bankoku koho" to local officials at large insisting that local laws of china was outside of the international law system and this would make disadvantages.
+while making diplomatic effort to place china under international law system, "civilization" factors in western nations,which were different from that of iteki were discovered.
+until then powerful western countries were recognized as iteki because they seemed to put weight on power and profit rather than the proprieties and virtue and disorderly attack others by prior experiences.
+however,by reading "bankoku koho" and increase in the number of people going abroad as minister,realization that there was a rule based on virtue in western countries gradually gained ground.
+namely '公' (public)of 'bankoku koho' (万国公法)was understood as equitable virtue,which came before nations and therefore it was accepted as universalistic rules(motegi 2000).
+this positive acceptance of international law was not shared by large numbers of people at the time of yomu undo but it was a chance that kaichitsujo based on sinocentrism,in which china maintained self-centered attitude was unsettled and changed.
+existence of "bankoku koho" played important role to pull china out of the thought of sinocentrism and gave recognition that china was one of nations in the world.
+japan-spread to neighboring countries 1-
+acceptance of "bankoku koho"
+arrival of "bankoku koho"
+soon after the publication in china,chinese translation of "bankoku koho" was brought to japan at the end of the edo period and gave significant impact.
+already in 1865 and 1866,the year that "bankoku koho" seemed to be imported,well-known persons in the late edo period and the meiji restoration interested in import of "bankoku koho."
+for instance tatsuo kumoi,who was a disciple of sokken yasui and a feudal retainer of the yonezawa clan bought "bankoku koho" in yokohama,then kaishu katsu lent it to shungaku matsudaira.
+ryoma sakamoto,who was a disciple of kaishu katsu planned to reprint of "bankoku koho."
+if the publication of "bankoku koho" in china was january,1865,this means "bankoku koho" arrived and was read by patriots in japan within a year.
+because of expanding demand for the book,the amount supplied from china was far too few to meet demand and publication of 'pirated version' "bankoku koho" was immediately started.
+in japan the first reprint was conducted at kaiseijo,which was a school established by the edo bakufu(japanese feudal government headed by a shogun)for education of western studies.
+following this, "bankoku koho yakugi" translated from chinese into japanese by shishi tsutsumikoku and "wayaku bankoku koho" translated by yasutsugu shigeno were published.
+in addition,the book directly translated from the original by wheaton "kodokigen ichimei bankoku kohozensho"translated by mitora uryu was published.
+as many books titled with the word 'bankoku koho' were published other than above examples from the end of the edo period to the early meiji period,significance of "bankoku koho" can be seen.
+in japan influences of "bankoku koho" spread widely and quickly.
+with regards to this point,nobushige hozumi wrote "intellects at that time scurry to read the book" ("hoso yawa")saying "bankoku koho" was read as if the book was some sort of scripture.
+emphasized understanding based on natural law
+although "bankoku koho" was treated like a scripture in japan at that time,whether understanding of international law proceeded at a rapid rate or not remains questionable.
+with regards to acceptance of "bankoku koho" in japan,the understanding of "bankoku koho"widely spread in japan contained a characteristic of natural law,which was emphasized than that in china.
+for example,above mentioned "bankoku koho yakugi" defines 'bankoku koho was made only for humanity(恕).'
+"恕" is a word from "rongo" (analects of confucius),which means to think of another person just like to think of oneself and it is a basic concept of confucian ethic.
+the definition means that law as rules was understood and accepted as moral values and to think of other countries just like to think of own country was mentioned in the sentence.
+new words of chinese origin
+"bankoku koho" brought a lot of new words of chinese origin to japan.
+those words were used not only among intellectuals but also in educational fields and this encouraged adoption of new words.
+there are many new words of chinese origin,which originated from "bankoku koho."
+these new words were not limited only to those words that martin and others created,but also includes phrases from chinese classics that were transformed into legal terms;these were written the same way but had different meanings.
+for instance,the word "koho" can be seen in the chapter 'yudo' (having regulation)of "han fei tzu" (a book of chinese thought),but the word as "international law" was used first time in "bankoku koho."
+followings are examples of the words which used today(matsui 1985).
+nation debt,annexation,independence,prize of war,special privilege,time of peace,democratic,allied power,barbarian,exceeding one's authority,strait,in every,excessive,traditional practice,system of government,express,compulsion,common,cooperation,right of ruler,present,present,lawful,pledge,misunderstanding,national assembly,private,real power,practical business affairs,first place,sovereignty,final appeal,business affairs,bible,exclusive prerogative,whole country,wartime,prewar,on boat,total abolition,appurtenant land,recapture,direct,special contract,sudden,article,cannonball,certain country,exception,federation,right etc.
+translation of law terms was conducted by mamichi tsuda,hiryoyuki kato,rinsho minotsukuri and amane nishi(illuminator)and what they referred to was "bankoku koho."
+they belonged to dojin(literary group[coterie])of meirokusha(japan's first academic society)and had a great influence.
+they used translated terms in their works,this encouraged adoption of the new words of chinese origin used in "bankoku koho."
+"bankoku koho" and international law in the late edo period and the meiji period
+arrival of "bankoku koho" was not an encounter with western europe origin thought of law and it gave big impact on japan in the late edo and the early meiji periods.
+end of the edo period
+the first reprint edition of "bankoku koho," the kaiseijo version had guiding marks for rendering chinese into japanese and the guiding marks were put by amane nishi.
+amane nishi studied international law in the netherlands and came back to japan in 1865.
+after coming back to japan he became a teacher of kaiseijo of the bakufu and he submitted reform proposals such as 'gidai soan' and 'besshi gidai soan' in 1867.
+in the 'besshi gidai soan,' there was a word 'bankoku koho.'
+those reform proposals were plans for system of government centered on the tokugawa family and indicated future after taisei hokan(transfer of power back to the emperor),in addition,separation of powers was also included in the plans.
+however,the decree(of 1867)for the restoration of imperial rule was enacted in the following month and the draft of the plans were not actually used.
+arrival of "bankoku koho" resulted in change of diplomatic policy of satcho(the satsuma and choshu domains)and diplomatic policy was changed from joi-ron(principle of excluding foreigners)to kaikoku-ron(theory of opening of a country to the world).
+"bankoku koho" was recognized as law which international society should abide by and it also referred to the right to equality of nations in the world(such as "万国並立の権," "諸国平行の権").
+wide-spread concepts of the bankoku koho gave a reason that restoration government of the satsuma and choshu domains inherited the unequal treaties which were concluded between foreign countries and the edo bakufu and also a ground to persuade people who supported joi-ron(equal to justification of kaikoku-ron)(yoshino 1927,osatake 1932,yamamuro 2001).
+influences on decree of the new meiji government
+on the other hand, "bankoku koho" was frequently referred by the restoration government to create framework of the nation.
+influences from "bankoku koho" can be seen in charter oath of five articles as basic policy of the meiji government.
+there is one of the five articles "evil customs of the past shall be broken off and everything based upon the just laws of nature" and its draft version "evil customs of the past shall be broken off and everything based upon accepted orders of the whole world," and those words '天地ノ公道' (law of nature)and '宇内の通儀' (orders of the whole world)are considered to be the same meaning as 'bankoku koho' (international law).
+the constitution of 1868 was blueprint or plan document of the restoration government to define state system of japan and it adopted thought of separation of powers,headed by dajokan(grand council of state),gisei kan(legislative power),gyosei kan(administrative power)and keiho kan(judicial power)were deployed.
+for drafting of article 11 of the constitution on 1868,partial translated introduction regarding power and authority of national diets in the united states and switzerland,which are covered in subsection 24 and 25 of volume 1,chapter 2 of "bankoku koho" was referred.
+the article 11 of the constitution of 1868 explains restrictions,which are imposed on limited government in federation of states by federal government taking the united states example,the aim was to introduce a principle of law based on centralized authoritarian rule by adopting this idea in the constitution.
+after the collapse of the edo bakufu,federal system was considered to be the best way to unify domains,which were defending authority and created a unified nation.
+two models of federal states were considered at that time and one option was decentralized government of german confederation and another was centralized government of the united states.
+authors of the constitution selected centralized government model of the united states from the two options of federal states,and referred to "bankoku koho" at the time.
+as the result,through implementation of haihan-chiken(abolition of feudal domains and establishment of prefectures),the government became a more centralized government than the united states,but it was not foreseeable at the time of creation of the constitution.
+"bankoku koho" was treated as a guideline in such time to create a government system(inoue 1994).
+furthermore,there was the word 'bankoku no koho' (same as bankoku koho)on gobo no keiji(five edict boards)(the fourth board),and the government announced that the imperial court would handle foreign diplomacy and told common people not to do something impolite to foreigners.
+educational field
+at the end of the edo period, "bankoku koho" was used as school textbook or study guide in hanko(domain school)and goko(educational institution established as a supplement of hanko)education or development of terakoya education)around japan.
+this trend continued in the meiji period and "bankoku koho" was adopted at the time when gakusei(the education system order)was proclaimed in 1872.
+in elementary schools,a part of "bankoku koho" was used in japanese class.
+in universities "bankoku koho" was considered a compulsory subject both in national and private universities,and modern international law was lectured using "bankoku koho" as well as other commentaries of international law.
+examples of utilization of "bankoku koho"
+it can be said that "bankoku koho"was referred and used as new source of authority in the late edo and the early meiji periods.
+at that time,attacks on europeans and americans as represented by the kobe incident,the sakai incident and the kyoto incident were frequently carried out by supporters of joi-ron,but japanese,who killed or injured foreigners were subjected to capital punishment.
+"bankoku koho" does not refer to individual cases and it is very inexplicable that the above cases were tried under the name of "bankoku koho."
+however,it was possible to justify the decisions and it shows great authority,which "bankoku koho" had at that time.
+in the following article,a part of incidents and events affected by 'bankoku koho' will be introduced(yasuoka 1998).
+the emperor giving an audience to diplomatic envoys
+at that time,when foreign administration officials such as a minister came to a country,it was a custom that the minister greet monarch of that country,but in japan the emperor and court nobles hesitated this at first.
+in 1868 however,yoshinaga matsudaira and others proposed permission of audience on ground of 'bankoku koho' and ministers from france and the netherlands were invited to the imperial court and had an audience with the emperor.
+treatment of yoshinobu tokugawa and his retainers
+during the boshin war,takamori saigo and others continuously consulted with harry parkes and other foreign ministers about treatment of the tokugawa family after the war.
+both japan side and foreign ministers frequently used the word 'bankoku koho' in conversations and letters,which means they were very much concerned about international law.
+for instance,examining a case if yoshinobu tokugawa wished to defect,parkes showed intention to accept this and answered "this is based on bankoku koho."
+maría luz incident(1872)
+the incident was considered to be a successful case that forestalled slave trade,when peruvian government claimed compensation on "bankoku koho" against japan,japan side countered "based on bankoku koho" and finally requested russia to play mediation role.
+as seen above, 'bankoku koho' was used as ground to rely on for diplomatic negotiation.
+however the ultimate target of japan during the meiji period was not only to have an advantage on each diplomatic negotiation.
+by adjusting itself to the treaty system,japan aimed to break an unspoken rule of international law that ensures equality only for western 'civilized' countries and to gain an equal right to it,more simply,to revise the unequal treaties and to become a 'civilized country.'
+to achieve the purpose,japan continuously negotiated with other nations for revision of unequal treaty.
+main published books
+"bankoku koho" was brought to japan soon after its publication because japan paid full attention to the translations of academic books on western studies in china as the source of international information.
+after the publication of kaiseijo version "bankoku koho," other versions of books with guiding marks for rendering chinese into japanese or translations were reprinted in domains.
+presence of many books titled with the word 'bankoku koho' indicates the fact that modern international law was accepted quickly and widely in japan.
+the most important works are as follows.
+martin version "bankoku koho" series
+kaiseijo(school for western studies)version "bankoku koho," six-volume book with guiding marks for rendering chinese into japanese by amane nishi,老皀館in 1865.
+the first "bankoku koho" in japan that had the same format and volume as the original.
+the following year,it was presented to shogun iemochi tokugawa.
+the historical impact given by the reprint was major;according to a research it is evaluated "the book was primary guide to decide the policy of opening of a country at the early stage of the restoration and read as if it was some sort of scripture" (osatake 1932).
+the kaiseijo version was the book with original text of "bankoku koho" and guiding marks for rendering chinese into japanese.
+"wage bankoku koho" translated by sekisaburo go and ujuro tei,proofread by gijuro hirai in 1868.
+translators and proofreaders were originally nagasaki totsuji(chinese translator).
+the book was not published.
+"bankoku koho yakugi" four-volume book,translated by shishi tsutsumikoku,published by gyo goshomotsu seihonsho in 1868.
+this book was translated version of kaiseijo version(written in kana[the japanese syllabary characters]),which had guiding marks for rendering chinese into japanese for convenience in reading.
+however,the version does not cover all volumes of martin version(the prior parts and 23 subsection of the second volume were translated).
+although there were some kanji(chinese characters)used both in japan and china,the book did not just adopt translated words of martin version but newly translated words for the book in many parts.
+for example, "god" translated as "jotei" (上帝)in martin version but as "zobutsusha" (造物者)in the book.
+as just described,the author of the book tried to correct the translation of martin version,but as written in the book "the law is fundamental rule of the world,which does not change forever,therefore we can stay safely if we abide by the law,we will have a good effect from unification of the world," tendency to understand international law as natural law is more noticeable than martin version.
+it is certain that the book was widely known because there are some alternative versions of this book other than gyo goshomotsu seihonsho version such as kyoto shorin version and yamashiroya version.
+"wayaku bankoku koho" three-volume book,translator's notes by yasutsugu shigeno(kagoshima domain)in 1870.
+the book is also translation of martin version(the prior parts and the chapter two of volume one were translated).
+partially there are some notes by sigeno.
+the book is deeply affected by understanding based on natural law.
+shigeno explained about the international law based on confucian theories by referring the thoughts of xun zi,xiong yang and yu han at the translator's notes in the book.
+this is a part of translator's note:original "按するに、虎哥か此の論、孟子の性善良知の説を本とし、終に王陽明か心を師とするの論に帰着す" (translation by yasutsugu shigeno:the theory of grotius has theories of mencius as the ground such as the ethical doctrine that human nature is fundamentally good and human nature that is ability to judge good or bad and the theory finally achieves to the theory of yangming wang that considers mind itself is the law);as seen above,among the such notes,there is a part that explains the explanation about international law by grotius seems the same as yomei-gaku(neo-confuciasnism based on teaching of yangming wang).
+"bankoku koho reikan" eight-volume book,translator's notes by ryushu takatani and foreword and proofread by masanao nakamura,published by seibiko in 1876.
+same as sigeno version,it is translator's notes of marin version.
+the book has more translator's notes than shigeno version and it seems the author had difficulty with translation word selection but the book is not highly evaluated and it is referred to as an inferior contents(sumiyoshi 1973).
+rather than the contents,it is considered the foreword by masanao nakamura is more interesting as it shows that his view on international law is close to a point of view of natural law.
+series not originated from martin version
+"series not originated from martin version" means those books which are directly translated and not translations of martin version but originated from the book written by henry wheaton.
+"kodokigen ichimei bankoku koho zensho" by h.wheaton,translated by mitora uryu published by kyoto chikuhoro in 1868.
+the translator,mitora uryu was critical about martin version "bankoku koho," therefore he translated directly from the original and used the word not 'bankoku koho' but 'kodo' as translation of "international law"for the title of the book.
+since the word 'bankoku koho' was already well known,he put the word 'ichimei bankoku koho zensho' in the title.
+only the prior parts and 12 subsection of chapter 1 in volume 1 of the original by wheaton were translated.
+"恵頓氏万国公法" (wheaton version bankoku koho)by h.wheaton,published by shihosho(ministry of justice)in 1882.
+it was originally a two-volume book,which published in 1875.
+the book was translated after the taiwan expedition in 1874 to collect information on law of war in international law and to arm with the knowledge.
+therefore only the part regarding rule of conduct in "bankoku koho" was translated in 1875.
+the full translation was completed in the following year but was not published until 1882.
+series not originated from wheaton version
+series not originated from wheaton version means the books which have the word 'bankoku koho' as title but are not originated from the book by wheaton but the book by other international law scholars.
+because of successful distribution of martin version,the word 'bankoku koho' became widely known and the word was often used as titles of books.
+"和蘭畢洒林氏万国公法" (vissering version bankoku koho)affidavit of lecture by simon vissering,translated by amane nishi,published by kanpan shoseki seihonjo in 1868.
+this "bankoku koho" is not originated from wheaton version but the lecture of simon vissering(1818-1888),international law scholar.
+amane nishi studied at leiden university in the netherlands and had got directly lectured by vissering,and the book was translation of his notes of lectures.
+nishi translated the book under the order from yoshinobu tokugawa but it was lost during the battle of toba-fushimi,which occurred soon after the order.
+fortunately,there was a manuscript of the book and it was published in edo.
+however nishi believed that the book was lost and he was not aware of the publication.
+he expressed his strong dissatisfaction about the book with his name when he came to know the publication,because he could not elaborate the book.
+as explained above,understanding of "bankoku koho" in japan was closer to thought of natural law,but the book by nishi was general information manual on international law,which took a stance based on positive law.
+"kokusaiho ichimei bankoku koho" five-volume book by theodore dwight woolsey,translated by rinsho minotsukuri,published by koubundou from 1873 to 1875.
+theodore dwight woolsey(1801-1889)was a jurist of yale university in the united states.
+the book was translation of the introduction to the study of international law(1860).
+the book adopted the word "kokusaiho" (国際法)as translation of "international law" for the first time and the word "kokusaiho" (国際法)is used both in japan and china today.
+however,for a while after the translation of the book,the word "bankoku koho" was often used because it was well known.
+the word "kokusaiho" started to become known after the university of tokyo changed a name of department to "kokusaiho" in 1884.
+in addition,the word "kokusaiho" became well known in china because a large number of overseas students came from china after the sino-japanese war during a boom of studying in japan and translated japanese books into chinese and used the term without change.
+the work by woolsey was translated by martin as well and the title of the translation was "koho benran" (公法便覧)(1877).
+although there was already translation by minotsukuri,maritn version with guiding marks for rendering chinese into japanese was also published as "kunten kohobenran" (1878).
+later shigeki nishimura offered lectures to emperor meiji using the book.
+those episodes above show how martin was respected in japan.
+"堅土氏万国公法" one-volume book,by james kent,translated by banchi-jimukyoku secretariat,proofread by ryutaro odo published by banchi-jimukyoku secretariat in 1876.
+james kent(1763-1847)was a jurist in the united states and '堅土' means 'mr.kent.'
+the original book is the commentaries on international law by dr.abdy 2nd(1878).
+the book was translated also for the taiwan expedition.
+"波氏万国公法" (halleck version bankoku koho)by henry wager halleck,translated by shogo akiyoshi published by yurindo in 1876.
+henry wager halleck(1815-1872)was an expert of international law of war in the united states.
+he served as military man acting as a military adviser for abraham lincoln during the civil war.
+波氏' means 'mr.halleck.'
+the original of "波氏万国公法" (halleck version bankoku koho)is 'elements of international law' (philadelpia,1866)by halleck.
+"海氏万国公法" (heffter version bankoku koho)one-volume book by august wilhelm heffter,translated by kunizo arakawa and shuichi kinoshita,stored at ministry of justice,1877.
+august wilhelm heffter(1796-1880)was a german.
+the book is translation of 'das europaische volkerrecht der gegenwart auf den bisherigen grundlagen' (sumiyoshi 1973).
+change on acceptance of "bankoku koho"
+"bankoku koho" (and also modern international law)was accepted and understood as international fidelity and rule based on natural law to abide by at first.
+however,it was gradually recognized as the rule to justify principle that 'the best always win.'
+the background factor was continuous widespread battles for colonies under international law.
+korea-spread to neighboring countries 2-
+arrival of "bankoku koho"
+"bankoku koho" was brought to korean peninsula for the first time on december 17,1877 and the date is clearly defined on the historical documents.
+on that day,yoshimoto hanabusa presented "bankoku koho" and "星軺指掌" to korean side and explained international law at the same time.
+at that time,there was a remaining problem which could not be solved by the conclusion of japanese-korea treaty of amity regarding dispatch and stay of ministers of both countries and japanese and korean side had completely different opinions.
+kaichitsujo,which is traditional in east asia is called in korea jidai shugi(serving-the-great-ism)and korean side wished to maintain the situation,but on the other hand japan side wished for international relationship based on treaties and the two countries was opposed to each other regarding dispatch of ministries.
+hanabusa was trying to persuade the korean side and introduced "bankoku koho."
+this was to explain that exchanging ministries was a common practice under treaty system of western countries.
+however,the word "bankoku koho" was already used in december,1876 and according to some researchers in korea,the word seemed to have arrived before hanabusa brought it(李1982,金容丸1999,金鳳珍2001).
+"bankoku koho," which were brought to korea through japan or directly from china were all in chinese as they were originally published in china.
+both in japan and korea,intellectuals were good at reading and writing chinese and they did not have difficulty to understand chinese book.
+acceptance and responses
+beginning
+acceptation of international law in korea was gradual as was the case in china.
+until 1910 there was no korean translated version and the fact is opposite to japan,where people quickly responded to the new thoughts,many became readers of the book and various versions such as reprint,translated and with translator's notes came out.
+if "bankoku koho" had been brought to korea soon after it was published in china,it means there was no action to deal with international law on a superficial level until 1877,so the slow response would stand out(金容丸1999).
+there are some background factors.
+firstly,there was strong rejection of things from western europe.
+however,it was not the only reason and another factor was related to diplomatic strategy of korea.
+korea chose a diplomatic strategy to avoid direct contact with the powerful countries by being behind the qing dynasty,the suzerain of korea.
+it is to avoid wasting national power by coming in conflict with western countries.
+secondly, 'bankoku koho' was brought to korea at the same time with gunboat diplomacy as was the case in china and deep distrust resulted in the late acceptance.
+the attitude started to change gradually towards acceptance because of strained international situation.
+as described above,korea chose to remain in structure of kaichitsujo at first.
+however,the qing dynasty,the center of the structure started acting to abide by international law.
+as countries,which served choko to the qing dynasty(or referred to as hanzokukoku or zokushu[a state or province belongs to a nation])ryukyu,taiwan and vietnam withdrew from kaichitsujo,the qing dynasty started to deal with international law and place korea as its subject state under modern international law(okamoto 2004 and 2008).
+as the background,there was diplomatic offensive by japan in the meiji period.
+japanese-korea treaty was concluded in 1876 and korea joined in treaty system.
+however,korean side considered that they just made the relationship with japan clear as a written form but did not intend to withdraw from kaichitsujo and join in treaty system.
+the first treaty,which korea concluded was an unequal treaty due to the gunboat diplomacy of japan but it is also pointed out that korea did not pay attention to it.
+on the other hand,japan put a sentence as the article one and it says "korea is an independent state" and tried to separate korea form influence of the qing dynasty and recognize as an independent country.
+this resulted in a feud between the qing dynasty,which wanted korea to remain in kaichitsujo and japan,which wanted korea to join in treaty system and take control of korea later.
+the qing dynasty gradually started to interfere in domestic administration of korea in order to keep korea,the last chokokoku.
+at first hongzhang li sent a letter to youwon li,an influential person in political world of korea rejected acceptance of international law.
+hong-jip kim was sent to japan as a member of the second inspectorate,which sent to japan several times after conclusion of the treaty,met ministries of the qing dynasty in tokyo,such as ruzhang he,sigui zhang and zunxian(tsun-hsien)hugang,then the ministries recommended to conclude treaties and trade between western countries and he was deeply affected by that.
+in addition,sigui zhang wrote one of the forewords of "bankoku koho."
+hong-jip kim was moved by the conviction by ruzhang he and others and told gojong and government officials about this after he went back to korea.
+at the same time,more and more people were interested in the books with topics related western countries(seigakusho西学書,books on western studies)and an open and liberal group called the kaehwadang(progressive party)was formed.
+in addition to this,as a result of china's mediation aiming for conclusion of treaties between korea and the united states,us-korea amity and trade treaty was ratified in 1882.
+there were two objects of the treaty,first was to get help from the united states in case japan or russia was likely to invade korea,and the second was to make it clear that korea was a subject country of the qing dynasty(to confirm the relationship between the suzerain state and subject state)by the treaty.
+however,the second objet was rejected by the united states,so that it was mentioned only in the documents for reference.
+influence of "bankoku koho" can be seen at the meeting between the minister from the qing dynasty to japan and hong-jip kim.
+ruzhang he and others insisted to conclude treaties with the united states based on the point of view of "balance of power," which was main-stream of modern diplomacy at that time and the point of view was from "law of proportionality" in the first volume of "bankoku koho."
+with regards to the first article of us-korea amity and trade treaty,there was 'the article of procurement' (if a conflict occurred between korea and other countries,the united states will arbitrate the conflict under the terms and conditions of the treaty)and this was provisions which reflected "balance of power."
+hong-jip kim participated in the meeting as vice-envoy of korean side.
+it is certain that "bankoku koho" and "balance of power" exerted influence on the policy of opening of a country and treaty of korea.
+against the change to the policy,conservative government officials,who believed the thoughts of "eisei sekija" (put value on justness and reject evil and wrong way)triggered a backlash,and there was also an opposition movement by confucian scholars in 1882.
+in the report to the throne submitted by the conservatives,they requested to disposal and book burning of books on western studies including "bankoku koho," and there was a letter,which indicated "bankoku koho" as an evil book originated from an alien religious.
+however,the facts shows that "bankoku koho" became widely known since the time of implementation of opening of a country policy,despite the backlash of the conservatives.
+ryosetsu system(1882-1892)
+after conclusion of the japanese-korea treaty,as japan's interferences to the politics in korea became clear,antipathy toward japan hardened.
+a peak of this was the imo incident(1882)and the gapsin coup(1884).
+the incidents were suppressed soon but the influence of japan decreased as the result,and the modernization of korean was promoted under the instructions by the qing dynasty.
+namely,korea created a slogan "東道西器," which was close in meaning with a slogan in china "中体西用" (to learn technology and culture of western countries while centering on traditional studies and systems)and set up the new model army and advisers for diplomatic issues,and gojong announced that korea joined in the international society and abide by the "koho."
+the number of reports to the throne by the conservatives was decreased and the number of reports which looked for acceptation of international law was increased.
+more specifically,government officials requested establishment of libraries with collection of books on western studies including "bankoku koho" or distribution of the books around the country.
+however,the situation does not mean that korea joined in treaty system as a sovereign state.
+after the imo incident and the gapsin coup,the qing dynasty replaced japan and gained big power of influence;in that time,there was always the qing dynasty behind korea and always tried to change korea from "zokkoku" in kaichitsujo to "subject state" under treaty system.
+therefore korea was always in middle of kaichitsujo and treaty system.
+the system was called "ryosetsu system" (両截体制).
+"ryosetsu" means double and it is certain that the system had transitional character.
+acceptance of modern international law was promoted in korea,but leftists of the kaehwadang actively tried to find a way to get out from kaichitsujo.
+for example,when yonhyu paku visited japan he visited legations of some countries and called for conclusion of treaties without the qing dynasty.
+it was to regain state sovereignty and to be recognized as an independent state by other countries.
+korean newspapers and magazines such as "hanseong sunbo" and "hanseong jubo" contributed to diffusion of knowledge on world situation,which was essential for formation of progressive parties.
+those source of information introduce knowledge of international law and actual cases and the original information was adopted from "bankoku koho," martin version "koho benran" or newspapers from china.
+most of the articles were discussions about the relationship between korea and the qing dynasty,and there were some key terms such as "independence," "autonomy" and "proportionality."
+knowledge on international law was actively required because korea was in the international circumstance where western powerful countries appeared and the qing dynasty and japan promoted their modernization,and people were greatly concerned about how korea should survive in such situation.
+under the ryosetsu system, "bankoku koho" was widely spread and started to affect on political situation as well.
+in such diffusion,people with deep insight on modern international law such as kil-chun yu appeared.
+his work "saiyu kenbun" was an enlightening book deeply affected by "seiyo jijo" by yukichi fukuzawa,and the word "ryosetsu system" is originally from the book.
+in the book there is a part called "right of a country" and there is no equivalent part in "seiyo jijo" but detailed knowledge on international law can be seen in this part.
+according to the part,korea was under "ryosetsu system" but it can be recognized as an independent country based on international law.
+kil-chun yu was asked his opinion on diplomatic policies of korea for his wide variety of knowledge on international law.
+(金鳳珍2004)
+disappointment in "bankoku koho"
+"bankoku koho" was read in korea because people considered that neutrality might be an effective way in the international circumstances around korea.
+in europe for instance,small countries such as belgium and bulgar existed between powerful countries and did not collapse,because powerful countries built mutually-beneficial relations with other countries.
+korea was also in this kind of international situation and people hoped that korea could survive in the situation by maintaining neutrality.
+however hope of intellectuals in korea turned suddenly to disappointment.
+during the sino-japanese war in 1895,korea announced neutrality but the main battlefield was in korean peninsula.
+there was 'the article of procurement' in the treaty,which korea concluded with the united states but the united states would not play the role.
+the above mentioned kil-chun yu was depressed by this,stating that even if a treaty was concluded,it would only be effective during a time of peace;during a time of war,the treaty would not be worth the paper it was written on.
+in korea,the reliability of international law declined but people did not put away their trust on international law.
+while some people had deep distrust toward international law,on the other hand,people paid more attention to the character of double standard,which international law has(double principle of modern international law).
+therefore,people recognized the self-existence and independence were essential for a state to take advantage of international law,and reforms were promoted in a proactive manner.
+vietnam-spread to neighboring countries 3-
+spread to southeast asia
+martin version "bankoku koho" was brought to vietnam as well.
+however,the route is unknown.
+it is considered that it was brought by merchants or bought in china and brought back to vietnam by tributary delegates,which vietnam sent to the qing dynasty.
+"bankoku koho" became common after the imported "bankoku koho" was reprinted in vietnam.
+it was almost exactly reprinted in 1877,end of the nguyễn dynasty.
+therefore,it was not a translation but a book written in chinese.
+vietnam belonged to a cultural sphere,in which chinese characters were used and imported not only chinese characters but also systems in china such as keju(examinations for chinese state bureaucrats).
+therefore almost all intellectuals could read and write in chinese,and chinese did not become a barrier to diffusion of "bankoku koho" among political leaders.
+differences between chinese version were foreword for vietnam version and the number of volumes.
+vietnam version only has two volumes because first and second volumes in chinese and third and fourth volumes were combined into one volume each.
+background of acceptance
+"bankoku koho" was reprinted by bureaucrats who passed keju in vietnam including范富庶,阮子高,武元二and阮進.
+the foreword was written by范富庶,who was governor of hai duong province and prime-commerce minister.
+hai duong province was a province,which has hai phong port as its center and the hai phong port was designated as a port opened under the second treaty of saigon.
+therefore france stepped up its presence and local officials often contacted with people from france.
+in addition,at customs stations opened in hai phong and other region around vietnam,europeans served as commissioners of customs,head of custom station and vietnamese,but there were conflicts frequently between europeans and vietnamese.
+because there were differences in the culture and understanding regarding trade.
+in 1876,the policy of opening the country was implemented,then the ban on travelling abroad and trade with foreign merchants were lifted.
+accordingly troubles between vietnamese and foreigners dramatically increased.
+the reason why the officials in hai duong planned reprint of "bankoku koho" the year after the implementation of the policy of opening country was obvious.
+the reason was to effectively deal with wide variety of diplomatic issues which happened every day(takeyama 2003).
+about the influences
+with regards to the influences which "bankoku koho" brought to vietnam,it is said the theme is a frontier of the study and detailed research has not been conducted yet.
+however,even if there was a chance for effective use of "bankoku koho" it did not affect later history,french imperialism became widespread and after the qing dynasty gave up suzerainty of vietnam under the treaty of tianjin,vietnam entirely became a colony of france.
+mongolia-spread to neighboring countries 4-
+a series of "bankoku koho" we have seen above spread in a cultural sphere,in which chinese characters were used;however, "bankoku koho" was introduced to mongolia and translated there.
+a book titled "tümen uls-un yerüde čaγaĵa" stored at national library of mongolia is a translation of martin version.
+some parts of the book such as chapter one of volume one have not been discovered yet and it is unknown whether it was a partial translation for necessary parts or there are parts which have not been discovered yet.
+there are other unanswered questions.
+the translators and the time of translation were unknown and it is only known that the translation was completed by the end of 1912.
+the reason of introduction of "bankoku koho" by mongolia was related to international political situation.
+after the xinhai revolution in 1911 the qing dynasty collapsed and mongolia,which had been under control of the qing dynasty declared independence in december 1 of the same year and had to negotiate directly with powerful countries such as russia.
+bogd khaan regime,which was forced to deal with pressure from powerful countries conducted the translation into mongolian language of "bankoku koho" because they wished to move diplomatic negotiations forward with advantages.
+at negotiation over russo-mongolian agreement in 1912,translated "bankoku koho" in mongolian language was brought to peterburg where the negotiation was held.
+after the conclusion of the russo-mongolian agreement,mongolian diplomatic agents had to urgently gain knowledge of international law for further diplomatic negotiations with russia and china.
+it can be said that "bankoku koho" was necessary for people in mongolia as well(tachibana 2006).
+change of modern international society in east asia
+heretofore,acceptance of "bankoku koho" and modern international law in each countries was described above,centering on internal influences.
+therefore much weight was put in the explanations of conflict between east asian nations and western europe(civilization),but hereinafter influences in whole modern east asia and issues in east asian countries will be described.
+transition to treaty system-influences in east asia-
+it is obvious that diffusion of "bankoku koho"and forcible application and acceptance of modern international law on the above mentioned incidents and issues had major impact on international society in east asia.
+in particular there were influences as follows.
+reorganization of international order in east asia
+with regards to order of international society in east asia,there was a transition from former kaichitsujo to treaty system after the opium war,but the new relationship between the qing dynasty and western countries and america did not directly affect on the relations between other east asian countries.
+the second stage of reorganization of international order in east asia started by japan's action to accept the treaty system and attempt to introduce the treaty system to neighboring countries(kawashima 2007).
+modern international law including "bankoku koho" brought a 'principle' to east asia that all sovereign nations in the world are equal(right to equality of nations)and the equality is based on wide variety of rights and duties between countries,but the thought is completely different from the point of view of kaichitsujo,which admits china dynasty to maintain a 10-to-1 advantage.
+however,the 'principle' of "bankoku koho" was accepted by nations in east asia and gradually overwhelmed kaichitsujo.
+during the transition of international order in east asia,japan in the meiji period accepted the situation at earlier stage compared to other nations.
+at the time of overthrowing the shogunate,expulsion of foreigners and national isolation were used as the slogans,but soon after the establishment of the meiji restoration government,the attitude towards foreign countries was completely changed.
+opening the country was put as a national policy and the government showed attitude to aim revisions of the unequal treaties.
+japan considered the arrival of the treaty system a chance to overwhelm kaichitsujo(kawashima 1999).
+therefore,japan made efforts for diffusion of "bankoku koho" and other books,actively gathered information on modern international law from hired foreigners and actively applied 'bankoku koho' for diplomacy between neighboring countries.
+this affected on the qing dynasty and korea differently from the requests of modernization and opening of a country by western powerful countries.
+in the qing dynasty and korea,there was distrust towards "bankoku koho," therefore people did not accept the 'principle' and transition to the treaty system progressed slowly.
+at first,those countries tried to maintain kaichitsujo,considered international law a tool and rejected to join in the treaty system,but acceptance of international law was gradually promoted.
+the slow transition resulted in coexistence of kaichitsujo and the treaty system in the international society of east asia.
+the qing dynasty concluded treaties with european countries but tried to maintain the suzerain state-hanzokukoku relationship based on kaichitsujo with neighboring countries.
+however,it became impossible because the qing dynasty continuously lost its chokokoku after several wars between western countries.
+regarding korea,the last chokokoku,qing dynasty insisted that "zokkoku" of kaichitsujo and "subject state" under modern international law were completely different,when the opinion was not accepted,the qing dynasty tried to change korea to "subject state" under modern international law and dispatched jianzhong ma and shikai yuan to korea to engage directly in politics of korea.
+with regards to korea,the suzerain state-hanzokukoku relationship with the qing dynasty was completely denied by the treaty of shimonoseki after the sino-japanese war and kaichitsujo was terminated(motegi 1997,okamoto 2004).
+promotion of domestic reforms
+modern international law defined by "bankoku koho"and other books affected not only on the change of international relationship but also internal reforms.
+to be protected by modern international law,it was necessary to be recognized as a "civilized country."
+to be recognized as "civilized country," a country needed to fulfill below listed conditions(hirose 1978,kobayashi 2002).
+the country must be a sovereign nation.
+this means that there is a governing system,which has a foundations of the state in the certain area and on the people living the area,and its sovereignty is exclusively established in the area and it must be independent from the interference by other countries(noninterference in internal affairs).
+the country must have notion and ability to abide by the international law such as a treaty.
+the country must be admitted to the group of "civilized country" by existing "civilized countries" (namely western countries)(specifically,revision of treaties).
+if the first and second conditions were not fulfilled,a country would be recognized as "undeveloped nation"and become a colony of powerful countries.
+if only the first condition was approved,the country would be recognized as a state but considered a "semi-civilized nation," which would not be treated equal to western countries and would have to bear disadvantage originated from unequal treaties(by losing tariff autonomy,setting up of consular jurisdiction and chigaihoken[extraterritoriality]).
+under modern international law,the equality of nations was referred to as "principle" but the thought supported international order that discriminated non-western europe countries,therefore it was natural that some people were disappointed about the difference between the "principle" and reality,became cynical and put more value on national power than principle.
+even people who had positive attitude towards "bankoku koho" such as fucheng xue,amane nishi and kil-chun yu strongly believed that the policy of fukoku kyohei(fortifying the country,strengthening the military)was essential to be protected by international law(金鳳珍2004).
+this believe became a strong ground for promoting internal reforms for non-western countries to become a sovereign nation.
+the third condition would be achieved by abolishment of unequal treaties and conclusion of equal treaties,but whether those measures would be taken or not depended on subjective judgment to decide how the country was close to existing "civilized countries," western countries.
+as the result,direction of the internal reforms should be westernization.
+followings are examples of such reforms,yomu undo and hundred days' reform in china,series of reforms during the meiji period in japan and reforms in korea such as gabo reform and kwang-mu reform.
+bankoku koho' among japan,china and korea
+to meet requirements of modern international law or international situation,countries in east asia conducted internal reforms to become a sovereign nation;however,the influences of the reforms did not remain in that country but resulted in conflicts between other neighboring countries in east asia(the speed of self-adjustment to modern international law depends on each country).
+specifically,border demarcation,diplomatic ceremony or position of hanzokukoku became a point in dispute.
+incidents mentioned below were representative cases.
+issues on border demarcation
+to become a sovereign nation which is defined by international law,the territories which are under the control of the nation must be confirmed.
+for instance,there were treaties such as the treaty of aigun(1858)between the qing dynasty and russia and the treaty of saint petersburg(1875)between japan and russia were to confirm northern borders of the qing dynasty and japan.
+those were treaties regarding borders between east asian countries and russia,and it was unavoidable that there was a movement to confirm the borders among east asian countries later.
+former territories decided by kaichitsujo was not fixed and became wider or smaller depending on movement of subjected people or goods,therefore sometimes more than one country considered the same parts their own territory.
+as the result,if a country tried to fix its borders based on modern international law,it would certainly be a seed of conflict between neighboring countries.
+ryukyu and taiwan attribution issues(japan-qing dynasty)
+under modern international law,a sovereign nation is an existence which makes areas under the control,such as territories and territorial sea clear and rule the area monistically,so an ambiguous existence such as ryukyu,which belonged to both china and japan was not approved.
+japan during the meiji period ignored strong protests of china and conducted the ryukyu annexation,then the relationship between japan and the qing dynasty which considered ryukyu an important chokokoku became worse(motegi 1997).
+issues on border demarcation between the qing dynasty and korea(korea-qing dynasty).
+there was a movement to fix borders between the qing dynasty and korea,which were under strict relation of a suzerain power and a zottkoku.
+there was a meeting to fix borders in 1880's("kamgye conference")and as the result,the tumen river(図們江in chinese)and the yalu river became borders between korea and china.
+actually,there were a number of korean people who crossed the border,then negotiations between korea and the qing dynasty were held regarding protection of the koreans even after korea became the korean empire,and the borders of the tumen river and the yalu river gradually became an accomplished fact.
+it should be noted that the movement of fixing borders was proposed by korean side.
+at first,korean side negotiated with the qing dynasty based on the thought of kaichitsujo;however,korea started to negotiate referring to protecting one's own citizens of modern international law.
+as the problem regarding the borders became more serious,the acceptance of modern international law was promoted(akizuki 2002).
+issues regarding diplomatic ceremony
+issues on dispatch of ministries(japan-korea)
+under the treaty system,two countries which concluded a treaty have to exchange ministries each other.
+after the conclusion of japanese-korean treaty,exchange of ministries was not conducted.
+because korean side was strongly opposed to it.
+korean side considered that the treaty was just restoration of diplomatic ties between the edo bakufu and korea and did not understand that korea was under the treaty system.
+despite of strong protest by korean side,yoshitomo hanabusa,a ministry of japan frequently visited korea,finally placed a legation in hanseong in december 1880 and stayed there for long period,so that he became a virtual ministry in korea.
+issues on meeting with an emperor(japan-qing dynasty)
+in the qing dynasty,dispatch of ministries was not accepted at first,however by the time of the conclusion of japan-qing treaty of friendship,the dispatch of ministries was not seen as a problem.
+however,to have an audience with a head of china,namely an emperor,there was a very high bar for long time.
+in the qing dynasty,a foreign minister had to do three kneelings and nine kowtows to meet a holy emperor directly,therefore it took very much time to reach an agreement between the qing dynasty side and foreign ministries side and it was not easy to meet an emperor of the qing dynasty until 1870's.
+however,at the time of the conclusion of japan-qing treaty of friendship in 1873,taneomi soejima requested to have an audience with the emperor on ground of "bankoku koho" and succeeded to have meeting without nine kowtows.
+this was because the emperor had already grown up and did not have much psychological resistance to japanese compared to european.
+it was the first time that an emperor of the qing dynasty admitted a ministry in china to have an audience.
+suzerainty and sovereignty issues
+"suzerainty and issues on sovereignty" means a problem raised between two countries during transition of the order of international society,from kaichitsujo to treaty system.
+as described above,in the structure of kaichitsujo,neighboring countries of china received sakuho or conducted choko and built a relationship with china as suzerain state and hanzokukoku.
+it means that an emperor of chinese dynasty and monarchs of neighboring countries established the relations between lord and vassal but it does not mean that the neighboring countries would be completely controlled by the chinese dynasty.
+rather,chinese side did not interfere in domestic administration and diplomacy of neighboring countries.
+because the qing dynasty explained the condition as "it is an independent country but a subject state at the same time" to western countries,in historical science,the term "zokkoku(subject state)jishu(independence or autonomy)" will be used to express the condition.
+based on the notion of sovereignty written in "bankoku koho," the relationship was ambivalent and was not able to be explained by reasons.
+the problem was mostly concerned at the time of conflict of ideas among the qing dynasty,western countries and japan in the meiji period about how to consider korea,which was the last choko country to qing(okamoto 2004).
+transformation of 'bankoku koho' itself
+after the reception of modern international laws such as "bankoku koho," east asian countries were forced to push internally or externally to change the system of the countries and examples of those cases are described above.
+the encounter with east asian countries has made a chance to transform modern international laws itself to that in present-day.
+as described at the beginning,the modern international laws originated in western countries had a character as a deal with christian nations,and applicability was limited to specific countries at first.
+in accordance with overseas advance of western powerful countries,western powerful countries created a new term "civilized nation" as a concept of a state based on international law for building relations with countries which did not share christian values,to be recognized as a state,it was necessary to be recognized as a "civilized nation" rather than being a christian country,therefore the conditions to be protected by international law became abstract and generalized.
+as a result,above mentioned two conditions to be diplomatically recognized as a state,such as "the country must be a sovereign state" and "the country must have capability to abide by treaties" were created.
+this is because prior conditions to be protected by international law were greatly changed.
+more specifically,former characteristic conditions to be diplomatically recognized as a state,such as being christian country changed to more concrete and technical conditions.
+namely,it became possible to apply international law to the countries which introduced or modeled on state systems of western countries,even if there were geographical,religious or cultural differences(hirose 1978).
+reforms,construction of rokumeikan(pavilion of the deer's cry)and adoption of western cultures(clothes,food,solar calendar and so on)in japan during the meiji period were conducted under the change of international law as mentioned above,those were efforts to stand on an equal footing with western countries and to be protected by international law.

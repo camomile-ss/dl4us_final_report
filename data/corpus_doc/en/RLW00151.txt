@@ -1,0 +1,39 @@
+kujo station(kyoto prefecture)
+kujo station,located in higashi-kujo,minami karasuma-cho of minami ward,kyoto city,kyoto prefecture,is a stop on the karasuma line of the kyoto municipal subway.
+the number of this station is k12.
+passenger getting on and off at this station averaged 4,107 per day(fiscal year 2005,)the least of all stations under the jurisdiction of the kyoto municipal transportation bureau.
+the section between kyoto and takeda ran parallel with kintetsu kyoto line from the very outset and in addition to the number of passengers being small(kujo,jujo and kuinabashi stations are the three worst as far as number of passengers are concerned,)the fact that the station is within walking distance of kyoto station is considered to be influencing the consequences.
+station layout
+the station is situated underground of the kujo-karasuma crossing and has one platform with tracks on both sides.
+ticket gates are installed at only one place.
+station surroundings
+minami-karasuma park
+kujo-dori street
+karasuma-dori street
+kyoto municipal transportation bureau kujo office(kyoto city bus kujo office)
+fumin-sogo plaza(kyoto terrsa)
+routed bus
+kujo-eki-mae(kujo station)
+adjacent to karasuma-dori kujo-agaru(north of kujo-karasuma crossing)
+the bus stop is only for buses bound for karasuma-minami.
+kyoto city bus
+route no.16:for kyoto station(via to-ji temple)
+route no.71:for matsuo station(kyoto prefecture)(via kyoto university of foreign studies)
+route no.84:for kyoto university of foreign studies/kyoto station hachijo exit avanti-mae(via kuzebashi-dori street)
+oishi-bashi bridge
+adjacent to karasuma-dori kujohigashi-hairu(east of the kujo-karasuma crossing)
+the bus stop is in close proximity to the station.
+kyoto city bus
+route no.19:for kyoto station/yokooji shako depot(via chushojima)
+route no.78:for kyoto station(via hachijoguchi)/kuze kogyo-danchi(industrial park)
+route no.202:for nishinokyo-enmachi(via kumano-jinja shrine)/nishioji-kujo(via kujo shako depot)
+route no.207:for shijo-omiya(via gion)/shijo-omiya(via kujo shako depot)
+route no.208:for kyoto station(via higashiyama-nanajo)/nishioji-nanajo(via nishioji-dori street)
+routes no.81&toku no.81:for kyoto station/yokooji shako depot(via chushojima)
+history
+june 11,1988:the station opened concurrently with karasuma line,commencing the operation of the section between the kyoto and takeda stations.
+april 1,2007:the use of pitapa cards commenced.
+neighboring stations
+kyoto municipal subway
+karasuma line
+kyoto station(k11)-kujo station(k12)-jujo station(kyoto municipal subway)(k13)

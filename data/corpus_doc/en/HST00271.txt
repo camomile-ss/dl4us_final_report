@@ -1,0 +1,52 @@
+shugo-ryogoku system
+the shugo-ryogoku system(the system that a shugo[a provincial military governor]dominates a territory)is a historical concept indicating a comprehensive control system of a territory by the shugo-daimyo(shugo that became daimyo,japanese feudal lords)in the muromachi period.
+summary
+the shugo in the muromachi period were initially(around the mid 14th century)appointed by the muromachi bakufu(japanese feudal government headed by a shogun)once in several years,which resulted in the comparatively frequent alternation of the shugo-shiki(the post of shugo).
+however,in around the end of the 14th century,the shugo-shiki was exclusively possessed by a certain clan that inherited the post of its province,which was called "monopolization of the shugo-shiki."
+in addition,in the same period,the shugo-shiki came to assume a wide spectrum of authority ranging from military and police authority to the authority for gaining an economical profit,such as the authority to make an investigation and give instruction(kendan-sata)over three kinds of criminal cases(taibon-sankajo,three major tasks for peacekeeping),the authority to investigate the karita-rozeki(to reap rice illegally),the authority to pass delegation of the word,the authority to collect half of the nengu(land tax),the authority to provide confiscated land or land without a governor(called kessho-chi),as well as the authority to collect tan-sen(surtax on the rice fields)and munabechi-sen(surtax on the houses).
+compared with the shugo in the kamakura period,whose authority was limited to military and police authority relating to taibon-sankajo,obanyaku(a job to guard kyoto),etc.,the shugo in the muromachi period had drastically expanded authority.
+to distinguish these two shugo,the shugo in the muromachi period is specifically called "shugo-daimyo."
+thus,taking advantage of the monopolization of the shugo-shiki as well as the drastically expanded authority,the shugo in the muromachi period strengthened the comprehensive(unified)control over the resident landholders(called "kokujin" [local lord]),lands,people(including peasants)and so on.
+the control over shoen(manor)and koryo(public land)
+wielding authorities such as the authority to collect half of the nengu as well as the authority to collect tan-sen,shugo gradually encroached upon shoen and territories governed by kokuga(provincial government office)within their territories.
+hanzei-rei(literally,hanzei law)issued in the oan era in the end of 14th century provided shugo with the authority to confiscate half of the land.
+moreover,making a contract with the landholders of shoen and the kokushi(provincial governors)to pay them nengu from income,shugo virtually dominated the shoen and the territories of kokuga,which were called "shugo-uke" (the work undertaken by shugo).
+thereby,requesting the right to appropriate the land(called shitaji-shinshi-ken or tochi-shihai-ken[land ruling right])of the shoen and the territories of kokuga nationwide,shugo gradually attained land.
+however,as these pushes made by shugo caused severe friction with the interests of the landholders of shoen,some landholders attained the right of shugo-funyu(privilege of forbidding shugo or its agent from entering the shoen)by appealing to the imperial court and bakufu,confronting the shugo.
+the control over kokuga
+shugo started to expand their influence on the kokuga government as well as control over the kokuga's territories,compelling zaichokanjin(the local officials in heian and kamakura periods)to obey as the hikan(low-level bureaucrat,namely vassal),which was called "hikanization."
+at the same time,dominating the territories of kokuga and those of the zaichokanjin,shugo formed direct control territory called shugo-ryo(shugo's territory).
+shugo's control over kokuga was so remarkable in togoku(the eastern part of japan,particularly the kanto region)that shugo had almost finished gaining control over the kokuga by the beginning of the 15th century.
+on the other hand,in saigoku(the western part of japan,particularly kyushu region,but ranging as far east as kinki),the imperial household,kuge(court nobles),and temples and shrines that had a title to the territories of kokuga had invariably maintained a strong influence,which restrained shugo from interfering in kokuga too much.
+however,through the implementation of "shugo-uke" and "hikanization" of zaichokanjin,shugo came to control the kokuga effectively in the beginning of the 15th century.
+thus,the authority of kokushi,which had been maintained since the enforcement of the ritsuryo system(a system of centralized government based on the ritsuryo code),disappeared both in name and reality in the muromachi period.
+shugo that had controlled the kokuga governed their territories on the basis of ota bumi(cadastre),a basic material for the kokuga government.
+in the ota bumi,details of domestic territories of kokuga(or kuden[field administered directly by a ruler])including a part of shoen were recorded.
+the ota bumi enabled shugo to strengthen the control over the territories of kokuga and the shoen,which resulted in the further dissolution and collapse of the shoen-koryo-sei(the system of public lands and private estates).
+the control over kokujin
+the resident landholder stratum,including the samurai stratum originated from jito(manager and lord of shoen)in the kamakura period,was called "kokujin" in the muromachi period.
+shugo tried to control the kokujin stratum including the aforementioned zaichokanjin in their territories by using the method of "hikanization."
+many kokujin became hikan,who formed the vassals belonging to shugo.
+however,not a few kokujin organized the kokujin-ikki(union)in cooperation with the myoshu(owner of rice fields)stratum immersed in farm management,peasants and others,in an attempt to keep individuality.
+especially,kokujin in the kinai region(provinces surrounding kyoto and nara)had quite a strong inclination for independence,which was exemplified by the case that the shugo(the hosokawa clan)failed to achieve the "hikanization" of kokujin in yamashiro province,tamba province and other provinces despite having spent several decades.
+shugo carried out "hikanization" by providing the vassalized kokujin and others with territory and the privilege of collecting taxes and so on.
+it means that kokujin and others were provided kyubun-den(bonus rice field)from shugo besides their territories.
+concerning the military service assigned to the vassalized kokujin,there were several cases that the service was imposed considering the scale of territory and kyubun(bonus),which suggests that the control over the kokujin had not yet been unified.
+most shugo were permanently stationed in kyoto or kamakura as key members of bakufu,leaving the actual territory management to the shugo-dai(deputy of shugo),who were selected from vassals under the direct supervision of shugo and the kokujin stratum.
+with unrest spreading over the ruling system of the bakufu in the period of the onin war to the meio coup in the late 15th century,some shugo-dai and influential kokujin held real power in ruling the territories instead of shugo.
+the control over people
+shugo controlled people nationwide by uniformly imposing taxes and duties such as tan-sen and munabechi-sen as well as shugo-yaku(service duty under shugo)on them.
+tan-sen and munabechi-sen were originally accounted among land taxes uniformly imposed on people nationwide,which were collected by shugo under the instruction of the imperial court and bakufu aiming at raising extra money.
+however,those taxes were later changed to shugo-tansen,the tan-sen imposed by shugo in their own right.
+meanwhile,shugo-yaku meant various duties imposed on peasants in the territory by shugo in their own rights,most of which were performed by bu-yaku(labor service).
+the shugo-yaku was often imposed on each village as a unit.
+in the muromachi period,people formed various unions including kokujin-ikki(kokujin ryoshu[local samurai lord]union)formed by the people in the kokujin stratum,as well as soson(a community consisting of peasants' self-governing association)and goson(autonomous village)formed by peasants living in villages.
+while all of the unions were controlled by shugo on the one hand,they were allowed to be independent to some extent on the other hand.
+the control over people was not always strict in the shugo-ryogoku system,but it became stricter with the times.
+change to the daimyo-ryogoku system(the system that daimyo control feudal domains)
+the shugo-ryogoku system was epoch-making in that it promoted comprehensive control,compared with the conventional ruling system under samurai families.
+however,as mentioned above,the shugo-ryogoku system did not always control strictly the kokujin stratum and the peasant stratum.
+with the social system becoming remarkably unstable in the end of the 15th century,it became necessary to apply stricter control system to territories.
+denying various disadvantageous terms such as the right of shugo-funyu,shugo that had successfully coped with these changes,as well as shugo-dai and kokujin that had ousted shugo,grew into sengoku daimyo(japanese territorial lord in the sengoku period[period of warring states])controlling their territories strongly and uniformly.
+on the other hand,shugo that had failed to cope with these changes went to ruin.
+with the appearance of the sengoku daimyo,the shugo-ryogoku system,for which the existence of shugo-daimyo was prerequisite,was changed and dissolved in fact,replaced with the system called "daimyo-ryogoku sei" (daimyo-ryogoku system).

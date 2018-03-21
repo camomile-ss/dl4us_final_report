@@ -1,0 +1,29 @@
+shugouke
+shugouke is a system during the muromachi period in japan under which shugo(provincial constable)undertook to pay the land tax on shoen(manor in medieval japan)and kokugaryo(territories governed by provincial government office)(koryo(an imperial demesne))for the lord of the manor and chigyo-kokushu(provincial proprietor).
+it is a form of ukedokoro(land lease contract system).
+in the muromachi period,shugo strengthened the control over shoen and kokugaryo in the country through shugouke.
+history
+in the kamakura period,samurai started to make inroads into shoen and koryo,expanding their involvement over time.
+lord of the manor and chigyo-kokushu introduced jitouke(the contract system that the manor's owner entrusts a jito(manager and lord of manor)to manage his manor and pay the customs)in order to secure income by obliging a jito to pay a fixed amount of land tax in exchange for entrusting him with the management of the local shoen and koryo.
+shoen and koryo that had such a contract were called ukedokoro.
+as jito ukedokoro with few exception were subjected to non-payment of land tax,samurai got more involved in shoen and koryo.
+in the kamakura period,shugo was only assigned the right of taibon sankajo(three basic rights of shugo,the provincial constable)and the right to supervise as part of obanyaku(a job to guard kyoto).
+but early in the muromachi period,the muromachi bakufu(japanese feudal government headed by a shogun)granted various authorities to shugo,which would enable them to exert a range of administrative and economic influences on shoen and koryo in the country,such as the right to control karita-rozeki(to reap rice illegally),the right to enforce the bakufu judicial decisions in land disputes(shisetsu jungyo),the right to permit hanzei(half payment of tax),the right to confiscate property from criminals or if it is left derelict,the right to collect tansen(a tax on arable land).
+based on these authorities,shugo sent shugotsukai(messenger from shugo)to shoen and koryo,starting to requisition tansen,army provisions and laborers.
+they practically absorbed the functions of kokuga and subjected koryo(gun,go,ho)governed by kokuga to their control.
+trying to deal with these trends,the lords of manors obtained the right of non-entry of shugo,but it was almost impossible for them to exert strong influence on the distant shoen because most of them lived in kyoto.
+some local jito,kokujin(local samurai)and shokan(an officer governing shoen)were hired as low-level bureaucrats by shugo,and the lords' authority(hegemony over estates)was vulnerable to violation.
+eventually,shugouke was introduced,and under the system similar to jitouke in the kamakura period,shugo shouldered the responsibility for paying a fixed amount of land tax and managing shoen.
+in some cases shugo obtained the right of shugouke by actively pressing the bakufu,and in other cases lords of manors,exhausted by the disputes and suits with shugo,approved shugouke.
+not only shugouke but also ukedokoro of shugodai(deputy of shugo,provincial constable)existed.
+the following is an example of shugouke.
+in the case of otanosho(ota manor)in koyasan territory,bingo province,the yamana clan officially acquired the right to manage shitaji(land)in 1402 and became shugo on condition that they would deliver to koyasan 1,000 koku(of rice)(a unit of volume:rice 1 koku is 180.39 liter,lumber 1 koku is 0.278 cubic meter)every year.
+originally,the nengu koyasan received from otanosho was 1,800 koku per year.
+nengu to be collected from the yamana clan were often overdue,and by 1439 the amount in arrear accumulated to 26,000 koku.
+this was not an exceptional case.
+under almost every shugouke,there were non-payments of nengu every year on the pretext of droughts or floods,and shoen and koryo managed under ukedokoro virtually turned into shugoryo(guardian's territory).
+in other words,shugouke encouraged the expansion and accumulation of shugoryo and it was a factor that formed the shugo-ryogoku system(the system that a shugo dominates a manor).
+but not every shoen and koryo in those days were subject to shugo ukedokoro.
+many shoen persisted,enduring the invasion of shugo and other samurai.
+however,without a doubt the number of shoen and koryo decreased due to shugouke.
+later,shoen koryo sei(the system of public lands and private estate),the socioeconomic system throughout the medieval period,rapidly disintegrated.

@@ -1,0 +1,103 @@
+traditional japanese age system
+the traditional japanese age system is one method of calculating age.
+a child is counted as one year old at birth,and every january 1st after that counts as a year older.
+this method of counting the age of a person is called kazoedoshi,or simply,kazoe.
+this is in contrast to the western style of expressing one's age in completed years,where a year is added to one's age at midnight of the day before one's birthday.
+ex:if a baby is born on december 31,she will be one-year old at the time,and on the next day(january 1)she will be two years old.
+if she is born on january 1,however,she will be two years old on january 1 of the next year.
+caution
+as the new year's day is the base date in the traditional japanese age system,care is should be taken when calculating someone's age with this method because the new year's day under the gregorian calendar is different from that under the traditional japanese calendar that had been used until the gregorian calendar was introduced.
+please see the section on the traditional japanese system of age calculation below.
+reasons for using the traditional japanese age system
+it is based on religious thinking(such as buddhism):the nine months that the unborn baby stays in her mother's womb is counted in age.
+problems with the rekiho(method of making calendars)(the lunisolar calendar):in the lunisolar calendar,a leap month is inserted once in approximately three years(approximately seven times in nineteen years)so the length of the year differs by year against solar calendar(the gregorian calendar).
+using this calendar for the western style of calculating age has caused problems.
+a leap month occurs approximately once in three years,so the western style of calculating age cannot be used precisely because people born on a leap month do not have an exact birthday.
+for example,someone who was born on the 1st day of leap august in the 4th year of the genroku era(1691)would not have had a birthday the following year as there was no leap month in the 5th year of the genroku era(1692).
+jokyo-reki(jokyo calendar,the lunar-solar calendar which was used in japan)was used in the genroku era.
+it is recommended to refer to the section regarding the western style of calculating age and '0' for a better understanding of the traditional japanese age system.
+method of calculating age by the traditional japanese system
+when a child is counted as one year old at birth according to the traditional japanese system and becomes one year older on every new year's day.
+this is in contrast to the western style of calculating in which a newborn baby is counted as zero year old,and becomes one year older on the at midnight of the day before the subsequent birthday.
+therefore,the relation between the western style of calculating age and the traditional japanese system is as follows.
+since the solar calendar is used in japan now and the japanese calendar corresponds to the christian calendar,the method of counting a person's age in the traditional japanese system will be as follows: 'traditional japanese system＝your age+two' as for the period from the new year's day until the day before birthday,and the 'traditional japanese system＝your age+one' from your birthday and afterwards.
+in countries where the lunisolar calendar is still used or when counting the age of the deceased who lived during the period when the lunisolar calendar(the old lunisolar calendar)was used,age is counted with the new year's day as the base date of the calendar used in the relevant country back in these days.
+tempo-reki was used in japan until december 2,meiji 5(december 31,1872),and the resultant difference in dates means that new year's day under the gregorian calendar will differ from that under the traditional japanese calendar.
+consequently,a person's age may be calculated incorrectly if it is based on the traditional japanese system;in order to avoid this,the christian era year that has been derived based on january 1st on the japanese calendar should be used when calculating a person's date of birth and death.
+the difference of dates through the calendar method:first year of genroku(january 1,1688)is february 2,1688 of the gregorian calendar.
+the year of the christian era converted from the japanese calendar:the first year of genroku december 10 is actually january 1,1689 in the gregorian calendar.
+in the gregorian calendar,a new year had already started.
+if the gregorian calendar is used as the base,one year has to be added to each of the years counted based on the traditional japanese system,which will not match with the dates appearing in the literature from those era.
+for that reason,we should consider the first year of genroku(1688)is the year 1688 of the christian era--this is january 1 to december 29(january 20,1689 in the gregorian calendar).
+the first year of genroku finished on december 29,therefore december 30 and 31 do not exist.
+the example of the calculation method of the age based on the traditional japanese system(people who died before the new calendar was introduced)
+although in the example the date of death differs by one day,a new year had started in the christian calendar.
+therefore,when calculating a person's age who lived before the new calendar was introduced based on the traditional japanese system requires attention.
+an example calculating a year from the japanese calendar to the christian calendar
+born on the 11th day of leap february in 1629(april 4,1629 in the gregorian calendar).
+died on december 10,1688(january 1,1689 on the gregorian calendar):the first year of genroku is not 1689,it is calculated as the year 1688.
+correct:1688-162959+1＝60 at death(59):adding 1 is for the first year of life.
+incorrect:1689-162960+1＝61 at death(59)
+simply calculating by the christian calendar
+born on the 11th day of leap february in 1629(april 4,1629 in the gregorian calendar).
+died on december 9,1688(december 31,1688 on the gregorian calendar).
+1688-162959+1＝60 at death(59)
+an example in which the age at death under the traditional japanese age system would differ from that under the western-style system by two years
+born november 17,1629(december 31,1629 on the gregorian calendar).
+died on december 8,1688(december 30,1688 on the gregorian calendar).
+1688-162959+1＝60 at death(58):this person died before her birthday came,so her age will be 58 years old.
+calculating methods in other countries
+east asian countries such as japan,china,korea and vietnam did not use the western style of calculating age in older times;rather,they used kazoedoshi(the age by the traditional japanese system).
+while most countries switched to the western style of calculating age,only the republic of korea uses the old system officially and privately.
+it was used privately even after it was abolished officially in japan and china.
+however,kazoedoshi ceased to be used after the world war ii in japan,after the cultural revolution in china,and after independence in the north korea.
+in vietnam,its use subsided while france occupied indochina.
+currently,it is january 1 when another year is added on the gregorian calendar in japan and korea;however,in china,the lunar new year(old new year)is still observed.
+it is january 1 on jiken-reki(chinese calendar),and this sometimes differs from the old japanese new year.
+in some districts or groups in japan,however,the former new year or the beginning of spring(the first day of spring according to the lunar calendar)is used.
+this is a new method to signify the former new year in a simple and easy way at the beginning of spring.
+it is called xusui in chinese(the western-style age system is called zhousui,shisui and sokusui).
+it is called hangunnai("nai" means age)in korean(the western-style age system is called mannai).
+it is called east asian age reckoning in english,and being x years old in the traditional japanese system can also be described as one is in one's xth year.
+there is no word to indicate the western style of calculating age.
+japan
+the age by the traditional japanese system has been used in japan since old times.
+however, 'the law about calculating age' (december 2,1902,law no.50)was enforced on december 22,1902,and the western style of calculating age was adopted.
+however,the traditional japanese system continued to be used privately;therefore,on january 1,1950 'the law of the method of the age' (may 24 in 1949,law no.96)came into effect.
+the law stated that citizens should no longer use the way of counting a person's age based on the traditional japanese system,and always use the way of counting the years of age(the number of months when one's age is under one year)that is set forth in the provisions of law about calculating age(1902,law no.50).
+the law recommended once again to describe age by the western style.
+it also stated that,when the government or municipalities refer to the age of a person,such organization must describe the years of age or the number of months in accordance with the rule set forth in the previous paragraph.
+however,should there be a compelling reason that one must describe a person's age in accordance with the traditional japanese system,that effect must be specified in advance.
+as described above,the government and municipalities were obligated to use the western style age system and to specify so when there is a need to mention an age based on the traditional japanese system.
+there were four reasons for the establishment of the law.
+1.to brighten japanese people by making them feel they became younger.
+2.promotion of the correct registration of birth.
+3.enhancement of internationality.
+4.resolution of the irrationalities regarding distribution systems.
+at the time,the problem with the distribution was the most serious problem.
+for example,when a child was born in december and in february next year the child receives candy through the distribution system because the child was regarded as two years old.
+of course,the idea of giving candy to a two-month-old infant absurd.
+there was another type of problem where someone who was in his fifties based on the western-style age system was considered in his sixties according to the traditional japanese system and the amount of he received through distribution was reduced because of his age.
+although the calories that were the bases for deciding the amount of distribution were calculated based on the western-style age system,the actual distribution conducted based on the traditional japanese age system;thus,such a problem occurred.
+(please refer to the item of the law of the method of age calculation for the details)
+even now,the older generation uses the traditional japanese age system.
+people in other age groups use the traditional japanese age system on limited occasions such as fortune telling,traditional events,or when counting the age at death.
+the traditional events such as shichigosan shichi-go-san(a day of prayer for the healthy growth of young children celebrated when they turn three,five,or seven years old)or toshiiwai(the celebration for certain ages)(e.g.koki(the cerebration of a person's seventieth birthday),kiju(the cerebration of a person's seventy-seventh birthday),etc.)originally used the traditional japanese age system.
+therefore,both the traditional japanese age system and the western-style age system are allowed to be used in such events.
+in principle,celebrations are conducted at the same ages regardless of the age system used.
+however,an exception occurs when celebrating kanreki(one's sixtieth birthday).
+kanreki is celebrated at the age of sixty-one based on the traditional japanese age system,and at the age of sixty based on the christian era.
+however,only the traditional japanese age system is used when counting the unlucky years and it is uncommon to use the western style of calculating age in such a case.
+also,for memorial services and in shinto,the traditional japanese age system is used when counting one's age at death that is inscribed at ceremonial occasions.
+recently,however,the western-style system has come to be used.
+the method of 'nenkaiki' (memorial service held at fixed years),with the exception of 'isshuki' (the first anniversary of one's death),follows age by the traditional japanese system.
+also,the age of a racehorse was,until recently,calculated according to the traditional japanese age system.
+however,it is decided to follow the international system of notation since 2001 and a horse is zero year old at birth and one year is added to its age on january 1 of every year(i.e.,the age that is one year less than it used to be under the traditional japanese age system).
+therefore,january 1st remains to be the date on which another year is added,and the age of a horse is not equal to 'the age the horse according to the western-style system.'
+differences in the methods of counting under the traditional japanese system,the western-style system,and anniversaries
+traditional japanese age system:one's xxth year after the birth
+western-style age system:x year and x month(the amount of past anniversaries)
+anniversary:a year after the occurrence of a certain event.
+example:fiftieth anniversary(based on the traditional japanese system):forty-ninth anniversary after forty-nine years.
+the thirteenth anniversary of one's death(based on the traditional japanese system):twelfth anniversary after one's death.
+the day used as the base date for counting anniversaries in the traditional japanese age system(e.g.years of career,years since entering a company,grade in school,and after death)is mostly the corresponding day(e.g.the date of entering a company,the date of entering a school,and the date of person's death).

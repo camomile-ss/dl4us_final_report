@@ -1,0 +1,126 @@
+keihan uji line
+the uji line is a railway line of keihan electric railway that connects chushojima station located in fushimi ward,kyoto city,kyoto prefecture and uji station(keihan)located in uji city,kyoto prefecture.
+it is a touristic line that connects from kyoto and osaka to the sightseeing spots around the uji area.
+nearly the entire line runs in parallel with the jr nara line.
+railway data
+railway distance(operating kilometers):7.6 km
+track gauge:1,435 mm
+number of stations:eight(including the starting and final stations)
+double-track section:entire line
+electrified section:entire line electrified(dc1500v)
+block system(railway):automatic block system
+security system:automatic train stop(ats):keihan speed pattern type ats(speed ats-p)
+operation system
+under the actual timetable,during the daytime on weekdays and from the morning to noon on saturdays and holidays,only the shuttle local trains are made up of four cars,and in the late evening on saturdays and holidays only the trains made up of four or five cars are operated on the line.
+throughout the line,during rush hour,the train is operated every five to eight minutes,while during the daytime it's operated every 10 minutes.
+during the morning rush,five trains are in operation,but for the rest of the day four trains operate.
+previously,many trains would go through toward sanjo station(kyoto prefecture)on the keihan main line.
+when the timetable was revised on july 1,2000,most of the trains discontinued operation,and subsequently only two through-trains were operated in the morning of weekdays until the timetable revision was held on september 6,2003,while the operation with intervals of every five to eight minutes during rush hours and 15 minutes in the daytime on the entire line was maintained.
+with the revision of september 6,2003,the operations of the through-trains toward kyoto sanjo were discontinued,and the trains were operated until then with four or five cars,but for a while the regular operation of the five-car trains for the uji line was abolished.
+however,with the timetable revision of april 16,2006,the operation with five cars was recovered,albeit only during the late evening on saturdays and holidays.
+however,the trains made up of five cars are used in an exceptional manner when there are many passengers on such occasions as the uji-gawa river fireworks display in august,or for certain reasons of operation.
+until september 26,1989,through express trains also ran toward sanjo,but owing to the fact that these trains,made up of five cars and running on the hankyu main line during the morning rush,aggravated the congestion of the main line,they were discontinued when the interval of the morning express trains running on the hankyu main line was capped at 10 minutes.
+within the uji line the trains made a stop at every station.
+in the 1960s,during the tourist seasons,special trains made up of six cars were operated from the osaka district(following the relocation of uji station on june 17,1995,the effective length of the station's platform was shortened,and since then the six-car trains haven't been able to proceed into the platform).
+during the tourist seasons between 1998 and 1999,there were some occasions in which the special rapid 'uji kaisoku' was operated directly toward osaka(the details are cited later).
+some of the trains on the uji line also went directly to kyoto station of the nara electric railway(kintetsu kyoto line since october 1,1963)during the period from april 1,1947 to december 20,1968.
+keihan electric railway and nara electric railway(later kintetsu railway)would make a connection at tanbabashi station to operate through-trains.
+on january 21,2007,in order to undertake the final run of the ad-wrapped wagons known for their illustrations of 'thomas&friends,' which had been operated since july 29,2006,a special limited express train using the keihan electric railway series 10000 was operated from uji station to tenmabashi station.
+this was the first time a limited express ran on the uji line.
+however,the train stopped at all stations of the uji line.
+rolling stock
+keihan electric railway series 2600(four or five cars long)
+keihan electric railway series 10000,which is four cars long,is currently operated provisionally.
+keihan electric railway series 1900(five cars long)
+the following are the trains that have been operated on the line since the 1980s(when the uji-gawa river fireworks display is celebrated,the five-car trains are used to secure transportation capacity).
+occasionally,for reasons of operation,there are also five-car trains that proceed into the line.
+keihan electric railway series 7200(five cars long,special train units for special trains)
+keihan electric railway series 6000(four cars long,before the voltage is boosted to 1500v)
+keihan electric railway series 7000(only the trains of series 7003 are made up of four cars at the time of production).
+history
+june 1,1913:the railway service between chushojima and uji started.
+february 1,1917:mimurodo station was opened.
+1926:the name of obakuyama station was changed to obaku station.
+may 31,1929:the concomitantly used 0.110 km track near kangetsukyo station became the track for the line's exclusive use,following the rehabilitation of the uji-gawa riverbank.
+october 1,1943:the railway became one of the lines of keihanshin kyuko railway(hankyu railway)due to the merger.
+november 1,1943:the use of mimurodo station ceased.
+september 15,1945:kangetsukyo station and goryomae station suspended operations.
+november 8,1945:kangetsukyo station restarted its operation.
+february 15,1946:goryomae station restarted its operation.
+april 1,1947:mimurodo station was opened.
+november 25,1949:the name of goryomae station was changed to momoyama-minamiguchi station.
+december 1,1949:the line became keihan electric railway uji line due to the company's division.
+september 25,1953:the season's thirteenth typhoon hit the line,and because it was damaged by the inundation around momoyama-minamiguchi station and rokujizo station caused by the reversed stream from uji-gawa river to yamashina-gawa river among others,the restoration process took more than 10 days.
+april 21,1965:the timetable was revised.
+the express trains from uji to sanjo began operating in order to handle the morning rush.
+march 20,1966:when the yamashina-gawa riverbank was raised and the bridge was replaced in the vicinity of rokujizo station,the rail track in the vicinity was also moved and set on a newly constructed bank,and rokujizo station was relocated on the bank as well.
+december 11,1967:all trains became four cars long.
+january 29,1968:ats started being used.
+december 20,1968:the timetable was revised.
+the express trains from sanjo to uji began operating in order to cope with the evening rush.
+march 10,1978:the denomination of the entire line was changed from a tramway,which was defined based on the tramways act,to a railway based on the local railways act.
+march 23,1980:the timetable was revised.
+the saturday timetable was introduced,and the express trains for sanjo during the morning rush were discontinued.
+december 4,1983:the voltage of the overhead wires was increased from 600v to 1500v.
+september 27,1989:the timetable was revised.
+the express trains from sanjo to uji during the evening rush were discontinued.
+june 17,1995:due to the relocation of uji station,the operating distance was reduced by 0.2 km.
+accordingly,the fares between some stations were restructured.
+july 11,1997:the track for chushojima that crosses the taisen-gawa(大戦川)railway bridge(between mimurodo and obaku)was replaced.
+july 25,1997:the track for uji that crosses the taisen-gawa(大戦川)railway bridge was replaced.
+july 1,2000:the through-trains to sanjo station were discontinued except for two trains for sanjo station that ran on the weekday mornings.
+september 6,2003:the through-trains to sanjo station were completely abolished.
+august 1,2004:pitapa was introduced.
+january 21,2007:a "limited express," which had three ad-wrapped wagons featuring the illustration of 'thomas&friends,' was operated from uji to tenmabashi.
+this was the second direct train operated in this section after the 'uji kaisoku' rapid train,and it was the first "limited express" train in the history of the uji line.
+uji kaisoku rapid train
+uji kaisoku' rapid train was a special train operated between yodoyabashi station on the keihan main line and uji station on the uji line only in the tourist seasons from november 1998 to november 1999,according to the time schedule for holidays(which was at that time the timetable for sundays and holidays).
+although it was classified as a special train,a new denomination of the 'kaisoku(rapid)train' type was created specifically for this service.
+this is because this train stopped at nearly all the same stations as the limited express train.
+in the company's classification,the rapid train is ranked higher than the express train.
+this special train was operated in four seasons a year,changing its name according to the season as follows:the train is named 'uji kaisoku sakura(cherry blossom)special' during spring vacation, 'uji kaisoku wakaba(young leaves)special' during golden week, 'uji kaisoku ajisai(hydrangea)special' in june,and 'uji kaisoku momiji(maple)special' in the autumn season.
+the details on the 'uji kaisoku' rapid are described below in an integrated manner,except for special remarks.
+summary
+november 1,1998:the 'uji kaisoku' rapid started the operation.
+this train was introduced because,at that time in 1998,the uji area was promoting local tourism featuring the 'town of the tale of genji';also, 'the tale of genji museum' was completed in the autumn of the same year in the vicinity of uji station(keihan).
+because many scenic spots had been created,including uji city botanic garden,which opened in 1996 with 10-ha premises and a restaurant serving the locally brewed beer 'gardens amagase brewery' opened in 1997(currently closed due to a slump),the rapid train service was introduced so that the tourists would be able to visit the uji area from osaka and its vicinity without having to transfer.
+although there was a special express train operated until 1986 between yodoyabashi station and uji station it was later discontinued,and therefore the operation of this direct train to the keihan main line restarted for the first time in 12 years.
+however,unlike other hankyu railway 'special trains on the hankyu main line,' it was operated as an express train even on the uji line,although it's a hankyu feeder line.
+however,at those stations through which the train passed nonstop,there was no train sorting system and the train had to move at speeds as low as 15 km/h due to the operating requirement of the crossings within the station yard.
+when this service was started,in accordance with the operation of 'momiji(maple)special' rapid, 'uji free ticket' was launched as one of the special autumn ticket series known as 'momiji(maple)ticket.'
+within the train,tourist information was announced by volunteers and pr activities were undertaken by tea-picking girls,while the restaurant 'gardens amagase brewery' launched a new product called 'tale of genji' to commemorate the opening of 'the tale of genji museum.'
+thanks to these stimulus activities,the tourists who visited uji city increased by 30%over the previous year.
+the 'uji kaisoku' rapid train was discontinued in 1999 with the final operation of the 'momiji(maple)special.'
+it was said that it was because there were fewer direct passengers from the osaka area than expected and the popularity of the uji area had declined(the exact reasons were unknown).
+subsequently,with the revision of the timetable of the keihan line on july 1,2000,all limited express trains began stopping at chushojima station throughout the day,making the trip to the osaka area more convenient by comparison to the trip on an express train,which people used to take until then,although they would have to transfer,and because of this change there is no plan to relaunch the 'uji kaisoku' operation in the future.
+operation record
+sections of operation
+outward operation toward the uji area:yodoyabashi to uji,two trains
+homeward operation toward the osaka area:uji to tenmabashi,one train
+the stations at which the trains made stops
+yodoyabashi station-kitahama station(osaka prefecture)-tenmabashi station-kyobashi station(osaka prefecture)-hirakatashi station-chushojima station-rokujizo station-(mimurodo station:only 'uji kaisoku ajisai special' rapid train made a stop)-uji station
+timetable at that time(only the starting stations)
+yodoyabashi station:904,1034(departure)
+uji station:1530(departure)
+rolling stock used
+yodoyabashi station:904 departure:keihan electric railway series 1900
+yodoyabashi station:1034 departure and uji station 1530 departure:keihan electric railway series 7200
+it is noteworthy that only for the purpose of operating 'uji kaisoku' rapid,the eight-car train of keihan electric railway series 7200 was decoupled to be five cars long early in the morning at the neyagawa depot;then,once the operation was over,the train was again coupled to a length of eight cars late in the evening.
+however,the led type in-car guidance indicator that featured the series 7200 was never used.
+the 'uji kaisoku sakura special' rapid train,which departed from yodoyabashi at 9:04 in april 1999,was the only train that used the keihan electric railway series 2600(basically,the series 2600 wasn't used for the 'uji kaisoku' because it had no exterior speakers).
+rollsigns
+at that time,since the train lacked the rollsign that indicated 'rapid,' it carried the rollsign 'special,' and for the front face two plates,one reading 'uji kaisoku' and the other reading 'special,' were prepared for attachment.
+deadhead trains
+each of the two trains departing from yodoyabashi was deadheaded from the neyagawa depot.
+the train departing from yodoyabashi at 9:04 was deadheaded to the neyagawa depot after arriving at uji station.
+the train departing at 10:34 was deadheaded to the spur line of chushojima after arriving at uji,and once stationed there it was again deadheaded to uji and was operated to tenmabashi;after arriving there,it was deadheaded to the neyagawa depot.
+list of stations
+only local trains are operated,and all trains make stops at every station.
+in keihan railway the transfer information at rokujizo station and obaku station aren't announced on the train.
+moreover,on the railway diagram(in case of obaku station)it isn't officially figured as a transfer station.
+except for rokujizo station,the stations are installed with wheelchair-accessible elevators(uji station,chushojima station)or ramps(kangetsukyo,momoyama-minamiguchi,kowata,obaku and mimurodo),and the stations have already taken barrier-free measures including multipurpose toilets such as an 'ostomate-accessible toilet(toilet accessible for the people with ostomies)' and 'wheelchair-accessible toilet,' or toilets with baby-changing tables.
+others
+at chushojima station,in order to avoid the confusion in taking a train(platform 2 of the keihan main line's outbound track is also located on the same level),at the time of the departure the announcement says, 'platform 3,the doors of the train for uji are closed,' instead of 'platform 3,the doors of the local train are closed' (at hirakatashi station the phrases used in the departure announcements for the keihan main line and the katano line are different,while at kyobashi station(osaka prefecture)and tenmabashi station similar measures are taken).
+the phrase cited above is the announcement as of june 16,2007 and thereafter.
+until june 15,2007 the announcement was, 'the train on platform 3,bound for uji,will depart.'
+at one time,when the trains carried their destination plates on the front face,the trains departing from uji for sanjo used the plate on which the two chinese characters that together indicated sanjo were deliberately placed with a space in between as '三条' (san-jo)in order to distinguish them from those proceeding from the direction of osaka.

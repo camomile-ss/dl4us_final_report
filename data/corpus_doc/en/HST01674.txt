@@ -1,0 +1,9 @@
+doyoso(public repository to store rice tax,which were allowed to be consumed,in ancient ritsuryo system)
+doyoso is a shoso(public repository)to store doyo,which was shozei(rice tax)allowed to be consumed,in ancient ritsuryosei(system of centralized governance).
+it is also called doso.
+originally it was a notion coupled with fudoso(public repository to store rice tax,which was not allowed to be consumed without a permission of daijokan,grand council of state).
+in 708,when the system of fudokoku(staples for an emergency,stored in fudoso)was introduced,the opposite idea of 'doyo' was also introduced.
+rice in husk collected through soyocho tax system and placed in a shoso of kokuga(provincial government office compounds)became fudokoku after inspection and sealing when the shoso was filled,while the rice in husk before inspection and sealing was used in case of emergency,like almsgiving,according to the judgement of kokushi(an officer of a province).
+this is called doyo(there were also doyo of millet and sake according to existing shozei records,and therefore,doyo of rice in husk is especially called 'doyokoku').
+doyoso was a warehouse to place such doyo.
+a key of doyoso was called jokan and controlled under kokushi and gunji(officer of a county).

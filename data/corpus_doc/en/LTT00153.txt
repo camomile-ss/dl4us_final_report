@@ -1,0 +1,86 @@
+ise monogatari
+"ise monogatari" (the tales of ise)is a poetry narrative completed in the early heian period.
+it is also called "zaigo ga monogatari" (the tales of zaigo), "zaigo chujo monogatari" (the tales of lieutenant general zaigo)or "zaigo chujo no nikki" (the dairy of lieutenant general zaigo).
+"the tales of ise" consists of 125 chapters.
+it tells the story of a man from his coming of age to death through verses and songs with accompanying prose narratives.
+it includes many waka poems by the poet ariwara no narihira and the hero is called by his cognomen(chapter 63).
+his image is therefore reflected in the hero.
+nevertheless,he does no appear under his real name in the text and there are a number of poems and episodes that cannot be ascribed to his biography.
+some tales are based on historical events that took place after his death.
+this suggests that the text was finalized after his death.
+the first document that refers to the title is "genji monogatari" (the tale of genji)("eawase no maki" or the chapter on a picture contest).
+author and time of completion
+the author and the time of completion still remain uncertain.
+since the time of its completion it has played a central role in classical education.
+each chapter contains a single tale of handy length.
+thus, "the tales of ise" was probably very popular among the nobility in kyoto.
+it is noteworthy that "the tale of genji" refers to "the tales of ise" as 'outdated.'
+opinions differs as to how 'outdated' it was from which point of time in the text.
+this issue still remains unresolved.
+there have been many speculations about the authorship of "ise monogatari" since the heian period.
+the question of its authorship is inextricably linked to the question of its textual formation.
+in former times the controversy over the completion of the text was divided into three:before,during,or after the composition of "kokin wakashu" (a collection of ancient and modern japanese poetry)and "gosen wakashu" (a later selected collection of japanese poetry).
+authorship
+in fujiwara no kiyosuke's "fukurozoshi" (notes in a folder,the collection of poetic lore on poetics),kensho's "kokinshu chu" (commentary of the kokinshu)and in the postscript to vulgate copies of the manuscript transcribed by fujiwara no sadaie,narihira is suggested as the author of "the tales of ise."
+reportedly a similar mention was made in "nurigome-bon" (the manuscript of "the tales of ise" in the possession of emperor suzaku).
+another ascribed its authorship to ise,who was the only female poet in the poetry circle in the engi era,based on the title of "the tales of ise."
+the postscript to the vulgate copy in the possession of the nijo family of the manuscript copied by fujiwara no sadaie mentions that it was supplemented by ise.
+it is clear,however,that some chapters of the text are closely related to "kokin wakashu."
+recently,therefore,many have considered it necessary to dissociate the text from the legendary authorship of narihira and "narihirashu" (collection of poems of ariwara no narihira).
+at present,the theory of 'gradual development,' which yoichi katagiri has advanced,is predominant.
+one hypothesis states that tales that were included in the collection of poems of narihira or had been handed down in his family gradually developed into the 125 chapters as we now know them,through the addition of supplementary chapters by later redactors.
+the assumption of the later addition of chapters is,however,questionable,as no manuscript with more than 125 chapters has been confirmed.
+as some have pointed out,if the text had been orderly arranged at the final stage,the person who did this editing must be regarded the author.
+literary works,whether poetry or prose,before pre-modern times are assumed to have been based on earlier works.
+it is therefore necessary to consider pre-modern authorship in different light from the authors of modern writings.
+making allowances for such cases,in recent years ki no tsurayuki and others have often been mentioned as individual authors.
+nonetheless,the question of the authorship of the text is still in a state of flux.
+content and structure
+the tale of ise is structured as a chain of short chapters with several lines(several dozen at the longest and a few lines at the shortest).
+a central piece of each chapter is constituted by dokueika(waka composed without a specific addressee in mind)in which the hero expresses his sentiments or zotoka(poems composed with a specific addressee in mind)which he exchanges with others.
+the hero is never called narihira although many waka poems by ariwara no narihira(825-880)are cited and his close relatives and acquaintances appear in the text.
+(chapters often begin with the following sentence: 'once upon a time,a man///.')
+in some tales(e.g.,chapter 23 on the so-called 'tsutsu izutsu' (lit.a well curb)),countrymen who have nothing to do with narihira,who is a nobleman of imperial lineage,are made into the protagonists.
+for these reasons,one hesitates to assert that the hero is narihira and prefers to state that he has something of narihira or he is a man like narihira.
+he has been referred to from days of old as 'once-upon-a-time man' based on the opening line of chapters.
+the chapters cover broad subjects from heterosexual love,to parent-child love,to master-subject love,to friendship and social life.
+not only the hero but also many characters who associate with him are referred to as a 'woman' or 'person.'
+which is why "the tales of ise" does not merely remain as a narrative about narihira but can be a universal narrative that describes many aspects of human relations.
+at times,multiple chapters constitute a serialized story and at times,a single chapter tells an independent story.
+even in the latter case,however,adjacent chapters are loosely connected by sharing common words,phrases,or contents.
+in the extant manuscripts,the text begins with the hero just having undergone the ceremony of coming-of-age celebration and ends with his writing a waka poem anticipatory of his death.
+between these two episodes are inserted the following episodes:the hero's tragic love affair with nijo no kisaki, 'azuma kudari' where he journeys into eastern provinces,his amour with ise saigu(vestal virgin of ise),and the master-subject love between imperial prince koretaka and him.
+in the latter part of the text the hero appears as an old man,which imparts a broad structure of biography to the narrative.
+a scholars has described such a structure as the "comb-teeth organization" by way of the metaphor of the comb in which the framework of biography is filled with a row of teeth that are individual episodes recounting the truths of love.
+many characters associated with the ki clan famously appear in the text.
+ariwara no narihira was married to the daughter of ki no aritsune(who appears under his real name in the narrative).
+the daughter of aritsune's father,named ki no natora,gave birth to imperial prince koretaka.
+the text underscores that the ki clan are in more reduced circumstances than ancient records would tell us.
+this can be taken as the aesthetic rendering of the clan who remained graceful even though,for some reason,they failed to defeat the fujiwara clan in their political strife.
+it seems that manuscripts that began with the episode of the hero's liaison with the vestal virgin of ise once existed.
+fujiwara no sadaie,however,criticized that they were interpolated.
+no such manuscripts moreover have been identified.
+the origin of the title
+there were many opinions about the origin of the title.
+in the present,however,one of the most cogent theories is that the title derives from the 69th chapter set in ise province(where a man supposed to be ariwara no narihira commits adultery with the vestal virgin of ise).
+this theory assumes,on the one hand,that the chapter is a highlight of the text,and,on the other,that it was originally an opening episode.
+the former interpretation cannot really explain why this chapter rather than famous chapters like "nijo no kisaki" or "azumakudari" had to be selected.
+the latter has met the criticism that such a form of texts would have been re-edited by later redactors to justify the title.
+the controversy around the title has not been fully settled.
+narihira's adulterous relationship with the saigu of ise had a grave impact on the aristocratic society of the day.
+(in the heian period sexual intercourse with saigu itself was an absolute taboo.)
+as an allusion to this event the title 'ise monogatari' was adopted.
+such a theory has also been suggested.
+it has been,however,severely criticized on the ground that it reduces the fictional narrative to a historical fact.
+there is moreover a theory that the text was called as such because the author was ise who was a female poet.
+there is yet another conjecture that "ise monogatari" in fact meant 'imose monogatari' (the tales of imose).
+"the tale of genji" (the chapter on agemaki of "genji monogatari")cites the title called "zaigo ga monogatari" (the tales of zaigo,who refers to narihira who was the fifth son of the ariwara clan).
+"zaigo ga monogatari" is regarded(a little casual)name of "ise monogatari."
+influence of "the tales of ise" on later works
+as a document on the ideal of 'irogonomi' (heroic love-making) "the tales of ise" was very influential on later prose narratives such as "the tale of genji" as well as waka poems.
+common themes are found in "yamato monogatari" (the tales of yamamoto)that was completed slightly later(in ca.950).
+waka poems that are considered to have been taken from "the tales of ise" are included in "gosen wakashu" and "shui wakashu" (a collection of gleanings of japanese poems).
+since medieval times innumerable commentaries were written.
+they each developed their own interpretations of the text and provided sources for later works such as "noh izutsu."
+after pre-modern times,the text became the basis of parodies such as "nise monogatari" (the tales of pseudo-ise).
+in our times too,it gave rise to mock "ise monogatari" such as "ese monogatari" (the tales of ese by yoshinori shimizu).

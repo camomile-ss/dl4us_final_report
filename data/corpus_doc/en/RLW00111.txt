@@ -1,0 +1,33 @@
+tanba(train)
+"tanba" is the name of a limited express train that the west japan railway company(jr west)operates between kyoto station and fukuchiyama station via the sanin main line.
+this train is one of those used in the north kinki big x network.
+this train is sometimes operated as a special train with its operation extended to the west of fukuchiyama,up to kinosakionsen station.
+this train is often operated between kyoto and ayabe,being connected with 'maizuru(train)' a limited express train.
+this train serves as a commuter limited express as well as a train that relays passengers from the tajima area to the kyoto area.
+its color theme is blue.
+because its destinations are places where branch offices of jr west are located,its color is associated with the corporate color.
+general operating conditions
+number of times the train is operated
+train cars used
+jnr/jr limited express series 183
+maximum speed
+the train reaches a speed of 120 km/h between kyoto station and fukuchiyama station
+organization
+frame＝a first-class car,white frame＝an ordinary-class car,自＝non-reserved seats,指＝reserved seats;*smoking is prohibited in all of the cars.
+this organizational system is for tanba 1,3,5,7,4,6 and 8.
+numbers 1 to 4 are for tanba.
+numbers 5 to 7 are for maizuru.
+this organizational system is for tanba 9 and 2.
+stations at which the train stops
+kyoto station-nijo station-kameoka station-sonobe station-(hiyoshi station(kyoto prefecture))-(goma station)-(wachi station)-ayabe station-fukuchiyama station
+some of the tanba trains stop at the stations shown in brackets([]).
+the origin of the name and history
+the name 'tanba' originated from tanba province,which was used as a so-called provincial name in the nation's governing system in the old days.
+therefore,this name was used for the train whose destination was the area covering the northern part of kyoto prefecture and the northeastern part of hyogo prefecture,this being the area indicated by the name.
+accordingly,before the new tanba train started operations a semi-express train and express train,each called tanba,were operated during the period of 1960 to 1986 between osaka station and kinosaki station(presently kinosakionsen station)via the fukuchiyama line,sanin main line,maizuru line and miyazu line of the kitakinki tango railway corporation.
+also refer to the postwar development of the kita-kinki(train).
+1996:the electric operation of trains started between sonobe station and fukuchiyama station on the sanin main line,and electric cars were introduced in the 'kinosaki(train)' express train.
+this name is used for trains arriving at and departing from fukuchiyama station.
+1999:consequently increase in the number of times the 'kinosaki(train)' limited express train operated,its inbound train operation was terminated.
+2003:when the operation of the 'maizuru(train)' limited express train started,the inbound train operation of tanba was restored in the organization by which the inbound train was connected with the 'maizuru' train.
+march 18,2007:smoking was prohibited throughout the train.

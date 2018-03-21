@@ -1,0 +1,23 @@
+koku(a unit of volume in old japanese system of weights and measures originated in china)
+koku is a physical unit of old japanese system of weights and measures represents volume.
+koku(石)was originally written as斛in chinese character and both sill means the same in present japan.
+1 koku is equal to 10 to(a unit of volume,1 to is about 18 liters),that is,100 sho(a unit of volume,1 sho is about 1.8 liters)or 1,000 go(a unit of volume,1 go is about 0.18 liters).
+since approximately 1 go of rice is for one meal,1 koku is nearly equivalent to the amount of rice that a person consumes in one year(365 days times 3 go equals 1,095 go).
+however,the number of days in a year was not fixed in the lunar-solar calendar that was widely used in eastern asia.
+tan,a unit of area(a tan is approximately 10.6 meters in length and 34 centimeters in width),was originally defined an area of rice fields that brings in 1 koku of rice.
+the actual amount of koku is not fixed because the amount of sho,the base unit of volume,differs in time,countries,and areas.
+in japan,the amount of sho was unified to the new kyomasu(new kyoto measure;3.7 percent larger than kyomasu[kyoto measure]in volume)in 1669 which is used today.
+after the ratification of the treaty of the meter,1 sho was set to be about 1.8039 liters based on a meter;and therefore 1 koku was about 180.39 liters.
+in china,while they have set 1 sho to be 1 liter,1 koku is equivalent to 100 liters.
+1 sho of the existing new kyomasu is in size of 0.49 shaku(a unit of length,1 shaku is equal to about 30.3 centimeters)square and 0.27 shaku in depth equals to 0.064827 cubic shaku(that is,0.49 shaku times 0.49 shaku times 0.27 shaku),thus 1 koku equals to 6.4827 cubic shaku.
+they made 1 koku equals to 10 cubic shaku(about 278 liters)when to represent volume of burden or lumber.
+the original chinese character for 'koku' (石)was '斛,' but the homophonic '石' is often found in papers like "shiki" (the chinese historical records).
+in the age of the sung dynasty,10 to was set to be 1 koku(石),and 5 to was set to be 1 koku(斛),and ever since the koku(石)and koku(斛)are different unit in china.
+unit of weight
+koku' (石)was essentially an unit of weight,pronounced 'seki.'
+"kongcongzi" (chinese literature:collection of debates between confucius and his descendants)says '4 kin,鈞,represents 1 koku' and "enanji" (chinese literature from 200 b.c.)says '1 koku consists of 4 kin.'
+1 kin(鈞)is equal to 30 kin(斤;unit of weight),thus 1 koku is equal to 120 kin(斤).
+for instance,in the age of the han dynasty,1 koku was equal to about 31 kilograms because 1 kin(斤)was equal to about 258 grams.
+koku is still used in china as a unit of mass.
+the koku used in hong kong is literally translated into english as enstone(chinese mass).
+although the imperial system of units also has an unit called stone,the value varies greatly(1 koku of the old japanese system of weights and measures in hong kong is equal to 72.5747784 kilograms(160 pounds[mass])and 1 stone belongs to the imperial system of units is equal to about 6.4 kilograms(1.4 pounds).

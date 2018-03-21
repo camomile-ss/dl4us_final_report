@@ -1,0 +1,40 @@
+manyo-gana(a form of syllabary used in the manyoshu[collection of ten thousand leaves])
+manyo-gana is a kind of kana(the japanese syllabaries),and it mainly refers to the letters from which japanese people borrowed chinese-derived pronunciation in order to express japanese in ancient times.
+these letters are represented by the writing in "manyoshu," and therefore they are called in this way.
+they are also called magana or shakuji.
+they are a kind of phonetic loan characters.
+summary
+the most prominent characteristic of manyo-gana is that,regardless of the meanings of the chinese characters,one letter was used to represent each syllable of japanese which was expressed with chinese characters in a square or a cursive style.
+they were used most in manyoshu,and therefore called like this.
+the way of writing ballads and kunchu(notes on kun[japanese readings])in "kojiki" (the records of ancient matters)and "nihonshoki" (chronicles of japan)is the same as that in manyoshu.
+the wu reading was reflected in "kojiki," while the han reading was reflected in the α group of "nihonshoki."
+shunto shonin(the venerable shunto),who was a scholar of the japanese classics in the edo period,classified manyo-gana in the order of the japanese syllabary into seion(literally,chinese-derived character reading in normal manner),ryakuon(literally,chinese-derived character reading in short manner),seikun(literally,native japanese reading in normal manner),gikun(literally,native japanese reading by meaning of chinese character),ryakkun(literally,native japanese reading in short manner),yakukun(literally,native japanese reading in brief manner),shakkun(literally,native japanese reading in borrowed manner),and gisho(literally,playful and technical reading)in "manyo yojikaku" (1818).
+the number of manyo-gana used in the kojiki,nihonshoki,and manyoshu reaches 973 when they are classified in accordance with the origins of the characters.
+a history of manyo-gana
+the way of writing in manyoshu and nihonshoki was organized,and therefore it is not known when manyo-gana was generated.
+it is considered that manyo-gana was completed around the seventh century,from documents left in the shosoin treasure house and excavation of materials written on narrow strips of wood.
+the oldest material among the ones actually used is the wooden strip,which was made before 652 and excavated in naniwanomiya,chuo ward,osaka city.
+11 characters which seem to have been the opening line of waka poetry, 'ha ru ku sa no ha ji me no to shi' (皮留久佐乃皮斯米之刀斯,literally,the first year of spring plants)were written on it.
+however,an iron sword with gold inscription,which was found from inariyama-kofun tumulus made in the fifth century,is older,and it has a possible name of the 21st emperor yuryaku, 'wa ka ta ke ru daio' (獲加多支鹵大王,the king wakatakeru),on it.
+it is considered that this was a kind of manyo-gana,which borrowed sounds of chinese characters.
+this means that the way of writing proper nouns borrowing the sound of chinese characters had been established at least by the fifth century.
+in the heian period,hiragana(the japanese cursive syllabary)and katakana(syllable based writing system of the japanese language)were made on the basis of manyo-gana.
+variations
+1.the letters borrowed from the pronunciation of chinese characters(shakuon kana[sound borrowing syllabary])
+characters that represent one mora in each
+complete:i(以,い),ro(呂,ろ),ha(波,は),...
+partial:a(安,あ),ra(楽,ら),te(天,て),...
+characters that represent two morae in each
+shi-na(信,しな),ra-mu(覧,らむ),sa-ga(相,さが),...
+2.the letters borrowed from the meaning of chinese characters(shakkun kana[borrowed meaning syllabary])
+characters that represent one mora in each
+complete:me(女,め),ke(毛,け),ka(蚊,か),...
+partial:shi(石,し),to(跡,と),chi(市,ち),...
+characters that represent two morae in each
+a-ri(蟻,あり),ma-ku(巻,まく),ka-mo(鴨,かも),...
+characters that represent three morae in each
+i-ka-ri(慍,いかり),o-ro-shi(下,おろし),ka-shi-ki(炊,かしき)
+characters that represent one mora in two
+a(嗚呼,あ),i(五十,い),e(可愛,え),shi(二二,し),bu(蜂音,ぶ)
+characters that represent two morae in three
+ku-ku(八十一,くく),sa-sa(神楽声,ささ)

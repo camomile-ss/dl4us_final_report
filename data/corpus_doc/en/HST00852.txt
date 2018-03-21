@@ -1,0 +1,41 @@
+koban
+koban is a kind of gold coin that was distributed in the edo period.
+the formal name is koban,which was clearly mentioned in "sankazue" (picture collection of three coins:history of coinage in japan),however,ancient coin books including "kinginzuroku" (gold&silver catalog)and "dainihon kaheishi" (great history of japanese coins)called it kobankin.
+the name 'kobankin' is widely-accepted among coin collecting world.
+it is counting currency with definite ryome(a weighed value)and karat.
+summary
+it was oval called kobangata and on the surface gosan no kiri mon(paulownia patterns)were engraved in fan-shaped frame on the top and the bottom and at the top center '壹两,or ichi ryo(one ryo)' was engraved and at the bottom a hallmark, '光次,or koji(kao written seal mark)',was engraved.
+before his unification of the whole country,ieyasu tokugawa had planned to issue a form of currency for general distribution that would be smaller than the oban and would have an engraving instead of ink writing.
+starting with the keicho koban(which ieyasu ordered the goto family to cast in 1601),10 kinds of koban were issued before the issue of the manen koban in 1860.
+it was planned to circulate nationwide,however,the distribution was mainly in kanto region because gold mines were located in hitachi,kai,izu and sado provinces and the policy of circulating gold coins in public was newly adopted by ieyasu.
+the face value was kin(gold)1 ryo.
+this meant gold dust in weight of 1 ryo which was originally a mass unit,but in the kamakura period kin 1 ryo was 5 monme and gin(silver)1 ryo was 4.3 monme and in 1484 the muromachi bakufu determined kyome kin 1ryo as 4.5 monme(about 16.8 gram)and the others as inakame(unit of measure in old japan).
+in the azuchi-momoyama period,to set the currency unit based on the quaternary notation system,kyome kin 1 ryo was changed to 4 monme 4 bu and inakame kin 1 ryo was changed to about 4 monme.
+keicho koban was made based on the principle of kyome 1ryo,however,later,due to economic policies of different periods except in shotoku kyoho period,it became often made worse both in karat(content rate of gold)and ryome(a weighed value).
+also in the end of edo period,exchange ratio between gold and silver abroad was so different from domestic one that extremely small manen koban was casted to adjust the gap.
+in the edo period,there were nibukin,ichibukin,nishukin and isshukin as gold coins of counting currency like koban.
+the currency units of koban and bukin were based on the adopted quaternary(ryo,bu,shu)of koshu gold which was territorial currency employed by shingen takeda.
+among those,ichibu bankin was issued with the same karat as koban and in 1/4 ryome as standard coin,being a small amount currency of koban,had same karat as koban and 1/4 ryome being issued as standard coin,while the other ones with less karat and ryome than koban were issued as subsidiary currencies.
+as opposed to koban,oban(obankin)(large-sized old japanese gold coin)were also issued through the edo period,it was not general currency but as reward grants and gifts in the standard of kin 1 mai(44 monme)and was traded not as counting currency but as oban market rate based of the karat,ryome and demand.
+when you come right down to it,it was more like a currency by weight and modernly interpreted,it was equivalent to ingot.
+also during the tenpo period,goryoban was issued as a medieval currency between oban and koban,however it was seldom distributed.
+since the meiji period,the new currency act became effective and 1 ryo was determined as equivalent to 1 yen(the value of contained amount of gold and silver of nibukin and purity of gold of 1 yen coin were almost equivalent).
+old gold and silver were exchanged to new currencies in exchange rates based of contained amount of gold and silver.
+koban are on display in currency museum bank of tokyo-mitsubishi ufj and currency museum of the bank of japan and mint museum systematically.
+koban before the edo period
+issue year,ryome,content percentage of gold(estimation)in parentheses
+keicho koban surugagaki koban(in 1595[unspecified],4,5 monme,84%)
+keicho koban musashisumigaki koban(around 1595,4,8 monme,84%)
+koban issued in the edo period
+issue year,issued amount,ryome,content percentage of gold(regulation)in parentheses
+issued amount includes ichibuban and genroku koban includes nishuban.
+keicho koban(around 1601,14,727,055 ryo[estimation]4.76 monme,84.3%＝>86.8%)
+genroku koban(october 1695,13,936,220 ryo 1 bu,4.76 monme,57.4%)
+hoei koban(april 1710,11,515,500 ryo,2.5 monme,84.3%)
+shotoku koban(june 1714,213,500 ryo,4.76 monme,84.3%)
+kyoho koban(september 1714,8,280,000 ryo,4.76 monme,86.8%)
+genbun koban(june 1736,17,435,711 ryo 1 bu,3.5 monme,65.7%)
+bunsei koban(july 1819,11,043,360 ryo,3.5 monme,56.4%)
+tenpo koban(july 1837,8,120,450 ryo,3 monme,56.8%)
+ansei koban(june 1859,351,000 ryo,2.4 monme,56.8%)
+manen koban(february 1860,666,700 ryo,0.88 monme,56.8%)

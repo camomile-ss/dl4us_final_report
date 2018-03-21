@@ -1,0 +1,39 @@
+nengu(land tax)
+nengu is a japanese historical terminology referring to a type of taxation.
+as the ritsuryo system(a system of centralized government based on a set of codes)collapsed during the early to mid-heian period,the system of taxation called so(tax)evolved into the nengu;the name nengu(annual tribute),however,kept something from its precedent, "koso" (the tribute-tax).
+throughout the medieval period and the early-modern times,the feudal lords imposed the nengu on the populace including the peasants.
+as the nengu was mainly paid by rice,the rice used for the taxation purpose was called "nengumai" (the annual tribute rice).
+history
+the taxation system under the ritsuryo system,which was started during the late 7th century to the early 8th century,was called "the soyocho(tax paid by rice,labor,or textile)system",and it was imposed on and collected from each member of the community.
+such a taxation system greatly depended on systems which closely controlled the populace,such as the ancient systems used to maintain the koseki(household registers)and keicho(yearly tax registers),as well as the koku-gun-ri(-go)system(an administrative system used to divide lands and regions).
+during the 9th and the 10th centuries,however,there appeared a wealthy class of peasants,who independently developed and integrated the cultivation fields.
+this wealthy class of peasants,who were called "tato" (cultivators),accumulated wealth by developing and integrating fields(eiden),as well as performing suiko(government loans,often seed rice,made to peasants in japan from the 7th through the 12th centuries),and gained control over the ordinary peasants by involving them in their business.
+as such a class division furthered among the population of peasants,the governmental control based upon the ritsuryo system gradually relaxed,and the bureaucratic procedures such as the household registers(koseki),the yearly tax registers(handen),and allotting of cultivation fields(handen)were no longer carried out.
+under such circumstances,controlling each member of the community by imposing and collecting taxes was no longer possible,and the government and the ruling class were becoming aware of the necessity for a new control system.
+first,the kokuga(provincial government office)that governed public fields,together with the "tato" who were rapidly gaining power,established a control system of imposing and collecting taxes based on land units.
+the kokuga reorganized the public fields into myoden(rice field lots in charge of a nominal holder),and placed the tato in charge of managing the myoden.
+the tato,who were given the managerial position over the myoden,paid in return an amount which corresponded to the taxes formerly paid by rice,textiles,tributes,labor,or the shozei-suiko(interest for the loan of cereal seeds)to the regional offices.
+such a system of managing the tax was called fumyo(the management of public rice fields).
+among the taxes mentioned above,those that corresponded to tax paid by rice and the shozei-suiko were called kanmotsu(the tribute goods paid as taxes or tithes),and those that corresponded to tax paid by textiles,tributes,labor were called zoyaku(the miscellaneous duties).
+those that were called kanmotsu later became nengu.
+the taxation system centered on the myoden(known as the myotai or myoden system)was also introduced to shoen(manors in medieval japan)that were expanding their areas of control since the eleventh and twelfth centuries.
+the cultivation fields in the shoen were integrated into the myoden,and the tato undertook the management of the myoden and the payment of taxes to the manor owners.
+among taxes paid to the feudal lord,what corresponded to the kanmotsu(rice harvested from the landlords' cultivation fields)in kokugaryo(territories governed by provincial government offices)came to be called "nengu".
+through the medieval period and early-modern times,the nengu was the principal financial resource for the ruling class,which the ordinary population continued to bear its burden.
+as the commercial economy developed during the kamakura period,the circulation of money increased,and in some cases,the nengu was paid by coins.
+however,such cases were very rare,and in most cases,shokan(the administrative officer of shoen)or jito(the manager of shoen)exchanged the rice brought in as the nengu for money.
+in the muromachi period,the monetary economy developed further,and the payment of the nengu by coins became widely spread mainly in the kinai region(the five capital provinces surrounding the ancient capitals of nara and kyoto).
+as a result of the taiko kenchi(the nationwide land survey done by hideyoshi toyotomi)carried out in the azuchi-momoyama period,the complicated pattern of control and rights over the land were almost entirely dissolved.
+the cultivator of the land was considered the only person who was entitled to own the land,and the productivity of the land was measured by kokudaka,an estimated amount of rice to be produced from the land.
+the murauke system(a village's collective responsibility for tax payment)was established in order to collect the nengu from the village as a collective unit,in which an amount of nengu was determined from the total kokudaka of the entire village.
+the control system of villages based on the taiko kenchi and the murauke system was continued throughout the edo period.
+in the early edo period,kemi-ho(annual crop inspections),with which the amount of the crop yield during that year was estimated and the rate of nengu to be paid each year was determined,was carried out.
+however,due to the risk whereby the revenue can vary greatly year by year,jomen-ho,which employed a fixed nengu rate regardless of the amount of the harvest,was employed during the mid-edo period.
+however,there was an exception.
+for the areas where rice cannot be produced,the baino-sei system,in which rice to be paid as nengu was purchased with money earned by selling other kinds of crops,was employed as an exception.
+however,as the production of commercial crops became widely spread during the mid-edo period,baino-sei was carried out even in suburban villages where rice can be produced,to which the edo bakufu virtually took an acquiescence policy.
+the nengu was abolished by the land-tax reform in 1873.
+however,the custom of calling the farm rent as the nengu continued to survive.
+other
+in japanese,there is an expression "it is time to pay the nengu" when one has to give up something.
+this shows that common people tried very hard to avoid paying the nengu.

@@ -1,0 +1,33 @@
+jibu-sho
+jibu-sho(ministry of civil administration)was a government-regulated organization in japan under the ritsuryo system(a system of centralized government based on the ritsuryo codes).
+it was also called by a japanese name, 'osamuru-tsukasa.'
+official duties
+with having authority over foreign affairs,family registers(related to the family names),and the whole field of ceremonies,jibu-sho also managed lawsuits over troubles related to the family names,engaged in several affairs and lawsuits relating to marriage and family registers,supervised monks and nuns and buddhist rites,administered gagaku(ancient japanese court dance and music),watched imperial mausoleums,and entertained overseas envoys.
+the lawsuits over troubles related to the family names were exclusively entrusted to the newly established post,tokibe.
+however,jibu-sho hardly dealt with the affairs related to the family names in and after the heian period.
+furthermore,entertaining the envoys from foreign countries became an unnecessary duty for jibu-sho,because formal diplomatic relationships with china and other countries were cut off after envoys to tang china were abolished due to a petition drawn up by sugawara no michizane in 894.
+in addition,it became impossible for jibu-sho to fulfill its duty related to family registers after the abrogation of the family registration system.
+as a result,jibu-sho's duties were limited to supervising monks and nuns and buddhist rites,administering gagaku and watching imperial mausoleums.
+personnel
+the jibu-kyo,the secretary of jibu-sho,corresponded to shoshiinoge(senior fourth rank,lower grade).
+however,the top court officials,kugyo frequently occupied the post concurrently.
+to give an example,in the competition between fujiwara no kaneie and fujiwara no kanemichi for the post of kanpaku(chief adviser to the emperor),defeated fujiwara no kaneie was demoted from dainagon(chief councilor of state)to jibu-kyo.
+the quota of the posts equivalent to or lower than taifu(senior assistant minister)was as follows.
+taifu(corresponding to shogoinoge[senior fifth rank,lower grade]) … one person
+shofu(junior assistant minister,corresponding to jugoinoge[junior fifth rank,lower grade]) … one person
+taijo(senior secretary,corresponding to shorokuinoge[senior sixth rank,lower grade]) … two people
+shojo(junior secretary,corresponding to jurokuinojo[junior sixth rank,upper grade]) … two people
+daisakan(senior alternate adjudicator,corresponding to shoshichiinojo[senior seventh rank,upper grade]) … one person
+shosakan(junior alternate adjudicator,corresponding to shohachiinojo[senior eighth rank,upper grade]) … three people
+note:the supernumerary post called gonkan was later attached to taifu and shofu.
+tokibe-officials dealing with lawsuits related to the family names
+tokibe in jibu-sho and that in gyobu-sho differ.
+shisho(officials doing miscellaneous duties about documents)
+shojo(low-ranked officials to convey petitions)
+shibu(low-ranked bureaucrats)
+jikicho(factotum)
+government officials working under high-ranked personnel in jibu-sho
+uta-ryo(officials administering gagaku)
+genba-ryo(officials supervising monks and nuns and buddhist rites and entertaining overseas envoys)
+shoryo-shi(officials watching imperial mausoleums)-later promoted to shoryo-ryo
+sogi-shi(officials managing the whole field of funeral)

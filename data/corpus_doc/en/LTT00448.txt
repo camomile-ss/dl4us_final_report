@@ -1,0 +1,11 @@
+jinkoki(a mathematical book written by mitsuyoshi yoshida)
+"jinkoki" is a book of mathematics from the edo period.
+summary
+in 1672 it was written by mitsuyoshi yoshida,inspired by "sanpo toso" (suanfua tongzong)by daii tei of the ming dynasty of china.
+this book covers almost all important mathematics useful for daily life in the edo period,from basic knowledge of naming of numbers,units,and the multiplication table to explanation of mathematics with familiar examples such as calculation of area.
+this book was published at a time when the demand for skill and knowledge of basic mathematics in daily life was increasing due to social and economic development,and it run into several impressions because it had no equal;therefore,it became an enduring and best-selling book of mathematics published in the edo period.
+it is also known that numerous books with slightly altered contents were published:up to the meiji period,300 to 400 books named after 'jinkoki' were published.
+this book was further famous for its impact on many scholars of the edo period,including takakazu seki,who later became an authority of wasan(japanese mathematics),and ekiken kaibara,a confucian scholar;both of them self-studied mathematics using "jinkoki" when they were young.
+the title "jinkoki" was given by genko,a patriarch of tenryu-ji temple,based on a phrase "蓋し塵劫来事糸毫不隔."
+it is derived from 'jindengo' in hokke-kyo sutra(the lotus sutra),meaning a innumerably large number that can be counted if a person grinds the earth of this world into granules and drops one granule for every thousand countries the person passes by until all the granules are gone;it is described in chapters such as 'kejoyubon' in the lotus sutra.
+a theory states that the title means 'a book of truth that will not change after a time as long as eternity has passed.'

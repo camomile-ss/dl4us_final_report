@@ -1,0 +1,22 @@
+shinsen shojiroku(newly compiled register of clan names and titles of nobility)
+shinsen shojiroku is an ancient clan-name register or directory that was compiled by an order from emperor saga in the early heian period.
+summary
+for the 1182 clans that lived in heian-kyo(the ancient capital of japan in the current kyoto)and the kinai region(the five capital provinces surrounding the ancient capitals of nara and kyoto), "shinsen shojiroku" describes the origin of their family names,how the pedigrees branched and other information by classifying the clans,based on the place of origin,into 'kobetsu' (clans that branched out from the imperial family), 'shinbetsu' (clans the branched out of the family of god)and 'shoban' (clans coming from foreign lands)to clarify their ancestors;however,it was compiled mainly to determine whether the changed family names of the clans were accurate.
+as will be described later,although the number of clan names included in shinsen shojiroku is limited,it is clearly an indispensable historical material for the study of japanese ancient clans and the ancient history of japan in general.
+the existing "shinsen shojiroku" has only a list of excerpts but no body text;however,some remnants can be seen in several places and a few itsubun(compositions that previously existed but no longer do)are known.
+the scope of this document includes clans that lived in kyo(sakyo and ukyo)and the gokinai capital region;however,its introductory section states that still more than half the target clan names hadn't been registered.
+incidentally,the reason the title includes "shinsen" (newly compiled)is that it meant to indicate the re-compilation of "shizoku-shi" (a book containing information on the clans),which ended up just as a plan;consequently,it doesn't infer the existence of any previous edition of the clan-name register.
+kobetsu,shinbetsu and shoban
+this register records a total of 1182 clan names,being classified the into three types- 'kobetsu,' 'shinbetsu' and 'shoban' -based on the place of origin.
+kobetsu
+the 335 clan names of 'kobetsu',which were listed at the top of the register,comprised clans that had branched out from the imperial family after the time of emperor jimmu.
+some of the representative examples include the kiyohara,tachibana and minamoto clans.
+the clans branched out from the imperial family are further divided into koshin(emperor's families that had the official status title(called kabane)of 'mahito'),as well as other clans.
+shinbetsu
+the 404 clans of 'shinbetsu' were clans that had branched out from the age of the gods or appeared before the time of emperor jimmu.
+the clans of shinbetsu are further divided into three types: 'tenjin,' descendants of gods that had come with ninigi for tensonkorin(the descent to earth of the grandson of the sun goddess); 'tenson' (the grandson of the sun goddess);descendants who branched out in three generations from ninigi-no mikoto;and 'chigi,' descendants of gods that had been on earth since before tensonkorin.
+the clans classified as 'tenjin' include 246 clans including the fujiwara and onakatomi clans;those classified as 'tenson' include 128 clans,among which are the owari and izumo clans(clans of the hayato family are classified as tenson);and those classified as 'chigi' include 30 clans including the azumi and yuge clans.
+shoban
+the clans of 'shoban' were clans of toraijin(people from overseas,particularly from china and korea,who settled in early japan and introduced asian continental culture to the japanese)and include 326 clans,among which are the hata and ookura clans.
+the clans of shoban are further divided into five types: 'han,' which includes 163 clans; 'kudara,' which includes 104 clans; 'goryeo' (meaning goguryeo),which includes 41 clans; 'silla,' which includes nine clans;and 'mimana,' which also includes nine clans.
+additionally,there are 117 clans that do not belong to any category.

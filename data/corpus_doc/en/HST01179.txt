@@ -1,0 +1,53 @@
+kaishin no mikotonori(the imperial reform edict)
+"kaishin no mikotonori" is an edict which was announced to show the new administrative policy in the taika no kaishin(the great reformation of the taika era)which occurred in the mid-asuka period.
+"nihonshoki" (chronicles of japan)includes this edict.
+the edict is thought to have established kochi komin sei(a system of complete state ownership of land and citizen),soyocho taxation system and handen shuju ho(the law of periodic reallocations of rice land).
+some considers the text of the edict included in nihonshoki as a modified version of the edict originally announced in the taika era.
+"taika" is the first gengo(era name)in japan.
+summary
+emperor kotoku who enthroned after eliminating the soga clan in the isshi coup(the murder in the year of isshi)in 645 showed his new administrative policy on the first day of the year in 646.
+it was the edict called kaishin no mikotonori.
+the edict was constituted by four main parts and accompanied each of them with subsections.
+it is suggested that these articles are possibly not the same with those of the original edict of the taika era as mentioned later.
+such differences,however,do not alter the fact that a major reform occurred under the regime of emperor kotoku,and the contents of the edict are thought to be based on the principle of odo omin(the fundamental principle that all people and land belong to the emperor)which led to the ritsuryo system later adopted in japan.
+main part
+translation in the modern language
+each article
+article 1
+article 1 was to abolish ownership of lands and people by the emperor,royal families and gozoku(local ruling families).
+before that,land and people had been privately owned and ruled by the emperor,royal families and gozoku families,and the lands privately owned by the emperor or royal families were called miyake and the people ruled by them were called nashiro or koshiro while the lands owned by gozoku families were called tadokoro and the people ruled by them had were called kakibe.
+this article has been considered to have eliminated such private ownership and ruling of lands and people and have converted the old system into a system which the emperor comprehensively ruled the nation,in other words,conversion of private ownership of lands and people into a kochi komin system of state ownership of lands and people.
+however,judging from the fact that ownership of tadokoro and kakibe was allowed for a considerably long time in later years,such private ownership had not been completely abolished by the edict.
+also,the existence of the kochi komin system itself has been questioned about.
+(refer to the article about kochi komin sei for further information.)
+article 2
+article 2 was to stipulate the establishment of the capital as the political center,the organizations of local administrative offices in kinai(regions surrounding the capital city),ryoseikoku(provinces)and counties,the border demarcation between the regions,and the establishment of ekiden-sei(the transportation system)to connect the capital with the other regions.
+the first object mentioned in this article,the establishment of the capital,was realized by the transfer of the capital to naniwa no nagara no toyosaki no miya palace in 650.
+the main purpose of the organizations of local administrative offices given next in the article was demarcation and establishment of kinai,provinces(ryosei-koku)and counties.
+"kinai" means a tract demarcated by shishi(the northern,southern,eastern,and western boundaries)and no ryoseikoku was provided within kinai at that time.
+ryoseikoku provinces were provided outside kinai.
+although attempts were made to demarcate the ryoseikoku provinces by boundaries based on domains conventionally ruled by kuninomiyatsuko(local ruling families in ancient japan)and gozoku,mountain ridges or rivers,the demarcation of the provinces could hardly come to a conclusion and it was not until the regime of emperor tenchi had began that the demarcation was finalized.
+although gun(counties)were provided within each province,there is a controversy(called "gun-pyo ronso")among some experts about that such a county was called not only "gun" but also "koori" in the taika era.
+koori had been established earlier than the demarcation of the ryoseikoku provinces and according to historical materials made of mokkan(narrow,long,and thin pieces of wood strung together that were used to write on in ancient times)such as "hitachi no kuni fudoki" (the topography of hitachi province),provision of koori is thought to have been already completed nationwide in the reign of emperor kotoku.
+until then,gozoku had been ruling their own lands and people by given the title of kuninomiyatsuko from the imperial court.
+establishment of koori,however,denied such an independent ruling system of gozoku families,and was aimed at absorbing local ruling by gozoku families into one unified ruling by the emperor.
+by the establishment of koori,the status of each local gozoku was changed from a semi-independent local chief to a government official who administered koori.
+the above status(the official title of which is assumed as "koori no kami" or the like)was a former form of gunji(local magistrate).
+in this way,it is believed that the establishment of koori greatly transformed the form of local societies.
+other items specified in this article includes establishment of ekiden-sei(the transportation system).
+considering from the fact that ancient roads built in the latter half of the seventh century were discovered in a wide range of japan,there is a possibility that kaishin no mikotonori triggered developments on the transportation system.
+(another possibility is that establishment of ekiden-sei was made during the time when the military system and other various systems were reformed by emperor tenchi after the defeat in the battle of hakusukinoe in 663).
+article 3
+article 3 was to specify a people-controlling system called ancient koseki seido(family registration)and keicho(yearly-tax registers)and a land-controlling system called handen shuju ho(periodic reallocations of rice land).
+"koseki", "keicho" and "handen shuju",however,are terms which originated from the later enacted taiho-ryo(taiho code)and have been used for embellishing the above systems provided for in the edict.
+the first nationwide family register,kogo-no nenjaku,was finally made(in 670)after 20-odd years had passed.
+from these facts,it is believed that although koseki and keicho were not made and the law of handen shuju ho was not enacted in the taika era,some demographic investigation(such as door-to-door investigation)was made.
+article 4
+article 4 was to orient a new taxation system.
+it is recognized that "cho" for rice field provided for in this article was a land tax imposed according to the area of rice field allotted to each farmer,which was the predecessor form of soyocho taxes imposed under the later-established ritsuryo system.
+evaluation
+the possibility is suggested that the original edict was not the same as described in nihonshoki.
+the contents of the edict was based on the confucian principle of odo omin(that all people and land belong to the emperor).
+it is quite unlikely that the political reforms were completed at a stroke at the time of the great reformation of the taika era and especially,since all of the main policies of the reforms were to have great influence on local societies,it took many years for the new institutions to penetrate nationwide.
+the reforms came to bear fruit when the ritsuryo system was established in the period reigned by emperor tenchi,emperor tenmu and emperor monmu.
+the above is a generally accepted view on the edict.

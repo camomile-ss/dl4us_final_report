@@ -1,0 +1,40 @@
+the shoen-koryo system
+the shoen-koryo system was a multilayered land governance structure which was grounded in shoen(manors)and lands under the control of the koryo(feudal government)in medieval times in japan.
+the concept for the shoen-koryo system was proposed by the historian,yoshihiko amino.
+the shoen-koryo system was established in the mid to late 11th century and continued through until the early 12th century,so it was developed through the period of the cloister government,and peaked around the kamakura period.
+the system,however,was encroached on by jito(lords of the manors)in the kamakura period and by shugo daimyos(provincial constables)in the muromachi period,and thus gradually dismantled in accordance with the rise of samurais and almost became a mere formality by the time of the sengoku period(period of warring states)(japan).
+it completely disappeared as taiko kenchi(cadastral surveys conducted by hideyoshi)was carried out.
+note that the shoen and lands under the control of the koryo described here mean kishinchi-kei-shoen and kokugaryo(provincial lands),which became the base of the shoen-koryo system.
+history
+enactment
+after the mid heian period,new rice fields were actively developed by kaihatsu-ryoshu.
+although kokuga(provincial offices)allowed them to have their own private lands,the right was very fragile.
+accordingly,they donated the lands to the juryoso(career provincial official class)as shoen.
+the juryoso(career provincial official class)assigned the tato(cultivators)(＝kaihatsu-ryoshu)to shokan(a general term for a variety of shoen(manor)officials responsible for the management and assignment of duties,tax collection,and protection of shoen)and collected certain tax revenues from the shokan in exchange for recognizing their effective authorities for the lands.
+the juryoso who obtained shoen in this way were called ryoke(main proprietors).
+the ryoke gradually became rivals of the kokushi(provincial governors)in the same class,who were governing the kokuga lands.
+hence,they donated their own lands to the kenmonso(gateway-of-power class)and paid certain tax revenues to have them protect the lands.
+the kenmonso who collected shoen were called honke(protectors).
+coincidentally,with the demise of the ritsuryo system(the political system based on the ritsuryo codes),the high-level aristocrats lost their eagerness for politics completely,and accordingly,local politics were entrusted to the kokushi.
+in competition with the ever-increasing shoen,the kokushi assigned daimyo tato(daimyo cultivators)to zaicho kanjin(resident public officials)and deployed them on hand;moreover,they had soji,goji,and hoji(all of which were local government officials under the ritsuryo system)appointed as local government officials.
+soji,goji,and hoji were supposed to pay a certain amount of tax revenues to each of the kokushi and the imperial court.
+after that,the imperial court,who were no longer able to pay the salaries of the high-level aristocrats due to decreased tax revenues because of the growing number of shoen,gave territories as chigyo koku(proprietary provinces),as well as the patronage of the kokushi and tax revenues regarding the province,to the high-level aristocrats.
+in the same manner,the ingu bunkoku sei(provincial allotment system)was applied to the high-level aristocrats,it formed a structure in which the high-level aristocrats were connected as kenmonso,the kokushi as juryoso,and the soji,goji,and hoji as daimyo tato,resulting in as system which was little different from the shoen system.
+this multilayered governance structure was also called the "shiki system" and each job title and authority was referred as "xxx shiki."
+(e.g.ryoke shiki,soji shiki,goshi shiki,etc.)
+transition and decline
+as disputes over land increased among the ryoshu(feudal lords)of the provinces,they armed themselves and eventually became samurais.
+with the establishment of the kamakura bakufu(japanese feudal government headed by a shogun),samurais,especially in the kanto region,became gokenin(lower-ranking vassals in the kamakura and edo periods)who entered into the service of the kamakura bakufu.
+as benefits of the position,they were designated as jito and the authority of their lands was guaranteed.
+note that it does not mean that they took up a completely new shiki called jito;jito was simply a position,among shokan,goji and hoji,which had a master-subordinate relationship with the feudal government.
+they,of course,did not have a shiki which was higher than shokan,goji or hoji.
+the feudal government had the authority to assign jito in kanto goseibaichi(provinces,manors and provincial lands where the shogun families of kamakura bakufu possess the power to appoint/dismiss jito).
+in other words,the kanto shinshiryo(manors and provincial lands where the shogun of the kamakura bakufu has the right to appoint/dismiss jito)and kanto gokunyuchi(manors and provincial lands where the shogun of the kamakura bakufu has the right to recommend jito)had shoen-ryoshu and kokushi who were different from those of the kamakura bakufu and had no patronage of shokan,goji,or hoji.
+it is notable that the provincial constables had zaicho kanjin(local district officials)prepare ota bumi(land ledgers)from the time of yoritomo.
+jito's acts beyond their authorities,including arrears in taxes and illegal use of the people in the province,gave rise to disputes with the shoen-ryoshu and the kokushi.
+to resolve this issue,the jito uke(proprietor's annual tax)and shitaji chubun(physical division of land)were adopted.
+in this way,the jito gradually strengthened their control of the territories.
+from the start of the muromachi period,provincial constables increased their power based on the background of the establishment of the muromachi bakufu.
+with the aim of establishing the shugo-ryogokusei,they relegated jito and kokujin,including zaicho-kanjin of the kamakura period,to their subordinates and took over the kokuga and their lands.
+around the same time,provincial constables also encroached on other rights,including the power of shoen-ryoshu using the systems of hanzei and shugo-uke,and from the start of the sengoku period(period of warring states)(japan),daimyo(japanese territorial lords)in the sengoku period who turned into shugo daimyo further promoted ichien chigyo(complete proprietorship)of the lands.
+after that,based on the taiko kenchi,only new cultivator's rights became effective,resulting in the disappearance of the old multilayered land governance structure in both reality and in name.

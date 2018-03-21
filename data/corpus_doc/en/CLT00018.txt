@@ -1,0 +1,595 @@
+japanese sword
+japanese swords(日本刀)are a generic term for swords forged in the originally developed way in japan.
+they are classified as katana(tachi,uchigatana),wakizashi and tanto depending on size.
+in a broad sense,nagamaki,naginata,ken and yari are also included.
+craftsmen who make katana are called 'toko(sword craftsman),' 'tosho(sword master)' or 'katana kaji(swordsmith).'
+overview
+its beautiful shape has symbolic meaning as well as its use as a weapon since ancient times,and many are highly appraised as art objects.
+old and unbroken lines,including the imperial family and shrines,value treasure swords(such as amenomurakumono tsurugi)as a proof of power.
+they also functioned as a support pillar of spiritual culture, 'the very soul of the samurai' against the backdrop of the military government.
+they feature 'a process of folding and forging' two types of metal,hard brittle steel and soft iron,so the toshin(body of blade)and nakago(core)are combined together.
+the nakago has holes(mekugi holes)to fix the body of blade to the tsuka(handle)with pin fasteners.
+different from swords of other countries,the biggest feature of japanese swords is that the body of blade itself has artistic value,aside from the fittings(koshirae).
+the name "japanese sword"
+a 'japanese sword' is a term originally used by other countries.
+in ancient japan,it was called 'katana' or 'sword',and the name 'japanese sword' was not used.
+the term is found in a poem titled 'a poem about the japanese sword' by ou-yang hsui in baisong.
+this poem describes a merchant of yueh(south china)who goes to japan to buy japanese swords already being called treasure swords given their artistic qualities found in the fittings and appearance.
+although the main point of 'a poem about the japanese sword' is to lament that books already lost in china still exist in japan,and not about japanese swords,it shows that the beauty of japanese swords was already recognized by overseas curiosos from the late heian period to the early kamakura period as one of japan's exports.
+japanese sword' became widespread as a general term after the late edo era.
+this is because paintings from japan increased their reputation being exported to western countries after the end of edo period,started to be called 'japanese paintings' to distinguish them from the traditional western paintings,and likewise,the term japanese sword in contrast to western swords became established.
+before then,the name 'uchigatana' was popular.
+the term japanese sword has been seen connected to nationalism mainly since the showa period,and such swords were considered just relics of the previous period where in the meiji period,saber style swords were adopted for the military until the manchurian incident.
+manufacturing method of japanese sword
+the manufacturing method of japanese swords,a highly advanced technique at the time,strove to achieve three highly sought after qualities, 'not to break,not to bend,and a razor sharp cutting edge.'
+outlined below.
+creating high-quality steel
+tatara-buki method;the type of steel used to make a japanese sword is called japanese steel or tamahagane.
+tamahagane is made using the 'tatara-buki method,' an original japanese steel making process.
+not depending upon iron ore imported from other countries,using black iron sand found on beaches in japan,achieves fast reduction at low temperature,and creates high-quality steel with few impurities,compared to the modern steelmaking processes(see reference).
+mizuheshi(removal of carbon using water)
+heated tamahagane is hammered with a tsuchi(hammer)to make a thin flat plate.
+when qenched in water and rapidly cooled,the excess carbon flakes off.
+this is called 'mizuheshi' (removal of carbon using water).
+these are raw metal making processes called heshi(removal process).
+tsumi wakashi(stacked and heated)
+this case-hardened piece is called heshi gane(removed metal),which is broken into small metal pieces using a tsuchi(hammer).
+these metal pieces are stacked on the tip of a forging tool called 'teko',and wrapped in japanese paper.
+straw ash is applied,and then coated with clay slurry,then it goes into the furnace(hodo)to heat until the clay surface melts.
+the straw ash and clay prevents scaling loss of the steel during heating and oxidizing.
+it is then hammered with a kozuchi(light hammer)to form 6x9cm block.
+if there are not enough iron pieces,more are stacked,heated,hammered with a kozuchi,and formed into an ingot weighing 1.8kg to 2.0kg.
+this is the process known as 'tsumi wakashi' (stacked and heated).
+other than tamahagane,pig iron(sentetsu)which contains a lot of carbon,and pure iron called hocho tetsu also undergo tsumi wakashi and shita-gitae processing mentioned below.
+forging method(shita-gitae,founding forging)
+the red-hot block is struck and elongated using a tsuchi(hammer),and folded back into the middle of its length,which is called a 'folding method of forging' and it is done repeatedly.
+in fact,the word 'muko-zuchi,' describes the method by which tosho(yokoza,master)and his disciple(sente,helper)alternately strike the body of the blade with a tsuchi,and this has become the root of the word 'aizuchi wo utsu(chiming in).'
+in this step,folding is done about five or six times..
+combining of steel
+tsumi wakashi(stacked and heated)
+after finishing shita-gitae with three types of steel,tamahagane(literally "jeweled steel"),sentetsu(pig iron),and hocho tetsu(literally "kitchen knife steel," pure iron),they are hammered using a kozuchi(light hammer)again to make metal pieces,selected to produce the proper steel composition,they are stacked and formed like the first tsumi wakashi.
+in this step,four kinds of steel having different carbon content,shingane(center metal),munegane(back metal),hanokane(blade metal)and gawagane(side metal),are made.
+forging(age-gitae,final forging)
+shingane are folded back 7 times,munegane 9 times,hanokane 15 times and gawagane 12 times.
+by repeatedly forging after folding back the steel struck and elongated,impurities such as sulfur,excess carbon and non-metal impurities are removed,and a strong and homogeneous steel is created.
+tansetsu(forge welding)and wakashi-nobe(heating and elongating)
+after getting four kinds of steel,shingane(center metal),munegane(back metal),hanokane(blade metal)and gawagane(side metal)by shita-gitae(forging),the second tsumi wakashi(stacked and heated metal)and age-gitae(finishing forging),three layers of munegane,shingane and hanokane are forged and welded,and struck and elongated to get four times the material,20mm thick,40mm wide,and 90mm long,and then cut into four.
+this is called the 'core metal(芯金).'
+gawagane is also heated,and struck and elongated to become twice as long as the core metal,and is then cut in the center to make two gawagane of the same length as the core metal.
+gawagane,core metal and the other gawagane are stacked in this order,heated,forged,and welded,then struck and elongated into a 15mm thick,30mm wide,500 to 600mm long plate.
+teko' is cut off,then 'nakago' which becomes the grip of a sword is heated,forged and welded.
+sunobe(forming the blank)
+sunobe,' is done by striking and elongating to form the shape of the katana,and kissaki(piercing tip)is made by cutting off the end.
+since this rough shape determines the final finished shape of a japanese sword,it is carefully formed by striking with a kozuchi.
+hizukuri(shaping with heat)
+mune(back)of the blade is struck to start the base of a triangular shape,and the blade side(hirachi)is struck and elongated to reduce thickness.
+then the mune of the nakago is struck to round the back edge,and lastly 'shinogichi(ridge line)' is struck and formed.
+the whole body of the blade is heated at a lower temperature until it becomes reddish brown.
+karajime(cold forging)
+after it cools down,the black taint is removed by grinding with a rough polishing stone,and the hirachi(blade)and shinogichi(ridge line)are hammered using a kozuchi(light hammer),and cold forging process is applied.
+the straight lines of mune and blade are adjusted,and unevenness is shaved with a special plane for shaving metal called sen(銑,with the radical of金and舌,by right).
+in this step, 'hawatari(length of the blade)and the 'machi(notch)' is determined.
+namatogi(raw grinding)
+namatogi' is done to grind out the shaving marks left by using the plane and this is done using a polishing stone.
+then,after oil and fat are removed using straw ash with water,and the sword is dried.
+temperature control
+tsuchioki(soil coating)
+as preparation for 'yaki-ire(quenching)' to rapidly cool the heated blade with water or other liquid, 'tsuchioki(soil coating)' where three types of yakiba-tsuchi soil(soil used for quenching)are applied to the hirachi(blade),hamon(blade pattern)and shinogichi(ridge line)are done.
+yakiba-tsuchi soil(soil used for quenching)is applied thinly and evenly over the hirachi(blade side),then hamon(blade pattern)is designed with a writing brush using yakiba-tsuchi soil for quenching for hamon.
+lastly,a thicker coating of yakiba-tsuchi soil(for quenching)is applied for the shinogichi(ridge line)from the hamon(blade pattern)to mune(back).
+by using thicker concentration of yakiba-tsuchi soil,for quenching,on the shinogichi(ridge line),when cooling rapidly by yaki-ire,the blade side is quickly cooled and quenched completely,and the mune side is cooled relatively slowly and not fully quenched.
+quenching makes a sword harder,the metal expands,and creates the distinct curve of a japanese sword.
+the mune expands less,and takes on the property of tenacity rather than hardness,and this supports the blade side steel which is hard,but otherwise easily broken.
+yaki-ire(quenching)
+generally during yaki-ire,tosho dims the light of the workshop,and judges the temperature of steel by its glow.
+the blade coated with tsuchioki is inserted deeply into the hodo,and the whole blade from end to end is heated uniformly to about 800 degrees.
+the temperature is most important,and the optimal heat condition is checked with the greatest care,the body of blade is then plunged swiftly to a water tank and rapidly cooled.
+as mentioned above,the blade warps in the water,and it is pulled out after it is fully cooled,and is then ground with a rough polishing stone,and the yakiba(焼刃,cutting edge)is checked.
+after that,the blade is reheated in a charcoal fire for 'yaki-modoshi(tempering).'
+this work is called 'aitori(neutralizing).'
+since it also warps to the side a little,it is struck while on a wooden base with a kozuchi(light hammer)to adjust straighten the blade.
+the nakago(core)is also tempered and formed.
+after yaki-ire(quenching),the surface of the blade is very hard and this is called martensite.
+depending on how the martensite looks,the hamon(blade pattern)that looks like round particles on the surface of the metal to the naked eye,is called nie(literally "boiling"),and separates from the nioi(literally "scent")that looks like fine lines because the individual particles cannot be distinguished.
+other than water,some of other cutting tools are quenched in oil,and as were japanese military swords during the war,but today,it seems to be reare that a japanese sword is quenched in oil.
+although quenching in oil reduces failure,it is not suitable for modern swords that are meant to become a work of art because it cannot achieve a fine hamon(blade pattern),apart from its sharpness.
+finishing
+now the work changes from rough forming to finishing with delicate work.
+kajioshi(final grinding)
+the sword craftsman modifies the curvature of the katana after yaki-ire(quenching)is finished,and does a rough grinding.
+in this step,final adjustment is done by checking for small scratches,blade thickness and jiba(blade surface).
+nakago jitate(core shaping)
+nakago(core)is finished with a sen(a grinding tool)or a file,and for a mekugi(fastening pin)hole used for securing the tsuka(handle grip),usually one hole is drilled and two for a sword used for iaido(japanese martial art).
+then,yasurime(to prevent hands from slipping on the grip),which is unique to sword craftsmanship,is added.
+meikiri(carving inscription)
+lastly,the craftsman carves his own name,address or year the sword was made on into the nakago(core)as mei(an inscription)with a tagane(borer).
+generally,the name and address of the sword craftsman are inscribed on the front side(outside when wearing tachi or katana),and the year or name of the owner in the back side,but there are exceptions such as back-inscription or no inscription at all.
+this is the end of the work for the sword craftsman,then a togi-shi(polisher)polishes the sword finally,but before the muromachi period,the sword craftsman himself also polished the sword.
+there is a big differences in polishing japanese swords compared to other cutting tools;ensuring ornamental elements of a japanese sword,as a craftwork,is focused on as well as assuming sharpness as a cutting tool,and the whole body,not just the blade part,is polished.
+a saya-shi(sheath craftsman)creates the saya(sheath)appropriate to the katana.
+japanese swords are not completed soley by a sword craftsman,other craftsmen including a togi-shi(polisher)and saya-shi(sheath craftsman)add the finishing touches.
+names of parts
+katana is broadly divided into saya,toshin,tsuka and tsuba.
+saya(sheath)
+the end where the blade is inserted into the saya(sheath)is called koiguchi(literally "carp mouth"),and the other side is called kojiri(literally "small end").
+tsuka(handle grip)has a part called kurigata(literally "chestnut shape")for fixing saya to an obi(belt),which is used for attaching a cord called sageo(literally "string downside").
+the movement of pulling out a sword a littlie by placing the thumb on the tsuba(handguard)when drawing a japanese sword from the saya is called "koiguchi wo kiru(cutting the koiguchi)."
+toshin(body of blade)
+most japanese swords are single edged,and the side without blade is called mine and the bulge between the blade and mine is called shinogi.
+the part of the body of blade that fits into the tsuka(handle)is called nakago(core),which sometimes has an inscription of the name of the maker,called mei.
+nakago has a hole to secure the body of blade to the tsuka,which is called the mekugi hole,and the small pin for securing is called mekugi.
+when appreciating japanese swords,the body of blade is especially paid attention to in most cases,and the appearance of the blade created when forging the sword is regarded as an object of art and named hamon,nie or hada which is a pattern on the blade.
+tsuka(handle)
+this is a part with an important role to cover the nakago(core)and to ensure a good grip by the swordsman.
+most of them are made of wood,covered with tsukazame(shark skin),and tied with a belt-like thin cord called tsukamaki(handle belt).
+the small piece to pierce and fix the tsuka(handle)to the body of blade is called mekugi,and the hole for piercing called the mekugi hole.
+then menuki(hilt ornaments)(which originally had a role as mekugi)is decorated.
+the part of tsuka(handle)closest to the hand is called tsuka gashira(handle head),which usually has metal for both decoration and utility.
+tsuba(handguard)
+as a feature of japanese swords,fittings(koshirae)and the body of blade can be separated,and the body of blade is fixed to the tsuba(handguard)by holding the part between tsuba and the body of blade with habaki(collar)and seppa(washer).
+history
+japanese swords have repeatedly been transformed along with historical factors of the day including politics,economics,culture,manners and customs.
+from the joko(ancient times)era to the appearance of curved swords
+in the kofun(tumulus)period,steel swords had already been made.
+for example,iron swords and tachi were excavated from the inariyama tumulus,saitama prefecture and the tsukuriyama tumulus,shimane prefecture,which is a large square tumulus in izumo representing the early kofun period.
+the iron sword with a gold inscription excavated from inariyama tumulus was made in 471 for commemorating the achievement working for wakatakeru(emperor yuryaku)with 115 chinese characters.
+although most swords of this period are corroded and damaged,kanto tachi with gold and bronze fittings excavated from kawarake valley in yasugi city,shimane prefecture is miraculously in good preservation,and is famous as a rare case to pass the shine from the ancient days to the present with its golden tsuka(handle)as well as the body of blade.
+most swords after the seventh to eighth century retain their original form well, 'heishishorinken' and 'shichiseiken' of shitenno-ji temple and 'kingindensono karatachi' of shoso-in(treasure house of todai-ji temple)are well-known(straight swords before appearance of curved swords are written as '大刀' instead of '太刀').
+as emperor suiko composed, 'a colt from hyuga province is the best horse,and masabi from wu is the best tachi,' swords from wu(collective name of southeast area of china)was supposed to be the best during this period.
+however,the skill of japanese swordsmiths was improving.
+in shoso-in,domestically produced straight swords called karayo(chinese style)tachi are stored as well as imports from overseas called kara(chinese)tachi.
+moreover,there still exist straight swords with hirazukuri(ridged style)and seppazukuri(front ridge style)and domestically produced ken including warabiteno katana.
+although relics of swords from the early heian period are scarce,and the transition of styles or how and when japanese original curved swords were formed are not fully figured out academically,after the mid heian period(around the 10th century),when the turmoil of johei and tengyo occurred,warabiteno katana(curved sword)which was easy to use when riding with its warped body of blade was used instead of conventional straight swords.
+it seems that warabiteno katana that barbarians used while riding to the disputes with tohoku where they suffered for a long time had an influence.
+also in this period,swords with 'shinogizukuri' (ridged style)whose cross section of the body of blade is rhombic started to be made instead of the hirazukuri(no ridge style)or seppazukuri(front ridge style).
+shinogizukuri' is said to be stronger and easier to cut with than hirazukuri and seppazukuri.
+kenukigata tachi which has same steel in tsuka(handle)and the body of blade,and kogarasumaru sword which is warped with kissaki-moroha zukuri(double-edged point style)were in a transition period of the change mentioned above(kogarasumaru was mentioned in an ancient document as a work of 'amakuni,' a sword craftsman in the early 8th century,but it is widely believed that it was in fact made in the mid heian era.).
+as for kenukigata tachi,the one allegedly used by fujiwara no hidesato,and kept in ise-jingu shrine is well-known.
+this was named so because its tsuka(handle)has openwork with in the shape of tweezers(kenuki).
+age of tachi(long sword)
+in the late heian period,especially around the time of early nine-years war and late three-years war,tachi was developed along with increasing power of samurai,and usually the ones after this period are called japanese swords.
+schools of sword craftsmenship appeared in the border area between izumo and hoki,and bizen province where there was good iron sand,and yamashiro province and yamato province which were the center of politics and culture.
+in these days,the mainstream of japanese swords is tachi considered for fighting on horseback.
+representative japanese swords of this period are; 'doji giri(killing ogre)' sword by which minamoto no yorimitsu cut shuten-doji(drunk ogre)on oe mountain(made by yasutsuna in hoki province,national treasure); 'kogitsunemaru(small fox)' sword which has a legend that a fox helped with the forging(made by munechika sanjo in yamashiro province,lost during the second world war).
+although an ancient document mentions that yasutsuna from the border area between izumo and hoki who made 'doji-giri' sword lived in the early 9th century,as seen in his existing work,it is widely believed that he didn't live in those days,but rather in the mid heian period at the end of 10th century.
+other than yasutsuna,sanjo kokaji munechika in yamashiro(capital)and tomonari kobizen are regarded as the oldest sword craftsmen whose names are on existing work.
+features of tachi in the heian period are described below:
+the style is shinogizukuri(ridged style)with iorimune(standard surface),having a short kissaki(tip)called sho-kissaki(small tip).
+the appearance is dignified(the tip is narrower than the hilt side)and elegant with big koshizori(curve in the hilt side)and small curve in monouchi(main cutting part).
+as for hamon(blade pattern),they have suguha(straight temper line),or kochoji(small clove hamon)or komidare(small irregular hamon),which is called nie.
+the width of cutting edge is not so wide,and hamon usually starts a little ahead of hamachi(notch at the beginning of the cutting edge).
+nakago(core)has a curve,and some have a kijimomo shape(pheasant's thigh shape).
+although japanese swords in the early kamakura era looked like the ones in the late heian period,the military government system was established by the kamakura shogunate,and the world of swords blossomed.
+the retired emperor gotoba established gotoba-in smithery,where he summoned sword craftsmen each month and had them forge swords,also involved himself in yakiba(cutting edge),and positively encouraged the making of swords.
+norimune ichimonji is well-known.
+in this period,awataguchi school in yamashiro province and ichimonji school in bizen province were newly established.
+in the mid kamakura period,as a result of emphasizing utility,the width of the blade became wider,which makes a difference in the width of blade at the base and at the top less,and swords have a rounded surface.
+kissaki(tip)became wide and short,which was called ikubi(boar's neck),and showed a simple and strong characteristic.
+from these days,making tanto(a short sword)became active,some works are seen.
+tanto from this period,had no curve,or it is slightly curved inward,and there are nakago(core)without a curve and one in furisode(kimono sleeve)style.
+as famous swordsmith in this period,there were kuniyoshi and yoshimitsu of the awataguchi school in yamashiro,kuniyuki,rai kunitoshi and niji kunitoshi(only 'kunitoshi' was inscribed instead of 'rai kunitoshi' as signature)of rai school also in yamashiro,shintogo kunimitsu in sagami province,fukuoka ichimonji school in bizen,mitsutada of bizen osafune school and aoe school of bicchu province.
+swords made especially in yamashiro,yamato,bizen,mino,and sagami are called 'gokaden(swords from the five provinces).'
+the creation of swords in these five provinces respectively have a unique feature in jitetsu(steel),kitae(forging)or hamon(blade pattern),which are respectively called 'yamashiro den(swords from yamashiro province)' or 'soshu den(swords from sagami province).'
+it's a custom to call them 'soshu den' instead of 'sagami den' for sagami province.
+in the late kamakura period,the creation of swords bloomed further due to disorders such as two genko(mongol invasions)and collapse of the political system.
+japanese swords of this period were changing to become more dynamic than those from the mid kamakura era.
+the blade width became wider,which makes the width less at the base and at the top,and they came to have la onger kissaki(tip).
+tanto(short swords)or other katana also came to have a longer point like the tachi.
+it could be said that okazaki goro-nyudo masamune,as an expert of soshu den was the most brilliant swordsmith in this period.
+his style is prominent in the artwork on the blade surface,that is,kinsuji(golden strip),inazuma(thunderbolt)or chikei(landscape).
+the style of masamune tremendously influenced sword craftsmenship in various regions.
+there are swordsmiths called 'masamune jittetsu(ten best disciples of masamune).'
+although most of them were stretches in the later days and had no actual relationship between master and disciple,this shows the influence of masamune's soshu den in various regions.
+the period of the northern and southern courts(japan)often included in the muromachi period as a divided political period is generally regarded as a separated period in the history of swords and weapons.
+as for swords in this period,different form other periods,lots of big swords such as odachi(very long sword)and nodachi(field sword)were made.
+as already mentioned,in this period,soshu den had influenced various regions.
+hamon with 'notare(wave like hamon)' mixed with 'gunome midare(irregularly undulating hamon)' are often seen.
+as for most tachi in this period,odachi which originally had a long length were recreated for uchigatana in later days by modifying the length with suriage(shortening)and o-suriage(further shortening).
+some kodachi(shorter tachi)of this period also existed,which seem to be associated with uchigatana in later days.
+after the muromachi period
+the early muromachi period produced famous swordsmiths including bizen osafune morimitsu and bizen osafune yasumitsu,and moromitsu,iesuke,tsuneie also from bizen.
+since most swords of theirs were made during the oei period,they are generally called 'oei bizen' and are highly valued.
+domestic demand for swords decreased since the era of peace started,but production for important exports to ming also started.
+when the war-torn era started by the turmoil of the onin war,numbers of inferior swords made by mass production called 'kazu-uchi mono' started to appear to respond to the massive demand,which intensified the deterioration in the quality of swords.
+the sengoku period(period of warring states)gave rise to mass production of inferior kazu-uchi mono(mass products),but on the other hand,the steel industry which produced the material made a rapid advance in tatara(bellows)technology and with the arrival of guns by trading with westerners.
+stable supply of high quality steel was realized,and elaborate works of katana kaji of this period and 'chumon-uchi(items made to order)' which warriors specially ordered to entrust his own fate to are mostly famous.
+in the sengoku period,magoroku kanemoto and izuminokami kanesada as two major swordsmiths of sue koto(late old sword),and muramasa in ise appeared.
+(as for the swords after the mid muromachi era,tachi which was carried on at the waist with the blade downward was replaced by uchigatana which was put on at the waist with the blade upward.
+the outside of both tachi and uchigatana when wearing is supposed to be the front of the body of blade,on which signature of the sword craftsman is usually inscribed.
+therefore,tachi and uchigatana are mostly distinguished by the position of the inscribed signature(mei),but some sword craftsmen inscribed in the back.)
+in the history of swords,creation of swords after the keicho period are called 'shinto(new swords),' and were distinguished from 'koto(old swords),' made before that.
+in this period,famous swordsmiths gathered in edo,kyoto,and osaka to compete with each other.
+in the edo period,swordsmithery flourished in edo,osaka and other regions,and famous swordsmiths including kotetsu nagasone,kunihiro horikawa,shinkai inoue,and sukehiro tsuda appeared.
+although katana kaji used to have an attribute as workmen of weapon manufacturing,some of them started to develop an artistic disposition.
+new demand for katana was also generated since financially well-off merchants specially ordered luxurious wakizashi(medium length swords).
+especially in osaka,shinkai and sukehiro appeared,who developed a magnificent style called osaka shinto(osaka new swords).
+however,conservative samurai avoided some of them because they thought those swords looked decadent with the picturesque and ornate hamon(blade pattern).
+and since swordsmanship was practiced with bamboo swords,katana came to have a shape with a shallow curve.
+in the era of peace after the genroku period,there was no demand for new swords,and few craftsmen made swords.
+on the other hand,however,riggings of a sword such as tsuba(handguard),kozuka(accessory knife),menuki(hilt ornaments),kogai(hair pick accessory)were developed in this period,and also in such field of sword ornament goldsmiths,lots of famous swordsmiths including matashichi hayashi,yasuchika tsuchiya,toshinaga nara,somin yokotani,shozui hamano and ichijo goto appeared.
+in the late edo era,when japan became turbulent,suishinshi masahide and some others tried to restore the forging method of koto(old swords)from the philosophy of revivalism,and practical japanese swords started to be made again.
+creation of swords after this period is called 'shin shinto(new-new swords).'
+disciples of masahide including shoji taikei naotane,minamoto no kiyomaro,sa no yukihide,munetsugu koyama appeared.
+however,when the creation of sword started to flourish again,the meiji restoration began,then revenge was banned in 1873,and the decree banning the wearing of swords to prohibit people,except the police and military from wearing swords,was issued on march 28,1876,so japanese swords rapidly declined.
+from the meiji era to the second world war
+in 1873,japanese swords were exhibited at the expo held in vienna.
+this was to show japanese technology and mentality to the international society.
+however,after the decree banning the wearing of swords,there were little demand for new swords,and most swordsmiths who were popular lost their job.
+moreover,numbers of famous swords went abroad.
+still,japanese government appointed gassan(japanese swords)and tadanori miyamoto as imperial members of art.
+they made an effort to preserve traditional techniques of creating swords.
+on the other hand,appreciation of the drawn sword squad in the seinan war influenced the japanese army and navy to keep using military swords as major weapons for officers,and it became standard to make japanese swords with military sword fittings of saber style,then the proof of japanese swords' effectiveness in close combats in the russo-japanese war as weapons in a modern war,and the increasing momentum of ultranationalism in the showa era made the army and navy develop military sword fittings more suitable to store a japanese sword with the motif of tachi fittings in the kamakura era,instead of military sword fittings of the saber style(at the same time,however,numbers of swords that had been used in ancient and modern wars as military swords were lost on the battleground).
+after the manchurian incident,the armory and some researchers in institutes pursued the possibility as a soldier's gear in regard not only to the fittings,but also the body of blade.
+for example,various military swords including 'shinbuto' that is strong in the bitter cold of manchuria,and japanese swords of stainless steel the navy used('taiseito')were studied.
+various bodies of blades from the ones with partly changed materials or from production methods of japanese swords to industrial swords representing the shape of japanese swords were made as prototypes or in large quality.
+these special blades were called 'showa swords,' 'new murata sword' and 'new japanese swords,' and it is said that a lot of them outweighed conventional japanese swords(even famous swords)in quality as weapons.
+although there is still a myth that they were of bad quality,these were just bad quality swords that dishonest dealers sold,so this is not an appropriate evaluation(there were bad quality swords in the early and later period).
+the casting theory and the theory that the blades made by the armory were of bad quality is out of the question.
+these were appreciated by officers and under-officers of the imperial japanese army(they had to buy the military sword and military uniform at their own expense as personal possessions)as blades they could get cheaply and use freely,and non-commissioned officers got them as government-furnished military swords(such as type 95 military swords),and these swords were used in actual war.
+from the original viewpoint of 'japanese swords as weapons to fight with,' each of the special blades became a perfect japanese sword using modern technology and had an essential practical utility,but most of them have no taste of beauty in appearance(some swords including semi-forged showa swords of seki have both),so,today,they are not supposed to be included together with japanese swords,also from the standpoint of the production method.
+recently,however,such military swords which were disregarded in the sword world became popular,and at the same time they are reevaluated as researchers and collectors found something new or an unfair and the myth was denied.
+(see also military sword blades and military swords)
+after the second world war
+after the surrender in the pacific war(the great east asia war),the general headquarters of the supreme commander for the allied powers conducted a sword hunt regarding japanese swords as weapons,so numerous swords including hotarumaru were destroyed(in kumamoto prefecture,for example,swords were burned with petroleum and thrown into the sea).
+there was also a rumor that 'if you have a sword,the ghq will come to search with a metal detector,' so some swords were hidden in the ground,which caused them to corrode and they were ruined,some were broken to make a short one which is shorter than the length of the those that were prized by collectors,and some people discarded swords on their own,and so on and so forth.
+most swords collected by ghq were stored in us army's warehouse in akabane,which were returned to the japanese government at the end of the occupation.
+however,the original owners were mostly unknown,so the property right was transferred to the government,and such swords are called 'akabane swords' among fanciers of swords.
+although japanese swords themselves were endangered once,japan made a great effort and possession with a registration system became possible.
+a japanese sword itself is required to be registered,and a sword without a registration needs to be notified to the police and investigated.
+although carrying a sword is subject to restriction by the sword and firearms control law,permission is not required to possess a sword and anybody can possess them(some municipalities prohibit sales to people 18 or younger in an ordinance).
+in case of purchase,however,change of ownership must be notified to the board of education upon registration.
+today,japanese swords are not weapons,but tools for martial arts such as iai,and decent art objects same as paintings and pottery,and the production and possession are allowed only for such purposes.
+furthermore,the number of swords to be made by a sword craft master per year is allocated,which prevents reduction in quality of the work by mass production of inferior swords.
+on the other hand,however,most sword craft masters except some,naturally have difficulty making a living only by making swords due to the little demand for the creation of swords,but they are not allowed to make anepigraphic swords due to the restriction of sword numbers described above,so they cannot make lots of cheap swords for martial artists to earn money,and we must understand that they have various problems like other craftsmen have that are involved in traditional handicrafts.
+kinds
+classification by period
+jokoto(early old swords)
+this indicates swords older than koto(old swords),which are not normally categorized into japanese swords.
+they are mainly straight swords,but some tachi(long swords)have a curve.
+koto(old swords)
+this indicates from the first japanese swords in a narrow sense to the ones before the keicho period.
+they were mainly tachi(long swords)before the mid muromachi era.
+suekoto(late old swords)
+koto(old swords)in the late muromachi period,around the sengoku period(japan)may be especially called 'suekoto' and distinguished.
+most of them are inferior swords produced by mass production called 'kazu-uchi mono.'
+shinkosakai(new-old border)
+the transit period from koto(old swords)to shinto(new swords)in the azuchi momoyama period can be designated and distinguished like this.
+shinto(new swords)
+this indicates swords after the keicho period.
+the japanese swords in this period are categorized further into 'keicho shinto,' 'kanbun shinto,' and 'genroku shinto.'
+shin-shinto(new-new swords)
+there are some theories about 'swords made with a forging method of koto(old swords)proposed by suishinshi masahide,' but generally this indicates swords in the late edo era after the late 18th or the early 19th centuries.
+gendaito(modern swords)
+there are also some theories,but this usually indicates swords made after the decree banning the wearing of swords in 1876.
+showato(showa swords)
+this indicates japanese swords excluded from the category of japanese swords as art swords.
+this does not necessarily indicates all the swords made in the showa era,but it mainly indicates 'imitation swords,' weapon swords made as military swords.
+they have different production methods,and the sword not approved as an authentic forged sword basically cannot be registered by the board of education,and carrying is banned and a carry permit is necessary.
+however,numbers of special swords which are apparently not authentically forged swords are officially registered,so,it requires some consideration on the system common to all the periods,all the regions,and all judges.
+they are also called showa shinto(showa new swords).
+classification by shape
+uchigatana
+a japanese sword with an average shape with a warped blade and several parts including tsuka,tsuba and seppa.
+simply mentioning 'japanese swords' mostly indicates uchigatana.
+in the modern classification,it indicates the one with its blade length(direct distance between kissaki(tip)and mune-machi-notch in the back)is 60cm and longer,and those shorter than 60cm is called wakizashi.
+tachi(long swords)
+the structure is almost same with uchigatana,but the way of carrying is totally different(uchigatana is carried with the blade upward by putting in a belt,while tachi is hung with the blade downward to carry),and koshirae(fittings)are also different.
+also,a lot of them are ornately decorated on tsuka(handle)and saya(sheath).
+in modern classification,blade length is 60cm and longer,and the one shorter than 60cm is called wakizashi.
+as mentioned above,there is no big difference when comparing only the blade,it generally features a deep curve.
+wakizashi(medium length swords)
+this is uchigatana(or tachi)with a short blade.
+in modern classification,those with a blade length from 30cm to 60cm.
+wakizashi with almost 60cm long blade is especially called kodachi(shorter tachi)or naga-wakizashi(longer wakizashi).
+odachi(very long swords)
+uchigatana(or tachi)with a long blade.
+it is also called nodachi(field tachi)
+in modern classification,those with a blade length of 90cm or longer.
+it was carried on the back or the shoulder because it was too long to put(or hang)at the waist.
+as for usage,chopping while riding horseback by letting its weight work was most common.
+kenukigata tachi(tachi with a tweezer shape)
+tachi(long sword)where nakago(core)also functions as a tsuka(handle).
+it existed during the transit period from straight swords to curved swords.
+kogarasumaru swords
+it has shinogi-zukuri(ridged style)from hamachi(edge notch)to monouchi(striking point),but kissaki(point)has a style closer to moroha-zukuri(double edge style).
+it also has some curve.
+it existed during the transit period from straight swords to curved swords.
+tanto(short swords)
+in modern classification,one with a blade length shorter than 30cm.
+however,one longer than 30cm in hira-zukuri style with little curve is called 'sunnobi(extended length)' and can be included in tanto.
+nagamaki(literally "long roll")
+odachi(very long sword)with a tsuka(handle)almost the same length as the blade.
+it was evolved from 'nakamaki(literally "medium roll")' that became easier to handle by extending the tsuka of odachi.
+the difference between nagamaki and nakamaki is;the tsuka is made long from the beginning,or the tsuka is made long by extending a regular odachi.
+shoso-in(treasure house of todai-ji temple)has a weapon with a long handle as in its original version.
+nagamaki naoshi(remake from nagamaki)
+naginata(pole swords)
+a weapon with a long handle having a curved blade like uchigatana and tachi.
+it looks like nagamaki in appearance,but there are some theories on the relationship with nagamaki,and the truth is unclear.
+naginata naoshi(remake from naginata)
+a sword remade from naginata.
+since naginata has a relatively shorter blade compared to uchigatana,most of them were remade for wakizashi(medium length sword)or tanto(short sword)by cutting the nakago(core).
+yari(spear)
+a typical long handle weapon having a short blade and long handle.
+in order to specialize in picking,it has a double-edged blade,and it is made thick so not to break easily(some have a cross section of the blade with an almost regular triangle shape).
+it is difficult to mention this as strictly being a 'sword.'
+shikomi katana(disguised swords)
+a hidden weapon to disguise it as something different than a sword by covering the blade.
+there are mainly two types;one disguised as a commodity,and a two-step weapon by fitting another weapon with a small blade.
+the blade gives priority to 'how easy it is to hide' over 'how strong,' it is so,it is thinner and easier to break compared to other japanese swords.
+currently,carrying and possessing this type is banned by the sword and firearms control law.
+kinds of style
+shinogi-zukuri(hon-zukuri,ridged style)
+most japanese swords are made in this style.
+the picture above shows this style.
+it is thought to have been evolved from seppa-zukuri(front ridge style).
+kata shinogi-zukuri(one-sided ridge style)
+one side has shinogi-zukuri(ridged style),and the other hira-zukuri(no ridge style).
+hira-zukuri(no ridge style)
+a style often seen in tanto(short swords)and kowakizashi(shorter wakizashi).
+there is no shinogi(ridge line).
+a few uchigatana in hira-zukuri(no ridge style)were seen from the middle to the late muromachi period.
+seppa-zukuri(front ridge style)
+a style where the shinogi is closer to the cutting edge.
+it is mostly seen in jokoto(early old swords).
+kissaki moroha-zukuri,kokarasu-zukuri
+the part near kissaki(point)has a double edge like a ken(double-edged sword).
+especially kokarasu-zukuri indicates a style of a sword called a false sword that has a double edge in more than half of the blade.
+as for existing swords,kogarasumaru has this style.
+shobu-zukuri(iris style)
+a style taking away yokote(separating line)from shinogi-zukuri(ridged style).
+this name derives from its shape closely resembling a leave of iris(shobu).
+it is mainly seen in wakizashi(medium length swords).
+unokubi-zukuri(neck of cormorant style)
+the thickness is brought down from a little lower part of kissaki(tip)to the middle of mune(back).
+this name derives from the thin shape like a neck of a cormorant(u).
+kanmuri otoshi-zukuri(crown-dropping style)
+the thickness is brought down from mune(back)toward kissaki(tip).
+it usually has naginata toi(is fuller)and is often seen in tanto(short swords).
+moroha-zukuri(double edge style)
+it has a double edge from shinogi(ridge),and its kissaki(tip)is upward.
+it is seen in tanto(short swords)after the mid muromachi period.
+there rarely exist long swords in moroha-zukuri(double edge style),which are famous as japanese swords pursuing only lethal potential.
+osoraku-zukuri(fear syle)
+the position of yokote(separating line)is much closer to nakago(core)different from regular shinogi-zukuri(ridged style),and kissaki(tip)occupies half to two-thirds of the blade.
+it is often seen in tanto.
+there are several theories for the origin of this name,but the theory that the tanto(short sword)of a warlord in this style had a carving of 'osoraku' (which means a horrible thing)and it was named after this,prevails.
+kinds of sori(curvature)
+generally,as the eras go by,the center of curve tends to move from the waist side to the tip.
+koshi-zori(waist curve)
+the center of the curve is located lower than the center of the kissaki(tip)and mune-machi(notch in the back).
+it is seen in tachi from the late heian period to the early kamakura period.
+naka-zori,torii-zori(middle curve)
+the center of the curve is located nearly in the center of kissaki and mune-machi.
+it is seen after the mid kamakura period.
+saki-zori(tip curve)
+the center of the curve is located further up than the center of kissaki and mune-machi.
+it is seen after the muromachi period.
+uchi-zori(inside curve)
+swords generally warp against the mune(back),but on the contrar this one warps against the blade.
+it is seen in tanto(short swords)in the kamakura period and 'tosu' as a treasure in shoso-in,but this is a universal 'shape' also seen in overseas knives and daggers.
+kinds of yasurime(file marks)of nakago(core)
+yasurime(file marks)are applied in order to make the blade harder to pull from tsuka(handle).
+since yasurime(file marks)depend on the province,period or school,this is often investigated in the appraisement of japanese swords.
+kiri(sideways,straight)
+katte-kudari(right-hand fall)
+katte-nobori(right-hand rise)
+this is a typical yasurime by a left-handed swordsmith,so it is a major factor for appraisement.
+sujikai(diagonal)
+o-sujikai(large diagonal)
+gyaku o-sujikai(reverse large diagonal)
+takanoha(also known as fern)
+higaki(cypress fence pattern)
+kesho yasuri(dressed grinder)
+this is a decoration to combine with each yasurime(file marks)above.
+it is seen after the last half of the shinto(new swords)period,which becomes a factor to discern the period.
+narashi yasuri(leveling grinder)
+kinds of boshi(temper line)
+komaru(small round)
+komaru-agari(small round rise)
+komaru-sagari(small round fall)
+ichimonji-kaeri(horizontal return)
+yokote uwaba hososhi(narrow separating line upper edge)
+omaru(large round)
+yakitsume(no turn back)
+hakikake(brushed line)
+midarekomi(irregular line)
+choji-midarekomi(clove shaped irregular line)
+jizo(stone statue)
+kaen(flame)
+ichimai(one piece)
+niekuzure(deformed temper line)
+notarekomi(wavy line)
+tsukiage(sharp)
+kinds of kissaki(point of blade)
+kamasu kissaki(large point with straight edge)
+sho-kissaki(small point)
+ikubi kissaki(boar neck point)
+chu-kissaki(medium point)
+o-kissaki(large point)
+kinds by jihada(surface pattern)
+mokume hada(burl wood grain pattern)
+o-mokume hada(large burl wood grain pattern)
+chu-mokume hada(medium burl wood grain pattern)
+ko-mokume hada(small burl wood grain pattern)
+masame hada(straight grain pattern)
+itame hada(wood grain pattern)
+o-itame hada(large wood grain pattern)
+ko-itame hada(small wood grain pattern)
+ayasugi hada(wavy grain pattern,also called as gassan hada)
+matsukawa hada(pine tree surface pattern)
+norishige hada(norishige pattern)
+hijiki hada(dark sea-wead shap pattern)
+nashiji hada(pear skin pattern)
+konuka hada(very fine grain pattern)
+chirimen hada(crepe pattern)
+muji hada(no grain pattern)
+kinds of jiba effect(blade surface)
+the effect of jiba(blade surface)of japanese sword is mainly configured by martensite generated when the steel is quenched.
+nie(literally "boiling")
+the particles of martensite are big.
+nioi(literally "scent")
+the particles of martensite are small.
+the combination of nie and nioi causes various effects below.
+utsuri(reflect)
+chikei(landscape)
+kinsuji and kinsen(golden strip)
+sunagashi(brushed sand)
+yubashiri(running water)
+ashi(leg)
+yo(leaf)
+description of japanese swords
+japanese swords are described with the technical terms mentioned above.
+existence of names which are unique to japanese swords and associated with metallurgical phenomena makes description of the features of each sword possible,and transmission of work styles by letters,comparison,and consideration of different swords and academic research more than physical appreciation have also become possible.
+an example of description of japanese swords: 'the japanese sword masterpiece' by kanzan sato(shin-jinbutsuoraisha co.,ltd.)p.130(referred with some expressions changed)
+sword/inscription:kanemoto
+size/blade length:71.5cm,curvature:2.1cm
+shape/shinogi-zukuri(ridged style),iori-mune(standard surface),no hiraniku(rounded surface),rather strong saki-zori(tip warp),long chu-kissaki(mesium point)
+forging/tight ko-itame hada(small wood grain pattern),slight nagare(stream),generally shirake-gokoro(whitish)
+blade pattern/sanbonsugi(three cidar trees),partly kakedashi(chipped),tight nioi-kuchi(small particles of martensite),sunanagashi(brushed sand)accompanied,with ko-nie(several large particles of martensite)
+temper line/midarekomi(irregular line),komaru(small round),hakikake(brushed line)on tip
+center/ubu(unaltered),shallow iriyamagata(mountain shape)on tip,file marks of takanoha(fern),three mekugi-ana(holes for fastening nails),two-letter inscription closer to omote-mune(front ridge)
+besides these,the registration number is recommended to be described.
+from ancient times,features of japanese swords have been described as:
+like a broken edge of thick japanese paper
+like unevenly melted snow
+like snow on pine leaves
+(these expressions above describe the appearance of hamon),with a concrete description,and eliminates the incorporation of the subjective feeling of an observer.
+-avocational and promotional description
+on the other hand,swords are traded for money,and especially from the meiji period to the modern times,when swords,as antiques and art objects,came to have character as commodities or hobby objects,there are descriptions without objectivity,promotional descriptions to increase commercial value,descriptions to stimulate desires for possession and descriptions full of feelings toward a favorite sword.
+while using technical terms,some are sentimental and abstract,and 'untrue,dramatic,and misleading,' which we have to be careful of.
+examples of avocational and promotional descriptions(cited from the wikipedia)
+the effect of the blade is even from the base to the tip,and "nioi-kuchi(small particles of martensite)is tight and turns into the blade tip like it's disappearing quickly" as the greatest characteristic,and tightening nioi-kuchi and having an effect of the blade feature are typical techniques of the koto(old swords)period,and kyoshu,a samurai connoisseur highly praised its fine steel for surpassing heian and kamakura(they are supposed to be second-class craftsmen),and it is even said that it all comes down to kanesada;contrary to the "wide change" seen in magoroku kanemoto,it has a "serene" work style;most of the works with the inscription of nosada have fancy blade patterns which amateurs like;the inscription is done by himself,without an inscriber,which makes the inscription "deep."
+although it has been compared with muramasa at appraisement for bidding since ancient times,the blade surface of muramasa is blackened and a has local flavor;existing kanesada's works are not blackened at all and are clear,and fine without any shirake-utsuri(whithish reflection);it has a reputation for wonderful steel.'
+ability of japanese swords
+it is thought that the process of creation of japanese swords has been developed basically in order to achieve three conflicting natures, 'not to break,not bend,and sharply cut' simultaneously.
+in the modern metallurgy, 'not break and not bend' is called 'compatibility of strength and tenacity' and improvement research of structural material has still being done night and day.
+because saving trouble even a little makes this compatibility balance lost.
+also, 'sharply cut' and 'not break' are difficult to be compatible.
+this has been realized by having so-called functionally-gradated structure that the cutting edge is hard,and the hardness is gradually decreased to the core,which makes compressive residual stress generate at the cutting edge.
+the explanation above is a case showing that the ideal condition is realized in the whole blade,so in fact,invisible defects can make a sword easily broken.
+however,a japanese sword in the ideal condition is called 'the world's strongest cutting tool,' and with reason.
+the sharpness of japanese swords are stated everywhere.
+as a notable example, 'kabuto-wari(helmet splitting)' with katana by the dotanuki group led by kenkichi sakakibara is famous.
+tv shopping programs sometimes use phrases such as 'japan boasting the world's best techniques in the production of cutting tools.'
+however,this sharpness is only demonstrated by cutting with the optimal angle,so,setting aside testing sharpness by bringing katana down to a body at rest,it is virtually impossible to cut always with the optimal angle against someone moving around in an actual fight.
+among japanese swords,the regular size of uchigatana in the edo period is about 70cm in blade length except at the very beginning and ending period,due to regulations of the edo shogunate(swords of more than about 88cm,that is nodachi or field sword,were banned).
+in the edo period,there was no chance to use a sword in an actual war,so testing sharpness was often done.
+swords are made lighter than the general image.
+however,a sword which is 1.3 times longer,called satsuma koshirae(fittings),and belted on by satsuma warriors,required some time to poise before once bringing it down,and the so-called jigenryu style to defeat at the first attempt became popular.
+later,satsuma warriors held important posts in the navy,and based on this nature,experts to defeat at the first attempt who learned the latest gunnery weapons of the day in germany or other countries succesively held the posts including full admiral.
+some comparisons are recited below.
+these examples show the weight of a naked sword.
+uchigatana(japan):in case of 70cm to 80cm long blade,about 850g to 1400g(a naked sword including tsuka(handle)and tsuba(handguard).
+in case of 100cm long blade,more than 3000g)
+saber(around the world):in case of 70cm to 100cm long blade,about 600g to 2400g
+shashqa(east europe):in case of 80cm long blade,about 900g to 1100g
+chinese swords(china):in case of 70cm to 90cm long blade,about 500g to 1000g(for double-handed use,in case of 80cm to 100cm long blade,about 900g to 3000g)
+these above were used until the recent period.
+a japanese sword is not really light if you compare in the blade length,because its handle is longer than other swords.
+however,among the swords for double-handed use,it is one of the lightest ones.
+a japanese sword is originally suitable to 'cut off.'
+however,it is necessary to slide and pull when cutting so that the direction of force is added at a right angle against the object to cut,because the sword itself is light.
+with the same reason,when sharpening a sword to 'cut and kill,' it is sharpened in the direction to slide like a kitchen knife(similar in the way to handle double-edged sword).
+tracing the history,from the kofun period to the nara period,when swords became separated between ceremonial use and actual use, 'keito tachi' and 'kurozukuri-no tachi' were only for 'cutting off.'
+in the heian period, 'kogarasu' adopted 'kissaki moroha-zukuri(double edged tip style)' to be suitable also to 'stab,' but later,tachi and uchigatana didn't adopt kissaki moroha-zukuri and had a curve to be suitable to 'cut' by wristing.
+some masters of martial arts used a sword having a double edge at the tip for 9cm length,which is an exception.
+japanese swords on battlefields
+japanese swords were 'the very soul of the samurai' and its mental and religious value as sacred treasures and artistic value were emphasized,but on the other hand,it is said that they didn't achieve much on the battlefields.
+the reasons commonly mentioned to support this are described below.
+some apply all the swords,not only japanese swords.
+in the records of the days,injury by katana has a low percentage in the cause of casualty and death.
+most swords were for close combat,and they have a disadvantage against long handled weapons(yari-spear or naginata-pole swords)in a wide space.
+attacks by cutting against the parts with armor or habergeon is not effective.
+the blade of a japanese sword is made thin to keep sharpness of blade and to make it lighter,so it can be easily bent or broken depending upon the direction of force.
+a slightly nicked edge greatly influenced its power,which causes difficulties in durability as a major weapon.
+due to the production method requiring a lot of labor,it was not possible to have mass production of high-quality swords or large nodachi(field swords)and to supply them to soldiers.
+warriors in the pioneer period were individual mounted shooting as the major tactics,and after the late kamakura era,a concentration of spearmen using common soldiers including ashigaru(common soldiers)became the major tactic.
+swordsmanship become popular after the peaceful edo period when swordsmanship with bamboo swords flourished.
+on the other hand,there are some foundations to deny these reasons as below.
+in a tumble fight or a fight in a small area,it has an advantage against long handle weapons.
+mass produced swords called kazu-uchi were produced and widespread even to common soldiers.
+armor was a little weak against a hit,so,in the sengoku era,there existed a fighting way using a sword as a blunt weapon with a blade.
+since armor always had slits,there existed a fighting way to attack them.
+armor or habergeon excels in protecting from blades,but is heavy and makes it difficult to move.
+equipping with swords means forcing the opponent to wear armor.
+for example,at the seinan war,when they didn't wear an armor anymore,the drawn sword squad made achievements in both armies.
+it is after the edo period when its spirituality was emphasized,and significance as a utility article was big in those days.
+reason why swords were used in battles
+value as backup weapons
+since weapons can be broken on a daily basis by warriors' rough handling,backup weapons are necessary.
+people of all ages and countries are afraid of being unarmed.
+value as self-defence weapons
+not all soldiers specialized in close combat and had a long handled weapon.
+other soldiers needed to have a self-defence weapon,and they had mainly katana with them.
+they are,for example,soldiers using artillery including a bow,a gun,gravel,and supportsoldiers such as cargo handling and utility work.
+used in situations where long handled weapons are difficult to use.
+they changed to katana and fought in a circumstances such as indoors or in a mountain forest where it is difficult to handle long handle weapons.
+assistance for yari(spears)
+battles in japan had mainly long-distance weapons including bows in the middle age and guns in the modern age,and as for a middle-distance fight,after fighting with yari(spears),they ended up wrestling to cut the carotid artery by tanto(short sword)or yoroidoshi(knife going through armor),so japanese swords were usually used as assistance for yari.
+most swords used in battle have cuts and dents from other swords on the mune(back),which shows they were used in close combat.
+in fact,the famous masamune ishida sword has numbers of big cuts and dents,which explains it was used in an actual fight.
+taking the cut head of the enemy general
+it was quite difficult to cut off a head quickly in the middle of a battlefield with yari(spears)or weapons other than swords,and the cut head of the enemy general could show the achievement of a soldier in a battle,so it is said that swords were important.
+however,it is virtually impossible to cut off the head of an enemy rushing desperately with an armor and a helmet at a single stroke in the middle of a battle even with a sword.
+and usually,the cut head had a meaning only if it was the enemy general or closer to the rank,heads of common soldiers were not cut.
+for example,even if cutting heads indiscriminately was supposed to be achievement by a special order,in order to prevent dishonest incidence after the battle,the general or an officer appointed by the general openly cut the body of enemies in front of everyone.
+from the above,it is rather difficult to accept the theory that swords were convenient to cut off the head f as a reason that swords were valued.
+moreover,wakizashi(medium length sword)is more convenient for cutting off the head from a dead enemy.
+values and roles of japanese swords
+it is quite an abnormal situation when people fight risking their lives,not just in battle,and they need to have a special determination.
+in such time,it is no wonder that 'the very soul of the samurai' of japanese swords,the mental and religious value as sacred treasures and the artistic value are needed as realistic force,in a way.
+there exist a lot of swords made during the war-torn period that are engraved with names of shinto and buddhist deities the owners believed in or with mantra,which interestingly reflects warriors' naked feelings.
+from the engineering aspect,in the periods when the theory of metallic crystal or phase transition was not resolved,sword craftsmen kept making an effort and achieved cutting tools that were excellent scientifically as well,which attracts much interest even now.
+this is because engineering control in the black box style is realized by accumulating and transmitting lots of meta-information including apparent change,texture,and smell that are not theorized or verbalized.
+in fact we don't interpret people's expression by fine and strict definition,but have an advanced ability to 'read the mind,' and especially since the japanese are excellent in this ability,attempts to use japanese manufacturing as an engineering system has begun in recent years.
+verification by tv programs
+spring of trivia
+experimental results broadcasted in the summer in 2004.
+it has the possibility of dramatic interpretation due to the nature of tv as media.
+there are no controlled experiments,so it is impossible to compare them with other swords.
+japanese sword vs.gun(colt government)
+experiment;bullets are shot against the cutting edge of japanese sword blade.
+bullets were sliced in two every time they were shot,and the blade didn't have a nicked edge at all.
+the diameter of the bullet of this gun is 11.43mm,the weight is about 15g and the speed is about 250m/s,by which the muzzle energy is calculated to be about 500j.
+although the bullet hit the blade of the japanese sword while spinning counterclockwise,the blade didn't suffer a nicked edge at all,which can prove the sharpness of a japanese sword.
+on the other hand,there is the opinion that this is just a physical strength experiment of materials, 'steel' vs. 'lead.'
+moreover,there is also a rebuttal from the viewpoint of the momentum that the fixed japanese sword overwhelmed the bullets with intense motion energy.
+japanese swords vs.waterjet(water pressure blade)
+an experiment where a waterjet is shot against the cutting edge of the blade of a japanese sword.
+it passes without a scratch.
+a kitchen knife having gone through the same experiment under the same conditions was broken into two.
+japanese sword vs.machine gun(12.7mm heavy machine gun m2)
+experiment;nato bullets of 12.7x99mm are shot from a machine gun against the cutting edge of a japanese sword blade.
+this 12.7mm heavy machine gun m2 used here is a machine gun with a large caliber.
+it is used to attack armor-clad targets such as armored vehicles or to bring down an enemy by shooting through an obstacle.
+the bullets were much bigger than those used in a gun or a rifle and had incomparable power(in this case,the impact on the blade and the twist against the blade),and the result is that the blade endured up to 6 bullets,but then the body of blade was ground down at once and broke in two.
+the concrete wall put in the back for safety was chopped to pieces.
+it is unclear about the bullet material and whether the projectile was a full metal jacket or not.
+takeshi&machami's why not get surprised with world-class japanese technology?special
+an experimental where hiroshi fujioka,a japanese actor,tried to cut a car door with a hard metal sword to compare the sharpness of the japanese sword.
+although this hard metal cutting tool developed in germany is strong against compression stress,it is known in the die level that it will be broken when stretching stress is generated,and a japanese sword is structured to generate pronounced stretching stress,which makes some people doubt the credibility of this experiment.
+regular japanese sword＝6cm(the blade was nicked and bent,and could not be put into saya.)
+hard metal sword＝22cm(no scratch or nick)
+hiroshi fujioka saw this and named this hard metal sword "real zantetsu-ken(sword cutting steel)."
+dubious legend
+experiment conducted testing whether the concept of one sword cutting another sword,a scene often seen in films,is actually possible?'
+the rough content is;making a machine swing a sword with the same force,and swinging a sword with the machine against another fixed sword.
+a japanese sword is struck against the side of an imitation sword made of stainless-steel.
+the imitation sword was broken at the point struck.
+a japanese sword is struck against the side of another japanese sword.
+the japanese sword only bowed widely and was not broken.
+the blades of two japanese swords strike each other.
+the fixed japanese sword was bent a little at the point struck,had a nicked edge,and was broken from the end.
+the condition of the swung sword was unclear.
+a japanese sword is struck against a rapier.
+the rapier bowed widely and was broken at the point struck.
+a claymore is struck against the side of a japanese sword.
+the japanese sword only bowed widely,but was not broken.
+the claymore and raypier were replicas made with carbon steel.
+national geographic(broadcasted in world great tv museum in japan)
+verification by "fight science," an overseas program played in the program(there was no experiment).
+it concludes that a japanese sword is the world's strongest weapon.
+in this program,they defined a weapon with the impact strength,target area,and handiness as the strongest,and named swords as weapons which are easy to handle and have strong power.
+after explaining that 'ken(double edged sword)is mainly for stabbing' and 'katana is mainly for cutting' as the difference between both,they introduced a japanese sword,which is a katana,but also good for stabbing attacks.
+in this program,however,a white muscular itf taekwondo martial artist introduced by swinging,and the superiority of the japanese sword was not explained specifically or compared with other weapons,so some people think the program had an image-oriented direction and doubt its credibility.

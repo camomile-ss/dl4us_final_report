@@ -1,0 +1,40 @@
+nenkiho(a legal principle for the statute of limitations)
+nenkiho(also referred to as nenki no ho)is a legal principle for the statute of limitations developed under the medieval samurai law.
+nenkiho is also referred to as nenyoho.
+it refers to confirming a person who has done the act in question as the legitimate right holder with the fact that he has possessed/occupied the land after a certain nenki(period)regardless of the real rights.
+nenkiho is also called '20-year nenkiho' since the 'twenty-year chigyo(enfeoffment)' principle having 20-year enfeoffment(exercise of rights of possession/occupation)as its requirement of realization was introduced after the enactment of the goseibai-shikimoku(code of conduct for samurai).
+summary
+emergence of 'nenki'
+nenki/nenyo was originally a synonym for 'period.'
+however it is believed that later it also referred to a legal effect which would result after a certain period had passed.
+the ritsuryo law had no provision for acquisition of rights and statute of limitation.
+since the life of the nobles in the heian period was separated from the agricultural community which was a place to produce,the legislation on the acquisition of rights including nenki was not enacted.
+this can be seen from the fact that "hososhiyo-sho" (the essentials for the judiciary),which is an accumulation of the ritsuryo law and theories of myobo-ke(scholars of the law),has no provisions for nenki.
+in the insei period(period of the government by the retired emperor),however,there existed the ideas of 'tanen ryosho' (long-term territory reign)and 'keinenjo' (order over time)as well as the existence of a deed as a basic criterion in lawsuits about lands in the court noble society.
+therefore it is unclear whether the idea about nenki did not exist at all in the court noble law,or nenki was considered on a practical level.
+goseibai-shikimoku
+the first provision known that the nenkiho is written in is the "goseibai-shikimoku" article 8('territory with no actual enfeoffment over time under the official document').
+(after 20 years of such enfeoffment,returning is unnecessary without discussion according to the udaisho(major captain of the right division of inner palace guards)family's case.
+however,a petition from a person who got the official document by claiming false enfeoffment is not taken up.)'
+this means that a territory,newly given by the kamakura bakufu(japanese feudal government headed by a shogun)or with an official document approving the ownership(andojo),which has not reigned by the owner in reality for over 20 years,does not allow the actual status changed without discussion about the legitimacy of the rights in accordance with the case of the udaisho family(the precedent of the family of the minamoto no yoritomo).
+however,even if a person,who got the official document by disguising as enfeoffment,claims his rights on the ground of the official document,his petition will not be taken up,that is the aim.
+however,there are some problems on this provision.
+the interpretation that it is a provision ruling acquisitive prescription of lands is widely accepted.
+but there is another opinion that it is a provision ruling negative prescription by 'no enfeoffment,' an act of not exercising the authority of enfeoffment.
+and the opinion is divided;this provision was based on the legal principle exercised indeed in the period of minamoto no yoritomo;the common law before yoritomo was also done after the period of yoritomo;or the legal principle,established after yoritomo or adopted for the first time for the goseibai-shikimoku,was treated as the legal principle established by yoritomo.
+the "goseibai-shikimoku" article 8 was epoch-making in the way of introducing 'twenty-year enfeoffment,' a certain nenki(20 years)from just vague legal principles such as 'tanen ryosho' and 'keinenjo.'
+it is believed that it was an effective measure especially for disputes among gokenin(immediate vassals of the shogunate in the kamakura and muromachi through edo periods)which increased sharply after the jokyu war.
+however,this provision was not applied for the lawsuits about the territories of temples and shrines immediately,and those of the court nobles,though it was valid for the lawsuits about the territories of samurai families under the jurisdiction of the kamakura bakufu.
+some think this shows that the court noble society,which handled the lawsuits about the territories of the court nobles,temples and shrines,had a negative attitude against the nenkiho itself.
+but the goseibai-shikimoku article 8 itself just shows the idea on the nenkiho in the samurai society,and whether or not the nenkiho was adopted in the court noble society at the time is another issue.
+even in the samurai society,the nenkiho was not supposed to be adopted for the land management of jito(land steward appointed by the central military government to each of the estates into which the countryside was divided).
+it was a measure to prevent a jito from neglecting the payment of nengu(land tax)to the lord of the manor for lengthy periods of time,and ultimately seizing the land for himself on the ground of nenki,which was added in 1247.
+settlement and disappearance of the nenkiho
+later,in the end of the kamakura period,the nenkiho on '20 years' was executed widely including the court noble society.
+further,it was adopted for the expiration date of a deed itself(monjo nenki)and that of a right to sue(sosho nenki),which shows that it was well established as a universal legal principle in the medieval period.
+the laws and ordinances of the muromachi bakufu and bunkokuho(law warring lords enforced in their own domain)also adopted the nenkiho to have limits of 20 years.
+however,in the recent times,the land ruling system by the kogi(shogunate)was established,which made all the territory of samurai onkyuchi(land awarded by the lord),and all the agricultural land of peasants were registered in and managed by the cadastral register,so there was no room left for the nenkiho to enact.
+the nenkiho on people
+on the other hand,separated from the nenkiho mentioned above, "goseibai-shikimoku" article 41 stipulates that nuhi zonin(servant)shall be invalid after 10-year neglecting.
+according to the later annotation,this takes a case of taking in and raising an abandoned child,and an escape of hereditary genin(manservant)into account.
+this principle was inherited by the edo bakufu,which banned eitai baibai(buying and selling permanently)of a person,and the nenki of fudai genin(low-ranked people in the hereditary succession)was set to a maximum of 10 years on the ground of the "goseibai-shikimoku" article 41.

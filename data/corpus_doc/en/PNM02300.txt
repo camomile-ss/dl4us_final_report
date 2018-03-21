@@ -1,0 +1,80 @@
+takakazu seki
+takakazu seki(c.march,1642-december 5,1708)was an edo-period mathematician(of japanese-style mathematics,called "wasan").
+his surname was originally uchiyama,and he went by the nickname shinsuke.
+his(chinese-style)courtesy name was kohyo,and he took the second name jiyutei.
+biography and achievements
+there are a variety of theories on the year of his birth,which seems to have been between 1635 and 1643,but none have conclusive proof.
+two different theories exist as to his place of birth:one claims he was born in fujioka in kozuke province(fujioka city in gunma prefecture today),while the other asserts he was born in edo(modern-day tokyo).
+since his biological father moved from fujioka to edo in 1639,scholars assume that he must have been born in fujioka if he was born prior to his father's move,or in edo if he was born after his father moved.
+unfortunately,little has been passed down regarding seki's life and career.
+this paucity of information is due to his adopted son shinshichirohisayuki seki having suffered ju-tsuiho(the most severe form of exile),which resulted in the ending of the seki lineage.
+while still young,takakazu was adopted into the seki family.
+starting in his childhood,he taught himself mathematics by studying mitsuyoshi yoshida's "jinkoki," continuing his studies into even more advanced mathematics.
+takakazu served both tsunashige tokugawa and tsunatoyo tokugawa(ienobu tokugawa)of the kofu domain in kai province(modern-day kofu city,yamanashi prefecture)and became the kanjoginmiyaku(a post within the edo shogunate,whose duty was to support commissioners at the finance ministry).
+when tsunatoyo became the sixth shogun,takakazu began working for the edo shogunate and was appointed the maruonando kumikashira(a job whose duty was to manage the assets belonging to the shogun's family).
+he was involved in compiling the province-wide cadastral survey(known as "kuni ezu" in japanese)for kofu domain,and after working with the convoluted juji calendar he began looking for an opportunity to revise the calendar system,but once the jokyo calendar,developed by harumi shibukawa,was created,he had no chance to make any noteworthy achievements with regards to the calendar.
+seki played an important role in starting the development of japanese mathematics beyond the influence of chinese mathematics
+in particular,he conducted extensive research into the tengen jutsu,an algebraic system(created in china in the thirteenth century)which saw extensive development in the song,jin,and yuan dynasties,and was able to make basic improvements to the system.
+he wrote a mathematical treatise called "hatsubi sanpo" in 1674,and invented a notation system for algebra(which was called tensan jutsu)to allow computations on paper,and laid the foundations on which more advanced discoveries in the field of japanese mathematics could later be reached.
+it is widely known that he introduced the general concept of determinants and resultants before anyone in europe.
+seki also used a polygon with 131,072 sides to calculate the value of pi(3.14159...)to the eleventh decimal place.
+he employed(what is now known as)aitken's delta-squared acceleration process in his calculation of pi,thought to be the earliest use of this series acceleration method(the modern method was introduced by aitken in 1926).
+it is also well known that seki actually discovered bernoulli numbers before jakob bernoulli did.
+but because he was deified after he died,it is no easy task to separate his own personal achievements from those of his disciples,there being a shortage of records.
+he became ill and died on december 5,1708.
+he was buried at jorin-ji temple,which is located in ushigome(modern-day shinjuku ward,tokyo)in benten-cho(also shinjuku ward).
+katahiro takebe and murahide araki were among his disciples.
+after seki died,his school of thought(called the "seki school")remarkably expanded,and after nushizumi yamaji assumed the leadership of the school,the seki school organized a license system and came to dominate the world of japanese mathematics.
+most of the famous mathematicians tended to belong to the seki school.
+takakazu seki earned great respect both as the founder of the seki school and as a great mathematician in his own right.
+beginning in the meiji period,even after japanese mathematics was replaced by western mathematics,seki continued to be honored as a hero in the history of math in japan.
+it is widely recognized that he came very close to discovering differential and integral calculus,just before it was introduced by issac newton and gottfried leibniz.
+tensan-jutsu(bosho-ho)
+seki's two greatest achievements were his improvement of the traditional algebra system(tengen jutsu)that had originated in china and his creation of the tensan jutsu(bosho-ho).
+he contributed to the field with his improvements in the notation system and through his advancement of mathematical theory;his work was later used as the foundation on which later,more advanced developments in japanese mathematics were based.
+tengen jutsu,developed in china,is a method of doing algebra that employs sangi(calculation rods).
+in "the nine chapters on the mathematical art," which was written in the early ancient period(before the first century a.d.),four arithmetic operations for negative numbers were developed,and the book generally succeeded in introducing pluralistic simultaneous linear equations based on the results of those operations;gaussian elimination was also introduced.
+high-powered equations with one unknown variable were introduced in the tang dynasty,and their use was greatly expanded during the song,jin,and yuan dynasties,and a method of numerical analysis(the horner scheme,which was introduced by horner in nineteenth century)of high-powered equations with one unknown variable for ordinary real numbers and coefficients was discovered.
+under this system,geometry problems were treated as algebra problems by nature.
+however,during the ming dynasty the popularity of tengen jutsu declined in china,and taken up entirely by joseon-dynasty korea.
+many aspects of how tengen jutsu spread to korea and how it was introduced into japan remain unclear even today.
+but beginning in the seventeenth century,tengen jutsu was being enthusiastically studied by kansai-area japanese mathematicians like seisu hashimoto and kazuyuki sawaguchi.
+sawaguchi's "kokin sanpoki" (calculation methods in ancient and modern times,completed in 1670)reveals a near-perfect understanding of the method of tengen jutsu.
+one liability concerning tengen-jutsu was that it was not able to handle high-powered,multivariable equations.
+this was because in tengen jutsu,in lieu of written symbols,calculation rods were arranged in a certain order to represent calculations:for example,the order of(1 3 4)can express either a single polynomial 1+3x+4x^2 or the multivariable linear expression x+3y+4z.
+(in shuseiketsu's "shigen gyokukan," he describes how it is possible to handle up to four variables by using a two-dimensional array,but it was not possible to expand the system any further than that.)
+hence,any unknown variables after the first one had to be eliminated through a written proof before tengen jutsu could be used.
+the above mentioned kokin sanpo-ki has fifteen unresolved problems(遺題)which required a multivariable equation.
+seki solved all these problems in his 1674 "hatsubi sanpo."
+in it,seki used the method of tensan jutsu(bosho-ho),in which a multivariable equation can be expressed by choosing symbols to represent any unknown variables after the first one.
+but in "hatsubi sanpo" seki only describes single-variable algebraic equations which can be worked out by erasing a variable(even giving some answers whose formulas were not given in detail),and the details of tensan jutsu(bosho-ho)'s role in the background were not given.
+what is more,mathematical errors were found in the early editions of "hatsubi sanpo."
+as a result,some began to doubt its accuracy.
+for example,yoshizane tanaka's disciple,ippei saji(dates unknown)argued that twelve roots out of fifteen were wrong(though in fact,most of saji's criticisms turned out to be off the mark).
+furthermore,in his 1679 "sanpo meikai" (clarifying calculation methods),yoshizane tanaka arrived at different roots than seki by using a form of tensan jutsu(bosho-ho)which he had invented himself.
+his disciple,katahiro takebe then introduced tensan-jutsu and details on how to solve it by using "hatsubi-sanpo endan genkai" (a mathematical book that shows the process of elimination using algebraic symbols and answers the unresolved problems left by takakazu seki in the book hatsubi-sanpo)(1685),and he also corrected some mistakes(in some parts it was mentioned without annotation).
+he also elucidated a general theory on elimination using resultants in his 1683 "kaifukudai no ho."
+he also introduced something to represent resultants,which was equivalent to determinants.
+but although seki did produce the correct formula to arrive at a determinant in the form of 3x3 matrices and 4x4 matrices,he erred in his symbol for 5x5 matrices,in which the root always results in zero.
+it is unknown whether this is a kind of simple writing error or something else.
+in "taisei sankei" (written jointly by kataakira takebe and katahiro takebe),which was completed a few years later but before 1710,the general size of cofactor development regarding row 1 is written correctly.
+one can see similar solutions given in "sanpo funkai" (a mathematical treatise that explains the resultant and applies it to several problems,written by yoshizane tanaka c.1690)and in "sanpo hakki" (a mathematical treatise that explains the resultant and laplace's formula of determinant for nxn case,written by tomotoki izeki of osaka and published in 1690).
+since neither "kaifukudai no ho" nor "taisei sankei" was published,both are thought to have been conducted individually.
+very little is currently known about the extent of seki's interactions with kansai-area japanese mathematicians,so it is to be hoped that future research will clarify this point.
+in later years,despite the existence of "taisei sankei," some talented japanese mathematicians who belonged to the seki school continued to base their efforts to develop an accurate expansion formula on their corrections of "kaifukudai no ho."
+their reasons for doing this remain unknown.
+due to this line of research,it was found that such math problems could in principle be solved as long as they were changed into a plural algebraic equation.
+in other words,such problems can be simplified into single-variable equations by using elimination theory and then could be solved by numerically applying the horner method.
+traditionally since chinese mathematics started,graphs can be solved automatically by converting it into algebra using the pythagorean theorem,making it easy to practically solve problems across a practical,yet wide range.
+but in reality,the abovementioned procedure would involve so many calculations that it is not considered practical.
+in fact,this is the reason why "hatsubi-sanpo" sought to produce an equation instead of a numerical answer.
+in some problems,the final degree of the equation turned into a 1458x1458 matrix,so large it would not be practical even to write it down(regarding this issue,it was recently confirmed that in this method it is impossible to simplify the equation,and that there is only one real root.)
+from that point on,the focus of japanese mathematics shifted away from the problem of how to simplify simultaneous high-powered equations.
+it was around 1683 when determinants were first introduced by leibnitz,but his method is not considered as practical as that outlined in "kaifukudai no ho."
+it was around the middle of the eighteenth century when the formula for general determinants and the theory of resultants were discovered.
+earlier,both girolamo cardano in his ars magna(1580)and hui yang(of china,c.1238-1298)had used the same method of calculating determinants that seki later used to find the root of pluralistic simultaneous linear equations with two unknown coefficients;yang's findings were recorded in "xiangjie jiuzhang suanfa" (a mathematical treatise in which yang acknowledged that his method of finding square roots and cubic roots had been invented by another mathematician).
+in japanese mathematics,when it comes to reducing single variable equations,the real root is calculated;to accomplish this the qualitative properties(existence domain,repeated root,conclusion,個数)of the real solution are solved,and to this end a practical algorithm has to be established.
+seki suggested a method to omit high-level sections beyond a certain accuracy,to improve convergence according to the horner scheme.
+it was the same number which the newtonian method came up with.
+he also proved the factors for the existence of repeated roots.
+this was a factor in the original equations and derivative polynomial having a common root,and it was an application of the previously mentioned elimination theory.

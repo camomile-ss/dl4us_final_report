@@ -1,0 +1,32 @@
+isa station(kyoto prefecture)
+isa station,located in fukuchiyama city,kyoto prefecture,is a stop on the sanin main line of the west japan railway company(jr west).
+it is famous for having a name that is difficult to read.
+the station is intended for the sanin main line,but some trains on the maizuru line make stops at this station via ayabe station.
+station layout
+the station is on the ground with an island platform that provides a single platform between double tracks.
+this station has no station staff.
+the station house is on the south side of the outbound line,and an automatic ticket machine is provided in the station house.
+the station house and the platform are connected by an overpass.
+the restroom is within the confines of the ticket gate,with the sexes separated,and the toilets are of the vault type.
+station surroundings
+osadano industrial park,kyoto prefecture
+isa branch of kyoto hokuto shinkin bank
+fukuchiyama onsen(hot spring)yoro-no-yu
+kyoto prefectural high school of technology
+fukuchiyama-ayabe line of kyoto prefectural route 8
+fukuchiyama off-rail station
+passenger use
+according to research conducted in fiscal year 2006,the station was used by approximately 351 people each day.
+(according to the kyoto prefecture statistics report)
+many passengers are students of the prefectural high school of technology.
+history
+november 3,1904:the station opened as a facility of japan national railways(jnr).
+on the same day,it was loaned to hankaku railway.
+transportation services for passengers and freights were initiated.
+august 1,1907:hankaku railway was nationalized.
+august 26,1971:freight service ceased.
+april 1,1987:the station became part of the west japan railway company(jr west)due to the division and privatization of jnr.
+adjacent stations
+west japan railway company(jr west)
+sanin main line
+takatsu station(kyoto prefecture)-isa station-fukuchiyama station

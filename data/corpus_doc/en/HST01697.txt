@@ -1,0 +1,38 @@
+tojo(imperial city)system(system for city planning)
+tojo system is a way of city planning developed in the east asia cultural sphere by absorbing the influence of chinese imperial cities.
+summary
+in a broad sense,tojo refers to city at large surrounded by walls(walled city)and,in a more limited sense,it refers to a capital or secondary capital city(baito)designed and constructed in conformity with 'jobosei' (street plan of ancient capital)whose city area was surrounded by walls called 'rajo'.
+jobosei is the rule of capital system stated by kao gong ji(records of technology,architecture,city planning etc.)in "rites of zhou," a classic of confucianism,which defines tojo as follows:(1)its shape is a square,nine li(li is an old chinese unit of distance)on each side;(2)it has nine north-south streets and nine east-west streets,which are nine carriage tracks in width;and(3)the palace is located in the middle,with the alter of imperial ancestors on the east,the altar of soil and grain on the west,the imperial court on the south,and the market on the north.
+it is not clear when this type of tojo written in "the rites of zhou" came into practice,but such pure and simple application of tojo system can hardly be seen throughout the chinese history.
+ye,the capital of wei dynasty during the three states period(china)has been confirmed as tojo,and later luoyang,the capital of western jin dynasty,seems to have been built according to jobosei,while the details of capitals of qin and han remain vague.
+more recent examples include kaifeng,the capital of northern song,whose downtown inclined slightly clockwise from the north-south central axis and in the middle of the downtown was an administrative district with its four corners facing almost perfectly to the north,south,east and west,and inside the the administrative district stood the imperial palace.
+in dadu of yuan(dynasty),the imperial palace was located slightly south to the center of the imperial city,surrounded by administrative districts.
+the downtown of beijing city,the capital of ming and qing dynasties,was composed of the inner city with nine gates and the outer city,the expanded city area,and in the middle of the inner city was an administrative district,in center of which was the imperial palace,and this layout was also slightly different from tojo of the rites of zhou.
+the palace of beijing imperial city is called forbidden city and its site now houses the palace museum in beijing.
+the most common layout of the chinese ancient capitals placed the palace in the middle of the premises and many dynasties adopted similar tojo system,but,on the other hand,luoyang of northern wei and changan of sui and tang dynasty placed their palace in the center of northern end,to the south of which was the imperial court(town of kanga[government office],that is,an administrative district),and at further south were the east and west markets.
+this type of system was rarely seen in the chinese history but the ancient japan adopted it as its model.
+there are opinions that japanese tojo was also influenced by shijin-soo(an ideal topography for the four taoist gods,with a river in the east,a broad avenue in the west,a basin in the south,and a hill in the north),an idea of onmyodo(way of yin and yang;occult divination system based on the taoist theory of the five elements).
+tojo system in japan
+the proclamation of taika no kaishin(great reformation of the taika era)announced in 646 tells that 'the capital was established for the first time' and 'it placed a cho(leader)in every bo(approximately 550-meter-square city block bounded by major streets)and rei(senior leader)in every four bo,which suggests the introduction of chinese tojo system to japan in fairly early times.
+the first capital that actually adopted tojo system,as far as we can ascertain,was fujiwara-kyo,which was established in 694.
+the influence of luoyang of northern wei has been pointed out in the layout of fujiwara-kyo,for its characteristics such as the area surrounded by the ancient paths in yamato province(nakatsu michi,shimotsu michi,yokooji and yamada michi),the streets dividing the city into twelve rows and eight columns(each of the east and west towns devided into four),three gates attached on each of the north,south,east and west walls(twelve in total),the imperial palace located slightly north to the center and a pond park located further north.
+in 710,heijo-kyo(the ancient capital of japan in current nara)was constructed north of fujiwara-kyo.
+it showed further development by equipping largely-widened suzaku-oji street and rajo-mon gate,even though it had only nine rows and eight columns.
+the japanese capital developed and moved to nagaoka-kyo in 784 and heian-kyo in 794 but it is yet to be known whether the development was directly inspired by changan of sui and tang or was accomplished within japan,originating in fujiwara-kyo.
+japanese tojo were characterized by the lack of the alter of imperial ancestors and the altar of soil and grain,which were the features of chinese tojo,and by the absence of rajo to surround the city,which was seen in the mainland china,or if any,it stretched only several dozen meters horizontally from rajo-mon gate.
+therefore,it is also called 'tokyo' (都京,literally means 'capital of town,' while tojo[都城]literally means 'capital of castle').
+tojo in other countries
+ye(wei in the three states period)
+changan(former han)
+luoyang(later han,northern wei,sui,tang)
+nanjing(wu in the three states period,eastern jin,southern court,ming)
+changan(sui and tang)
+kaifeng(northern sung)
+hangzhou city(southern sung)
+beijing city(yuan,ming,qing)
+gyeongju city(silla)
+hwando(goguryeo)
+ungjin(gongju city,baekje)
+sabi(buyeo)
+hanseong(seoul metropolitan city,joseon dynasty)
+shangjing longquanfu(bohai[state])

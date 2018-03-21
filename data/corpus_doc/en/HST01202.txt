@@ -1,0 +1,15 @@
+cho(a unit of length in old japanese system of weights and measures)
+cho is a unit of length(distance)or area in old japanese system of weights and measures.
+unit of length
+in this case,cho(町)is also written as丁in chinese characters.
+in jorisei(system of land subdivision in ancient japan),6 shaku(unit of distance approximately equal to 30.3 centimeters)was 1 bu(歩;a unit of land measurement)and 60 bu made up 1 cho:however,at taiko kenchi(the land survey by hideyoshi toyotomi),1 cho became 60 ken(unit of distance,approximately 1.818 meters)with 1 ken being 6 shaku and 3 sun(a unit of distance,approximately 3.03 centimeters)but later with 1 ken equals to 6 shaku.
+in 1891 after japan signed the treaty of the meter,1.2 kilometers was defined as 11 cho based on meters.
+that means that 1 cho is approximately 109.09 meters,and 1 kilometer consists of approximately 9.1 cho.
+unit of area
+to distinguish it from cho as a unit of length,it is sometimes called 'chobu.'
+a 10th of 1 cho is called tan using two different kanji or chinese characters, '反' or '段.'
+in jorisei,an area of a square with sides of 1 cho was considered as 1 cho(chobu)(as 1 cho was 60 bu,the area was 3600 bu).
+at taiko kenchi 1 cho was changed to 3000 bu(tsubo;a unit of land measurement;3.31 square meters).
+in 1891 after japan signed the treaty of the meter,120 hectares was defined as 121 cho.
+this means that 1 cho is approximately 0.9917 hectares(9917 square meters)and 1 square meter is approximately 100.83 cho.
+as 1 cho is very close to 1 hectare,japan's transfer to the metric system in terms of areas went smoothly.

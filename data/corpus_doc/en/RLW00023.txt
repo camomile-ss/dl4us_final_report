@@ -1,0 +1,96 @@
+kusatsu line
+the kusatsu line is a railway line(arterial line)of the west japan railway company(jr west)that runs between tsuge station in iga city,mie prefecture,and kusatsu station(shiga prefecture)in kusatsu city,shiga prefecture.
+the entire line is included in the section of the metropolitan area and its suburbs.
+railway data
+administration(type of business):west japan railway company(railway business operator)
+railway distance(operation kilometers):36.7 km
+track gauge:1067 mm
+number of stations:11(including the stations at both ends of the track section)
+double-track section:none(the entire line is a single track)
+block(railway)system:automatic block system(special)
+electrified section:entire line electrified(dc 1500v)
+maximum speed:95 km/h
+operation direction center:kameyama direction center
+※the kyoto branch of the west japan railway company manages all the stations except for tsuge station.
+only the tsuge station is managed by the railway department of kameyama,osaka branch of the west japan railway company.
+summary
+the kusatsu line mainly runs along the soma-gawa river and yasu-gawa river in koka city,which is historically known for its ninja.
+the towns along the kusatsu line are old post towns and agricultural areas consisting mainly of fields.
+running mostly on the flatlands,the kusatsu line between mikumo station and kibugawa station runs through mountains and narrow woods along the river,parallel to the old soma highway(旧杣街道)(in fact,the entire line runs along the soma highway).
+the kusatsu line between koka station and tsuge station also runs through woodlands.
+the scheduled speed is fast because the track is well conditioned and electrified(except for part of the section).
+as to the distance from kusatsu station to nagoya station,it is shorter to go through yokkaichi station from the kusatsu line than through maibara station.
+however,as described later,today there is no through-train to nagoya station,so it takes longer due to a transfer,etc.
+trains can pass by at the stations except for the kosei,terasho and aburahi stations.
+j-thru/icoca,suica of the east japan railway company(jr east)and toica of the central japan railway company(jr central),as well as pitapa of kansai thru pass,can be used at all stations between kibugawa and kusatsu.
+the line was established in the early meiji period;many of the railway structures(such as station platforms and grade separations)on the kusatsu line are still in use,and some of them have various designs in their structures or decorations(this is not limited to the kusatsu line).
+description relating to 'minami-biwako station'
+a new station,tentatively called minami-biwako station,was going to open in fiscal year 2012 on the tokaido shinkansen between maibara station and kyoto station,and its construction began.
+accordingly,a connecting station was going to open on the kusatsu line between kusatsu station and tehara station.
+however,yukiko kada,who was against the construction of a new station,won the shiga prefecture governor's election on july 2006,thereby making a significant change in the plan to halt the construction of a new shinkansen station in october 2007.
+refer to the section on minami-biwako station for more details on this issue.
+primarily,local governments along the kusatsu line except for ritto city were reluctant to bear the costs of a new shinkansen station,and many of them requested the double-tracking of the kusatsu line instead of the construction of a new shinkansen station.
+additionally,in contrast to the new shinkansen station to be jointly financed by shiga prefecture,ritto city and other surrounding local governments,a new connecting station on the kusatsu line did not involve shiga prefecture(because the shiga prefecture considered that the construction of a new station on the kusatsu line should be included in the urban development of ritto city);therefore,it was uncertain whether a new station would be built on the kusatsu line.
+types of operations
+higher-category trains were operated:a rapid train operated before the war until 1965 between himeji station and toba station(called sangu-kaisoku(rapid train),which was connected to a dining car before the war),its superior train,the express 'shima,' as well as the express 'kasuga' connecting kyoto and nagoya via the kusatsu line and the express 'nanki' operated from kyoto to nanki were all diesel cars that were ultimately abolished in the late japan national railways(jnr)era.
+now,only a local train is operated.
+the train is operated once or twice an hour(once to three times an hour between kusatsu station and kibugawa station).
+during the era of passenger trains,the train would frequently run through to kyoto or toba,but after being replaced by a diesel train and further with an electric train,the train would mainly return within the line.
+under the circumstances and with most of the passengers of the kusatsu line going to otsu and kyoto,some trains run through to kyoto during the morning and evening(through to osaka during the morning on weekdays).
+some through-trains would depart from and arrive at aboshi station,but this was changed from a train leaving aboshi station to tsuge station,to a train bound for yasu station with the schedule revision of march 2006,resulting in the abolishment of the through-train on the kusatsu line running west of osaka.
+during the era of passenger trains,the through-train from the kusatsu line to kyoto station would run the outer line and pass through seta station.
+after being replaced by an electric train,the through-train stops at seta station,but some local trains still run the outer line.
+occasionally,special trains reserved for groups on pilmigrages to ise(shrine)or students from kansai area on a school trip to ise-shima run through to the kansai main line.
+during the era of diesel trains,some trains would run through to the shigaraki line of the shigaraki kogen railway,and special through-trains were frequently operated after being transferred to jr,but no through-train has been operated since the train crash of the shigaraki kogen railway in 1991.
+environment of track
+the number of trains was gradually increased to run twice an hour during the day between kusatsu station and kibugawa station,after the line was transferred to the jr.
+the area along the line depends heavily on automobiles,but the number of passengers isn't decreasing due to the traffic congestion on national route 1,which is an artery in this area.
+moreover,community buses,operated by the local governments,frequently run to connect the stations on the kusatsu line,which serves as an important transportation for the community and passengers.
+however,because the line is a single track and no passing facilities are installed at kosei station and other stations,it is difficult to increase the number of trains by more than two an hour(including rush hours)in order to enhance the convenience;therefore,the local governments and residents are requesting that jr west use double-tracking and increase the number of trains.
+however,the jr is negative about the request,asserting that no further increase in passengers is expected.
+a population increase along the kusatsu line is expected for a while,especially in the kusatsu area,so there is a possibility of installing a new station or double-tracking the line with the aid of public expense by the prefecture and local city.
+rolling stock
+the jnr/jr suburban train series 113(mainly the 700 and 2700 series cars)were introduced in the opening of kosei line and the electrification of the kusatsu line;the jnr/jr suburban train series 113 is the major electric train operated on the kusatsu line.
+there are many renewed cars in new body color as well as in the original shonan color.
+the jnr/jr suburban train series 113 comprising four cars is operated,as well as that comprising eight cars(four cars joining four other cars)during the morning and evening.
+the jnr/jr suburban train series 117 began operating on the kusatsu line after its operation as a special rapid ended.
+the original type of the jnr/jr suburban train series 117 and one having partly modified long seats for the fukuchiyama line are operated.
+the jnr/jr suburban train series 117 comprises six cars.
+the jr(west)suburban train series 223(comprising eight cars)is used for the up trains during the night and for the train going through to osaka(one round trip)in the next morning,effective with the revision of march 2006.
+history
+the kusatsu line was opened as the first track of the kansai railway company in 1889,which planned to connect the otsu city and nagoya city along the old tokaido.
+along with the quadruple-tracking of the tokaido main line,part of the section between tehara station and kusatsu station was elevated in 1969,thereby crossing over the tokaido main line with the grade separation.
+at the same time,the old kusatsu line,which curved short of a turntable in the premises of kusatsu station,was abandoned,whereby the operating distance was extended by 0.3 km.
+the entire line was electrified in 1980.
+december 15,1889:the line between kusatsu station and mikumo station(9 miles 72 chains ≒ 15.93 km)was opened by the kansai railway company.
+the ishibe and mikumo stations were opened.
+february 19,1890:the line between mikumo station and tsuge station(12 miles 63 chains ≒ 20.58 km)was extended and opened,thus completing the entire kusatsu line.
+the kibugawa,fukawa and tsuge stations were opened.
+april 19,1898:the main line was changed from kusatsu station-nagoya station to nagoya station-kamo station(kyoto prefecture),and the line between tsuge station and kusatsu station became a branch line.
+december 29,1900:kibugawa station was opened as a transfer station on the main line of the ohmi railway corporation.
+january 25,1901:the entire line was shortened by 6 chains(≒ 0.12 km).
+november 12,1902:the operating distance was changed to be given simply by miles from miles and chains(e.g.,from 22m49c to 22.6m).
+march 1,1904:ohara station(currently koka station)opened.
+october 1,1907:the kansai railway company was nationalized.
+october 12,1909:the line names were given and the line between tsuge station and kusatsu station was called the kusatsu line.
+may 1,1918:the name of ohara station was changed to ohara-ichiba station.
+november 5,1922:tehara station opened.
+april 1,1930:the operating distance was changed from miles to kilometers(e.g.,from 22.6m to 36.4 km).
+april 10,1956:ohara-ichiba station's name was changed to koka station,and fukawa station's name was changed to konan station.
+october 2:some of the trains were replaced with diesel trains.
+december 15,1959:aburahi station opened.
+december 25:terasho station opened.
+november 23,1969:the construction of a crossing over the tokaido line was completed.
+november 29:falling rocks crashed down on the diesel train between ishibe station and tehara station.
+one driver was killed,and 17 passengers and two train crew members were injured.
+december 1:the operating distance between tehara station and kusatsu station was changed with the addition of 0.3 km.
+october 2,1972:the steam locomotive was abolished to achieve a smokeless track.
+july 4,1979:automatic signaling was introduced.
+december 20:centralized traffic control(ctc)was introduced.
+march 3,1980:the entire line was electrified.
+october 1,1981:kosei station opened.
+april 1,1987:the japan national railways was split and privatized as the jr group,including the west japan railway company.
+the japan freight railway company became a railway business operator for the line between kibugawa station and kusatsu station.
+the freight service between tsuge station and kibugawa station was abandoned.
+march 31,1999:the japan freight railway company left the type ii railway business(between kibugawa station and kusatsu station).
+list of stations

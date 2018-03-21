@@ -1,0 +1,16 @@
+choka(long epic song)
+choka is a form of waka(japanese poem).
+choka consists of 5-7 syllables repeated and concludes with a 5-7-7 ending.
+5-7 phrases repeated at least three times and 7 syllables are added at the end.
+manyoshu(the first major anthology of early japanese poetry)consists of many choka poems,such poems had ceased to be written by the time of kokin wakashu(a collection of ancient and modern japanese poetry).
+choka poems were made mainly on official occasions,and they must be followed by hanka(tanka appendix to a choka poem).
+history of choka
+the origin of choka is believed to be in ancient ballads.
+many choka poems are found in "nihonshoki" (chronicles of japan)and "kojiki" (the records of ancient matters),most of them are in the form with 5-7 phrases repeated at least three times.
+choka gradually became a fixed form of verse with a 5-7-7 ending.
+by the time of manyoshu,a hanka poem in tanka form(5-7-5-7-7 phrases)was often appended to a choka poem as a summary.
+in the heian period,when kokin wakashu was assembled,the term "waka" referred to tanka poems and choka was on the decline.
+in the edo period,however,as the study of japanese classical literature focused on manyoshu,choka poems revived.
+the longest choka poem ever written is utsubo kubota's "horyo no shi" (a song for dead captive);kubota wrote this famous choka after the end of the pacific war as a lament for his second son who died while detained in siberia.
+an example of choka
+heaven and earth:since the time they parted,of manifest divinity,reaching the heights of awe,in suruga standsthe high peak of fuji;the field of heaven:on gazing at the distant sightthe coursing sunlight is blocked andthe shining moonlight goes unseen;the white clouds,too,shrink from passing by asceaselesslysnow falls:from mouth to mouth will pass the word,travelling and speakingof the peak of fuji.(manyoshu no.317 by yamabe no akahito)

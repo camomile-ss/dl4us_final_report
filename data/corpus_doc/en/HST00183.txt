@@ -1,0 +1,118 @@
+the local bureaucratic system of ancient japan
+the local bureaucratic system was formed into a three-tier administrative organization of kuni(provinces),gun/kori(districts)and ri/sato(villages)under the taiho ritsuryo(taiho code)enacted in the year 701.
+the beginning of the local bureaucratic system
+agata(territory)
+ca.fourth century-sixth century
+"kojiki" (records of ancient matters),seimu section
+kuni no miyatsuko(the heads of local governments)for large and small provinces were appointed,provincial borders were fixed,and agatanushi(territorial rulers)of large and small territories were installed.
+"nihonshoki" (chronicles of japan),seimu records
+year 4 'appoint heads of provinces and districts,install chiefs of territories and villages;appoint the ruler of this province as head of that province and district.'
+year 5 'appoint a head of officials and install inagi(regional administrators during the yamato dynasty).'
+'separate provinces and districts according to mountains and rivers,and establish villages according to road senpaku.'
+("senpaku" refers to roads that run north-south and east-west.)
+emperor seimu was the 13th emperor of japan and lived in the 4th century before emperor ojin(15th),emperor nintoku(16th)and the five kings of wa(japan)in what was the first half of the kofun period.
+it is difficult to contemplate that kuni no miyatsuko and agatanushi were stationed throughout the entire country during this peirod,and these references are thought to be rhetorical flourishes of "nihonshoki."
+moreover,the actual existence of emperor seimu is in doubt.
+however,it can be thought that these articles refer to the fact that,during the yamato dynasty,powerful families of areas loyal to the court were controlled by being appointed agatanushi and that the areas ruled by agatanushi were called agata.
+kohori/kori
+ca.latter part of the sixth century-middle of the seventh century
+"nihon shoki" contains articles relating to the establishment of numerous miyake(imperially controlled territories)in june 535 but the names of many of these miyake match surviving place names and their existence can be confirmed.
+in an entry for september of the same year,there is an article pertaining to the establishment of inukaibe(corporations of dog keepers)but it is clear from the numerous examples in which surviving miyake place names are located next to inube place names that watchdogs were used to guard miyake(watchdogs were reared by the inukai clan),and it is surmised that the establishment of miyake and inukaibe also began during the reign of emperor ankan(first half of the sixth century).
+when these miyake developed and expanded to a certain size,they became the bases of kohori(written as県in chinese characters),which was a unit that the central government directly administered and controlled in local areas,and it is believed that they later developed into the kohori(written as郡)of the ritsuryo system(a system of centralized government based on the ritsuryo code).
+the difference between agata and kohori may be that the former depends on the control of a local head and managed indirectly,whereas the latter was part of an organization that attempted direct management and control.
+kuni no miyatsuko
+the yamato dynasty appointed local leaders as kuni no miyatsuko,and controlled all of the provinces via such political control.
+however,despite the opposition of the kuni no miyatsuko of provinces including kibi province and tsukushi province(iwai war in 527),it is thought from the fact that this reflects the unification of the nation that it was this period in which ancient japan was established.
+this was the period at the end of emperor keitai's reign and the beginning of emperor kinmei's reign.
+the local bureaucratic system under the ritsuryo system
+it is assumed that it was during the reign of emperor tenmu that the organization of local administration spread throughout the entire country.
+the basic households of this system were called henko(the organization of the people)which included three or four seitei(men in good health between 21 and 60 years of age)and were the fundamental unit from which gundan(army corps)soldiers were selected in what was known as one soldier per household.
+administrative areas were divided between the areas ruled by the emperor,the kinai region(provinces surrounding kyoto and nara-yamato,settsu,kawachi[izumi later became separate],and yamashiro),and the shichido(the seven districts of ancient japan-tokaido,tosando,hokurikudo,sanindo,sanyodo,nankaido and saikaido)(called "dosei," a system of administrative areas according to main roads),and 66 provinces were created below these in addition to iki province and tsushima province.
+in addition to these administrative areas,there were also togoku(the eastern part of japan,particularly kanto region)and bando(old kanto region)as well as mutsu province and dewa province.
+the administrative organization was all under the joint control of daijokan(grand council of state)oversight department of the left and right.
+the administrative organization of areas generally consisted of provinces,districts and villages and these were headed by kokushi(provincial governors),gunji(district managers)and richo(village chiefs)respectively.
+in 715,villages were replaced by go(townships)which were composed of 2 or 3 ri/sato.
+the kuni was the largest administrative subdivision and the gun was the mid-level administrative subdivision.
+before taiho-ryo(taiho code)(in 701),gun were called kori/hyo.
+local government offices were called kanga,located in provinces and districts and known as kokufu(or kokuga-provincial offices)and guke(or gunga-district offices).
+local administrative bodies were responsible for controlling the common people and collecting taxes.
+the roads(6-12 meters wide)of ancient japan which linked central government with regional administration organizations were built,and seki(barriers)and umaya(facilities for providing houses,food,etc.)were constructed.
+kokushi(provincial governors)
+kokushi consisted of kami,suke,jo,sakan and shisei.
+kokushi were appointed from central government on an alternate basis as mikotomochi(a court official dispatched to a provincial post by imperial order)of the emperor,and were responsible for governing the province by serving as commanders of gunji(district managers).
+provinces were ranked according to their size,as taikoku,jokoku,chukoku and gekoku,and were governed by different officials so that,for example,chukoku would not have a suke and gekoku would not have a jo,but the size classification criteria are unknown.
+it is thought that the ritsuryo system provinces were established prior to the year 681.
+numerous mokkan(narrow strips of wood on which an official message were written)have been excavated at den asuka itabukimiya ato(the supposed ruins of asuka-itabuki-no-miya palace),and within these is written a 'kanotomi year' which is equivalent to the 10th year of the reign of emperor tenmu(681).
+gundan
+a gundan was stationed in each province and was commanded by the kokushi.
+gundan were composed of 1,000 soldiers and included one daiki officer and two shoki officers.
+within gundan,platoons(cavalry/infantry)were composed of 50 men,and each platoon was commanded by a taisei(commander of 50 men),two platoons(100 men)were commanded by a ryosochi(commander of 100 men)and four platoons(200 men)were commanded by a koi(commander of 200 men).
+in addition,one member of administrative staff was embedded.
+in reality there were also gundan that had fewer than 1,000 men.
+in the case that gundan had more than 600 men,there was one daiki and one shoki,and if comprised of fewer than 500 men,there was only one such ki commander.
+like gunryo(collective term for the dairyo and shoryo ranks of district manager),daiki and shoki(collectively called gunki)were also appointed from local leaders.
+gunji(district managers)
+gunji consisted of dairyo,shoryo,shusei and shucho.
+dairyo and shoryo were collectively called gunryo.
+local heads such as family members of kuni no miyatsuko were appointed as gunryo.
+the position was held for life.
+distircts were restricted to 20 villages in which 20 villages was comprised of 1,000 households,and were classified as one of five grades depending on the number of villages within the territory.
+daigun consisted of 16-20 villages,jogun of 12-15,chugun of 8-11,gegun of 4-7 and shogun of 2-3,among which gegun did not have a shusei,and shogun did not differentiate between dairyo and shoryo but rather there was only a single manager.
+districts grew from the established miyake during the reign of emperor kinmei in the mid-sixth century to become part of the local administration organization of the yamato dynasty.
+it appears to be the case that land and people under the control of a shi(clerk)was collectively called a 'kori.'
+the name "kori" was the japanese reading for gun(郡)and continues to be used today.
+the district system began with the enacting of the taiho code in 701 but regional administration organization before this time also consisted of 'kori' which was written using a different character(評).
+richo(village chiefs)
+a ri/sato consisted of 50 households.
+villages were headed by a richo who was responsible for low level administration.
+in 715,villages were renamed by go which were composed of 2 or 3 ri/sato and headed by a gocho(township chief).
+this was the shift to the gorisei(township-neighborhood system).
+each village had a head of village called "risei" but villages were abolished circa 740 and replaced by the gosei(township system).
+kinai region
+above the level of provinces,the entire country was divided into the kinai region and the shichido.
+the kinai region consisted of yamato province,kawachi province,settsu province and yamashiro province,which were called "shikinai" (lit.four kinai provinces)but izumi province later became independent from kawachi province and the region became known as "gokinai" (lit.five kinai provinces).
+dosei
+the shichido were administrative areas that followed the main roads(including water channels)which stretched away from the capital in all directions,and consisted of tokaido,tosando,hokurikudo,sanindo,sanyodo,nankaido and saikaido.
+among these,saikaido contained dazai-fu(the local government office in kyushu region)which was located in chikuzen province and,in addition to protecting national borders and conducting external affairs,served to govern all islands under its jurisdiction according to the koku-gun-ri system(province-district-village system).
+taga-jo castle(tagajo city,miyagi prefecture)in the northeast established a wide area of control which included the surrounding provinces.
+settsu shiki(administrative agency of settsu province)
+settsu shiki was located in settsu province and conducted the duties of a kokushi.
+settsu shiki was situated in the capital and originally served to manage naniwa no tsu(naniwa port)as well as conduct inspections of envoys traveling between the capital and the west of the country,but later went on to conduct the administration of naniwa which was made a baito(secondary capital city)during the reign of emperor tenmu and naniwanomiya palace which was constructed during the reign of emperor shomu
+settsu shiki was abolished in 793 with the abolition of naniwanomiya palace and was replaced by settsu province.
+kyoshiki
+the affairs of the capital city(heijo-kyo,heian-kyo etc.)were governed by kyoshiki.
+from the view of the imperial palace,the sakyo(left of the capital)was on the eastern side and the ukyo(right of the capital)was on the western side.
+vertical and horizontal main streets neatly divided the capital into sections like a grid.
+each column of these sections running from north to south was called a "bo" and each row running from east to west was called a "jo."
+each bo had a "bocho" (bo chief),and each jo in the left and right of the capital had a "borei" (jorei-jo chief).
+this capital city(kyoshiki),jo(jorei)and bo(bocho)administrative organization system corresponded to the koku(provincial governor),gun(district manager)and ri(village chief)system.
+temporary local bureaucratic system
+izumi gen/yoshino gen
+izumi gen and yoshino gen were special administrative areas/administrative organization systems that became independent from kawachi province and yamato province respectively around 716.
+this was due to the presence of chinu-no-miya palace in izumi and yoshino miya palace in yoshino.
+these were later abolished but izumi gen later became an independent province.
+kawachi shiki
+kawachi shiki established yuge-no-miya palace in kawachi province as a separate capital during the period in which dokyo held power.
+on completion,the office of kawachi kokushi replaced by the special administration structure of kawachi shiki.
+the prior system was restored following the downfall of dokyo.
+jusenshi
+jusenshi was originally an agency that oversaw the minting of coins but in the year 818 abolished the office of nagato kokushi and took over the administration of nagato province.
+this was abolished in 825,the nagato kokushi was restored and the jusenshi took over the minting of coins.
+administration in changing social conditions
+the prevalent robbery and piracy that emerged as famine and disease caused by natural disasters spread throughout the country caused increased social unrest.
+the authorities suppressed social disturbances using military force.
+in 731,the position of sokan(a military position with power over the provinces of the kinai region)was created in the kinai region,and the position of chinbushi(an official charged with pacifying public unrest)was established in sanindo,sanyodo and nankaido.
+in 732,setsudoshi(military governors)were appointed in tokaido,tosando,sanindo and saikaido.
+other measures
+a road connecting mutsu and dewa was opened in the year 737.
+this was a measure taken in the northeast of the country.
+chronology of the family registration system and local administration
+689:asuka kiyomihara code compiled and the 22 volumes distributed to all officials.
+670:nationwide family register(kogo no nenjaku)created.
+690:family register(koin no nenjaku)created under the code of households.
+702:taiho code applied to all provinces.
+703:kogo no nenjaku becomes the original family register record.
+715:ri/sato replaced by go which contain 2 or 3 ri/sato.
+718:yoro code selected.
+723:sanze-isshin law(a law allowing farmers who cleared new lands to own them for a period of three generations)enacted for the agricultural development of reclaimed land.
+in december,the minimum age for the allotment of a rice-field for nuhi servant was set to 12 years.

@@ -1,0 +1,92 @@
+gakusei(educational system,the education system order)
+gakusei
+gakusei(educational system)in a broad sense is school systems in general.
+it is described under the heading of "school systems."
+gakusei(the education system order:the proclamation of the grand council of the state no.214,1872)in a narrow sense is the laws and regulations pertaining to education promulgated in 1872.
+it is to be explained in detail under this heading.
+gakusei(the education system order:the proclamation of the grand council of the state no.214,1872)is the laws and regulations pertaining to education promulgated on august 3,1872,which first established the school system in japan.
+it was repealed in 1879 by the promulgation of kyoikurei(the 1879 education order:the proclamation of the grand council of the state no.40,1879).
+summary
+gakusei' followed french educational system to adopt the school district system.
+chapter 3 provided that the country be divided into 8 university districts:8 universities in all,each of which be divided into 32 middle school districts:256 middle schools in all,and each of which be divided into 210 elementary school districts:53,760 elementary schools in all.
+the order was amended the following year with change of the number of university districts to 7 for the actual enforcement.
+daigaku nanko(the southern college of the university,a predecessor of the university of tokyo),kaiseijo and kounkan became middle schools which belonged to the 1st university district,the 4th university district and the 6th university district respectively,and daigaku toko(the eastern college of the university),osaka igakko(osaka medical school)and nagasaki igakko(nagasaki medical school)became the medical schools of each university district.
+the 8 universities were hokkaido university,tohoku university,the university of tokyo,nagoya university,osaka university,kyoto university,hiroshima university and kyusyu university.
+school districts
+the original school districts
+the following is the list of the original school districts at the promulgation of gakusei(the prefectures where the main office of universities were placed at the head of each list).
+the 1st university district
+tokyo prefecture,kanagawa prefecture,saitama prefecture,iruma prefecture,kisarazu prefecture,ashigara prefecture,inba prefecture,nihari prefecture,ibaraki prefecture,gunma prefecture,tochigi prefecture,utsunomiya prefecture,yamanashi prefecture,shizuoka prefecture
+the 2nd university district
+aichi prefecture,nukata prefecture,hamamatsu prefecture,inuyama prefecture,gifu prefecture,mie prefecture,watarai prefecture
+the 3rd university district
+ishikawa prefecture,nanao prefecture,nikawa prefecture,asuwa prefecture,tsuruga prefecture,chikuma prefecture
+the 4th university district
+osaka prefecture,kyoto prefecture,hyogo prefecture,nara prefecture,sakai prefecture,wakayama prefecture,shikama prefecture,toyooka prefecture,kochi prefecture,myodo prefecture,kagawa prefecture,okayama prefecture,shiga prefecture
+the 5th university district
+hiroshima prefecture,tottori prefecture,shimane prefecture,hojo prefecture,jinzan prefecture,yamaguchi prefecture,hamada prefecture
+the 6th university district
+nagasaki prefecture,saga prefecture,yatsushiro prefecture,shirakawa prefecture,mimitsu prefecture,miyakonojo prefecture,kagoshima prefecture,kokura prefecture,oita prefecture,fukuoka prefecture,mizuma prefecture
+the 7th university district
+niigata prefecture,kashiwazaki prefecture,okitama prefecture,sakata prefecture,wakamatsu prefecture,nagano prefecture,aikawa prefecture
+the 8th university district
+aomori prefecture,fukushima prefecture,iwasaki prefecture,mizusawa prefecture,iwate prefecture,akita prefecture,yamagata prefecture,miyagi prefecture
+revised school districts
+the following year the university districts were revised to set up 7 university districts,239 middle school districts and 42,451 elementary school districts.
+following this revision,the main office of universities in ishikawa prefecture was closed;the 3rd university district and the 4th university district were integrated so that the following numbers of school districts moved up,and the main office of universities in aomori prefecture moved to miyagi prefecture.
+12,558 public and private elementary schools were established in a year.
+the revised school districts were as follows.
+the 1st university district
+tokyo prefecture,kanagawa prefecture,saitama prefecture,kumagaya prefecture,chiba prefecture,ashigara prefecture,nihari prefecture,ibaraki prefecture,tochigi prefecture,utsunomiya prefecture,yamanashi prefecture
+the 2nd university district
+aichi prefecture,shizuoka prefecture,hamamatsu prefecture,gifu prefecture,mie prefecture,chikuma prefecture,ishikawa prefecture,tsuruga prefecture
+the 3rd university district
+osaka prefecture,kyoto prefecture,hyogo prefecture,nara prefecture,sakai prefecture,wakayama prefecture,shikama prefecture,toyoka prefecture,kochi prefecture,myodo prefecture,okayama prefecture,shiga prefecture
+the 4th university district
+hiroshima prefecture,tottori prefecture,shimane prefecture,hojo prefecture,oda prefecture,yamaguchi prefecture,hamada prefecture,ehime prefecture
+the 5th university district
+nagasaki prefecture,saga prefecture,miyazaki prefecture,kagoshima prefecture,kokura prefecture,oita prefecture,fukuoka prefecture,mizuma prefecture
+the 6th university district
+niigata prefecture,aikawa prefecture,nikawa prefecture,okitama prefecture,sakata prefecture,wakamatsu prefecture,nagano prefecture
+the 7th university district
+aomori prefecture,fukushima prefecture,iwasaki prefecture,mizusawa prefecture,iwate prefecture,akita prefecture,yamagata prefecture,miyagi prefecture
+kinds of schools
+from chapter 20 there were provisions for elementary schools,such as jinjo shogaku(ordinary elementary schools),elementary schools for girls,village elementary schools,elementary schools for the poor(also called jinkei gakko),private elementary schools,elementary schools for infants,and schools for disabled children.
+ordinary elementary schools were divided into lower division of four years and upper division of four years.
+however,elementary schools for infants were not realized.
+from chapter 29 there were provisions for middle schools which were also divided into two levels:upper and lower divisions(3 years for each).
+the order also set up irregular middle schools,kajuku(government-backed school operated by a scholar out of his home)and private middle schools as the equivalents of middle schools.
+from chapter 33 there were provisions for shomin gakko(evening vocational schools).
+it was provided that shomin gakko should include agricultural schools,interpretational schools,commercial schools and technical schools.
+it was provided that universities as 'specialized schools for offering the highest level of education in various studies' have the departments of science,literature,law and medicine.
+however,because it was inappropriate to the real situation for the heavy imposition on people and so on,the order was repealed and replaced by kyoikurei(the 1879 education order)in 1879.
+details of gakusei system(future courses)were as follows.
+elementary education institutions
+middle education institutions
+higher education institutions
+the highest educational institutions
+elementary education institutions
+1 elementary school,lower division term:4 years,age:6-10 years old,future course:middle education 1
+2 elementary school for girls,village elementary school,elementary school for the poor(jinkei gakko),private elementary school term:4 years,age:7-11 years old,future course:none
+middle education institution
+1 elementary school,upper division term:4 years,age 10-14 years old,future course:middle education 2,3,4 and higher education 6
+2 middle school,lower division term:3 years,age:14-17 years old,future course:higher education 3,6 right after completion of the course
+3 foreign language school,lower division term:2 years,age:14-16 years old,future course:higher education 2,7,9,11
+4 preparatory course for middle school taught by foreign teachers term:1 year,age:14-15 years old,future course:higher education 4
+5 shomin gakko term:unfixed,age:boys 15 years and above,girls 18 years and above;future course:none
+higher education institution
+1 normal school term:2 years,age:20-22 years old,future course:none
+2 foreign language school,upper division term:2 years,age:16-18 years old,future course:none
+3 middle school,upper division term:3 years,age:17-20 years old,future course:university 1
+4 middle school,lower division taught by foreign teachers term:3 years,age:15-18 years old,future course:higher education 6
+5 middle school,upper division taught by foreign teachers term:3 years,age:18-21 years old,future course:university 1
+6 medical school taught by foreign teachers term:5 years,age:14-19 years old,future course:none
+7 preparatory course for polytechnic,science and medical school term:3 years,age:16-19 years old,future course:higher education 8
+8 regular course of polytechnic,science and medical school term:4 years,age:19-23 years old,future course:none
+9 preparatory course for engineering,law and mining school term:3 years,age:16-19 years old,future course:higher education 10
+10 regular course of engineering,law and mining school term:3 years,age:19-22 years old,future course:none
+11 preparatory course for veterinary,commercial and agricultural school term:3 years,age:16-19 years old,future course:higher education 12
+12 regular course of veterinary,commercial and agricultural school term:2 years,age:19-21 years old,future course:none
+13 commercial,agricultural,engineering and interpretational school term:unfixed,age:16 years and above,future course:none
+university
+1 university term:unfixed,age:20 or 21 years and above

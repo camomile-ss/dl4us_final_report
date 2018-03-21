@@ -1,0 +1,22 @@
+ryakumyo dodai
+ryakumyo dodai(also called rekimei-dodai)was the record book of ikai-bunin(directory of court ranks)of shii(fourth rank)and goi(fifth rank)in medieval japan.
+the original records consisted of two volumes and two books but the existing record book(a book possessed by historiographical institute the university of tokyo)has only one book.
+summary
+it is believed that the existing book was compiled by yamashina tokitsugu in 1537 and touched up later by his son,tokitsune yamashina.
+however,in fact,tokitsugu himself noted in the original books that he transcribed it from "ryakumyo dodai" possessed by the kiyohara clan or kanehide hirohashi.
+originally,similar books were edited and possessed by the imperial palace or each clan of court nobles to consult for political operations and ceremonies of the imperial court such as appointment ceremonies,and it is believed that the yamashina family's detailed version was generally used and books in other families had been no longer in use in the course of borrowing and lending,or collating of those books of each clan.
+it is recorded that a revision of the record called "bunin" (directory of the succession)or "ryakumyo" (record list)by an imperial order was conducted in "yasutomi ki" (diaries of nakahara yasutomi-entry for february 3,1444)and other descriptions of revision of "bureki" (directory or record list)was also conducted on behalf of geki(secretary of the grand council of state),in "chikanaga kyo ki" (diary of chikanaga kanroji-entry for march 17,1475).
+in "sanetaka koki" (sanetaka's diary-april 3,1501),there is another description that sanetaka sanjonishi ordered 'ryakumyo dodai' by borrowing 'ryakumyo' of kinri(the oldest record of "ryakumyo dodai").
+in the various records(including "tokitsugu kyoki",the dairy of tokitsugu yamashina)in the same period,the term 'bunin-ryakumyo' or its shortened form 'ryakumyo' was found.
+it is considered that this was the formal record that became the base of "kugyobunin" (directory of court nobles)and "ryakumyo dodai."
+the historiographical institute of the university of tokyo possesses "ryakumyo" and national museum of japanese history has books called "horyaku" cited from 'bunin' and according to their contents,it is considered that 'bunin' recorded court nobles in the order of official court rank and 'ryakumyo' recorded imperial princes,court nobles,shoo(princes who didn't receive any proclamation to be an imperial prince),or tenjobito(a high-ranking courtier allowed into the imperial palace)in the order of official court rank.
+in addition,originally, 'dodai' (土代)was a synonym of 'dodai' (土台:base),which meant the draft of documents.
+therefore, "ryakumyo dodai" is considered to have originally listed the names of persons who were scheduled to be conferred a court rank of shii and goi and added dates etc.with the help of 'ryakumyo' after the conferment of actual court rank and also organized parts of them in the process of collating,except for the descriptions of court nobles which overlapped other records such as 'bunin' (or kugyobunin based on this)among 'ryakumyo.'
+the oldest "ryakumyo dodai" was found in the period of the northern and southern courts(japan),northern court of japan in 1367,but it was in 1399 when both shii and goi were set.
+however,the record in this period was an extract version and full-blown descriptions was started after the kakitsu era(1141-1144).
+the latest description was done in 1606.
+it recorded not only government officials of shii and goi,and governmental officials responsible for practical works of the imperial court,but also court ranks of central and local samurai family and shinto priests.
+the original books consisted of two books and shii was recorded in volume 1 and goi,in volume 2.
+the total number of recorded officials was 4,243 persons.
+the names were recorded in "gunsho ruiju" zatsubu("classified collection of books," miscellaneous section),but there was a problem such that the records of 120 persons were lost during compiling "shinko gunshoruiju(library)" from 1503 to 1531.
+later,toshiharu yukawa(society for research on the medieval court nobles' diaries)who worked at a telephone company tried to make a database of "ryakumyo dodai" and in 1996 the revised version based on this database was published from the "classified documents,continued" completion committee.

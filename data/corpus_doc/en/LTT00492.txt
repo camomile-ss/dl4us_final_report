@@ -1,0 +1,27 @@
+shomono(books of commentary on chinese literary works created from the mid-muromachi period to the early edo period)
+shomono is a general term for books of commentary on chinese literary works created from the mid-muromachi period to the early edo period.
+it is a written record of lectures or commentary written in the form of a lecture,organized to be understood easily while referring to various preceding commentaries.
+making the most of colloquial elements,they were written in kana(the japanese syllabary),and are therefore of great value not only as commentary but also as a reference for studying the japanese of the latter half of the medieval period.
+shomono can be classified into three groups:notes for a lecture created by a speaker,a verbatim record which was written down by an attendant of a lecture,and book compilations of the preceding shomono.
+actually,some records were not,in fact, "verbatim" but rather copies of a speaker's notes,also some notes refer to the preceding shomono,so their contents range widely.
+as a whole,most of the earliest shomono took the form of notes or verbatim records,as time passed,though,more and more complicated forms,as mentioned above,as well compiled books appeared.
+also,due to the nature of commentary and explanation,it was common to see shomono which emulated the contents of previous compositions,in this way shomono differs from general literary works.
+some were written in chinese,but most of them were written in japanese;there are many shomono which retain the colloquial language of those days.
+moreover,unique styles of writing were adopted such as using '--zo,' as a binding particle at the end of a sentence.
+these are treated as a distinct genre of shomono,and are followed by later works which have,in fact,nothing to do with lectures.
+when shomono were written in japanese,use of the katakana syllabary was common;these are sometimes called 'kanagaki shomono' (shomono written in kana).
+the works which were annotated or presented by a lecturer were mostly chinese classics,buddhist literature,and a part of national literature.
+among the chinese classics of confucianism,the four confucian classics, "the shih ching" (the book of songs), "i-ching" (the book of changes),and so on were annotated to make shomono.
+most of the writers were connected with the family of myogyo-do(the study of confucian classics)experts,and nobukata kiyohara played an especially important role in this genre.
+annotations made in the early years were mainly based on older annotations,but as time progressed the results of newer annotations came to be added.
+however,even in this case,shomono made in the later years were characterized by containing both old and new annotations,and as a rule,the influence of the older annotations was dominant.
+in the category of history books,many shomono were left mainly as part of a series of biographies in "shih-chi" (the historical records)and "han shu" (the history of the han).
+initially,some shomono were made by the family of kidendo(the study of the histories)experts,but gradually priests of the five zen monasteries took responsibility for the shomono.
+kanjo retsuden jikutosho is the oldest shomono in existence today.
+among "the hundred schools of thought" (see also the hundred schools of thought in the four groups of chinese classics),shomono such as "chuang-tzu" and so on were left.
+among literary works,such as the poetry of northern sung "kobun shinpo," "santaishi," "the song of everlasting sorrow," su shi(chinese poet),and huang tingjian(chinese calligrapher,painter,and poet)were enthusiastically annotated,and many of them still exist today.
+anthologies of japanese and chinese poetry centering on priests of the five zen monasteries were independently edited,and annotations on these anthologies were sometimes made("selected chinese saplings poems" and so on).
+literary works were mainly annotated by priests of the five zen monasteries,and compared with the annotation of chinese classics made in the late edo period,they seem to have their own tendencies;for example,shomono annotated "kobun shinpo" instead of "a standard of composition," "santaishi" instead of "selected poems of the tang dynasty," and northern sung poetry instead of southern sung poetry.
+priests of the five zen monasteries made shomono mainly regarding buddhist literature,so most of the original texts were books about zen buddhism.
+in the genre of national literature,a lot of shomono on nihon shoki(chronicles of japan)were made.
+these were produced by nobukata kiyohara and kanetomo yoshida,and were deeply involved with shintoism in the medieval period.

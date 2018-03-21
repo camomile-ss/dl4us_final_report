@@ -1,0 +1,35 @@
+ruijusandaikyaku
+ruijusandaikyaku is a statute book published in the heian period(probably in the 11th century).
+the author is unknown.
+summary
+this is a book that classifies the so called kyakushiki(statute books):koninkyaku,jogankyaku,and engikyaku by cases.
+it is said that there are 30 volumes,but there is a 20-volume version and a 12-volume version.
+because some of the book is missing even these two versions are combined and the overlapping parts were removed(even though these versions are not complete,it is considered that there are less than 30 volumes after adding the lost and estimated parts),it is unknown what style the original book had.
+during the heian period,as ryoge no kan(class outside of the ritsuryo system)increased,office organizations regulated by ritsuryo became in names only,and obtaining information necessary for actual government affairs became difficult with kyaku(administrative regulations)that is organized by traditional authority.
+therefore,the regulations were organized in 90 parts(82 are existing)by grouping them into cases including 'jinshagoto,' 'kokubunjigoto,' 'yochogoto,' 'kinseigoto,' and 'danzaishokudogoto.'
+because those three kyaku books do not exist now except for the index of the koninkyaku, 'ruijusandaikyaku' in which original text of kyaku is considered to be copied virtually unchanged,is a valuable historical material to know the actual situation of ancient legislative system.
+structure of the 12-volume version
+volume one
+saihei,takusen(oracle),kannushi(shinto priest),and harai(exorcism)related to shrines
+volume two
+construction of buddhist statues,buddhist mass,and appointment to the priesthood
+volume three
+kokubunji(provincial monasteries),ikai(court ranks)of priests,taboos of priests,and local koshi(monk lecturers)
+volume four
+abolishment and establishment of central ministries and the quota
+volume five
+abolishment and establishment of provincial officials and ikai
+volume six
+payroll system of court officials
+volume seven
+opinions of kugyo(the top court officials)and the regulating of local officials
+volume eight
+encouraging agriculture,taxation,borrowing and lending money
+volume nine
+handen(rice field allotment),koeiden(public rice field)konden(new rice field),and sensensotaku(natural resources)
+volume ten
+emperors,meals in the imperial court,pardon,documents,and seals
+volume eleven
+armies,conscription,sumo(japanese-style wrestling),stations,and lumber
+volume twelve
+various banned items and criminal punishments

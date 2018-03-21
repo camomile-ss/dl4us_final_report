@@ -1,0 +1,1292 @@
+sake(rice wine)
+sake is a traditional alcoholic drink in japan that is produced by fermenting rice.
+it is called seishu in the japanese liquor tax law.
+in japan,it is called in general simply "sake" or "osake," and "sasa" in old japanese and "hannyato" in jargon of buddhism priests.
+in modern times,it is sometimes called "ponshu."
+it has a wide temperature range good for drinking,from five degrees centigrade approx.to sixty degrees centigrade approx.(refer to "expressions of temperature-drinking temperature.")
+sake is the only alcoholic drink in the world which is habitually drunk at different temperatures in the same area.
+it is also used for cooking as seasoning agent for cleaning away odor of fishery products and flavoring.
+recently,while consumption in japan shows as declining tendency,consumption of sake,in particular,ginjoshu(high-quality sake brewed at low temperatures from rice grains milled to sixty percent weight or less)and junmai ginjoshu(ginjoshu with no added alcohol)in overseas market has been growing and it is known as "sake."
+(refer to "history of sake:showa period and on.")
+history
+refer to "history of sake."
+raw materials
+principal raw materials of sake are rice,water and koji(malted rice).
+other than such ingredients,as sake is brewed using many substances such as yeast and lactic acid bacterium,all of them are in certain cases called "ingredients for making sake."
+among specialists, "distilled alcohol," "sour agent," "seasoning," "amino acid, " and "sugars," which are used for adjusting the flavor are called auxiliary ingredients in order to distinguish them.
+rice
+depending on the intended use,there are two types of rice,namely kojimai(rice for koji)and kakemai(rice used to produce moromi or raw unseishu).
+for kojimai,sakamai(shuzo kotekimai-literally,rice suitable for brewing sake)is usually used.
+usually,general-purpose rice is used totally or partially for kakemai,but,in case of sake with a specific class name,often only sakamai is used.
+for most futsushu(ordinary sake),general-purpose rice is used for kojimai and kakemai.
+however,even from general-purpose rice,sake that receives high marks of appreciation is produced.
+with respect to high-class sake,once yamadanishiki enjoyed a predominant position,but recently the way of selecting and using rice as raw materials has drastically been changed partly because of the development of new varieties of sakamai.
+for more information,refer to "sakamai."
+water
+water is the principal ingredient that makes up eighty percent of sake and an important factor that determines the quality.
+the water supply source is usually well water such as infiltrated and subsoil water.
+in certain places where conditions are met,tap water is the source,many breweries secure a dedicated source of water supply.
+with respect to breweries in urban districts,some transport water from a remote locations because of the deterioration of local water quality and some change the brewery location to a location that has a water supply with good quality.
+water used for brewing sake is called shuzo yosui(literally,water for sake brewing)and used as water for preparation for brewing and water for cleaning bottles and buckets.
+some breweries sell water preparaed for brewing as merchandise.
+hardness
+the hardness of water is one element that determines the taste of sake.
+in daily life in japan,we usually use american standards for measuring the hardness of water,but,in the brewery industry,german standards have been used from a long time ago.
+recently,we can see a shift to american standards.
+with respect to the taste of sake produced,roughly speaking,if soft water is used,so-called soft sake with delayed fermentation is obtained and,if hard water is used,hard sake with progressed fermentation is obtained.
+the reason is that,if hard water is used in the brewing process,yeast becomes vivid because of the existence of minerals and therefore alcoholic fermentation,namely the decomposition of sugar,is expedited.
+on the contrary,if soft water is used,and the mineral content is little,yeast activity becomes dull and fermentation takes more time.
+nada gogo(literally,five districts in nada)where high quality sake have been produced since the edo period,hard water called miyamizu have been used.
+on the other hand,in 1897,senzaburo miura,who lived in hiroshima prefecture,developed a fermenting technique with soft water.
+in the past,hard water was used to make much of the shuzo yosui,but,in recent years,new merits of soft water have been discovered and the taste of sake brewed with soft water matches the taste of people today.
+water quality
+from olden times,a majority of the breweries existed in the vicinity of a river.
+the reason is to draw infiltrated water up from the river as shuzo yosui.
+among the raw materials used for sake,water is the only ingredient not included in mandatory information.
+therefore,it is not required to reveal whether water used as raw material for sake is from a well or is tap water.
+however,water quality criteria applied to shuzo yosui is far stricter than for tap water.
+sake breweries are required to submit water used for brewing to the brewing laboratory,food laboratory,brewing guidance institute,etc.,in the prefecture for examination in advance.
+examinations are conducted on the following items:
+odor
+taste
+color
+turbidity
+hydrogen-ion exponent
+chlorine ion
+calcium
+overall hardness
+magnesium
+trichlorethylene
+phosphorus
+nitrite-nitrogen and nitrate-nitrogen
+should not be detected.
+amount of consumption of permanganic acid potassium salt
+general bacterial count
+should not be detected.
+coli group
+should not be detected.
+mercury
+iron
+acceptable range:0.02 mg/l or less(for tap water:0.3 mg/l or less)
+manganese
+acceptable range:0.02 mg/l or less(for tap water:0.3 mg/l or less)
+different from the chinese continent,water in almost all districts in japan is medium-hard water,although there is a slight difference depending on the district,and,since the content of iron and manganese that spoils the taste is small,it is suitable for brewing.
+we often hear that breweries that moved to manchuria before the pacific war and tried to brew sake for japanese people who lived there,had difficulty finding water that could be used.
+with respect to potassium,magnesium,and phosphoric acid in minute amounts that are effective for fermentation and propagation of aspergillus and yeast,we can add them to adjust the ingredients.
+uses of water
+shuzo yosui used for sake brewing is classified as follows:
+jozo yosui(literally,water for brewing)
+water which is used for sake during the brewing process as an ingredient
+water for washing and soaking rice
+water that is used for washing and soaking rice
+also water that is absorbed in rice before preparation for brewing.
+water used to prepare for brewing
+water added as main raw materials at the time of brewing
+we can say that it is one of reasons to make sake a "liquid" merchandise."
+water for miscellaneous purposes
+water that is used for cleaning and boiler.
+even for such purposes,shuzo yosui that has fulfilled the rigid criteria described in the section for water quality,is used.
+water for bottling
+water for cleaning bottles
+water that is used for cleaning bottles
+water for adjusting alcohol concentration
+water that is added to adjust alcohol content
+it is transformed into sake after brewing.
+water for miscellaneous purposes
+water that is used for cleaning tanks and buckets
+even for such purposes,shuzo yosui that has fulfilled the rigid criteria described in the section for water quality,is used.
+for daily life of the toji(chief sake brewer)and other workers in the brewery(for food and washing their hands and face,etc.),tap water is used as it is in lives of other people.
+what is interesting is that,in many sake breweries,shuzo yosui is used in the bath for workers in the brewery.
+it is because of the belief of the sake breweries that the "preparation for brewing" begins already from that stage and they do out of superstition for good luck.
+koji(malted rice)
+koji used for sake brewing is produced by sprinkling spores of koji mold,namely aspergillus onto steamed rice and it is also called rice koji.
+koji converts rice starch into glucose,and carries out saccharification.
+the main ingredient of rice,which is a cereal,is starch,which is a polysaccharide,and it cannot be utilized as source of energy for yeast.
+therefore,it is necessary to decompose it into sugar having a smaller molecular weight with the action of koji.
+in other words,since yeast cannot carry out alcohol fermentation directly from starch,starch must be saccharified in preparation for fermentation.
+in case of sake,rice koji plays such role.
+rice koji contains amylase and glucoamylase,which are degrading enzymes produced by koji mold and degrade starch.
+those degrading enzymes carry out saccharification.
+rice koji also contains degrading enzymes for protein and amino acids and peptides produced by degradation have an affect on the growth of yeast and the flavor of the final sake.(refer to "producing koji.")
+in case of foreign liquors,for example wine,because grape juice as raw material contains glucose,no additional saccharification process is required and zones of culture of single-stage fermentation is formed.
+in the east,koji is used for many food products,not only for sake,but also for other liquors,bean pastes,mirin(sweet cooking rice wine),soy sauces and,etc.
+that is the reason why such zones are called,from the food culture point of view,zones of culture of multiple-stage fermentation or zones of mold culture.
+this is a method of fermentation that is possible because of climate characteristics of medium-or high-temperature wet zones in the southeast to east asia and the method utilizes the effect of "mold" as a microorganism.
+there are various type of aspergillus used in the east.
+typically,white koji,kuro koji(kuro-koji bacterium)and yellow koji is used for shochu(distilled spirit),kuro koji for awamori(distilled spirit originated in okinawa),and aka koji(ang-khak)for shaoxing rice wine.
+in case of sake,ki koji(yellow aspergillus)is used the same as in bean paste,mirin,and soy sauce.
+although it is called "yellow" koji,its color is actually closer to green or yellow green in reality.
+if classified by their shapes,koji used in japan is in the shape of rice grain as it is,as far as can be observed by the naked eye,and,therefore,it is called bara koji(literally,loose koji).
+on the other hand,koji used in other eastern countries,including china,is called mochi koji(literally,rice-cake koji).
+it is produced by adding water to raw materials,grain powder such as rice and wheat,and stiffening them by kneading and spores of rhizopus or mucon existing naturally adhere to and grow on it.
+yeast
+although it is not the main raw material,it is noted here because it is an important factor for sake brewing.
+for more information,refer to "sake yeast."
+from the biological point of view,yeast is a monocellular organism that belongs to fungi.
+in sake brewing,it usually means budding yeast.
+in the natural world,there exist over several hundred thousand types of such yeast,and each has its own quality.
+the diverse qualities of yeast is an important key to determine taste,flavor,and quality of sake.
+among the large number of yeasts,yeasts used for sake brewing are called sake yeast and more than eighty percent of the varieties are saccharomyces cerevisiae(budding yeast).
+prior to the modern era,in the process of mixing koji and water,yeasts naturally existing in the air were taken into or "yeast of the house" or "yeast of a brewing house" were utilized.
+it was left to chance,scientific reproducibility was lacking and the quality of brewed sake could not be stabilized.
+during the meiji period,through the introduction of microbiology,selection and breeding of useful seed bacteria and thanks to distribution of such seed bacteria,the stabilization of and improvement in quality could be realized.
+after the first zenkoku shinshu kanpyokai(national new sake appraising and deliberating fair)was held in 1911,the brewing society of japan commenced to collect useful yeasts nationwide and the yeasts judged objectively to be excellent,for example,by winning the first prize were collected and distributed after cultivating a pure culture.
+yeast delivered in such a way was named "sake yeast kyokai no.n" ("n" stands for a number.)after nihon jozo kyokai(the brewing society of japan).
+such yeasts are called kyokai-line yeast or kyokai yeast.
+it is divided roughly into bubbling yeasts that produce carbon dioxide during alcoholic fermentation and non-bubbling yeasts.
+originally,sake had only the simple fragrance that rice has and does not have a fruity fragrance like wine.
+sake yeast kyokai no.7 and sake yeast kyokai no.9.among kyokai-line yeasts played a big role in giving birth to ginjoshu(high-quality sake brewed at low temperatures from rice grains milled to sixty percent weight or less)and junmai ginjoshu that has a fragrance.
+in the 1980's,once ginjoshu was widely accepted by consumers,a large number of yeasts that produce a strong fragrance such as low-acidity yeast,high ester producing yeast,and high malic acid producing high acidity yeast were made in addition to kyokai-line yeasts.
+even today,various yeasts are created by large manufacturers,biological research institutes,and universities.
+in and after 1990's,sake yeasts named after the place of development,such as shizuoka yeast,yamagata yeast,akita yeast and fukushima yeast came to be highly valued.
+recently,attention is focused on the fact that yeasts that produce high content of ethyl caproate represented by alps yeast as well as yeasts from flowers that were separated by tokyo university of agriculture from flowers of dianthus,begonia and climbing rose extract strong ginjoko(fragrance of ginjo sake).
+ginjoko with respect to sake,however,similar to the fact that if one applies too much perfume,it gives the opposite effect of what was expected,may spoil the taste of the sake if flavor of ginjoshu is too much.
+therefore,under certain situations,yeasts that give too strong of a ginjo fragrance to sake are kept at a distance by breweries.
+with respect to such yeasts,we can say that their use is still in the groping stage,for example blending with other yeasts or limiting its use for sake to be exhibited in kanpyokai(sake exhibition).
+lactic acid bacteria
+although natural lactic acid bacteria are used in certain cases,it is often added.
+same as with yeasts,there are "lactic acid bacteria for brewing" by the brewing society of japan.
+lactic acid produced by lactic acid bacteria plays an important role especially at the initial stage of preparation to prevent propagation of other bacteria.
+acids including lactic acid gives "koshi" to sake.
+if sake includes no acid whatsoever,it becomes just sweet water including alcohol.
+in sake brewing,it is important to appropriately produce acids.
+other
+items which are classified officially as auxiliary materials
+(items to be denoted on the label)
+distilled alcohol
+it is added to moromi(raw unseishu)to give an elegant taste to sake or to cause the fragrance to remain.
+in certain cases,distilled alcohol is added just to increase the volume(three-time increased sake).
+sake added with distilled alcohol is called arutenshu(literally,sake added with alcohol).
+sugar
+sugar adds sweetness to sake.
+in certain cases,sugar is added as a saccharified solution and fermented.
+amino acid
+amino acid adds umami to sake.
+flavoring
+flavoring adds umami to sake.
+sour agent
+sour agent adds sour taste to sake.
+(items not denoted on the label)
+exogenous enzyme
+in certain cases,exogenous enzyme is used to supplement the "enzyme" produced by aspergillus.
+if the weight is less than one thousandth of that of raw materials,it is not treated as a raw material.
+activated charcoal
+it is used to remove zatsumi(unfavorable taste in sake).
+if too much activated charcoal is used,the taste of sake becomes thin.
+fining agent
+filter aid
+manufacturing method for sake
+sake is classified as a brewage same as beer and wine and alcohol is obtained by fermenting raw materials.
+different from wine,however,in the case of beer and sake,as no sugar is included in the raw materials,but the process of saccharification is necessary.
+although in the case of beer,sweet wort is fermented after it is completely saccharified,this is a significant feature of sake brewing that a process in which saccharification and fermentation are carried out in parallelism,exists.
+this unique brewing method for sake,called parallel multi-stage fermentation,is the factor that makes it possible for it to have a higher alcohol content than other brewages.
+sake is brewed through the following stages during the process.
+rice polishing
+bran and embryo are removed and albumen is scraped.
+the ratio of scraping is denoted as the rice-polishing ratio.
+protein and oil contained in rice exists mainly in the outer portion of the grain of rice.
+in the brewing process,as protein and oil cause zatsumi,they are scraped off carefully so that the grains of rice are not fractured in order to produce a sophisticated taste.
+on the other hand,the higher the rice-polishing ratio,the more difficult to use most of characteristics of the varieties of rice and the more minerals and vitamins,which promote fermentation,are lost,a highly sophisticated technique is required for subsequent stages.
+if the speed of rice polishing is too high,rice generates heat and degenerates or becomes fractured and becomes unusable,it should be carried out carefully.
+with respect to ginjo and daiginjo,the problem is that not only the portion to be scraped off is large,but also the object becomes smaller and requires special attention,the time needed for rice polishing sometimes exceeds two full days.
+since around 1930,thanks to emergence of an upright rice polisher,faster high grade rice polishing became possible.
+later,this also made mass production of ginjoshu possible.(refer to "birth of ginjoshu.")
+recently,there are large manufacturers who polish rice by controlling the upright rice polisher with a computer.
+horei(letting stand to cool)or karashi
+"horei" (sanding to cool)or "karashi" means to leave white rice after polishing,sake mash after wake and koji after koji delivery as they are until using in the next stage.
+polished rice carries certain a degree of heat caused by friction.
+the higher the rice-polishing ratio is or the longer the time of rice-polishing is,the bigger the heat volume will be.
+as the quality of rice is not stabilized as it is to proceed to the next stage(according to the language of toji and other workers in the brewery "the rice is not settled."),it is put into bags and left in the warehouse for a while to cool down.
+moisture evaporated by heat caused by friction is restored.
+such a step is called "horei" or,in the language of toji and other workers in brewery "karashi."
+even if we say "for a while," this work cannot be completed within several hours,it takes usually three to four weeks until heat caused by friction is totally radiated and the rice settles down.
+rice washing
+with respect to the polished rice,bran and rice powder adhering to the surface in the rice polishing process are thoroughly removed.
+this is called rice washing.
+rice for producing futsushu is washed in large quantity at a time using machines.
+on the other hand,rice used for producing high-class sake is manually washed in a quantity of approximately ten kilograms using cold water with a temperature of around five degrees centigrade utilizing water pressure of flowing water.
+even while washing rice,rice begins to absorb moisture and this step requires utmost attention as seen from the fact that it is called the "second rice washing stage."
+rice washed in such way is sent to a soaking process.
+soaking
+washed rice is soaked in water and made to absorb moisture.
+this step is called soaking(in japanese, "shinseki" or "shinsi").
+soaking is a step used to make moisture penetrate throughout the whole rice grain so that steamed rice should not have any unevenness.
+when water has penetrated from the outside of a rice grain into the central structure of sakamai(rice for brewing sake)where starch content is high(according to the language of toji and other workers in brewery "mentama" (literally, "eyeball"),the rice grain become literally transparent.
+the time required for soaking differs subtly depending on various conditions such as the method of rice polishing,as well as weather,air temperature,humidity and water temperature of the day.
+it is manual work that is carried out in the coldest part of the year.
+the taste of produced sake remarkably differs depending upon to what degree rice has absorbed water.
+the time used for soaking widely ranges from several minutes to several hours depending upon the variety of rice and the targeted quality of sake.
+the higher the rice-polishing ratio is,the more the difference influences the results,the soaking time is controlled very strictly on the second time scale using a stop watch especially in the case of high-class sake.
+as rice continues absorbing water even after having been removed from the water,the soaking time is determined taking such time into consideration.
+depending upon the concept for quality of produced sake,rice is made to absorb water for a limited time by intentionally taking it out of the water.
+such way is called "gentei kyusui" (literally,limited water absorption).
+steaming
+after soaking,rice is spread to maintain humidity.
+even during this time,rice continues absorbing moisture.
+after that,rice is steamed so that the rice starch will be easily decomposed by the koji enzyme.
+this step is officially called "jokyo" ("kyo" is composed of a left radical "食" (eating or food)and a right radical "強" (strong),or "mushi" (steaming)by the language of toji.
+for futsushu,rice is steamed with a machine called an automatic rice steamer.
+for high-class sake,rice is put into a large-sized steamer called "koshiki" that is placed on a japanese-style pot and steamed with dry steam for approximately one hour.
+steamed rice is judged good if it is "gaiko nainan" (literally,hard outside and soft inside),in other words,the outside is dried out and the inside soft.
+the reasons are;if the outside is melted,there is a risk of decomposition before koji aspergillus settles down and,if the inside of rice is half-cooked,the part where the best quality starch is included may not be saccharized and fermented.
+the action to remove the koshiki from the pot is called "koshikidaoshi" (literally,toppling down koshiki).
+it means not only completion of steaming,but also,for toji and other workers in the brewery,the end of the season for sake brewing,during which they are not allowed to relax their attention,has come to the end and the arrival of the day when they can give themselves a break.
+koji production
+koji is produced by sprinkling koji mold spores,namely aspergillus onto steamed rice to breed them and it works to carry out the conversion of the starch in rice into glucose,namely carries out saccharification.(for more information,refer to "koji.")
+officially,the step koji production is called "seigiku" in the japanese language.
+other than sake in the initial stage in which sake was brewed as kuchikami-no-sake(sake by mouth-chewing)and kabi-no-sake(literally,sake from mold),sake brewing using koji was established by the beginning of the nara period.
+for a long time since,until the muromachi period,koji production was operated by specialists who were independent from sake traders because of its importance for the process of sake brewing and the supply and demand for other foodstuffs such as miso and soy sauce.
+because of the bunan koji disturbance in 1444,koji production was forced to merge by military force as a part of sake trading(refer to "history of sake-muromachi period).
+in most sake breweries,there is a special room called "kojimuro" (literally,chamber for koji)where koji production is carried out.
+the temperature is kept at around thirty degrees centigrade and the humidity not higher than sixty percent by means of floor panel heating or air conditioning.
+the high temperature is necessary for yellow koji aspergillus to be cultivated.
+with respect to humidity,the reason is because,if the humidity is higher,mold other than yellow koji aspergillus as well as other bacteria,may propagate.
+to enter the room,whole body sterilization is required and none other than people concerned are allowed to enter the room.
+in addition,to prevent sundry bacteria to enter from the outside of the room,the room is made carefully by investing a certain amount of capital for double doors,sealable windows,adiabatic walls,etc.
+often,it is said "kojimuro is a precious property of brewery."
+as described in details in the section "koji," koji produces proteolytic enzyme and so on,in addition to amylolytic enzyme for saccharification,and they melt rice and determine the quality and taste of sake.
+as the target quality of sake cannot be obtained if too much enzyme is produced,it is necessary to produce koji in such a way that the degree of melting rice stops at the appropriate point.
+hazekomi conditions
+in order to judge it,haze,that occurs in several positions on rice,is focused on.
+the action of yeast elongating bacterial threads into steamed rice like a plant elongates its roots into the ground is called hazekomi and the conditions of hazekomi is called hazekomi conditions.
+koji is classified as follows by hazekomi conditions.:
+tsukihaze type
+the condition in which bacterial threads of yeast do not cover the whole surface of steamed rice and the portions with haze and other portions are clearly separated and bacterial threads are elongated intruding firmly and deeply into the inside of steamed rice
+koji with ideal conditions having strong power for saccharification and appropriate protelolytic ability is obtained gives clear and smooth,elegant sake quality,it is used for ginjoshu as a general tendency.
+sohaze type
+the condition in which bacterial threads of yeast cover the whole surface of steamed rice and bacterial threads have intruded inside.
+it has a powerful strength for saccharification and proteolytic ability and,depending on the quantity of used koji,it tends to result in sake with various tastes obtained.
+as produced sake has deep flavor and tasteful quality,it is preferred for producing junmaishu(sake made without added alcohol or sugar)
+nurihaze type
+the condition in which bacterial threads of yeast cover the whole surface of steamed rice,but bacterial threads have not intruded deep inside
+both the power for saccharification and proteolytic ability are weak and its ratio of lees is high and it tends to result in weak sake.
+bakahaze type
+condition in which koji is in a mushy state as the steamed rice is too soft and bacterial threads intrude too much into both the surface and the inside because of an error in adjustment during the preceding step when steaming rice.
+under such conditions,there is a risk that koji has been contaminated by various bacteria.
+generally speaking,it cannot be used for sake brewing.
+among toji and other workers in a brewery,it is said "first,koji.second,moto(sake mash),and third,tsukuri" (preparation).
+in sake brewing,great importance is attached to koji as the basis for sake brewing as certain toji and other workers in a brewery who say "if we can obtain good koji,sake is seventy percent made."
+as a guide,a space of approximately 3.3 square meters is needed for 30 kg of steamed rice and,for daiginjoshu or junmai daiginjoshu,approximately 5 g of yellow aspergillus is sprinkled on 100 kg of steamed rice.
+depending on the target sake quality,a method for producing koji is chosen from the following:
+futa koji method
+futa koji method is a method used mainly for ginjoshu or higher quality.
+time needed to produce koji is not shorter than two days,approximately fifty hours and the process is carried out in the following order:
+"tanekiri" -in this process,steamed rice,which is as warm as approximately thirty-five degrees centigrade is spread and seed koji,namely powder-like yellow aspergillus is sprinkled using a sieve.
+after sprinkling,rice is gathered in the center forming a big bun-like shape and wrap with a cloth.
+"kirikaeshi" -after eight to nine hours has elapsed from "tanekiri," the rice has become hard because moisture has evaporated from heat generated by the breeding yellow aspergillus.
+rice is spread once to diffuse the heat and,then,it is gathered in the form of a big bun and wrapped again.
+"mori" (literally, "filling")-from around the next day,yellow aspergillus become active and the rise of the temperature of rice is remarkable.
+then,the big bun is loosened and rice is put into small boxes in small quantity and such boxes are stacked in predetermined space and controlled.
+this small box is called "kojibuta" and since rice fills the kojibuta,this process is called "mori(literally, "filling")."
+in the case of non-ginjo sake,kojibuta is not used in may cases.
+"tsumikae" (literally, "re-stacking")-in three to four hours after mori,heat is accumulated in rice again and the order of stacking of kojibuta is changed to lower the temperature.
+"nakashigoto" (literally, "intermediate work")-in order to disperse heat again,rice is spread and its temperature is lowered.
+"shimaishigoto"(literally, "final work")-in order to further disperse heat,rice is spread and its temperature is lowered.
+this process is called shimaishigoto meaning that it is the final work to disperse heat of rice,but,in fact,it is not final.
+"saiko tsumikae" -even after shimaishigoto the temperature of rice continues to increase.
+when the temperature reaches its maximum,the order of stacking kojibuta is changed for final temperature adjustment.
+as it is carried out when the temperature reaches the maximum("saiko" in japanese),it is called saiko tsumikae.
+even after this,work to lower the temperature by appropriately changing the order of stacking is continued in order to check the temperature of the rice several times.
+"dekoji" (literally, "taking out koji")-after around fifty hours have elapsed,a fragrant flavor like that of roasted chestnuts comes out.
+this is the sign of completion of koji manufacturing.
+such condition is reached,koji is removed from kojimuro.
+the hako koji method
+hako koji method is a technique in which the procedures of "3.mori" and after that in futa koji method are simplified and it is used for sake quality centering on futsushu.
+rice is separated into small lots using kojibako,that is bigger than kojibuta,and amount of rice that can be processed at a time increases because the kojibako is bigger,resulting in decrease in required labor and lowering of costs.
+toko koji method
+the toko koji method is a method where no kojibuta or kojibako is used,but heat of rice is dispersed on kojidoko(a board on which yellow aspergillus is sprinkled onto rice).
+it is used for sake quality centering on futsushu.
+kikai seigikuho(method of producing koji with machine)
+kikai seigikuho is a method to produce koji in a large lot using machines.
+it requires less labor enabling to keep manufacturing cost at a low level,but,as there are certain limits for producing quality sake,it is understood as not suitable for high-class sake.
+it is used for sake quality centering on futsushu.
+sake mash-making
+this is a process for increasing sake yeast.
+according to the language of toji and other workers in a brewery it is also called "motodate."
+although yeast has the function to change glucose into alcohol(namely,the action of fermentation),in order to make rice ferment in such large amounts that are handled in a brewery,one or two yeasts,that are microorganisms,are quite insufficient and yeasts in the order of several tens or hundreds of billions are required corresponding to the amount of rice.
+in reality,however,the number of yeasts is not calculated one by one,but as a unit called "cell."
+under the circumstances,breweries are obliged to breed a small quantity of kyokai sake yeast in a large amount under specific environmental conditions.
+yeasts bred in such large quantities are called sake mash(in japanese, "shubo" or "moto").
+the work begins with a process to put koji and cold water into a tub or a tank,which is called motooke,about one meter high and mixing them well.
+then,interim product called mizukoji(literally,water-like koji)is obtained.
+recently,motooke made of high-quality stainless steel is mainly used and,although it looks like a "tank, "it is called "motooke" as a piece of equipment used for sake brewing.
+brewing lactic acid and a small quantity of adopted yeast are added to mizukoji.
+usually,only one type of yeast,which is considered best suiting the sake quality targeted by the sake manufacturer,is chosen from various sake yeasts.
+in a such case as the yeast chosen has overly unique characteristics,however,it is often blended with another type of yeast to dilute it.
+by adding steamed rice to the above-mentioned interim product,the preparation of sake mash-making is complete.
+depending upon the production method,it is left for a period from two weeks to one month as it is and a large quantity of yeast is bred in the tub used for the preparation and the production of sake mash,or moto is completed.
+places used for sake mash-making are called shuboshitsu(literally,chamber of sake mash)or motoba(literally,place of sake mash)and the room temperature is kept around five degrees celsius so that no undesirable bacteria or natural yeast will enter.
+compared to kojimuro,however,as strict control is not required,certain breweries allow visitors to enter.
+in shuboshitsu,a unique sound produced by the yeast is heard.
+during sake mash-making,as the cover of the tank is left open,a lot of undesirable bacteria or natural yeast in the air easily enter into the tank.
+therefore,it becomes necessary to kill or get rid of undesirable bacteria or natural yeast by adding nitrate reducing bacteria or lactobacillus in order to produce lactic acid.
+depending upon the way of adding lactic acid,sake mash-making is classified into two methods,the kimoto-kei(kimoto system)and the sokujo-kei(sokujo system).
+kimoto-kei(kimoto system)
+at present,sake mash-making of the kimoto-kei is classified into two methods,kimoto and yamahaimoto.
+kimoto
+kimoto is the oldest method among those used today and it takes lactobacillus from the air and allows it to produce lactic acid to get rid of undesirable bacteria and natural yeast.
+it takes approximately one month until sake mash is obtained.
+the reasons for the long period required for this process are the many steps requiring much labor and fermentation which is carried out completely.
+even today,there is a tendency to hesitate to use this method because the amount of time and labor required.
+however,the number of breweries that pursue the revival of tradition has been increasing because reliable sake quality is obtained when they succeed.
+the main steps of this process are as follows:
+rice,koji,and water are put into a tub(tank).->yamaoroshi->temperature control->adding yeast->temperature control->sake mash-making completed
+however,as the risk of putrefaction or acidification is large,the national research institute of brewing(presently the national research institute of brewing-nrib)developed yamahaimoto in 1909.
+refer to the next section.
+yamahaimoto
+yamahaimoto is an abbreviation of yamaororoshi-haishi-moto that means a method of preparation that belongs to the kimoto-kei.
+sake which is brewed with this method is called yamahai-shikomi(or-jikomi)or simply yamahai.
+roughly speaking,it is a process in which the step of yamaoroshi is excluded from the kimotozukuri.
+however,it is not just the exclusion of yamaoroshi,but also there are other differences in many minor respects.
+"yamaoroshi" means working to mix rice,koji and water using an oar-like tool and it is also called "motosuri."
+for more information,refer to "yamahaishikomi" and "the relationship between kimoto,yamahai,and sokujomoto."
+sokujo-kei
+sokujo-kei is a modern method of adding lactic acid artificially in advance.
+it was devised in 1910.
+it is carried out by adding brewing lactic acid to water for preparation and,after mixing well,kakemai and koji are added.
+it is also called sokujomoto.
+the time required is approximately two weeks.
+most sake produced today is sokujo-kei.
+the process is as follows:
+rice,koji,water and lactic acid are mixed.->adding yeast->temperature control->sake mash-making completed.
+moromi(raw unrefined sake)zukuri(production of moromi)
+moromi is a white-colored turbid bubbling thick liquid composed of perfectly blended sake mash,koji and steamed rice in a tank used for preparation.
+as a supplement not academic or professional,but for helping the general understanding,limited to the context related to the production method for sake, "moromi," "shikomi" and "tsukuri" are often used meaning the same.
+therefore, "moromizukuri" is also called simply "tsukuri."
+when we say "first 'koji,' second 'moto,' and third 'tsukuri', " "tsukuri" is used for this meaning.
+on the other hand,the place for conducing tsukuri is called shikomiba(place for preparation).
+in most shikomiba today,tanks for three-stage preparation equipped with a temperature sensor,stand one after another.
+in the process of moromi zukuri,moromi produces alcohol from the action of yeast and,at the same time,starch is changed into sugar by koji.
+this simultaneous change is called parallel multiple fermentation which is unique to sake brewing.
+in preparation,steamed rice and koji are added in three steps.
+this is dan-jikomi(stage-wise preparation)or sandan-jikomi(three-stage preparation)which is described in records from the muromachi period, "goshu no nikki(diary of sake)."
+with this method,as fermentation is carried out without spoiling the activity of the yeast,alcohol exceeding a concentration of over twenty percent is produced near the end of moromi making.
+this is exceptionally high alcohol concentration for brewing and is a unique method used only for sake that we can call of a technical heritage which we can be proud of.
+the first stage is called "hatsuzoe" (literally, "first adding")(abbreviated as "soe").
+the second stage,after one day interval called odori(literally, "dancing"),is called nakazoe(literally, "intermediate adding")(abbreviated as "naka").
+the third stage is called "tomezoe" (literally, "stopping adding")(abbreviated as "tome").
+fermentation is carried out over twenty to thirty days.
+ways of producing ginjo system(ginjoshu,junmai ginjoshu,daiginjoshu and junmai daiginjoshu)and non-ginjo system(other than above-mentioned)sake differ in the following two points in this stage.
+rice-polishing ratio
+rice polishing is conducted to remove protein contained in rice.
+since protein plays an important role in the composition of an organism,moromi produced from kojimai and kakemai with a high rice-polishing ratio is not a good environment for yeast to live.
+therefore,in order to survive under such an environment,yeast generates,by itself,organic acids such as amino acid,citric acid and malic acid.
+among such organic acids,volatile ones compose unique ginjoko.
+the more the rice is scraped,the more ginjoko yeast is produced,resulting from its agony.
+temperature control
+heat is radiated both when yeast obtains energy from glucose sugar and when yeast creates,by itself,an environment suitable for its survival.
+such heat influences chemical ingredients in moromi,in particular organic acids and generates ingredients that cause zatsumi.
+on the other hand,since the main components of an organism are protein,a temperature around thirty-five degrees centigrade,which is below the coagulation temperature of protein,is suitable for most activities.
+in order to suppress the generation of zatsumi,the temperature must be kept below thirty-five degrees centigrade even with release of fermentation heat.
+therefore,sake brewing has been carried out during the cold season in winter.
+while the heat is suppressed around fifteen degrees centigrade for usual tsukuri,it is said that around ten degrees centigrade is the target for the ginjo system in which influence on organic acids must be taken into consideration.
+jobo(conditions and appearance)of foam
+since times when no thermometer or sensor existed,toji and other workers in the brewery observed the condition of the foam on the surface of moromi and,by classifying several stages,they were able to grasp the progress of fermentation taking place inside.
+the condition of forming on the surface of moromi is called jobo(of foam)and is shown as follows:
+sujiawa(stripe-like foam):foam generated in two to three days after tomezoe of dan-jikomi that looks like stripes showing the start of fermentation inside moromi.
+mizuawa(literally,watery foam):after two days approx.from sujiawa
+white foam that looks like foam ejected from a crab's mouth.
+sugar content in moromi is at its peak.
+iwaawa:two more days after mizuawa
+foam forming the rock-like shape
+since heat is released in line with progress of fermentation,the temperature rise is most significant during this stage.
+takaawa:two more days after iwaawa
+one week to ten days in total after tomezoe of dan-jikomi
+whole iwaawa rises.
+as a chemical process,it is the situation in which fermentation is catching up to saccharification.
+discrimination between bubbling yeast and non-bubbling yeast is often made whether or not takaawa is formed.
+ochiawa:after around twelve days from tomezoe
+the rising of foam settles down.
+as a chemical process,it is a situation whereby fermentation has caught up saccharification.
+tamaawa:after two more days and after approximately two weeks in total from tomezoe
+in more detail,it is classified into large tamaawa->middle tamaawa->small tamaawa.
+foam forms the shape of a ball and become smaller and smaller.
+the smaller the foam is,the more the fermentation has settled down.
+ji:after five more days,or close to three weeks after tomezoe
+tamaawa becomes the smallest and,then,disappears.
+it shows that fermentation is close to its end.
+it is left to toji's discretion as to which stages it should be judged that whole process of "moromi production" is completed
+for certain types of sake quality targeted,it is better to leave moromi as it is for several days more and,especially for sake in the ginjo system,it is preferable to maintain such conditions further.
+in recent years,a number of non-bubbling yeasts have been developed
+even today,however,during sake brewing using bubbling yeast,the above-described process of appearance can be seen in the tank.
+adding alcohol
+within the period from approximately two days before joso(a stage to squeeze sake out of moromi)to two hours before,distilled alcohol diluted to approximately thirty percent is added slowly and carefully.
+from the impression of the term "adding alcohol" or "aruten" in short form,it gives often an impression that certain impurity is added industrially(refer to "oishinbo" in this article.),but it is a traditional process that goes back to hashira-shochu during the edo period.
+it has the following purposes.
+effect of preservation from putrefaction:hashira-shochu during the edo period,the origin of the process of adding alcohol at present,was a technique of adding shochu to sake to keep sake from putrefaction.
+in the past,the most important purpose of the process to add alcohol was preservation from putrefaction.
+today,because of progress in sanitation technique,process of adding alcohol is no longer necessary for preservation.
+adjustment of flavor:this is the first reason for adding alcohol today.
+the appropriate addition of alcohol draws out fragrance that lurks in unprocessed sake obtained for moromi..
+in particular,many ingredients used for fragrance in sake in the ginjo system are insoluble in water and addition of alcohol is necessary for dissolving them.
+ginjoshu itself is a type of sake that has been developed on the premise of adding alcohol.(refer to "nihonshu no rekishi-ginjoshu no tanjo" -literally, "history of sake-birth of ginjoshu".)
+at present,majority of sake breweries producing ginjoshu consider that it is fundamental to add alcohol.
+lightening the taste:this is the second purpose for adding alcohol today.:
+moromi contains a lot of sugars and acids generated in the process of fermentation and,it they are left as they are,the final sake has a heavy taste,if we speak favorably of it,or dull taste if we speak unfavorably of it.
+if alcohol is added at this stage,the flavor can be adjusted.
+in particular,junmaishu leaves a sour taste more or less after drinking it because of its nature.
+the sour taste is suppressed by adding alcohol and the taste becomes more mellow.
+with the eating habits of today,umami,fat and oil are used very much and,therefore,a light taste is required for drinks.
+therefore,the addition of alcohol is used to improve taste of sake.
+increasing volume:in the age where sanbai zojo seishu(literally,three-time increased sake)was in full flower,alcohol adding was carried out often in order to increase the amount of sake.
+by way of excuse,some say that the reason why the process of "aruten" presents a generally negative image is mainly because of the negative legacy from the past age.
+on the other hand,some say that "aruten" increases the unfavorable smell of sake.
+in some cases, "adjustment of the fragrance" and "lightening of the taste" are just stated reasons and the true purpose is to "increase the amount."
+as it gives a negative impression to say that the purpose is to increase the amount of sake,they keep it quiet.
+joso(process of squeezing sake)
+joso is a process to squeeze namazake(raw sake)out of moromi.
+when the toji judges that moromi has "matured, "alcohol and auxiliary materials are added to it.
+such moromi is squeezed to separate the solids such as polished rice and malted rice,and liquid which becomes namazake.
+in the language of toji and other workers in the brewery,it is also called "shibori" or "agefune."
+the solids are transformed into sakekasu(sake lees).
+the ratio of sakekasu to polished rice as raw material is called kasubuai(literally,ratio of sake lees).
+the place where joso is conducted is called "josoba" and futsushu,honjozoshu and junmaishu are squeezed out using a moromi automatic squeezer or centrifuge separator.
+sake,where special care is required,such as ginjoshu,is squeezed using traditional methods such as funeshibori,yabutashibori and fukurozuri.
+it is not only to create the atmosphere of handmade products.
+as ginjoshu moromi contains more undissolved rice than moromi for other types of sake,sakekasu clogs the machine.
+the opening from which sake that has been squeezed comes out is called funakuchi.
+in breweries,when joso of the first sake of the year is conducted,a sugitama(a large ornamental ball made with cedar leaves)or sakabayashi is hung in the space under the eaves to announce that new sake has been produced.
+the sugitama,when newly hung,looks fresh and green,but its color changes to brown as it runs dry.
+such change in color of the sugitama plays a role of a sign to signal the status of storage and maturing of new sake in the brewery.
+orisage
+orisage means to wait in order to remove turbidness of the sake that just came out from the process of joso.
+sake just squeezed out from the funakuchi often still contains carbon dioxide gas and it has a turbid golden color in which yeast,particles of starch,protein,polysaccharide and so on are suspended.
+ingredients causing such turbidness are called ori and sake is left in the tank as it is for a while in order to let them precipitate.
+effects of orisage is not only to remove turbidness,but also to remove excess protein to prevent turbidness because of denaturation of protein caused by the change in temperature and aging after bottling.
+it also lessens the load of the filtration in the following process.
+the clear upper portion after orisage is called "namashu."
+as "namashu" is a different concept from "namazake," we have to be careful in this regard.
+excluding cases where completed sake should be prepared as "namazake" or "murokashu" (literally, "non-filtered sake"),orisage is conducted usually twice between joso and shipments for most of the usual types of sake.
+even after the first orisage,usually,namashu still contains lees such as yeast and particles of starch.
+therefore,it also contains zatsumi and the process of filtration becomes necessary to filter them out.
+in recent years,in line with the tendency of the orientation for "nama" (raw)by consumers,some breweries deliver sake as unfiltered raw unprocessed sake without conducting process from orisage and thereafter.
+filtration
+filtration means to remove minute lees still remaining in namashu after orisage and zatsumi.
+also,one purpose is to change the color from golden color to colorless transparent status as much as possible.
+there are many cases where sake is shipped out as murokashu omitting this process intentionally.
+filtration with active charcoal:filtration conducted by introducing powdered active charcoal is called filtration with carbon or filtration with active charcoal.
+powdered active charcoal is called simply "sumi" (charcoal)in the brewery.
+basically,it is same as charcoal contained in deodorizers for home-use refrigerators or black powder in cigarette filters.
+as a guide,one kilogram of charcoal is thrown in for one kiloliter of namashu and the charcoal adsorbs the impurities,color,and precipitate.
+after that,charcoal is removed together with the impurities.
+although we say "throw" in active charcoal,it is not just thrown in and the difficult part of this process is to remove only those impurities and colors that should be removed.
+if we put in too much active charcoal,the sake becomes clear,but the taste,color and fragrance are lost and the sake produced will have no character.
+in reality,the higher the class of sake,the smaller the amount of charcoal used and,for choice sake for which stable consumers exist,it is only around 0.06 kg..
+thus,as the amount of charcoal is very critical,a large number of specialists only for this process called sumiya(literally,specialist for charcoal)existed in places where jizake(local sake)is brewed
+however,filtration with active charcoal itself is now a technique of the past,and recently the amount of active charcoal used,the frequency with which it is used,and the number of charcoal specialists(known as sumiya)have been on the decline.
+in addition,as sake is often filtered using other methods after it has been filtered using active charcoal,the "use of active charcoal" and "filtration" are processes that are on totally different levels.
+filtration with diatomaceous earth:this process carries out filtration using a layer of diatomaceous earth to remove impurities and,if it is carried out after filtration with active charcoal,the active charcoal itself.
+diatomaceous earth is composed of porous fossil remains of diatoms and it removes substances that cause coloring,zatsumi and fragrance to a certain degree.
+progress made in this filtration technique is one of reasons for the decrease in the use of active charcoal.
+filtration with filter paper:in certain cases,filter paper is used for filtration.
+filtration with a filter:recently,it has become significantly popular.
+method using a cartridge type filter.
+cartridge type filters can be replaced and,therefore,are simple and convenient.
+in particular for sake to be shipped out as namazake(raw sake),because hiire(pasteurization)as a measure against hiochi bacteria is not done,filtration for removing bacteria with high precision(in the order of 0.22 to 0.65 μ)is carried out with this method.
+most sake just came out from funakuchi has beautiful golden color like ears of rice in autumn.
+in certain periods in the past,points were deducted for sake that has color in zenkoku shinshu kanpyokai(national new sake appraising and deliberating fair).
+as a matter of course,most breweries removed color by filtration with active charcoal and delivered sake which is clear and colorless like water.
+we can say that clear and colorless tone which is associated generally with the word "seishu" (literally,clear sake)is a reminder of such an age.
+at present,apart from zatsumi and unfavorable smell,it is not necessary to remove color,sake that is distributed without removing color has been revived and the number of consumers who like the naiveness of sake with natural color has been increasing.
+under such situations,it is worth taking notice about the future of sake filtration.
+hiire
+hiire means to heat brewed sake for the purpose of pasteurization.
+it is also called "hiate."
+in sake before hiire,yeast is still alive and acting.
+enzymes generated by koji also maintains its activity and,therefore,sake quality tends to change.
+also,hiochikin,which is a kind of lactic acid bacterium,might be included.
+if hiochi bacteria are left as they are,sake will become clouded(hiochi).
+therefore,hiire is conducted to sterilize or make lose active yeast,enzyme,and hiochi bacteria and to stabilize sake quality.
+through this processing,it becomes possible to store sake for a long period at a natural temperature.
+if heating is conducted excessively,however,alcohol and volatile ingredients that give fragrance are evaporated and sake quality is spoiled.
+therefore,this process is also difficult.
+currently,this process is usually carried out with temperature sixty-two to sixty-eight degrees centigrade.
+the hiire technique was already described in "goshu no nikki" (literally, "diary of sake"),which is the technical guidebook for sake brewing written during the muromachi period and we can know that this technique was used since the medieval times in the area centering on the kinai region(provinces surrounding kyoto and nara).
+this means that,even 500 years before discovery of the pasteurizing temperature in 1862 by louis pasteur,who is called the father of bacteriology in the west,it was generally conducted in sake brewing in japan.
+atkinson,who was a british and came to japan in the early part of the meiji period,visited sake breweries in various places in 1881 and observed the practice in which temperature control was conducted very accurately without using thermometer telling that the condition in which "the character "の" can just be written on the surface of sake" shows the appropriate temperature(approximately 130 degrees centigrade or 55 degrees fahrenheit)and he recorded this fact showing his astonishment.
+relation between hiire and "namazake"
+sake which does not undergo hiire is popular as "namazake" or "non-filtered raw unprocessed sake."
+sake belonging to such "nama" (literally,raw)group really gives a fresh feeling and its fragrance is also felt to be young and glamorous and remaining slight sparkling feeling goes down smoothly giving sake certain value as a commodity.
+however,almost all of following images that are generally common are wrong.
+as namazake has not undergone hiire,freshness is preserved accordingly.
+hiire is a process that cause sake to lose it's youth.
+namazake gives the taste of new sake which has been just squeezed and can be enjoyed in the brewery.
+if hiire is not conducted,sake deteriorates very quickly,and soon generates namahineka.
+in many catering establishments where correct preservation control is not conducted,deteriorated sake is often served at low temperature around five degrees centigrade so that deterioration is not noticed because of coldness.
+therefore,some say that hiire is a process to keep the freshness of sake for a long time.
+the taste of sake which belongs to "nama" group is somehow harsh and lacks umami and profoundness which sake that undergoes storage and maturing gives.
+therefore,roughly speaking,hard-core regular drinkers tend to prefer generally sake that has undergone the hiire process.
+in many cases,however,as "namazake" which is not stored under proper control is consumed,sake undergoes hiire for easier preferred storage control.
+it is true that sake loses delicacy from the hiire process and we should not forget that sake that has not undergone hiire,as long as it is properly stored,has a flavor that sake that has undergone hiire cannot have.
+in japan where "nama" (raw or fresh)represented by sashimi is favored,freshness is especially favored.
+the sake industry in japan tends to be influenced by the beer industry which increased their turnover with "nama" (not pasteurized)and "karakuchi"(dry).
+because of such factors,with respect to sake also,the number of products described as "nama" has been increasing since the 1980s.
+many sake commentators speak of the "namazake boom" and there is a knowledgeable person who brought up the difficulties in concrete form with regard to the recent stagnation in sake consumption.
+labeling problems with respect to "namazake"
+excluding the cases where sake is produced as namachozoshu(literally,raw-stored sake)or namazumeshu(literally,raw bottled sake),for most of common sake,hiire has been carried out twice between joso and the shipment.
+the first hiire is carried out before storage for maturing and the second hiire immediately before bottling for shipment.
+the first hiire makes ingredients settle down and determines how mature the sake is during storage.
+this can be charted for easy reference as follows:
+joso->first orisage->first filtration->first hiire->storage and maturing->second orisage->second filtration->warimizu(literally,dilution with water)->second hiire->bottling->shipment
+namachozoshu:no first hiire conducted
+in the language of toji and other workers in breweries, "sakinama" or "namacho"
+namazumeshu:no second hiire conducted
+in languages of toji and other workers in breweries, "atonama"
+namazake:no first and second hiire conducted
+in languages of toji and other workers in breweries, "namanama" or "honnama"
+namashu:the clear upper portion after orisage
+based on the above-described premises,there is an opinion that as namachozoshu or namazumeshu undergoes hiire at least once and literally not "nama," it is not appropriate to include the word "name" in the name.
+also,certain breweries take advantage of consumers' mindset favoring "nama" by printing the character "nama" in namachozoshu or namazumeshu in large size or with eye-catching color on the label adding other characters in small size to create the image of "nama" sake for namachozoshu or namazumeshu.
+there was a knowledgeable person who pointed out that if such tendency goes too far,it constitutes false labeling.
+on the other hand,some ginjoshu and junmaishu are distributed as real namazake,namely "namanama,just labeled as "namazume" (literally,bottled raw).
+in certain eating and drinking establishments in which sake is served such as an izakaya(japanese-style pub),we see rather often that,although they do not sell real namazake,but only namachozoshu or namazumeshu,write "namazake" on their menus or posters.
+for namazake,costs for storage and distribution are high and,therefore,the selling price becomes higher accordingly.
+therefore,if the price equivalent to namachozoshu or namazumeshu is shown on the menu,consumers misunderstand it as "comparatively low in price."
+because such way constitutes a real disguised presentation,consumers can point it out without hesitation.
+storage and maturing
+outline of maturing
+maturing means the course of growth or completion of sake quality that progresses during storage.
+after joso and orisage,some sake is shipped without filtration or hiire as murokashu(non-filtered sake)or namazake.
+other sake,after being processed with such steps,is usually stored for a while in order to draw out umami,mellowness and deep taste.
+ginjo or higher quality sake is often given a maturing period of a half year or more in order to stabilize its fragrance and flavor.
+from the feeling that the indication of shinshu(literally,new sake),koshu(old sake),hizoshu(treasured sake),etc.is not suitable for the status of ginjoshu even in such case an indication is not usually printed on the label.
+even for non-ginjoshu,certain honjozoshu and junmaishu are stored for a long period for the purpose of maturing due to various reasons,such as natural conditions of the place where the brewery is located,features of the local water,and the concept which the toji aimed at.
+mechanism of maturing
+in sake that has not undergone the process of hiire,fermentation has not yet stopped and chojukusayo(literally,maturing adjusting effect),in other words natural adjustment of the flavor by degrading the amino acid and saccharization still continues.
+therefore,for brands for which characteristic taste is finally created by chojukusayo,it is a part of the indispensable process not to ship immediately,but to store until the sake matures.
+generally speaking,for junmaishu which has been totally fermented,maturing progresses slowly and degradation does not easily occur.
+for sake which has not totally fermented,it is said that,it has a lot of the ingredients which have not been degraded to alcohol,change in sake quality is quick and tends to become degraded.
+causes of maturing can be classified roughly into physical factors such as heat and enzymes from the outside and chemical factors which occurs inside,such as nitrogen oxide like amino acids and aldehyde.
+however,with respect to this detailed theory,there are many unsolved questions.
+for example,there are many cases in which storage is conducted in specific places such as in an abandoned mine or tunnel of dead track and the obtained taste is mellower than that of sake stored in other places even if conditions such as temperature and humidity are kept scientifically the same.
+one example is the kurokicho tunnel which is used jointly by sixteen breweries that are members of fukuoka meishukai.
+it has not been clarified what it is in the tunnel that works on favorable maturing.
+problem of expiration date for sake
+as freshness is very important to sake,the same as with milk,it is generally said that,regarding the problems of "namazake," even for sake that has undergone hiire,it is better to drink it as soon as possible after shipment.
+in reality,however,this is mainly the opinion of the breweries.
+most sake commentators who are engaged in writing activities keeping close contact with kuramoto(sake brewers)take such position.
+on the other hand there are many persons on distribution,selling,and on the consumer side who insist that,if not opened,most sake can be matured easily after purchase,in their hand.
+the reason why sake breweries provide a period for maturing before shipment while advising to "drink " as soon as possible," is that they ship sake when the sake quality reaches the optimum taste after a certain time period for storage required for maturing.
+apart from the risk of putrefaction,breweries want consumers to "drink as soon as possible after shipment," to have consumers taste the concept the brewery intended.
+sometimes,however,the concept intended by the brewery does not necessarily fit the taste of the consumers,particularly experienced drinkers.
+in such cases,there may be a case in which sake becomes more tasty after storing and maturing at home.
+to speak in plain language,it is like the cook serves certain dish saying "please try this without adding any seasoning." but gourmet tries a small portion and says "for me,it is better this way." and squeezes yuzu(citrus junos)on it or spices it up further.
+relation to supplement each other with food
+in places where local basic food is eaten after storage and maturing for a certain amount of time like funazushi(fermented crucian carp sushi)in shiga prefecture,there is sake which is brewed using the same amount of time needed for maturing food to complete the sake quality.
+namely,food and sake are prepared at the same time and eaten at the same time after certain period.
+such maturing shows the original point of local sake,namely the relation to supplement each other with food underlying in the food culture.
+shinshu,koshu and hizoshu
+for sake,the brewing year begins from july,every year,and ends in june the next year and,usually,sake shipped within the brewing year is called shinshu.
+recently,however,there is some confusion about the definition of shinshu because of the increase of sake which is shipped before june without waiting for the autumn in the year of joso labeling it as "shinshu" to discriminate with hiyaoroshi(refer to definition below).
+with respect to koshu,also,no clear definition has been established as some sake commentators take the position that "below five years,it cannot be acknowledged as koshu."
+some sake breweries have introduced the concept of vintage for wine in the west to sake,and display the year of production of sake on the label.
+for sake made with such a vintage system the taste becomes deeper by maturing,the period of maturing is as long as twenty to thirty years.
+hiyaoroshi
+hiyaoroshi is sake brewed in winter and stored and matured in a cool sake storehouse in spring and summer and bottled and shipped in autumn when air temperature is low.
+as such sake is sold wholesale(oroshi or oroshiuri in japanese)without conducting hiire(wholesale of sake in cold status),such a name came into existence.
+based on the fact that it is shipped one year after being brewed,it should be classified as koshu,but it is treated customarily as a type of shinshu.
+daikoshu(or okoshu;very old sake)
+at present,there is no clear definition of the word "daikoshu(or okoshu)."
+generally speaking,however,incommensurable maturing,suitable for using the word "dai" (great),is required.
+aged sake,stored over 100 years is generally called daikoshu,needless to mention about 279 years of daikoshu from the genroku period opened in 1968.
+warimizu
+warimizu means adding water,to be more precise,shuzo yosui to sake,that was taken out of the storage tank used for storing and maturing,immediately before shipment.
+it is also called "kasuichosei" (literally,adjustment by adding water)or "kasui" (literally,water adding)
+in the process of producing shochu,the exactly same operation is called "wasui."
+the purpose of this operation is to decrease the alcohol concentration of sake.
+immediately after moromi is produced,almost all sake has an alcohol concentration close to twenty percent because of parallel multiple fermentation.
+because the higher the alcohol concentration is,the less the possibility of putrefaction,storage and maturing are carried out with an alcohol concentration close to twenty percent.
+when shipping,in relation to the provisions of the liquor tax act,and because that consumers prefer low alcohol-concentration,it is necessary to lower the alcohol concentration to a desired level.
+(refer to "sake of low alcohol concentration.")
+sake shipped without warimizu at the original alcohol concentration at the time when moromi was produced is called "genshu" (unprocessed sake)(kasui that causes change in alcohol concentrations below one percent is allowed.)
+the word unprocessed sake seems to make people imagine primary sake with moromi and yeast,the source of the sake,or thick syrupy extract-like sake,but it is not so in reality.
+it is certain that,if warimizu is not done,its alcohol concentration is higher than that of usual sake.
+bottling and shipment
+sake,for which final adjustment such as warimizu is completed,is put into bottles which have been washed with washing water,and supplied to the distribution channel that each brewer has developed independently.
+terms and expressions related to the production method
+expressions related to the historical production method which is not used today are included.
+"buai" (ratio)
+terms ending in "-buai" are as follows:
+seimai buai(rice-polishing ratio)
+juryo seimai buai(rice-polishing ratio by weight)
+mikake seimai buai(rough rice-polishing ratio)
+shin seimai buai(true rice-polishing ratio)
+seiryu buai(ratio of perfect grains)
+koji buai(ratio of koji)
+kasu buai(ratio of sake lees)
+kumimizu buai(ratio of drawn water)
+sakedare buai or "seishudare buai" (rate of produced sake to rice as raw material)
+"shikomi" and "tsukuri"
+as a supplement neither academic or professional,but for promoting general understanding,we can consider,limiting the context related to producing method for sake,that they are synonyms like "shikomu" (to prepare)＝ "tsukuru(to produce)and "shikomi" (preparation)＝"tsukuri" (production).
+which is more popular as a designation largely depends on the trend during the period and the intention of the producer.
+terms ending in "-jikomi" or "-zukuri"are as follows:
+yamahai jikomi(preparation using yamahai moto)
+dan jikomi
+sandan jikomi
+yodan jikomi(four-stage preparation)
+kan jikomi or kan zukuri(preparation in cold season)
+tomizu jikomi(preparation using tomizu)
+miyamizu jikomi(preparation using miyamizu)
+konetsu ekika jikomi(preparation using high heat liquefaction)or koon ekika jikomi
+kioke jikomi or kioke zukuri(preparation using a wooden bucket)
+kidaru zukuri(preparation using a wooden cask)
+yumai zukuri(brewing with dissolved rice)
+baisho zukuri(brewing with roasted rice)
+himeii zukuri(brewing with deeply steamed soft rice)
+"moto," "shubo"(sake mash)
+as a supplement,neither academic or professional,but to promote general understanding,we can consider,limiting the context related to the production method for sake as being synonyms like "moto" ＝ "shubo."
+terms ending in "-moto" or "-shubo" are as follows:
+bodaimoto(sake mash used since the mid heian period to produce high-class sake)(sake mash used since the middle of heian period for high-class sake)
+nimoto(sake mash used since the mid heian period to produce high-class sake using a process of heating sake mash in a pot)
+koontokamoto(sake mash made using a high temperature saccharification method instead of steaming rice)
+sokujomoto(sake mash produced using the modified yamahai method for greater efficiency)
+chuonsokujomoto(sokujomoto produced under a medium temperature)or chuonsokujoshubo
+yamahaimoto(sake mash produced using the yamahai method,which is the same as the kimotozukuri method but without yamaoroshi)or yamaoroshihaishimoto
+kimoto(sake mash produced using a more traditional method)
+others
+terms which do no fit to the above-mentioned classifications are as follows:
+alcohol adding(or "aruten")
+hiyaoroshi
+motodate(producing sake mash)
+yodangake
+hashirashochu
+kumimizunobashi or "kumimizu wo nobasu" (literally,to dilute with drawn water)
+utase(time period immediately after sake mash production until the next heating is commenced)
+high-temperature saccharification
+hiochi(putrefaction of sake by bacteria called "hiochikin")
+muroka(non-filtered)
+tansoroka(filtering with charcoal)or kasseitanroka(filtering with active charcoal)
+classification by specific class name
+most important classification of seishu at present is the classification by specific class name.
+sake of which raw material and/or manufacturing method meets specified standards is classified into specific class name of sake,such as ginjoshu,junmai ginjoshu(ginjo sake with no added alcohol),and honjozoshu(a sake brewed with rice of polishing ratio not exceeding 70%as main material and distilled alcohol of as auxiliary material not exceeding 10%of rice by weight
+seishu that does not correspond to specific class name sake is called futsushu(literally,ordinary sake).
+provisions related to rice-polishing ratios were abolished from january 1,2004,however,it became possible to describe even when it does not meet the following conditions,the names are used just as a guide.
+(for more information refer to the section "junmaishu.")
+other than specific name,there are various classifications by characteristic raw materials or manufacturing method.
+they contain those established by notification of the national tax agency,the standards for manufacturing methods and quality indication for seishu,and those which have been used traditionally and customarily by sake breweries and the industry organization.
+with respect to the former,specific names and several items to be described as well as arbitrary items to be denoted and items which are prohibited from being denoted specified by the national tax agency.
+with respect to the latter,in order to increase the value added,there are various classifications not defined in the former.
+in certain cases different terms are used for the classification of the same meaning depending upon the district and generation(example:nakadori/nakagumi etc.),and they are not uniform.
+before the use of specific names is provided for,there existed the sake grading system of tokkyu(special class),ikkyu(first class)and nikyu(second class).(for more information,refer to the "history of sake.")
+as a ranking system unique to breweries,words such as tokusen(literally,special selection),josen(literally,higher selection)and kasen(literally,good selection).
+futsushu
+seishu other than sake with a specific class name
+most types of sake distributed generally are futsushu.
+other than rice and malted rice,it is allowed to add other raw materials such as distilled alcohol,sugars,sour agents,umami-chomiryo(chemical seasoning)and sake lees on condition that the total weight of auxiliary materials does not exceed the weight of rice and malted rice.
+three-time increased volume of sake and sake in which three-time increased sake volume is blended are also included in futsushu.
+specific name sake
+specific name sake is seishu for which polished rice of the third grade or higher and the ratio of malted rice to the weight of polished rice is fifteen percent or more.
+depending upon raw materials and the rice-polishing ratio,specific name sake is classified into honjozoshu,junmaishu and ginjoshu.
+honjozoshu
+honjozoshu is seishu which is produced with polished rice of a polishing ratio not exceeding seventy percent,malted rice and water and distilled alcohol and has a delicious flavor and color.
+the addition of an amount of alcohol(aruten)not exceeding 120 liters per ton of polished rice(the weight ratio of alcohol to rice is 1:10)is allowed.
+as the concentrated alcohol added sake is too high,it is often diluted with water(warimizu).
+therefore,honjozoshu has less umami and sweetness and,generally speaking,its taste becomes light and simple.
+junmaishu
+junmaishu is a seishu which is produced with only polished rice,malted rice,and water.
+however,such "polished rice" must be produced from unpolished rice which is graded to the third grade or higher or the equivalent.
+it is also required that the total weight of "malted rice" is fifteen or more of the total weight of polished rice.
+generally speaking,junmaishu has a thicker consistency compared to ginjoshu and honjozo and the uniqueness of each brewery is strong.
+historically,all types of sake were junmaishu up to the beginning of the showa period.
+this is because even hashirashochu,deemed as the origin of alcohol adding,is produced from rice.
+because of the insufficient supply of rice during and after the pacific war,however,three-time increased sake volume by adding alcohol became popular and,on the other hand,ginjoshu was developed with the aim to utilize alcohol adding for improvement.
+accordingly,the era,in which sake other than junmaishu was the mainstream,lasted for a long time.
+in recent years,however,the preconditioned, "sake produced only from rice," which was taken for granted in the past,gives a fresh image and junmaishu has been forming one of the categories in the world of sake.
+with respect to provisions relating to junmaishu,since the sake grading system was abolished in 1991,there was a provision, "with a polishing ratio of seventy percent or less" that was valid until december 31,2003 and the polishing ratio was legally regulated in order to maintain the status of the name of "junmaishi."
+the reason is that there was a commonplace assumption at that time that the higher the polishing ratio is,the higher the grade of sake would be.
+as a part of easing of the regulations in recent years,this provision was deleted as of january 1,2004,and,for sake produced only from rice,even if the polishing ratio is same as for futsushu,use of name "junmaishu" is allowed and the evaluation is left to the choice of the consumers.
+some understood this affirmatively as an "expansion of the rights of consumers" and the other understood critically as "inducing the degrading of sake brewing technology."
+because of this easing of regulations,there is a lingering doubt that many brands which could not be named junmaishu because of using rice powder,etc.although no alcohol was added,were upgraded to junmaishu.
+in reality,however,as there are restrictions "koji ratio 15%or more" and "use of standard rice, "sake with the ratio of koji below fifteen percent,produced from substandard rice,crushed rice produced in the process of polishing rice,or rice powder cannot be called "junmaishu."
+on the other hand,new types of junmaishu have been developed,such as low polishing ratio sake for which sakamai with low polishing ratio not used even for futsushu,is used as raw material in order to create unique sake quality,while fulfilling the above-mentioned conditions.
+ginjoshu and junmai ginjoshu
+they are a seishu which is produced with rice with a polishing ratio of sixty percent or lower,malted rice and water and produced with special care and it has a unique flavor and the color is favorable.
+they are produced by fermenting at low temperature spending a long time.
+they are characterized by a gorgeous fragrance called ginjoko that makes a person remember apples or bananas.
+at the end,in order to draw out the ginjoko,distilled alcohol is added in an amount not exceeding 120 liters per ton of polished rice(the weight ratio of alcohol to rice is 1:10).
+among ginjoshu,those to which no distilled alcohol is added,is called especially,junmai ginjoshu.
+generally speaking,it has a gentler fragrance(reserved fragrance)compared to other ginjoshu.
+including this article,the expression "ginjo system(sake)" means a group of sake having ginjoko such as ginjoshu,junmai ginjoshu,daiginjoshu,junmai daiginjoshu,and yamahai ginjoshu(ginjoshu produced with yamahai method).
+development was commenced in 1920's and,promoted by the improvement of rice polishing techniques in the 1930's and development of temperature control techniques in 1970's,the production volume which is sufficient to distribute in the general market could be secured.
+distribution of ginjoshu in the domestic market of japan has been conducted since the 1980's and,after 2000,the demand has increased even outside japan.(refer to "birth of ginjo sake.)
+daiginjoshu and junmai daiginjoshu
+daiginjoshu is a seishu which is produced with rice with a polishing ratio of fifty percent or lower,malted rice and water and produced with special care and for which fermentation is carried out at a lower temperature spending a longer time compared to ginjoshu.
+unique flavor and color must be especially favorable.
+at the end,in order to draw out ginjoko,a small amount of distilled alcohol is added in some cases.
+they are characterized by fruity and gorgeous fragrance and a light and smooth taste.
+among daiginjoshu,those for which only polished rice,malted rice,and water are used as raw materials are called junmai daiginjoshu.
+generally speaking,it has a gentler fragrance and deeper flavor compared to other daiginjoshu.
+we can say that daiginjoshu is the top product among sake brewed by polishing sakamai of the best quality to the ultimate level and combining capabilities of the workers in the sake brewery.
+(refer to "birth of ginjoshu.)
+terms used for labeling
+arbitrary items to be denoted
+arbitrary items to be denoted,provided for in the standards for manufacturing methods and quality indication for sake for the national tax agency,are as follows:
+variety name of raw material rice
+if raw material rice of a specific variety,such as shuzo kotekimai is used for 50%or more,the variety name and the ratio of usage may be denoted.
+place of sake production
+if sake is produced in a single production facility,the facility may be denoted.
+number of years stored
+if sake is stored and matured for one year or longer,the number of years of storage may be denoted.
+certain sake breweries sell sake,which has been stored for one year or longer,under names such as koshu(old sake),kokoshu(old old sake),daikoshu(very old sake),jukuseishu(matured sake)and hizoshu(treasured sake).
+there is no uniform standard for the number of years and terms.
+unprocessed sake
+seishu for which no warimizu or kasuichosei(excluding kasuichosei by which alcohol concentration is not changed one percent or more)has been conducted after joso
+raw sake
+seishu for which no heating or pasteurization has been conducted
+as raw sake is perishable the same as cow milk and vulnerable to degradation,appropriate care must be used for freshness and it must be refrigerated.(refer to "problems of 'raw sake.")
+raw stored sake
+seishu stored without pasteurization after production and pasteurized just before carrying out from the production site
+the period of storage is not provided for.(refer to "problems of 'raw sake.")
+kiippon
+junmaishu brewed in a single brewery
+taruzake(literally,cask sake)
+seishu stored in a wooden cask and having a lingering fragrance(including those rebottled to bottle or other container).
+other denotations
+namazumezake(raw bottled sake)
+opposite to raw stored sake,seishu which,after production,has been pasteurized and stored and for which no pasteurization is conducted before shipping from the production site.(refer to "problems of 'raw sake.")
+hiyaoroshi
+seishu which,after brewing in wintertime,has matured in a cool brewery during spring and summer and bottled and shipped in autumn when the air temperature becomes low
+refer to "hiyaoroshi" on this page.
+the following three items are classification according to timing(preceding stage,medium stage and late stage)during squeezing at the time of joso,but there is no clear standard.
+arabashiri
+sake gushing out at the beginning of joso,in other words,when moromi is squeezed using a squeezer called fune
+arabashiri comes out automatically with the weight of sakabukuro(bag for squeezing)stacked at first without applying any additional pressure.
+generally speaking,arabashiri contains much solid content,ori(lees),and the alcohol concentration is rather low,it is very fragrant and has a crisp taste.
+nakadori,nakagumi or nakadare
+a portion which comes out as the medium layer after arabashiri during joso process
+alcohol concentration and taste are medium.
+it has the best balance between taste and fragrance and some say that it has a more refined taste than arabashiri.
+strictly speaking,at the stage of nakadori,nakagumi or nakadare,there are two stages;the first one is sake squeezed by the weight of stacked sakabukuro when sakabukuro is stacked to completely fill the fune and the second one is sake that comes out when additional weight is applied in addition to the weight of the sakabukuro.
+seme,or oshikiri
+the portion that comes out last during joso.
+in particular,in the case of funeshibori,the portion that comes out when squeezed
+it has a rather high alcohol concentration and a thick taste.
+fukurozuri(literally,bag hanging),fukuroshibori(bag squeezing),sizukushibori(drip squeezing),or kubitsuri,(hanging)
+it is a method of taking sake which,at the time of joso,bags are filled with moromi and hung and sake drippings are collected.
+this method is often used for high-class sake such as sake to be sent to exhibitions.
+sometimes,sake which is obtained by such method is called shizukuzake(literally,drop sake).
+tobintori or tobinkakoi
+this is a method of selecting sake,at the time of joso,when the sake is divided by filling the tobin(bottle with a capacity of eighteen liters)and good sake is selected from the bottles.
+this method is often used for high-class sake such as sake to be sent to exhibitions.
+muroka(non-filtered)
+it is sake for which no flavor adjustment by filtration with active charcoal is conducted.
+nigorizake or origarami
+nigorizake(literally,cloudy sake)is sake which,at the time of joso,is filtered with rough-textured cloth,etc to intentionally allow the lees to remain.
+if no pasteurization takes place,fermentation continues in the bottle and sake changes into a sparkling one.
+origarami is sake for which no orisage is conducted.
+both are produced to enjoy umami contained in ori and the strong fragrance or flavor which are unique to moromi.
+geographical indication
+it may be labeled in an area which is designated by the commissioner of the national tax administration agency under the "establishing standards for labeling of geographical indications" by the national tax administration agency.
+raw materials,manufacturing method,etc.are restricted so that features of the area are fully used.
+if such designation is obtained,as similar indications("prepared by xxx method," "seishu in xxx style")for seishu produced in other areas are prohibited,local brands can be protected.
+although it is expected to be utilized widely because of such reasons,only hakusan(hakusan kikusake,hakusan city,ishikawa prefecture,designated in december 2005)has obtained the designation as sake as of march 2008.
+sake produced in foreign country
+in recent years,seishu produced in foreign countries has entered circulation and general consumers often see such sake.
+circumstances
+when we consider sake as an alcoholic drink,as it requires high-level fermenting technology compared to other alcoholic drinks such as whisky and wine,it is a type of alcoholic drink that requires a lot of effort and labor to complete as a product.
+in procuring sakamai as raw material,sake can be brewed with very favorable conditions in areas(countries)with favorable geographical conditions that allow large-scale cultivation using large machines.
+current situation
+some large sake brewing companies have been brewing sake in foreign countries.
+completed products are not only sold in their local market,but also imported into japan.
+when such sake is sold in japan,it is necessary to label the country of origin and use of sake produced in foreign country.
+under article 11-5 of the ministerial ordinance no.11 of the ministry of finance dated march 6,1953,it is allowed to label seishu as japanese sake,they are labeled as "seishu manufactured in foreign country" or "japanese sake manufactured in foreign country."
+the "establishing standards for labeling of geographical indications" was amended and enforced october 1,2005.
+with this amendment,a new provision for the protection of geographical indications, "among places of manufacturing seishu,the geographical indication for the place designated by the commissioner of the national tax administration agency may not be used for seishu that is produced in an area other than the designated one." was newly established.
+before this amendment,the national tax administration agency advertised for public opinions.
+submitted opinions are opened to the general public in public comment of the national tax administration agency.
+units used for sake
+1 sho＝10 go＝1.8 liters
+1 koku＝10 to＝100 sho(approx.180 liters)
+all of those units for volume belong to shakkanho,the japanese unit system.
+1 sho is a volume that can be put into obin(literally,large bottle)for sake,namely isshobin(literally,one-sho bottle)which is usually seen in liquor shops.
+since "hakutsuru" commenced to sell sake with ishobin in 1901,it was the mainstream for over one hundred years.
+in recent years,some say that the size and associated image of unrefinedness are causes of decrease in consumption and there is a tendency to switch to smaller bottles.(refer to "nihonshu no genzai" -current situation of sake)
+so-called chubin(middle-size bottle)is yongobin which can literally contain 4 go(720 milliliters).
+breweries use tobin which can contain 18 liters and the labeling words "tobin kakoi," which we see in liquor shops,came from this fact.(refer to other indications)
+the unit "koku" is mainly used to show the production volume of the brewery.
+as this also is a very rough guide,a small brewery in general produces 500 koku annually and a large brewery more than 5,000 koku.
+of course,there is no correlative relationship between the number of koku for produced sake and the quality of produced sake.
+1 ka＝two sake casks＝70 sho of sake(approx.)＝126 liters
+"ka" is a unit mainly used for overland transportation of sake.
+casks became a mean to transport sake since the azuchimomoyama period.
+it can be traced back to the fact a carrier shouldered a carrying pole with sake casks,one each for the front and rear.
+casks are yontodaru(4 to cask),but,usually,a cask is filled with approximately 3.5 to of sake instead of full,namely 4.to.
+therefore,it was calculated as 70 sho.
+as seen from nihonshudo,there is a certain width of the range of specific gravity of sake.
+if we assume that the specific gravity of sake is the same as water,carrier walks on the road with approximately 126 kg load on his shoulder.
+1 hai(or ippai;literally,one cup)
+today,even if we say "let's have ippai.," it does not necessarily mean to have "one drinking cup or glass" of sake.
+going back to the edo period or before, "ippai" was a unit for volume.
+it was not a strictly uniform unit and there were certain differences depending on the district or feudal domain.
+when hideyoshi toyotomi carried out taiko kenchi(the cadastral surveys conducted by hideyoshi),he also established standards for weights and measures and established "kyomasu" for volume.
+even during the edo period,however,it was not popularly used in feudal domains in the tohoku district.
+regardless of minor differences,as it is said that,in general, "100 hai(or pai)was equal to(approximately)4 to. "
+therefore, "1 hai is(approximately)720 milliliters,which is a volume similar to a 4 go bottle or a wine bottle.
+at that time,to drink "1 hai" of sake meant to dry up a 4 go bottle.
+kon
+today,kon is used to mean "to drink sake together" as we say "let's have 1 kon."
+in ancient times, "1 kon" meant to fill a sake cup full with sake and the sake cup was passed around to all members of the drinking party.
+for example,we can find an expression like "after three kon of the drinking party."
+criteria,terms and expressions for sake
+nihonshudo(also referred to as the sake meter value or smv,this represents sake's specific gravity)
+it is a unit that represents sake's specific gravity.
+it is measured by adjusting sake's temperature to fifteen degrees centigrade using a specified aerometer that floats in sake.
+nihonshudo zero is defined as sake that has same weight as that of distilled water of four degrees centigrade.
+lighter sake has a value in plus and heavier sake a value in minus.
+nihonshudo is defined in the measuring act as follows:
+nihonshudo＝((1/specific gravity)-1)x 1.443
+by back calculating this formula,the following formula is obtained.
+sake's specific gravity at fifteen degrees centigrade＝1.443/(1.443+nihonshudo)
+in recent years,especially since the dry sake boom,there is the tendency to deem nihonshudo as the decisive standard to determine the dryness of sake,but this is not correct.
+certainly,nihonshudo is a convenient guide for estimating,but,to be precise,it is shown more exactly by amakarado(literally,degree of sweetness/dryness).
+however,even amakarado cannot quantify all human sense of taste.
+"sensing sweetness and dryness" which an ordinary person can sense with his tongue fluctuates depending upon fragrance,umami,koku(body)and food and seasoning that is eaten together with sake as well as the physical condition of the person.
+acid level
+acid level is defined as the number of milliliters of 1/10 normal solution of sodium hydrate for titration that is required for disacidifying ten milliliters of sake.
+if this value is large,such expression as "sappari(flinty)"is used and if small,such expression as "kokugaaru(having plenty of body)" is used.
+however,same as in the case of nihonshudo,the sense of taste of an ordinary person fluctuates greatly depending on fragrance,combination of food and drink and physical condition.
+amakarado
+amakarado is a value that represents the degree of sweetness/dryness of sake.
+it is calculated from the concentration of glucose sugar and acid level as follows:
+amakarado＝0.86 x glucose concentration-1.16 x acid level-1.31
+it is also calculated using nihonshudo instead of glucose concentration as-1.16 x acid level-132.57.
+this formula explains eighty-one percent of human sense to sense the sweetness/dryness of sake.
+the relationship between the degree of sweetness/dryness and the number of amakarado is as shown in the table below.
+notando(degree of depth of flavor of sake)
+notando is a value that represents the degree of depth of flavor of sake.
+it is calculated with the glucose concentration and acid level of sake as follows:
+notando＝0.42 x glucose concentration-1.88 x acid level-4.44
+glucose concentration represents the amount of sugar after excluding dexistrin,which is a direct reducing sugar and has a large molecular structure.
+the larger the notando on the plus side is,the deeper the flavor of sake.
+amakarado and notando are seldom labeled,but as indexes of taste,they are more reliable than nihondhudo.
+amino acid level
+same as in the case of acid level,amino acid level is defined as the number of milliliters of 1/10 normal solution of sodium hydrate that is required for disacidifying 10 milliliters of sake after disacidifying 10 milliliters of sake with 1/10 normal sodium hydrate and adding 5 milliliter of neutral formalin(measurement by formol titration).
+the value is equal to the number obtained by the sodium hydrate titration of the latter.
+generally speaking,if the value is large the flavor of sake is deep and if it is small,the flavor is tanrei(crispy and dry).
+however,same as in the case of nihonshudo,sense of taste of an ordinary person fluctuates greatly depending on fragrance,combination of food and drink and physical condition.
+amino acids contained in sake consist of various types of minor constituents,which are derived from protein contained in raw material,rice,and decomposed,such as glutamic acid,proline,alanine,valine and leucine.
+depending upon the composition of such constituents,a large variety of umami are created.
+the reason why it is often said that,even if the taste of sake is quantified with various indexes such as nihonshudo and amakarado,we cannot tell the taste of sake with figures in this large variety in the composition of amino acids.
+in completely fermented junmaishu,nucleic acids such as histamine are generated,though in very small quantity,which sake yeast generates by being placed in an extreme condition at the end of the process of producing moromi.
+basically,the higher the amino acid level is,the deeper the taste with umami is.
+if it is too high,however,the taste becomes dull.
+generally speaking,kimoto and yamahaimoto have a tendency to have a lot of amino acids.
+it is also said that it is the way of brewing of capable toji to keep amino acids content low even with kimoto or yamahaimoto.
+it is also true,however,that there are many sake drinkers who like taste of kimoto or yamahaimoto containing a lot of amino acids.
+the main cause of amino acid generation is acid protease that is a protein-cutting enzyme and almost all amino acids are generated between nakashigoto and shimaishigoto in the koji producing process in the temperature range of thirty-four to thirty-eight degrees centigrade.
+therefore,any toji who wants to make the final taste of sake light progresses the koji production process keeping rice for koji from becoming dry and completes this process as quickly as possible.
+in contrast,if he wants to make sake taste heavy,he uses a longer time for this process.
+expressions about taste
+karakuchi(dry)
+evaluation of sake taste is basically made on five flavors;san(sour),ku(bitter),kan(sweet),shin(hot or dry),and kan(salty),concept is quite different from those for cooking even if the same words are used.
+even if we say "karai(shin), " it does not mean "hot" in cooking(taste of red pepper or pepper)or kan(saltiness).
+sense of taste which is sensed by taste buds on the surface of the tongue and sent to the brain can feel only sweetness,sourness,saltiness,bitterness and umami.
+because taste cells do not have any accepter of "karami(dryness), "it is considered that to sense "sake is dry," pain sensation on the surface of tongue is stimulated by alcohol.
+therefore,generally speaking,sake is felt to be dry if its alcohol content and nihonshudo are high.
+during the showa period,three-time increased sake volume was produced by adding alcohol randomly.
+it was not a "dryness of good quality."
+true dry sake cannot be produced only with alcohol content.
+once understanding that "tanrei karakuchi(tanrei and dry)is the basic condition for excellent sake that "prevailed(refer to "karakuchi boom"),but it is not a correct understanding.
+it adds up to; "karakuchi has karakuchi's feature and umakuchi has umakuchi's feature."
+as sense of taste fluctuates depending on physical conditions,the comment "this sake is sweet/dry." does not have important meaning.(refer to nihonshudo,amakarado and amino acid level.).
+experienced sake drinkers scarcely evaluate sake with "amakuchi(literally,sweet sake)/karakuchi."
+amakuchi
+as it is often confused with umakuchi,sufficient care should be used.
+it is not correct to consider too quickly "if nihonshudo is low,the sake is amackuchi."
+if the specific gravity of sake is large as in sake with a large lees content,such as nigorizake and origarami,such sake has very low nihonshudo,and it sometimes goes far below zero like "minus 15."
+the fact that there are many "dry nigorizake" among such sake with low nihonshudo is an example which shows that the specific gravity or nihonshudo does not have a close connection with "sweetness" and "dryness."
+amazake(a sweet low-alcohol drink made from fermented rice or sake lees),dessert sake especially for female consumers and sake products made from morohaku(sake of 100%polished white rice),etc.are examples of amakuchi.
+umakuchi
+with respect to seishu,what is expressed as "amakuchi" is usually in most cases umakuchi.
+umakuchi can be easily mistaken for "amakuchi" because,relatively speaking,the human organ that senses karami(dryness)is not really stimulated when something that is umakuchi is drunk.
+umakuchi is a sweet-smelling flavor having rather koku(body)and okuyuki(literally,depth)than kire which often constitutes a factor of karakuchi.
+in order to obtain a targeted final product,it is said that umakuchi is more difficult to create for a brewer as it cannot be falsified with high alcohol content.
+tanrei(crispy and dry)
+the expression is used when sake gives clear and smooth feeling when put into the mouth
+originally, "端麗" is correct as a japanese word.
+during the karakuchi boom started in 1980's,they started to write it as "淡麗"through trademark,etc.
+as sakamai "越淡麗(koshitanrei)" was developed in niigata prefecture,which is representative sake for sale with such taste as a recommendable variety,it has become popular to write as "淡麗" as far as sake taste is concerned.
+hojun
+it means strong fragrance and good taste.
+in this case also,originally, "芳醇" is correct(in certain dictionaries for japanese language,it is written as "芳純" or "芳潤" instead of "芳醇").
+as it has become popular through trademarks,names of sake,etc.it is also written as "豊醇."
+nojun
+it means strong taste.
+nojun is in the opposite end of "tanrei."
+pin
+it represents a firm crispy aftertaste.
+it constitutes the balance of tastes kara(dry),ama(sweet)and uma(umami).
+we can say that this balance defines the outline of sake taste.
+kire
+if aftertaste is refreshing and light,it is expressed as "kire ga aru(it has sharpness)."
+in certain districts,it is expressed as "sabake ga yoi."
+arai(literally,harsh)
+it means to feel a stimulus when put into the mouth.
+it is an uplifting and youthful taste,if spoken with good intention,but,if spoken ill,a taste that lacks feeling of maturity.
+ginaji
+it denotes plain umami obtained with sake that has been matured at low temperature spending a long time.
+fukurami
+it denotes a well-balanced taste with body that spreads in the mouth.
+it is also expressed as "gokumi" or "aji no haba(literally,width of taste."
+gokumi
+the condition in which five tastes are well-harmonized and give a feeling of well-balanced koku(body)is expressed as "it has gokumi."
+shurenmi
+it means a bitter taste that is sensed when sake is still young and causes a person to make his mouth narrower.
+in most cases,it disappears in line with the maturity of sake.
+contrarily,the degree of maturity of sake by tongue checking to see if shurenmi has disappeared or not.
+oshiaji
+it means a taste that,after tasting sake,gives an aftertaste that makes a person feel full and have a stable afterglow.
+koshi
+if there is oshiaji and a stable flavor remaining,it is expressed as "koshi ga aru(literally, "it has koshi")or "koshi ga tsuyoi(literally, "koshi is strong").
+contrarily,if the aftertaste is unclear one,it is expressed as "koshi ga nai(literally, "it has no koshi")or "koshi ga yowai(literally, "koshi is weak").
+dossiri
+this expression is used for an elaborately created taste that gives fukurami(fullness)and koshi and is not disturbed by warming sake.
+shikkari
+this expression is used for an elaborately created taste that gives the feeling of stability and koshi and is not disturbed by warming sake.
+in a certain sense, "shikkari" is used more often than "dosshiri," it is true that it is difficult for beginners to judge whether or not the taste is shikkari.
+an easy method for beginners to judge is to taste sake after diluting sake to alcohol content of 14%and at drinking temperature.
+if sake gives a good ajikire,the sake is of "shikkari" brewing.
+if sake contains too many undegraded ingredients or the yeasts has died abruptly at the last stage of sake mash,the yeasts gives off unfavorable amino acids making ajikire bad.
+generally speaking,such sake tends to be degraded quickly compared with sake after complete fermentation and its taste is not expressed as "shikkari."
+such matters can be best judged by the subjective view of the individual,namely sense of taste.
+it cannot be judged by the amino acid level shown on the backside label.
+(taste/fragrance)opens
+if sake is taken unwarmed,in certain cases,the original taste,fragrance,etc.of sake are confined in the coldness and cannot be sensed.
+but,if such sake is warmed to so-called hitohadakan(literally,temperature of human skin)or drinking temperature,such taste,fragrance,etc.the taste awakens like flower petals opening slowly.
+this expression is used for such occasion.
+if sake is heated too much,however,it become tasteless.
+for your information,nihon sakasho kenkyukai has the opinion that the classification of taste using "amai/karai" and "tanrei/hojun" as coordinate axes has no practical meaning and uses the following four-category method using "strong/weak fragrance" and "much/little taste" as new coordinate axes.
+jukushu(literally,matured sake)
+sake with strong fragrance and much flavor
+flavor of full-bodied matured sake spending a long time
+jukuseishu,koshu,hizoshu,etc.
+junshu
+sake with weak fragrance and strong flavor
+flavor that make a person feel so-called koku
+junmaishu,kimotokei,etc.
+kunshu
+sake with strong fragrance and a little flavor
+sake that allows one to enjoy ginjoko
+daiginjoshu,etc.
+soshu
+sake with weak fragrance and a little flavor
+it is light and smooth.
+namazake,namachozoshu,low-alcohol sake,etc.
+expressions about color
+fresh sake coming out from the funakuchi at the brewery has an original color very close to the golden color seen in the ears of rice plants during the autumn.
+as maturing progresses,the color changes to dark brown or some gets a slight greenish tint.
+daiginjoshu with a high rice-polishing ratio that has been elaborately produced has a luster clearly shining like a diamond.
+such color of sake is appreciated by those who are fond of drinking sake.
+with respect to the zenkoku shinshu kanpyokai,in the past,there was a period in which sake submitted by leaving color of sake as it was,was subjected to deduction of points and,therefore,breweries tried their best to eliminate the color of sake using active charcoal,etc.
+as a result,sake became clear and colorless like water as generally imagined form the word "seishu."
+as the number of breweries that distribute sake with its natural color has been increasing,it has become possible to enjoy sake color.
+sae
+beautiful and clear luster
+the condition in which bluish tint is observed is called aozae and is appreciated very highly.
+teri
+condition in which bright yellow luster is observed
+it is popular in most cases.
+boke
+this means that sake is a little clouded and the colors are unclear.
+transparency
+index that shows how transparent produced sake is
+clearness
+naturally made clear and twinkling fresh
+golden yellow
+color tone which is the most liked among various teri(luster)
+banshairo(color of coarse tea)
+a little dark and matured color tone which is often seen in koshu
+compared to golden yellow,this color is less often an object of appreciation.
+colored well
+standard expression used in kanpyokai,etc.to mean that color tone is favorable
+colored deeply
+condition in which sake is rather deeply colored
+many accept it as favorable.
+cloudiness
+it means cloudy with various color tones.
+although not highly appreciated for its appearance,such sake is not necessarily bad tasting in general.
+words and expression for fragrance
+same as in the case of words and expressions for manufacturing methods,they differ depending on the period,generation,and district,but the standard words follow:
+jukuseiko
+favorable fragrance generated by maturing and a strong one is also called "koshuko(flavor of koshu)."
+natures of fragrances are different and they are expressed by comparison to shaoxing rice wine,sherry,caramel,dried shiitake mushroom,raison,etc.
+ginjoko(or ginjoka)
+it is often said that "ginjoko" is the correct pronunciation.
+we must be careful because even some specialists indicate reading it as "ginjoka" purposely to ask the special care of readers.
+fragrance specific to ginjoshu,and junmai ginjoshu as well as daiginjoshu and junmai daiginjoshu
+fragrances of apple and banana are most popular,but some sake produce ginjoko like marron,cream or chocolate.
+ginjoko is not generated by adding perfumes.
+it is a fragrance derived from esters,especially ethyl caproate and isoamyl acetate,generated by sake yeast in the process of low-temperature fermentation like ginjo brewing.(refer to "moromi.")
+it is often felt from other sake which elaborately produced junmaishu rather than ginjoshu.
+not all of the generated ginjoko remain in moromi,a large portion is diffused into the air.
+in the past,such flavor was recollected and liquefied by yakoman equipment and returned into moromi and,sometimes,added to other sake than moromi from which such flavor is recollected.
+it is said that such a process has became unnecessary thanks to development of new types of sake yeasts.
+apple-like fragrance
+a type of ginjoko that is similar to fragrance of delicious apple due to ethyl capronate
+they say that moderate apple-like fragrance gives ginjoshu elegance.
+banana-like fragrance
+a type of ginjoko that is similar to banana fragrance due to isoamyl acetate
+moderate banana-like fragrance is popular as it adds a sweet and fruity fragrance to sake.
+however,if a banana-like fragrance is too strong,it is felt to be an unusual smell and called the "smell of ethyl acetate" or "smell of cemedine" and it becomes the cause of point deduction.
+it is also a main fragrance which is recollected with yakoman equipment.
+shinshubana(literally,flower of fresh sake)
+young fragrance unique to fresh sake derived from koji and it disappears as maturing progresses.
+experienced drinkers who like warmed sake usually do not like shinshubana which is strengthened by the process of warming sake.
+smell of alcohol
+it is a drug-like smell generated by incorrectly adding alcohol.
+different from alcohol produced by fermentation,added alcohol which has not been integrated with sake becomes detached causing such smell.
+hineka
+unfavorable smell which is generated when sake becomes oxidized due to reasons such as "maturing progressed too much(over maturing)," "degraded before maturity" and "improper storing method."
+quite close to jukuseiko(fragrance of matured sake);it is classified into hineka if it is unpleasant
+therefore,in very rare case,a slight hineka is positively appreciated as adding some value to sake.
+namahineka
+powerful stuffy malodor generated by action of enzyme due to "namazake aging" or "storing method was not proper."
+it cannot be removed even by filtration and if it occurs before shipment,it is serious trouble for the brewery.
+in reality,however,it is usually caused by improper storing method or temperature control by a distributor,or retailer after shipment or consumer after purchase.
+we will make no errors if we consider that "namazake is milk from rice."
+tsuwariko(literally,the smell of morning sickness)
+it is a malodor like sour milk products caused by failure in fermentation of moromi and it is called tsuwariko because it makes a person feel like vomiting.
+specialists call it "smell of diacetyl" and is similar to "hiochishu."
+hiochishu
+it is a smell caused by the breeding of hiochi bacteria and,although manner differs depending upon the type of bacteria,it is similar to tsuwarishu.
+rokashu(smell by filtration)
+collective term for unusual odor added in the process of filtering
+they say that it is similar to a smell which is felt when japanese paper is made wet with water.
+sumishu(smell of charcoal)
+this is unusual odor added if low quality charcoal is used in the process of filtration or too much charcoal is used.
+as charcoal itself tends to absorb odors,it is often caused by odor absorbed by charcoal during storage and discharged into sake when charcoal is put into sake.
+sanpaishu(oxidative rancidity)
+highly unpleasant odor caused by contamination of moronic with fuzokin,a type of unfavorable bacterium and resulting generated acetic acid,etc.
+fukuroshu(smell of bags)
+smell of sakabukuro(literally,bag for sake)used for squeezing moromi lingered into sake
+it happens if sakabukuro is not controlled properly and there is oxidized adhered material.
+nikkoshu(smell of sunshine)
+unusual acrid odor generated through exposure to sunshine
+it is also called "hinatashu(smell of a sunny place)" or "kemonoshu(smell of a wild animal)."
+it also occurs through exposure for a long time period to a light beam other than sunshine such as fluorescent lamp for indoor use.
+it is usually caused by improper storing method by distributor,or retailer after shipment or consumer after purchase.
+it can be prevented by wrapping the bottle with newspaper,etc.
+in the past,it was thought to be the smell of the bottle containing the sake and,therefore,the word "binshu(smell of bottle)" was used.
+at present,it is said this smell is the mixture of nikkoshu and hineko.
+kika(or,kiga,mokuga,mokuka or mokka)(literally,smell of wood)
+it is often said that "kika" is the correct pronunciation.
+we must be careful because even some specialists indicate reading as "kiga" purposely to ask special care of readers.
+it is a fragrance of wood used for a cask such as japanese cedar that contains the sake.
+although it is appreciated positively depending on the degree of fragrance and sake quality,the fact that "sake has kigashu" is often a cause of point deduction in kanpyokai,etc.
+a smell similar to kika which may be generated if alcohol is added in the process of fermentation,it is called "kikayoshu(kika-like smell)."
+although,it is completely different,it is often confused with something else.
+fragrances that are felt in each step from taking the sake cup in hand until sake is swallowed are called respectively as follows:
+uwadachika
+fragrance that is sensed before putting sake into the mouth coming from the surface of sake to the nose
+it is volatile bouquet that comes out when sake is poured into a choko(sake cup)and choko is moved around.
+with respect to sake for which ginjoko is focused on or sake displayed in zenkoku shinshu kanpyokai,an importance is attached to this fragrance.
+fukumika
+fragrance that goes through to the nose when sake is taken into mouth and tasted on the tongue
+as the component for this fragrance is less volatile than that for uwadachika,the fragrance cannot be sensed until sake is put into the mouth.
+ginka
+fragrance that is sensed when sake is swallowed and passes through the throat
+in sake tasting on the occasion of kanpyokai,sake is not swallowed and forced out after tasting,ginka cannot be tasted.
+therefore,the problem is that ginka cannot be the object of appreciation in kanpyokai.
+at present,ginka represents almost the same smell as "ginjoko."
+kaerika
+fragrance that,after drinking sake,comes up from stomach to the nose
+there are many knowledgeable persons who are of opinion that kaerika is excluded from the objects of appreciation in kanpyokai,etc.
+expressions of temperature(drinking temperature)
+also,they are not unified terms,but the standard ones are as follows:
+however,at the beginning of 2000's,the term "hiya(literally,cold sake)" is sometimes overinterpreted to mean sake that is cooled down below normal temperature.
+generally speaking,a sour taste sensed by the tongue decreases as the rise of sake temperature,and umami increases.
+therefore,roughly speaking in the range between "hiya" and "atsukan," the higher the sake temperature is,the more the taste has body and depth and also karasa(dryness)is felt.
+with sake produced with traditional methods such as kimotokei and junmaishu,in many cases,sake that is not so impressive when taken cold shows itself at its best.
+such sake is expressed as sake that does "kanbae."
+to do "kanagari" means that,when sake is warmed,the warmness goes through evenly and the complete sake making features are shown at its best.
+the most sure method to let sake do "kanagari" is to put sake into a tokuri(sake bottle)and warm it with hot water.
+it is also effective to certain extent to put sake into a choko and warm with a kitchen microwave,but it tends to cause uneven heat distribution in the sake.
+if sake warmed once gets cold again,it is expressed that sake becomes "kanzamashi."
+elaborately produced sake has a certain flavor even if it becomes kanzamashi.
+with respect to other sake,the balance of flavors is spoiled and a smell of alcohol like a drug comes out as uwadachika.
+this is called "kankuzure."
+therefore,depending on the quality of each sake,the best drinking temperature differs.
+in recent years,the temperature range recommended by the brewer is shown on the sub-label(label on the backside).
+among experienced drinkers,however,many drink sake even in the summer with nurukan(approximately same as body temperature)or atsukan telling "if cooled down,any sake can be thought delicious cheated by the coldness,but,if the temperature is the same as that of the tongue,only really good sake can taste good."
+because alcohol is not absorbed from stomach or the bowel walls unless its temperature becomes same as the body temperature.
+therefore,if taken at the temperature range below hiya,the drinker feels it is smooth in the mouth and does not get drunk easily and feels like he can drink without any limits.
+then,he becomes drunk unexpectedly suddenly and the time of so-called "horoyoi(being slightly drunk)" whereby a delicate flavor could be tasted cannot be experienced for long time.
+in other words,the time in which the taste of sake can be enjoyed in real time is short.
+this is also a reason why the person who places a priority on "flavor" rather than on "drunkenness" prefers a warm temperature zone.
+in the case of sake quality which is characterized by freshness,such as namazake,as it cannot stand kan(warming),it tastes better to drink ryobie or below.
+however,as of 2008,in many shops,even if the customer orders warmed sake,the shop will not accept the order and serves cooled sake instead.
+it is not too much to say that it is a vestige of temporary decline of the culture of sake at the beginning of the heisei period.
+(refer to "slumped period of sake consumption.")
+some shops recommend to take sake hiya or below so that unskilled warming is not revealed,because warming sake requires a delicate skill and others do so just to prevent trouble because to serve warmed sake requires more time than hiya.
+anyway,if a shop declines to serve sake warm by reason of sake quality saying "the sake is not good warm." it is desirable that consumers have knowledge to judge whether or not it is true.
+it is because,as represented by shinkame,saitama prefecture,that there are many breweries that produce sake so the flavor of sake can be enjoyed best if taken warm.
+among prefectural sake brewers associations,there are certain associations that are not favorable to breweries that produce traditionally sake to be taken warm saying on the occasion of autonomous kanpyokai,kikizakekai(sake tasting party),fairs and fiesta telling "any brewery that wishes to serve its sake warm,warmed sake should be brought with brewer's own pot because the organizer does not provide any tool or materials for warming sake."
+general consumers can see with their own eyes when they visit various sake events where sake brewers associations have such a tendency.
+sake,together with shaoxing rice wine of china,is unique in the way of drinking to take it warm is popular.
+people in edo showed off saying "sake should be taken warm,sakana(dishes eaten with sake)should be kidori(dishes without peculiar flavor),and shaku(a person who serves sake)should be done by tabo(geisha with traditional japanese hair style)."
+as kan has a close relation with a seasonal temperature,it gave birth to regular annual events such as bekka(using separate fire for cooking).
+utensils for sake
+shuki(sake drinking set)
+utensils used for drinking sake that support life in japan carefully in detail
+sakazuki(sake cup)
+as we see in expressions like "exchanging sakazuki" and "to give sakazuki," in japanese culture,sakazuki is not only a vessel used for drinking sake,but also a complicated medium that has a connection with various cultural factors such as human relations,honor,and formalities.
+today,we bring up the image of "nurisakazuki(lacquerware sakazuki)," but ceramic sakazuki were also used in the latter part of the edo period.
+tokkuri(or tokuri)
+even today,tokkuri is used for pouring sake.
+until it became popular to sell sake by bottles in the modern age,sake traders usually sold sake by measure using tokkuri.
+usually,tokkuri used for selling sake was not owned by individuals but it was lent by sake trader and yago(the name of the store)was written with large-sized characters.
+during and before the edo period,the color of used tokkuri was different in kamigata(kansai district)and edo.
+in kamigata,brown earthenware tokkuri that can contained five go(900 milliliters)or one sho(1.8 liters)was used.
+in edo,gray earthenware or kegs with a handle was used.
+choko(or choku)
+currently,choko is a small vessel used for receiving sake from a tokkuri to drink it.
+however,there is not a long history in using choko in combination with tokkuri.
+during the edo period,both in kamigata and edo,sake was received with sakazuki at the beginning of the party and,in the latter half of the party where the mood changed to a relaxed one,choko was used instead.
+choshi(sake decanter)
+this is a container used to pour warmed sake used even today.
+as one goes forward in time,the size of choshi has been becoming smaller.
+during the edo period,choshi was used to warm sake in kamigata in a palace and a house of prostitution,but,in edo,choshi was used only for shikijo which was a formal meal.
+at the present day,choshi and tokkuri ware treated as almost same things,but,in the edo period,they were completely different things.
+until the middle of the edo period,choshi was used at the beginning of the party and,after sankon,it was switched to tokkuri.
+later,they began using tokkuri from the beginning and it is said that,at the end of the edo period,even daimyo used tokkuri for drinking sake in a drinking party.
+katakuchi
+katakuchi is a vessel with a pouring spout for pouring sake on its edge.
+there are many types of katakuchi that can contain one to two go(180 to 360 milliliters)with various shapes like a bowl,cup and so on.
+in the present day,katakuchi is used in place of tokkuri and the usual way to use it is for sake to be first poured from a bottle to a katakuchi and then poured from the katakuchi to a sakazuki.
+katakuchi is a traditional eating utensil in japan which is also used for purposes other than as a container for sake.
+guinomi
+guinomi is a type of sakazuki for drinking sake.
+usually,it denotes a sake cup with a bigger size than one called ochoko(or choko).
+masu(measuring container)
+heishi
+in the past,it was used to carry sake.
+it is not used today.
+kawarake(earthen vessel)
+in the middle ages,sake was poured into kawarake and dried up in a party of court nobles and high-rank samurai.
+it was disposed after one-time use and it was like a portable and disposable sakazuki.
+in recent times,it has been used for making an offering of sacred sake or food in shinto rituals at a shinto shrine.
+suzu(literally,tin)
+it seems to mean heishi made of tin.
+it seems tin heishi was used up until the azuchi-momoyama period.
+in and after the edo period,such heishi was produced by only one old craft center in kyoto.
+tsunodaru(literally,keg with horn)
+tsunodaru is a keg used as a betrothal gift even today of which upper part is painted red and the lower part with black japan.
+the name tsunodaru is derived from the shape of a keg in which the handle is fixed like horn.
+sashidaru
+sashidaru is a black-lacquered square barrel used in the edo period for carrying sake on one's shoulder for a cherry blossom viewing party,but it was not seen during and after the end of the edo period.
+kannabe
+kannabe is a copper or iron pan used for warming sake used during the heian period.
+it was heated with a direct fire.
+zen
+such as takagozen(high small dining table)and nakagozen(small dining table of medium height)
+we can say that the meanings of sake and sakana were defined from the outside.
+chirori
+chirori is a slender metal container used for warming sake.
+chirori was made of copper or tin in the past and in recent years there are chirori made of aluminum.
+sake is poured into a chirori and warmed by dipping it into hot water.
+it is a utensil used in japanese style pubs and cookshops.
+it is not a utensil seen in usual home,but there are cases where chirori is purchased and used personally sticking to sake warmed with chirori.
+jozoki
+tools and equipment for brewing
+tsubo(pot)/kame(crock)/oke(tub)
+taru(barrel)/yuidaru(barrel with hoops)/taga(hoop)
+kama(pot)/koshiki(utensil for steaming)/seiro(steaming basket)
+kojimuro/kojibuta/kojibako/kojidoko(wooden chest for koji making)
+motoba/motooke
+shikomiba
+ikaki(bamboo sieve)/fune/fukuro/yabuta(sake squeezing machine)
+sumi(charcoal)
+rice polisher/upright rice polisher
+sake-related facilities
+religious facilities
+there are few buddhism temples,but almost all are shinto facilities like shrines and hokora(small shrines)
+there are close to forty sake-related shrines in japan and fifty-five or more gods are enshrined.
+there are certain shrines for which the object of worship is limited to koji or water.
+it is said that there is no god than what can be identified as a god only for sake like bacchus in europe and du kang in china.
+main enshrined gods
+okuninushi no mikoto(chief god of izumo in southern honshu island,japan,and the central character in the important cycle of myths set in that region)
+ohoyamakuhi no kami
+sukunabikona
+onamuchi no kami
+konohanano sakuya bime
+it is also written as木華佐久耶姫,木花之佐久夜毘売,or木花開耶姫.
+sakamizu onomikoto(佐牙弥豆男)and sakamizu menomikoto(佐牙弥豆女神)-same as "酒弥豆男神" and "酒弥豆女神," as well as "酒美豆男" and "酒美豆女."
+it is believed they are elder brother and younger sister of sosohori,who were brewing technicians that came over to japan in the era of emperor ojin.
+interestingly,sake-related shrines are located between chiba prefecture and fukuoka prefecture only.
+in particular,they are centered in kyoto and nara.
+main shrines
+omiwa jinja shrine
+nara city
+omononushi is enshrined as a god for sake.
+it is also called miwa myojin shrine.
+matsuo taisha shrine
+kyoto city
+it is worshipped as a god for brewing.
+yuzuruha jinja shrine
+old shrine in nada gogo
+umenomiya okami shrine
+kyoto city
+izumo taisha shrine
+izumo city,shimane prefecture
+saka jinja shrine
+hirata city,shimane prefecture
+it became the origin of the name of sakamai,sakanishiki,developed by shimane prefecture.
+hiyoshi jinja shrine
+otsu city,shiga prefecture
+saga jinja shrine
+kyoto city
+sakamizu onomikoto and sakamizu menomikoto are enshrined.
+tsubogami jinja shrine
+nara city
+sakamizu onomikoto and sakamizu menomikoto are enshrined.
+sakami jinja shrine
+ichinomiya city,aichi prefecture
+sakamizu onomikoto and sakamizu menomikoto are enshrined.
+other than shrines
+shoryakuji temple
+nara city
+it was the central temple for the production of soboshu(sake brewed in major temples).
+there is a tradition that seishu was first brewed in this place and there is a monument of the "birthplace of seishu in japan."
+(refer to "origin of seishu.")
+museums and libraries
+otokoyama museum of sake brewing(asahikawa city,hokkaido prefecture)
+the history for 340 years of "otokoyama" which was one of brands for sessen junigo and materials,literatures,sake drinking sets and so on during the edo period are exhibited to the public.
+nanbu toji no sato(hometown of nanbu toji)(ishidoriyacho,iwate prefecture)
+many exhibition facilities for history and documents and materials concerning nanbu toji such as nanbu toji denshokan(museum of tradition of nanbu toji),nanbu toji kaikan(clubhouse for nanbu toji),nanbu toji rekishi minzoku shiryokan(museum of historical and cultural materials concerning nanbu toji),and ishidoriya nogyo denshokan(ishidoriya museum of agricultural tradition)are scattered.
+chichibunishiki sakezukuri no mori(chichibunishiki forest for sake brewing)(chichibu city,saitama prefecture)
+this is a museum established by yao shuzo,chichibu city and documents and tools and equipment for sake brewing during the edo period and materials for formation of goshugura scattered in japan.
+nihon no sake johokan sake plaza(minato ward,tokyo prefecture)
+this is a museum for sake and shochu directly operated by the japan sake brewers association.
+in addition to various exhibitions,around 6,000 relevant materials can be seen.
+the museum is often closed because of events to be held.
+ponshukan(yuzawamachi,niigata prefecture)
+this is a small museum established on the premises of echigo-yuzawa station of the joetsu new trunk line where you can taste almost all sake produced in niigata prefecture,an sakaburo(sake bath).
+gekkeikan okura kinenkan(fushimi ward,kyoto city)
+kizakura kappa country(fushimi ward,kyoto city)
+brewery museum(itami city,hyogo prefecture)
+nihonsakari sakaguradori rengakan(nishinomiya city,hyogo prefecture)
+hakushika kinen shuzo hakubutukan(nishinomiya city,hyogo prefecture)
+hakutaka ryokusuien(nishinomiya city,hyogo prefecture)
+sakashokan(higashi-nada ward,kobe city,hyogo prefecture
+hakutsuru shuzo shiryokan(higashi-nada ward,kobe city,hyogo prefecture)
+kobe shushinkan(higashi-nada ward,kobe city,hyogo prefecture)
+sawanotsuru shiryokan(higashi-nada ward,kobe city,hyogo prefecture)
+hama fukutsuru ginjo kobo(higashi-nada ward,kobe city,hyogo prefecture)
+sakuramasamune kinenkan sakuraen(higashi-nada ward,kobe city,hyogo prefecture)
+kikumasamune shuzo kinenkan(higashi-nada ward,kobe city,hyogo prefecture)
+akashi eijima shukan(akashi city,hyogo prefecture)
+cultural events related to sake
+home events
+toso(new year's spiced sake)/tososan(spices for flavoring toso)
+wakarebi(parting from fire),momo no sekku(literally,a festival of the peach)
+it means to discontinue taking warm sake.
+hanamizake(taking sake while enjoying cherry blossoms)
+natsukoshizake(sake that passed the summer)
+kikuzake,kikunosekku(festival or chrysanthemum)
+it is also time to start taking warm sake.
+tsukimizake(taking sake while enjoying viewing the moon)
+yukimizake(taking sake enjoying a snow scene)
+festivals
+sakematsuri(sake festival)(saijo,higashihiroshima city,hiroshima prefecture)
+doromematsuri(dorome festival)(akaoka town,kami-gun,kochi prefecture)
+doburokumatsuri(doburoku festival)(various places in japan)

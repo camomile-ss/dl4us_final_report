@@ -1,0 +1,12 @@
+ioriten
+ioriten "&amp12349" is one of yakumono(punctuation marks and other special symbols[term used in printing])put at the beginning of a song in japanese.
+it is called "a part alternation mark" in english,and represented as u+303d in unicode and as 1-3-28 in jis x 0213.
+it was originally used as a symbol in utai-bon(chant book)of noh and in renga(linked verse).
+it is also called a mark of song.
+with regard to shape,some theory insists that a mark with two peaks,as shown in the figure,is called ioriten and a mark with one peak which looks like a hiragana character 'へ' (he)is called gatten.
+in a sheet music of a noh song(utai-bon),ioriten is used at the beginning of a word when a part of each noh player including shite(a main actor of a noh play),waki(a supporting actor)and jiutai(noh chorus)starts.
+"へ"-shaped marks were used at least in sheet music made after the meiji period,and they are still being used as of 2008.
+it is not clear whether there were two separate marks 'ioriten' and 'gatten' or the same mark was referred to both as 'ioriten' and as 'gatten.'
+in contemporary writings,when song lyrics are inserted in prose,ioriten is generally put at the beginning of the lyrics in order to distinguish them from the prose.
+with regard to computers,however,a musical note(disambiguation),which is included in jis x 0208,the standard character encoding scheme,is often used as a mark of song in world wide web and e-mail because ioriten is not included in jis x 0208.
+it is said that an opening single quotation mark in japanese("'")was derived from ioriten in modern times.

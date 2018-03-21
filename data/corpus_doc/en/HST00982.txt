@@ -1,0 +1,52 @@
+kidentai(historiographical format)
+kiden-tai is a type of format of history books in east asia.
+format
+kidentai consists of the classifications below.
+in addition,the name of 'kiden-tai' (which is written as '紀伝体' in kanji characters)is the combination of both final characters of 'hongi' (本紀)and 'retsuden' (列伝).
+hongi(imperial biographies)
+descriptions with the annalistic approach of events that happened around emperors or kings.
+liu bang,the first emperor,shi huangdi and so on.
+originally it was compiled on those who had power over the nation,not necessarily on the legitimate emperor.
+kou hongi' (biography of xiang yu)from "shiki" (the chinese historical records)is an example of this.
+"kanjo"(historical records of the han dynasty)consists of 'teiki' (a genealogy of the imperial family)and '后紀.'
+seika(biographies of the lords and eminent people)
+descriptions of the affairs of lords.
+cho seika(biography of lords in zhao),gi seika(biography of lords in wei)and so on.
+seika is said to have meant 'the ones who receive hereditary stipends for generations.'
+originally it was compiled not only on lords but also on 'the ones who are worshiped throughout the ages.'
+koshi seika' (a history of confucius)and 'chinsho goko seika' (histories of lords of sheng chen and guang wu)of "shiki" are examples of this.
+retsuden(a series of biographies)
+it is a biography of individual figures(most of them were bureaucrats who served the countries)or a record of folks of other ethnic groups living in surrounding areas.
+originally the term 'retsuden' (列伝in kanji)seemed to have been used for the history(den,伝in kanji)of titled liege(rekko,列侯in kanji)and called so(the retsuden of han xin,lu buwei and so on.)
+at first 'rekko' (列侯in kanji)was called 'tekko' (徹侯in kanji)but tekko contained a kanji of徹,which appeared in the personal name of the emperor wu of han(han dynasty)(che liu,劉徹in kanji),so 'tsuko' (通侯)was used instead and changed into 'rekko' (列侯)later.
+the time when 'rekko' was used was almost the same period of emperor wu,when sima qian wrote "shiki."
+however,the general rule was no longer existed and there were a lot of 'den' (history),which were irrelevant to 'rekko' (titled liege)in "shiki" such as den of xiongnu,den of korea and den of an unsparing officials,so it may be better to understand that 'retsuden' is just a series of 'den.'
+shi
+the history of each genre such as astronomy,geography,reigaku(etiquette and music)and institutions and so on.
+shu' (書)in "shiki" is an example of this.
+the name varies according to history books like 'ten,' 'ryaku,' 'ko' and so on.
+hyo(table)
+all sorts of chronological tables(annually,monthly).
+saiki
+descriptions of armed forces rising in various areas.
+similar to 'seika,' but saiki is about the histories of forces that rose by themselves.
+it seems that sima qian did not intend to differentiate it from 'seika,' but it started from "jin shu" (history of the jin dynasty).
+shushisho(compilation of a history by imperial edict)
+in order to show that was compiled by a royal command,imperial rescript to compile was sometimes issued("jin shu.")
+shii
+it is a special edition of other ethnic groups' descriptions separated from retsuden("jin shu").
+kokugokai(an instruction of different ethnic languages)
+the exposition of each languages in the case of the dynasties with different races("ryoshi,""kinshi")
+characteristics
+being such a descriptive format,kiden-tai often causes the same articles to be repeated,but shows information on an individual figure and on a nation comprehensively,and enables them to be understood well.
+on the other hand,the method of putting all events in chronological order is called 'henen-tai' (chronological format),the advantage of which is the overall course of events can be grasped easily.
+henen-tai prevailed at first because china had "chunqiu," a masterpiece written in henen-tai,but after sima qian wrote "shiki," kiden-tai took the place of it and all volumes of nijushishi(24 dynastic histories)were written in kiden-tai.
+moreover,japan's "dainihonshi" (great history of japan)is written in kidentai,also.
+on the other hand,the representative work written in henen-tai other than chunqiu is guang sima's "the zizhi tongjian" (the comprehensive mirror as an aid to government).
+there are kijihonmatu-tai and kokushi-tai as a format of historiography other than kiden-tai and henen-tai.
+kijihonmatsutai
+it has a form of historical depiction in which all the causes and the effects of each important affair are described comprehensibly.
+kokushitai(japanese-style chronological format)
+it is a style unique to japan,the historiography based on chronological order with retsuden(biography)of the deceased people,added to obituaries on them.
+later the biographies called kanbun-den,which was developed from kokushi-tai,were written in classical chinese(kanbun).
+in addition,some people have a view that before the establishment of kiki(the kojiki and nihonshoki),japan already had 'japanese kiden-tai'-like format,combined with the two historical books such as "teiki" (imperial records)and "kyuji" (mythical tradition),which were written in the preface of 'kojiki.'

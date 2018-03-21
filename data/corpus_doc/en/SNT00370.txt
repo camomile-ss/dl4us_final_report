@@ -1,0 +1,18 @@
+kokushi taikei(compilation of historical and juridical texts from the fourteenth century)
+"kokushi taikei" is a library of books which collected historic materials essential for the study of the japanese history and added revisions to them.
+it was compiled in the following three series:
+series 1:kokushi taikei and zoku kokushi taikei(supplementary compendium of japanese history)
+between 1897 and 1901,17 books including "nihon shoki" were published by keizaizasshi-sha,then between 1902 and 1904,15 books of the sequel to kokushi taikei were published as "zoku kokushi taikei."
+mainly,this series was compiled by ukichi taguchi and edited by katsumi kuroita.
+9 to 15:tokugawa jikki(the true tokugawa records)
+series 2:kokushi taikei rikkokushi and kokushi taikei ruiju kokushi
+katsumi kuroita revised the already published rikkokushi of kokushi taikei and newly added "ruiju kokushi" to make a series of five volumes consisting of four volumes of "kokushi taikei rikkokushi" and one volume of "kokushi taikei ruiju kokushi."
+this series was published from keizaizasshi-sha from 1913 to 1916.
+series 3:shin tei zoho kokushi taikei(newly revised and enlarged survey of japanese history)
+this series was published by yoshikawa kobunkan inc.from 1929 to 1964.
+66 volumes in total.
+this series was compiled by katsumi kuroita and edited by jiro maruyama and others.
+in the middle of the project,kuroita fell ill in 1936 and passed away in 1946,thus jiro maruyama,masao kuroita and taro sakamoto(historian)set up a team for compiling and editing kokushi taikei and continued the project.
+kokushi taikei was completed in 1964,and the asahi prize was awarded to the chief of the project,jiro maruyama in the same year.
+after that,all the volumes were reprinted twice,in 1998 and in 2002.
+since august,2007,all the volumes have been available for printing on demand(od).

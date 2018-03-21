@@ -1,0 +1,608 @@
+yumiya(bow and arrow)
+the term "yumiya" refers to a tool for hunting which consists of bow(weapon)and arrow.
+it has been used for a labor or business as a mean to get food for living as well as for praying and rituals.
+both in history and at present,it has been a weapon for military as well as an arm for military art and a tool for sports.
+arrows are held in a thin light basket called yazutsu or ebira(arrow quiver).
+a bow is made of a curved thin material(or a material which does not curve)with a string stretched between the tips.
+pushing the bow ahead and the string back with both arms and holding them,an arrow set to the string.
+releasing the arrow after strongly pulling back the string,the arrow flies forward by its elasticityand hits a faraway target.
+a bow is called "sachi" (幸)and also written as 'sachi' (箭霊),which has the same meaning of happiness.
+the term "yumiya" (弓矢)is also read as 'kyushi' and also written as '弓箭' (yumiya or kyushi).
+the term "yumiya" refers to arms or weapons,martial arts,battles(military)or ikusa(war)themselves.
+especially,concerning battles or wars,it is said that the term 'ikusa'(射交矢)comes from the words '射交わす矢(いくわすさ)' (ikuwasusa,that is,arrows which are shot)(the word "矢・箭" is pronounced as "sa" in the ancient word).
+in addition,the term "的" (target)was pronounced as 'ikuha' in ancient word and referred to yumiya itself,which comes from the word '射交わ' (ikuwa).
+summary
+yumiya is a very popular tool for hunting and has been used for more than 10,000 years.
+except for aborigines in australia(where the boomerang is used instead of yumiya),it has been used not only for hunting but also for fishing,for games and fighting all over the world.
+therefore,it has been related to culture,civilization,gods and religions in various parts of the world,and often represented in art,sculpture,historical stories and tradition universally.
+it has an indirect origin as a part a fire making tool or harp,and it is thought to be often related as the origin of stringed instruments in various places of the world.
+the basic form of a bow is classified into the curviform bow of a circular arc and the bending recurved bow of an m-shaped curve.
+in addition,it is classified by length;in japan it is classified into chokyu(long bow,which refers to the japanese bow and also called daikyu long bow,which bends easily)and short bow(curviform short bow),while in western countries,it is classified as a long bow and a composite bow(short and bending compound bow).
+this is a general classification,and the way and meaning of classification in japan does not always correspond to that found in western countries.
+in addition,a bow which yugara(wooden or bamboo part between motohazu(the lower top of the bow)and urahazu-the top of the bow)is flat and the cross-section surface is rectangular,and this is called a flat bow,distinguishing it from others.
+flat bows include those bows used by coastal southeast asian people,japanese bow,a composite bow used by indigenous people around the amur river basin northeast of japan,and a compound bow and a cable backed bow(a bow adding tensioning force)used by american indians on the north american continent.
+various bows and also arrows have been developed from yumiya such as blowguns,darts(called nageya in japan),crossbows(machine bow),varistor(weapon)and so on.
+the big machine bow disappeared and yumiya(japanese bow,yokyu or western-style archery,and so on),blowguns,darts,and crossbows are presently enjoyed as sports.
+among them,crossbows have been adopted as a weapon for army or the police in some countries.
+in addition,yumiya and blowguns are used for hunting as a tool to get food in various parts of the world.
+the structure and effect(flying capability)of yumiya has been developed by trial and error in various parts of the world since the period when the idea of dynamics and parabola(differential and integral calculus)were not created,which led to the development of early machine engineering by producing the machine bow and the catapult.
+in japan,both bow and arrow were basically made of various kinds of 'bamboo,' used differently depending on the physical nature of the materials.
+it can be said to be the first tool made by a type of fiber.
+in addition,a laminated bow made by bonding various types of bamboo and wood together,has contributed the development of gelatin(glue)which is important for light industry in japan,and has created a special bond called 'nibe' (drumfish,the origin of the word 'nibemonai' (flat refusal)).
+this laminated bow made with nibe and glue has basically the same structure as laminated lumber and is bonded together,and is the present constructional material for building made of laminated wood.
+the structure of the cable backed bow also has the same basic principle as various high-tension beams seen in construction techniques at present.
+it is a representative military art in japan that includes ideas from the zen sect(a buddhist sect that strongly maintains the spirit of awaking through ascetic training in india)such as ho-shin(absentmindedness),shi-shin(adherence(to something)),mu-shin(a state of mind free from delusion),zan-shin(physical and spiritual alertness after delivering a strike or thrust),tan-shin(sincerity)and ren-shin(training the mind)with shinto and taoism and established them as an unique 'kokorone' (feelings)in japan.
+in addition,the feeling of 'happiness' originated from hunting and fishing and was called sachi(yumiya or a feeling of happiness),and the word 'shako-shin' (speculative spirit)which shows the idea that feeling was developed from the words 'shinto rituals of yumiya' and 'an action for shooting(射的行為).'
+as for ho-shin,shi-shin,mu-shin(a state of mind free from delusion,shikisokuzeku-form is emptiness,matter is void,all is vanity,and i exist because i think),zan-shin,tan-shin and ren-shin,see the article of kyudo(japanese art of archery)or kyujutsu(japanese art of archery)for details.
+yaba and yokyuba archery ranges run by matoya(stall-keepers)were closely related with yujo(a prostitute)and gambling(a pleasure place for winning prizes such as rifle ranges of smart ball,hot-spring resort,and hotels),that led to the establishment of an act regulating adult entertainment businesses,etc..
+for details,see section of 'a pleasure of kuge(court nobles)and common people' or matoya in this article.
+the transition of yumiya and various conditions
+the development of yumiya has contributed to dynamics,the nature of materials,and machine engineering.
+the important factors of its necessity and transition were the selection of materials for bows and their combination,in particular,to find 'the elastic modulus and elastic limits against the ratio of length of the bow and cross-sectional dimension' (when the cross-section is not point symmetry,add 'the elastic modules and elastic limit against the cross-section and the direction of bending'),and 'the least power to pull and the longest flying distance,' as well as the difference of conditions such as 'shooting from the ground or from horseback,' and 'the mechanization and the ability of automatic fire.'
+it is an important assumption for yumiya to be light and easy to carry both when hunting and when on the battle field.
+(however,a large machine bow ignores the requirement of lightness(mobility).)
+as an external factor,the invention of the gun made a great impact on the development of the bow.
+conditions that determine the development and characteristics of yumiya
+the structure of yumiya(flying distance and the puller)
+material
+it should be viscous.
+it should be elastic and not brittle with reguard to both strength and toughness.
+historically,it has been made of wood.
+combination of materials
+the combination of different materials were selected for strength and flexibility,difficult to break and the ability to return to the original form without having to increase the size of the cross-section.
+in japan,lightness was added to these conditions.
+on the other hand,the length of the bow was made longer so not to decrease flying distance,and the flying distance increased in depending upon the same puller's force.
+the laminated bow
+this is a bow made of layers of flat pieces of wood,bamboo and some wood sections bonded together to provide strength and toughness in the right places.
+the compound bow
+it is also called a composite bow,where parts are strengthened by covering them with leather or metal to withstand the stress of movement and to provide more force in propelling the arrow by using a tendon of animal for the bow string,adding tonicity.
+the cross-section area of the bow
+if the cross-section is larger,the elastic limit becomes higher,but the elastic module becomes lower and the puller needs more strength to pull the bowstring.
+the bow length
+as the bow length becomes longer,the elastic module becomes higher based upon the cross-section and the same pulling power and the elastic limit becomes lower and the weight becomes lighter,but the flying distance increases.
+the mechanization and the increasing size of the bow
+as a result of pursuing flying distance,destructive power,shooting more than one arrow at the same time,the bow was mechanized by utilizing the principles of levers and pulleys or incorporating gear,pulley and spindle and the increase in size accordingly.
+the machine bow
+machine used to throw stones
+selection of materials for the bow string
+the structure of bow
+the form of the arrowhead
+its penetration energy and destructive power
+the ability for the arrow to fly in a straight line
+shaft
+it should be of uniform material,length,and weight.
+some shafts are devised to be broken if it hits a hard ground surface or a wall in order not to be utilized in return by the enemy.
+arrow feathers
+material,form,the number and the length of the arrowhead
+making use of other things to throw or catapult(stone,metal ball,cannonball and so on)
+ways to shoot an arrow other than with a bow(blowguns,darts,and so on)
+the structure of yazutsu or ebira(quiver to hold arrows)
+there are various forms and they are different around the world.
+the mobility,lightness,storage of arrows,the ease to pull them out to load and so on.
+other conditions
+the power of arm and the angle of shooting of the puller
+the speed of the arrow
+the highest instant rate for an arrow is about 90 meters per second except with particular bows such as the machine bow,which depends more on the ability of bow,the form of arrow and how strong a bow string is pulled.
+the ability of automatic fire,destruction power,weight,mobility and the place of usage
+production
+the circumstance of obtaining materials and to mass produce
+purpose
+hunting
+the nature of aiming at animals(legerity and flying ability),number,size,living circumstances,and so on.
+battle
+the mobility of the enemy,numbers,strategy,landscape,and geographical features at the battlefield.
+games
+special types or the same yumiya are used under certain conditions.
+religion(rites and festivals,and ceremonies)
+particular yumiya are selected according to the materials they are made of in consideration of decoration or the sense of value rather than the capability as yumiya.
+history
+hunting and magic
+which condition is selected determines the form,structure,capability and characteristics.
+and the selection,direction and development were greatly differentiated between japan and other countries.
+the first form of bow was simple with a bending form and a short length,which was common anywhere in the world.
+it was made of single piece of flexible wood and others were curved,and were short in length.
+this was because in early times when using yumiya,it was used mainly for hunting and sometimes for fishing,and men were strong enough to handle yumiya and hunting was usually a job for men,although the required flying distance was different depending upon the field of vision.
+in addition,this is also because the battles between different regions did not always happen so,there was no risk to life,and they did not need to improve yumiya if they could obtain enough food for living.
+in the existing primitive religions in various parts of the world,yumiya and blowguns were not only a tool for hunting,but also a tool for praying,fortune-telling,magic and so on performed by a shaman who was the same as a chief.
+the reason for this is considered to be dipping arrowheads in poison(it is said that there is no custom to dip arrows in poison with regard to yumiya in japan).
+the preparation and knowledge of medicine herbs are commonly regarded as the main role of shaman in each region.
+in addition,in polytheistic civilizations in various parts of the world,yumiya is considered to be a tool with spiritual power and a curse and is described in the mythologies on ancient greece,hinduism,japanese shinto,and so on.
+ikusa(battles)
+however,along with the development of civilization,the gradual increase of population,and the establishment of social structure such as countries and land,large wars had occurred all over the world.
+one of the tactics created in order to take advantage during a war was attacking from a faraway place,and yumiya played an important role on the battlefield.
+the troops with yumiya,archers and foot soldiers with bows were created and various tactics were developed.
+and the short bow had been improved because it was suitable for shooting from horseback(such soldiers were called mounted archers).
+(especially,bows used by equestrian people were called tankyu(short bow))
+however,although there were examples in which a long bow was used in places other than in japan,they were usually simple bows which were hard and heavy,and used by specially disciplined foot soldiers that had power,instead of being used on horseback.
+in addition,there was a bow which sent an arrow further than japanese yumiya,but it was atypical and lacked of versatility.
+japan
+on the other hand,in the production of the japanese bow,a particular gelatin(glue)was created,which led to the development of a compound bow(also called a laminated bow)made of laminated compound materials such as bamboo and wood using gelatin to bond it together.
+the long bow was light,provided a long flying distance and was easy for women to pull,and was called chokyu(long bow).
+in addition,it could be used on horseback because it was light,flexible and had effective long range and because setting an arrow was changed from the middle point to a lower position.
+although the long bow itself was unique in the world,the unique style to use chokyu on horseback was established in japan.
+in addition,the material of bamboo was changed to the one which had different characteristics(closer to presently used carbon fiber)by adding heat or other processes,and the composition of chokyu became complicated.
+a bow came to be made of compound materials in countries other than japan,but was short and totally different from the point of selected materials,the method of improvement,construction,and directionality.
+it was proven in the war between japan and neighboring countries such as during the mongol invasion attempts against japan,in which the flying range provided by the japanese bow was greater than the mongolian bow.
+diversification and declination
+in european and chinese civilizations,a mechanized bow and a large machine bow was invented which provided destruction power and a long range,and cannonballs were also used with them as well as arrows.
+it is said that they showed great efficiency in an attack against a castle constructed of hard stone.
+in the history of militaries in various parts of the world it had been used by nations in various strategies,and the effects had been transmitted through books on strategy,pictures and so on.
+however,since machine bows came with the problem of weight and the capability of automatic fire,it was difficult to use them on the usual battlegrounds and especially in sea battles.
+in addition,in japan,although the techniques of the mechanized bow were transmitted from the chinese continent,it was not necessarily used because the efficiency of the japanese bow did not flourish after the introduction of the matchlock gun.
+and the invention of gun caused yumiya to disappear from the battlefields all over the world except for some machine bows.
+yumiya for present hunting,games,military arts,shinto rituals,rites and festivals
+in addition,this was also true in japan,but yumiya developed into japanese archery,kyudo(japanese archery),used in rites and festivals and culture during the edo period so,it did not disappear.
+(however,yumiya had been used in shinto rituals since the heian period)
+now in various parts of the world,archery games with yokyu(western-style archery)and kyudo with the japanese bow have been often performed as sports or a method of training the body and the mind.
+in japan yumiya has been often used in festivals or ceremonies.
+for examples,yabusame(horseback archery)in which a person shoots an arrow from a galloping horse,toshiya(long-range archery)and hamaya(ritual arrows to drive away devils)can be seen in almost the same style as those in past times.
+in addition,hunters who try to live together with nature and live humbly get food for living by yumiya even today.
+yumiya in japan
+the meaning of yumiya
+in ancient times,yumiya(like a fishing rods and hooks)were called 'sachi' (happiness)because hunting brought sustenance for life.
+the word 'sa' was an old sound of the chinese character "箭"(矢)which meant arrow or hook,and the word 'chi' was written as "霊" which showed spiritual power.
+yumiya was a tool for hunting having spiritual power as well as showing happiness.
+it also had meaning as a tool for praying or the magic of fortune telling because it had spiritual power.
+it is a typical tool to express the unique view of religion in japan which is expressed in the phrase, 'god exists even in tools and tools have lives' (seen in the custom of having a memorial service for dull and broken needles and the graves for tools).
+in addition,in accordance with the changingf social structure,the word yumiya came to refer to 'ikusa' itself and eventually refered to the 'military' itself.
+it was also related with religion(shinto,buddhism,and folk beliefs)and the idea of 'michi' (way),forms a part of the concept of value and heart in the way of military arts such as zan-shin and the engi(writing about history)as in shinto rituals or in the concept of values and hearts such as hare(noticeably cheerful and formal situations or such places)or shako-shin by a mixture of fortune telling or shinto rituals and pleasure,and consists of japanese culture.
+chokyu(daikyu long bow)and short bow
+japanese yumiya is officially called wakyu and is classified as chokyu.
+in ancient times it was also called oyumi(different from taikyu of china in the sense of meaning and structure).
+it was originally a long bow mainly made of bamboo as well as the arrow,and the position to set an arrow is on the string below the center.
+it is a long bow used on horse and a unique yumiya seen only in japan.
+this is described in "gishi wajin den" (the first written record of japan's commerce),which shows that it has been produced in the same form as the present type since ancient times.
+in addition,there was another yumiya not used for battles nor hunting,called yokyu.
+this was a short bow which was also called koyumi,but it had a different form from those generally seen in eurasia with a simple arc shape.
+this yokyu was used in official kyujutsu performed in the 'seated position.'
+it was used by kuge for pleasure during the heian period and was used by common people for pleasure during the edo period.
+during the heian period,there was another yumiya called suzume koyumi(sparrow short bow,very short bow)which was used as a toy for children,and the name of suzume was regarded to show small things or children.
+in addition to these,there was a bow called azusayumi made of japanese cherry birch and used for shinto rituals and prayers by the shinto priesthood(shinto priest or miko-a shrine maiden).
+there were various bows in size and shapes such as a short bow of maruki-yumi(bow made from a small sapling or tree limb,often catalpa wood,that had a centered grip),and long bows actually used for festivals and rituals and in the shinto rituals of oyumi-hajime(honorable first bow).
+among azusayumi,used as a tool for magic by azusa-miko(shaman in kuchiyose-spiritualism)was a short bow and she carried it around in a small bamboo trunk.
+unique arrows
+in japan while crossbows and catapults were not used,there was a way to shoot an arrow without using a bow.
+moreover,there were similar arrows in various parts of the world.
+teya(hand bow)
+a method to throw a normal arrow of yumiya by hand.
+nageya(dart)
+an arrow made assuming that it would be thrown as a weapon and a tool of pleasure(see the following description on toku(game of pitch-pot)).
+as a weapon,uchine,arrow feathers about 90 cm long,as long as a short spear,were attached to it.
+blowgun
+mainly used as a tool of pleasure for gambling during the edo period.
+in addition,it was also regarded as having been used for hunting small animals.
+moreover,there is a description in some ninjutsu-sho(book of ninjutsu)and a few genuine arrows still remain,but it is not sure to what degree they were actually used.
+a dart of blowgun was made of needle or thin bamboo which was processed to the shape of needle with arrow feathers made of animal hair or paper which processed in the shape of a circular cone.
+the shape of the tube varried from an octangular prism or circular cylinder with long pieces of wood glued on which a spiraling groove was cut inside the bamboo processed evenly or one made of rolled japanese paper coated inside and outside with urushi japanese lacquer.
+at present,some schools of budo(martial arts)adopt blowguns as one type of training and a few people practice it as a new budo.
+kiya(wooden bow)and mokuzoku(wooden bow)
+they were made of wood.
+used for hunting,games and the practice of kyudo,and also used for shinto rituals such as toshiya and hogu(a tool for capturing something or someone).
+for a more intimate classification,see the description on kiya and mokuzoku in the section of hogu before the muromachi period in the article of hogu.
+arrows which whiz and was used for shinto rituals and signs to start a battle.
+kaburaya(a whistling arrow)
+also called nariya on which kabura(the round tail of an arrow)was attached.
+it is said that since the arrow with kabura made a particular wind roar when it was shot,it was used for signaling the start of a battle and for purging a noxious vapor.
+it was used as a sign for the start of kisha-mitsumono(three archeries while on horseback,inuou-mono,kasagake,and yabusame).
+for details,see the section on 'kaburaya.'
+as to the history of yumiya in japan,see the section on the japanese bow.
+the structure of the bow and arrow
+japanese bow
+a bow
+yumi(bow)
+yugara
+nock(of a bow)
+string
+arrow
+arrowhead
+shaft
+no(spatula)
+arrow feathers
+nock of an arrow
+for structural details of the bow,see the article on the 'japanese bow.'
+for structural details of the arrow,see the article on the 'arrow.'
+yokyu
+the term "楊弓" is pronounced yokyu and also called a short bow.
+bow
+it is about 85 cm long and has the same basic structure as the japanese bow.
+the typical yokyu is made from a willow tree,but some of them are made from the euonymus tree and are called mayumi.
+arrow
+it was about twenty-seven centimeters long and has the same basic structure as the japanese bow.
+yazutsu(quiver)
+it was also 'yaire' and its image is seen on haniwa(unglazed terra-cotta cylinders and hollow sculptures arranged on and around the tomb mounds-kofun)excavated from remains of the ancient times.
+since yumiya had been important for kuge and samurai families in japanese history,yazutsu also had changed and segmentalized for ceremonies and for battles.
+especially in battle,it was improved as well as for yumiya,so it can be thought of as a shadow hero,an arm to support yumiya.
+the following are some rough classifications of yazutsu and this does not include all of them.
+the classification of yazutsu
+yugi
+yanagui
+ebira
+utsubo
+shiriko
+target
+target and yumiya
+in ancient times,a target meant yumiya.
+matoya(target practice)means a target and an arrow and also means an arrow which is shot at a target instead of an enemy or used in a game.
+there are two kinds of matoya,one for practice and another for rites and festivals.
+it refers to the activity of shooting a target as a practice of yumiya(target practice).
+or it refers to matoba which houses a dirt hillock and targets.
+the word matoyumi refers to a bow used to shoot a target instead of the enemy or used as a game.
+there are two kinds of matoyumi,one for practice and another for rites and festivals.
+it refers to target practice.
+or it refers to matoba which houses a dirt hillock and targets.
+matoba
+a place to practice yumiya was called matoba.
+in addition to this,there are synonymous words such as yumiba,shaba,yaba,yokyuba and so on.
+the place of improving yumiya skills is called matoba,yumiba and shaba,and the place for gambling,managed by matoya,tends to be called yokyuba in the kansai region while it is called yaba in the kanto region.
+the word shaba also includes the meaning of practice field for guns.
+the classification of yumiya targets
+target for military art
+matoba
+for details,see the article on mato(kyudo)and kyudo
+makiwara(the ceremonial way shooting a straw target)
+for details,see the article on makiwara(kyudo)
+a target for pleasure
+a yokyu target for kuge
+a target of yaba and yokyuba managed by matoya
+one that imitated matoba and makiwara targets were generally used,although there were little differences.
+a wind-up target
+invented during the edo period and had been seen in major cities,post-station towns and hot spring resorts until the taisho period,but not be seen at present.
+made of a wooden board on which an ogre,specter and a bad fellow were drawn,and it had a mechanism that moved depending on where the arrow hit.
+there were small-sized wind-up targets which mainly used for blowgun shooting.
+the present 'moving ogre' doll(oni-nakase,which is literally 'crying ogre')the target used for throwing a softball,roars and moves if a ball hits,can be traced back to the wind-up target.
+metta mato(metta target)
+a target hidden by a blindfold or cloth draped in front of the target.
+the name of a target related to the word "metta-yatara."
+the word yatara is considered to have come from gagaku(an ancient japanese court dance and music)and this is only a phonetic equivalent,but the word 'metta-yatara' also means that 'you can hit it without marking it down if you shoot it alot.'
+the word metta means 'many things disappear,' that is,having no clue,the word tara means plenty as the word tarafuku shows,and the word yatara can be understood as 'shooting many arrows,' which indicates that the origin of the word is in yumiya.
+the words which came from 'matoba for military arts' and 'matoba managed by matoya' are as follows.
+itomeru(hit and get)
+a metaphor meaning to get something
+the words 'hit kinteki' is a metaphor for getting something you desire.
+kinteki(金的,literally, 'gold target')
+a metaphor for something you want to get.
+the expression 'hit kinteki' is a metaphor for getting something you desire.
+shako-shin
+an exciting feeling about good luck or money and goods brought by chance.
+it is the changing feeling experienced by people who gamble caused by their changing expectations on the gamble.
+shu-teki
+it is a metaphor expressing that a devil or ogre is exorcised.
+a ceremony to remove an arrow from kinteki or ginteki(銀的)in the matoya ceremony during shinto rituals.
+zuboshi(bull's-eye)
+it means to find the hidden meaning or intention.
+tekichu(bull's-eye)
+it means to come up to one's expectation.
+or something as expected.
+mato(target)
+a person or something which gets attention.
+for example,it is used for 'mato of envy' and 'mato of attack.'
+matohazure(out of focus)
+it means not to be able to grasp the real intention or important points.
+or the situation when an intention is not understood.
+the antonym is 'mato wo iru' as follows.
+mato wo iru(to the point)
+the words seikoku wo iru(to the point)is one of the synonymous terms.
+it is sometimes confused with 'to wo eru,' which comes from 'lottery,' although shako-shin is commonly seen among them.
+meboshi wo tsukeru(to mark)
+it means to find out the general nature of something.
+pleasure of kuge and the common people
+while the samurai culture put a value on the literary and military arts,court noble culture was characterized by elegance and pleasure,that is,hobbies and arts which were told as kacho-fugetsu(beauty of nature,the traditional themes of natural beauty in japanese aesthetics).
+during the edo period,common people became rich and began to enjoy an affluent life,promoting court noble culture among them as a culture or manners and customs.
+yumiya and similar target practicing games flourished during this period,seen in festivals and ozashiki-asobi(playing games with geisha-japanese professional female entertainers at a drinking party)in japan in some different styles still now.
+yokyu
+mainly used for pleasure by kuge during the heian period.
+it was an official kyujutsu performed while seated,trying to reach conclusions with scores in a game.
+later,during the edo period it was enjoyed by common people as a target practicing game for gambling managed by matoya,and flourished during the latter part of the edo period even as an undesirable aspect of entertainment and amusement.
+it lasted until the taisho period,but was regarded as an undesirable gamble or entertainment and amusement and was often regulated or forbidden.
+matoya
+during the edo period,a target practicing game used for gambling was created originating from yokyu of kuge and matsuriya(festival arrow)or matshriyumi.
+it ranged from large-sized yokyu shops opened at festivals,sando(an approach to a temple)or precincts of a shrine on the days of festivities,monzen-machi(a temple town),toriimae-machi(town in front of torii-shinto shrine gateway)and yukaku(red-light district)to small shops called yaba,where yumiya was used to hit a target and prizes or money was given in accordance with the positions or types targets.
+yatori onna(women working at archery hall)
+an employee who gathered arrows at the yaba and yokyuba archery ranges,and while avoiding arrows shot by guests she gathered them as a kind of 'performance' to delight them.
+it is said that an arrow shot by a guest sometimes hit her so that she wore thick cotton on her buttocks to act as a shield.
+in addition,in some shops yatori onna provided even sexual intercourse as an award.
+moreover,the gathering of arrows were not necessarily done by women in all periods.
+because of the danger involved,a dangerous place became known as yaba,which led to 'yaba,i' slang for dangerous thing.
+toko(game of pitch-pot)
+it is also called tsubouchi,a kind of dart devised in china,and target practice was conducted by two persons.
+the game of throwing an arrow into a pot,introduced during the nara period and was performed among kuge.
+it fell into disuse because its movement and rating were difficult,but was revived during the edo period,and it is said that tosenkyo,the japanese game(throwing fans to target)was created based on toko.
+since all people were fascinated by toko and tosenkyo without regard to social status,the bakufu(japanese feudal government headed by a shogun)often forbade it.
+blowgun
+various rotensho(stallholders)appeared in accordance with the development of the culture of festivals during the edo period.
+among them,the blowgun was used for target practice in which a round wooden rolling target was put on a stage and was shot at by guests using a blowgun.
+the target was divided in a radial fashion and the prizes were different depending on where the dart hit.
+it is basically the same as today's drawing for a lottery using a bow gun and the draw for presents using darts in tv programs.
+yumiya as shinto rituals and rites and festivals
+an athletic sport
+it is also considered an athletic sport aiming to improve martial arts as well as shinto rituals.
+kisha(to shoot an arrow from horseback)and kisha-mitsumono
+it was called umayumi in ancient times.
+the expression 'a bow is mitsumono(three things)' means kisha-mitsumono and means 'these three were important as the accomplishments of samurai.'
+this is because samurai could not accomplish kyujutsu without mastering equestrian art.
+kisha and kisha-mitsumono are classified into horseback archery for a martial art.
+inuoumono(dog-hunting event,a skill of an archer)
+kasagake(horseback archery competition)
+yabusame
+busha(to shoot an arrow while walking)
+it was called jarai or kachiyumi in ancient times.
+a martial art of yumiya performed in the standing position.
+dosha(long-range archery)
+it means toshiya and a kind of kyujutsu as a martial art,performed to tell someone's fortunein ancient times(upon which there are various theories).
+at present,it is performed mainly by people who accomplish kyudo,and they practice it in order to participate in toshiya,which is an opportunity to show their ability.
+yumiire/kyusha ceremonial shooting
+a festival in which actual performance to shoot yumiya is held as a shinto ritual.
+tsuinashiki(ceremony to drive out evil spirits)
+see the following section 'yumiya with the power to fight curses and perform exorcism.'
+shooting deer ceremony
+it is also simply called shikauchi(shooting deer).
+it is said to be originated from the suwa-taisha shrine during the kamakura period and spread to the suwa-jinja shrines in various parts of japan.
+however,at present,it only remains in the suwa-jinja shrine at notose,horai-cho,aichi prefecture.
+a shinto ritual to shoot a male and a female deer made of straw,and rice cakes are placed in the stomach of the female deer.
+in this festival,visitors to shrine scramble to obtain these blessed rice cakes after shooting the straw deer.
+oyumi-hajime(honorable first bow)
+it is a shinto ritual to tell a fortune about a good or bad harvest for the year,and shinto priests of judge the fortune by the results of a target shot by azusayumi(a bow made of japanese cherry birch).
+it is also called miketsu,yumigito,a shinto ritual of hikime or a shinto ritual of busha(奉射).
+matsuriya(festival arrow)and matsuri yumi(festival bow)
+these are the shinto rituals or festivals performed to wish for a good harvest.
+the character is the same as the one mentioned above oyumi-hajime,but the arrow is shot by a representative person of the region such as fukuotoko(the luckiest man)instead of the shinto priest.
+it is also called yumi matsuri(bow festival)or yumi-hiki(archer).
+yaguchi iwai(shinto rituals)
+this shinto ritual which had been practiced since the kamakura period,and was a celebration for when a samurai shot game for the first time.
+it is also called a shinto ritual of yabiraki(archery).
+for details,see the section on yabiraki.
+kagura(sacred music and dancing performed at a shrine)
+it is a dance which shows shooting yumiya.
+yumitorishiki(bow-twirling ceremony at the end of a day of sumo wrestling)
+this is a dance performed as a shinto ritual after sumo wrestling and is a kind of kagura.
+in addition,the word 'yumitori' means samurai or bushido(the code of the samurai)and a bow is given as an award.
+therefore,the sumo wrestler can be said to be yorishiro(object representative of a divine spirit)in a shinto ritual as well as miko,and a person who excels in martial arts and as a samurai at the same time.
+jinrin(the demon)
+this is a kagura that the emperor chuai employed to get rid of the ogre named 'jinrin' who had wings to fly in the sky by using yumiya which had the spiritual power of the god,amenowakahiko.
+as to the yumiya with spiritual power,see the description of amenowakahiko in the following section of 'gods and yumiya.'
+equipment used in rituals
+in shinto rituals each bow and arrow is thought to have spiritual power and special meaning.
+(hikime no gi opposes meigen no gi)
+hikime no gi(hikime ceremony)
+this is a shinto ritual to provide spiritual power to an arrow by attaching kabura.
+for details,see the section on the whistling arrow.
+meigen no gi(ceremony of resounding bowstrings)
+this is a shinto ritual to provide spiritual power by using a bow like a musical instrument.
+see the section of meigen no gi.
+hamaya(ritual arrows to drive away devils)and hamayumi(ceremonial bow used to drive off evil)
+each bow and arrow individually has spiritual power.
+the word hamayumi(破魔弓)is also written as浜弓.
+see the following section on 'the yumiya regarding curses and exorcism.'
+military art
+military art
+it is a tactic and technique for samurai during battle.
+kyujutsu
+martial art
+it includes the mind and way of life in tactics and techniques,at the same time,for samurai during battle.
+kyudo
+accomplishments
+accomplishments of bow
+in this case the word accomplishment means technique.
+in ancient times,yumiya had been practiced aiming an improvement of hunting skills.
+however,in medieval times when the class system of feudal society was established,farmers,artisans,and merchants were not allowed to learn about arms and samurai postures.
+although yumiya and sumo were forbidden in some ages and some regions,they were allowed for common people to accomplish as one of the shinto rituals.
+especially since matsuriya and matsuri yumi were performed actively as a shinto ritual,many common people who might have been selected as an archer to tell fortunes in the region went to matoba and learned from the masters.
+unlike kyujutsu and kyudo,they could not get a license or open a new school.
+however,some people succeeded in this stream and still accomplish yumiya at matoba without any obsessiveness about achieving rank.
+as for kyujutsu,see the article on kyujutsu.
+as for kyudo,see the article on kyudo.
+yumiya in the east
+yumiya
+tankyu
+it is the short bow that spread in a broad area of eurasia from east asia to china and mongolia and was mainly used by equestrian people.
+in japan there is only the classification of daikyu long bow and short bow,and the word tankyu was created because it was different from a short bow in the shape of an arc.
+in the history of chinese civilization,it is simply called a bow because there was no long bow.
+special yumiya
+dankyu(longbow made of bamboo)
+it is a very unique bow in china which shoots a ball instead of an arrow,and it was used in the performance of sangaku of tang which was one of the origins of sarugaku(form of theatre popular in japan during the eleventh to the fourteenth centuries)or for the pleasure of the common people,although it was originally a weapon.
+in addition,since its principle and structure are similar to a slingshot,pachinko(japanese pinball)is also called dankyu.
+the two dankyu which seem to have been used for playing games are housed in the shoso-in treasure repository in nara prefecture.
+yumiya called a machine bow.
+do(slingshot)
+this is a machine bow made in china.
+it is also written as taikyu(literally, 'long bow'),but is different from oyumi(long bow)in japan both from the viewpoint of meaning and structure.
+it has almost the same structure of that of the crossbow in western countries,and the resemblance is also pointed out.
+rendo(multiple bolt crossbow)
+it is an automatic do which was made in order to make up for the disadvantages of the do which could be used without a break.
+shodo(chinese large-sized bow)
+also written as shoshido.
+this is a large machine bow made in china which can shoot cannonballs and stones as well as arrows,and called a catapult in western countries.
+chinese crossbow
+this is the shodo made in china which can shoot cannonballs and stones as well as arrows,and especially refers to one fixed on a castle wall.
+yumiya in western countries
+yumiya
+yokyu(western-style bow)
+it is a short bow that spread all over europe,suitable for the use on horseback.
+it sometimes refers to the yumiya used for an archery during an olympic event,but the english word 'archery' means all target practice that uses yumiya,so that yabusame is also expressed as archery in english-speaking countries.
+target practice using a gun is called shooting,which is a relative term used in archery.
+it is a kind of composite bow and has no clear distinction with tankyu in the east regarding classification,and it is simply called a bow in the chinese civilization.
+long bow
+it refers to long bows in general and is used as a relative term for a composite bow.
+japanese long bow and the long bow of wales,the united kingdom are included in this category.
+it needs an amount of strength to use it except for the japanese bow,and since almost all of them are simple bows and are heavy it is said to have been used by foot soldiers.
+the long bow is so particular it can hardly be seen in areas other than japan.
+yumiya called machine bows
+cross bow
+it is also known as a bow gun.
+although it can be drawn with little power and will shoot an arrow strongly,it can not be used continuously.
+in japan it is also called a bow gun because of its shape combining yokyu and a gun.
+varistor(weapon)
+it was a kind of weapon used to attack a castle in europe.
+it was a big machine bow and could shoot arrows and also cannonballs.
+it had a fixed style with a big bow gun,a shield and stepladder.
+catapult(rock-throwing machine)
+this is a big machine bow called a catapult.
+it mainly shoots cannonballs and stones so that it is considered to be a machine or weapon rather than yumiya.
+(since it did not originate from yumiya,the catapult of this section does not include the rock-throwing machine with a rope called a sling,which is used for fight festivals or leading livestock(llama or sheep)of depasturage by the aborigines in peru or the people who are considered to be descendants of the inca,and also not include the one which is called a slingshot or a pachinko)
+quivers other than found in japan
+in japan it is a design on haniwa,and a primitive man discovered in europe and called the iceman also had a quiver.
+quivers,as well as yumiya,can be seen all over the world except with the aborigine in australia.
+they were set on a horse with a belt or carried on ones' back tied with a rope on the hip or back,arrows were carried in it.
+some of the quivers had a cover since arrow feathers could not be removed on a rainy day.
+yumiya and religion
+although the gods with yumiya are also seen in esoteric buddhism and buddhism as well as hinduism,they are gods originating from hinduism or mixed with gods of hinduism.
+there are some common points between the gods with yumiya in greek myths and the gods with yumiya in hinduism.
+in japan,there is one word, 'yumiya-shin' (the god of the bow and arrow),which means emperor ojin(hachimanshin-god of war).
+the number of hachiman shrines that enshrine the emperor ojin is the second largest after the inari-jinja shrines,and they have been worshipped broadly.
+in addition,the word 'hachiman' has been historically used when people wish for good luck on yumiya,fate,or odds.
+the word hachiman includes both the meaning of prayer and yumiya and is the origin of the word shako-shin.
+therefore,it can be surmised that yumiya has been worshipped since ancient times.
+in addition,hachimanshin(god of war)has been also known as hachiman daibosatsu(great bodhisattava hachiman)and can be seen in the common expression, 'namuhachiman' (a shinto god of war).
+because of the separation of buddhism and shintoism by the meiji government,hachiman daibosatsu disappeared.
+however,the common people continued to worship hachiman daibosatsu and the word 'hachiman daibosatsu' has often been used in situations related with shako-shin still now.
+gods and yumiya
+greek myths
+in greek myths there are the stories related with yumiya of apollo,artemis,and eros.
+the tale of the tragic love between apollo and daphne which was triggered by eros's yumiya is the origin of the daphne crown which is given to the winner at the olympic games.
+apollo
+apollo is a son between zeus and leto and is the twin brother of artemis,and he is the god of yumiya with 'a golden arrow' because he is the sun god.
+in addition,he is also the god of the harp regarded to originate from yumiya.
+artemis
+artemis is the son between zeus and leto and is the twin brother of apollo,and he is the god of yumiya with 'a silver arrow' because he is the moon god.
+eros
+eros is a god with 'a cursed yumiya' that can control people's love.
+she has two arrows;the one with a golden arrowhead and another with a lead arrowhead.
+when someone is shot with the golden arrowhead,that person falls in love with a person who is shot with a lead arrowhead,the person shot by a lead arrowhead can not love the person who is shot by a golden arrowhead.
+cupid
+cupid is the god with 'yumiya for love' to help the success of love,who originates from eros and is imagined to be an angel.
+"kojiki" (the records of ancient matters)and shinto
+the emperor ojin
+in the "kojiki" the other name of homudawake no mikoto(emperor ojin)is described as otomowake no mikoto originating from the fact that the muscle of his arm had been like tomo(a tool for yumiya).
+therefore,it is enshrined at various shrines as the god of yumiya still now.
+hachimanshin
+it is also called hachiman daibosatsu and refers to emperor ojin,and is the god of yumiya seen as the main god of hachiman sanshin(three gods)with the other gods of empress jingu and hime no kami.
+in addition,it is the word of origin of 'namuhachiman,' invoked when people wish for good luck with shako-shin,not only in shooting arrows.
+yamasachihiko
+yamasachihiko(山幸彦)is also written as山佐知彦and the god of hunting with yumiya,well known in an old tale.
+he was the central character of the tale with umisachihiko in which the word 'sachi' (happiness)meant 'yumiya and fishing rod and hook,' and the word 'yama no sachi and umi no sachi' came to show games of hunting and fishing in later ages.
+amenowakahiko
+amenowakahiko(天若日子)is also written as天雅彦and the god of yumiya who has amenomakagoyumi(bow)and amenohabaya(arrow)with spiritual powers.
+there are various expressions such as amenokagoyumi,amenohajiyumi and amenokakuya.
+hinduism
+shiva
+this is the god with the vajra club,spear,yumiya and sword in his four hands.
+the bow is called pinaka and the arrow is called paspata(パスパタ).
+visnu
+this is the god who has a bow called sarnga made of the sunlight and an arrow with a wing made of fire and sunlight.
+indra
+this is the god who controls wind,rain and thunder and uses a rainbow as a bow.
+kama(hinduism)
+this is a god with the 'yumiya of love' consisting of 'the bow of sugarcane' and 'arrows of five flowers.'
+aizen myoo
+it originates from kama and is called aizen myoo in buddhism and esoteric buddhism,who is the highest god in heaven with a bow.
+yumiya with the power of the curse and exorcism
+in various cultures,yumiya had been perceived as special because it could shoot a faraway enemy or game without touching it,for example,it was called 'toya flight shooting or long-distance arrow(archery)' in greek myths and japan,given a sense of magic using names such as 'yumiya of eros' or 'amenokaeshiya(arrow).'
+in addition, 'meigen' (resounding bowstrings),the present 'hamaya' (ritual arrows to drive away devils)and 'hamayumi' (ceremonial bow used to drive off evil)are used as a weapon or musical instrument to exorcize invisible monsters and devils.
+it is said that these are the symbols of magically signified power of yumiya appearing in myths,legends and so on.
+in addition,in japan,animism,a primitive religion,is still believed in strongly and yumiya has the aspect as a tool to tell fortunes.
+the reason why the chinese character '強' (strong)and '弱' (weak)include the chinese character of弓(bow)is that it is the symbol of the force.
+notice that the force specializing in magic and falling into mere decoration was expressed as '弱' (this character shows the figure of a bow with decoration).
+in japan,this magic power of the bow can be seen in the word meigen,and during the heian period a ceremony was held to make asound by striking the string of a bow by samurai at the imperial palace in order to avoid evil spirits that came during night.
+judging from this practice,a bow can be thought as one of the origins of string instruments in various parts of the world and the original bow was sometimes used as a string instrument instead of the yumiya used for ceremonies.
+for example,a harp is a typical music instrument originating from the bow and its form remains.
+even now,some people in some regions enshrine yumiya as an amulet,exorcism or barrier at the entrance or on the roof.
+in ancient times,in the itsubun(a composition previously existed but doesn't exist now)of "yamashiro no kuni fudoki" (records of the culture and geography of the yamashiro province)there is a tale that tamayorihime became pregnant caused by the flown 'ninuri no ya' (bright-red arrow)and delivered kamowakeikazuchi no kami,which is also the tale on the origin of the kamo-jinja shrine.
+the word ninuri means the red color related to red religion(赤宗教)and folk culture,and it is pointed out to have had a magical meaning.
+the phrase 'shiraha no ya ga tatsu' which means to be selected among people originates from the tale which has been transmitted in various parts of japan,that is, 'an arrow is shot as a sign on the roof of the house of which daughter becomes a victim of god or a monster,' so that it does not have a good meaning originally and shows the spiritual aspect of yumiya.
+the tale of cleaning up of nue(japanese legendary creature)in "heike monogatari" (the tale of the heike)is well known among common people.
+the story is as follows.
+when the emperor was sick in bed,minamoto no yoshiie stroked the string of the bow three times,then,the evil spirit disappeared and the emperor recovered.
+however,the head of the disease did not die and continued to threaten him.
+minamoto no sanmi nyudo yorimasa(minamoto no yorimasa)was selected as a leader to attack the evil spirit and got rid of the monster called nue(a monster with a monkey head,raccoon dog's body,tiger's paws and feet and a snakes' tale,which was originally imagined by an eerie voice of a white thrush.it is also said that the figure was not clear).'
+this description shows that yumiya was believed to have the power to exorcise evil spirits as a musical instrument and the power to get rid of a monster as a weapon.
+as to amenokaeshiya,see the section of the "kojiki" in the article of 'arrow.'
+word to show 'exorcism and purification'
+they were originally words for yumiya related to shinto rituals since ancient times,but has been used in various ancient documents and phrases.
+they also show the exorcism and purification of impurities,bad vibes that cause illness and other misfortune,devils and disasters as well as kigo(a season word)for haiku(japanese seventeen-syllable poem).
+ashinoya(reed arrow)and momonoyumi(peach bow)
+these were used for the exorcism of ogre at the tsuina no shiki(ceremony of driving out evil spirits)held at the imperial court on new year's eve,and the former was made of reed stem and the latter was made from a peach tree.
+hamaya and hamayumi
+these were originally used for fortune-telling for the year performed at new year's celebrations.
+later,the character was changed for equipment used in rituals enshrined as an amulet to exorcise the house's ogre at koyagumi(roof truss or framework)at the time of jotoshiki(the roof-laying ceremony)as well as for heigushi to pray for the safety of the family.
+recently,both hamaya and hamayumi are known as lucky apotropaic charms of shrines.
+hoshi(mugwort arrow)and sokyu(mulberry bow)
+the former is also called yomogi no ya(mugwort arrow)and the latter is kuwa no yumi(mulberry bow),and yomogi no ya was shot in four directions of the house by kuwa no yumi in order to be rid of future disaster when a boy was born.
+kuwa no yumi is a bow made from a mulberry tree and yomogi no ya is an arrow on which arrow feathers are put using mugwort leaves.
+yumi wo narasu(strike a bow)
+it is also called meigen,which means to exorcise evil spirits,devils and impurities by making a sound pulling a bow string.
+it is also called yumi-narashi or gen-uchi.
+yumi wo hiku(pulling a bow string)
+it refers to a revolt,rebellion or showing the opposite,but originally it referred to meigen,that is,the action of exorcising an evil spirit,devils and impurities by making a sound pulling a bow string.
+words related to yumiya
+yumiya
+yumiya gami
+literally,it means the god of the bow and arrow.
+therefore,it refers to the god of war.
+yumiya tori
+literally,it means to use yumiya.
+therefore,it refers to samurai.
+yumiya torumi
+literally,it means a person who is a warrior.
+therefore,it refers to samurai.
+yumiyadai
+it means chodogake(a stand for archery).
+it refers to a stand for archery during the edo period.
+yumiya no ie
+it is also called kyuba no ie(samurai family).
+it means a successive lineage that had a high technique of yumiya.
+it refers to samurai family.
+yumiya no choja
+it means master of yumiya or a person who is good at kyujutsu.
+it also means the head of yumiya no ie or the founder of the schools of kyujutsu.
+it refers to the head of a samurai family.
+yumiya no michi
+it is also called kyuba no michi.
+it means the technique of yumiya,that is,kyujutsu.
+it also means the moral principle and creed acquired in the process of mastering the technique of yumiya,that is,kyudo.
+it also refers to martial arts or bushido.
+yumiya no myoga
+it means the preservation of gods shinto and buddhist deities that live in yumiya.
+it is the happiness which a person who practices yumiya feels.
+it is the happiness of samurai.
+yumiya hachiman
+it refers to hachimanshin and hachiman daibosatsu,and namuhachiman is the synonym.
+it is the word used by samurai when he wished for something or made an oath.
+yumiya yari bugyo(the officer of bow,arrow,and spear)
+it was an official position of the edo bakufu,who were put in charge of production and control of yumiya and spears.
+yumi ore ya tsukiru
+it is the synonym of katana ore ya tsukiru.
+it means the situation in which a person can do nothing without any means to fight.
+there is nothing to do.
+as to the words related to bow,see the article of 'bow' (weapon).
+as to the words related to arrow,see the article of 'arrow' (weapon).
+things related to yumiya
+in the list to send a message in japanese on the phone,the word 'yu' is expressed as 'yu of yumiya.'
+the english word rainbow comes from the words of rain and bow.
+in the myths of hinduism,a rainbow is also compared to a bow.
+the words of a waxing half moon and a waning half moon,used to show phases of the moon such as full moon＝>waning half moon＝>new moon＝>waxing half moon,compare the moon to a bow.
+or there is a word,yumihari zuki(a crescent moon).
+the target practice in a market,fair,and festival was also performed by yumiya in olden times.
+in addition,it was called matoya in stead of shateki(target practice).
+the persons who managed matoya and yaba archery ranges were called matoya,and it is said that it led to the word tekiya which means rotensho(stallholder)in later ages.
+in addition,the rude word, 'yabai' was derived from the fact that it was dangerous to work at a yaba archery range.
+this was jargon used by tekiya that spread among young people around 1965.
+there are the words for sumo wrestling such as kinboshi(dazzling victory),kuroboshi(failure mark)and shiroboshi(victory mark),and the highest position of target is called kinteki and the center of a target is called hoshi(star).
+in addition,a target is painted with white and black in a concentric fashion.
+in addition to the shinto ritual of yumitorishiki,karasu-zumo(crow sumo-wrestling ceremony),which is a kind of honozumo(ritual sumo matches held at a shrine),is performed at the kamigamo-jinja shrine in kyoto prefecture after the kagura that a shinto priest performs as a crow on dohyo(sumo ring)and chases with yumiya.
+in some village festivals in local regions,maikagura(shinto music and dance)imitating sumo and yumiya is performed.
+as seen from above,sumo is related to yumiya.
+yagiri in matsudo city,chiba prefecture,is connected with shibamata taishakuten,katsushika ward,tokyo prefecture by waterway transportation of 'watashibune(ferry),' that is,an old japanese boat,which is famous as 'yagiri no watashi' (ferry that has been taking passengers across the edo-gawa river for nearly 400 years).
+the district of yagiri often suffered from war,so the people hated war.
+it is said that as a result,it came to be called yagiri since they called 'yakui' (to eat an arrow)or 'yagire' (to exhaust an arrow)hoping for 'the extinction of yumiya.'
+in addition,taishakuten is indra,the god with a rainbow yumiya in hinduism.
+greek myths,constellations and yumiya
+the yumiya which hercules used is called 'hercules's arrow' and this is an arrow which hercules was given by apollo and coated in the poison of the hydra,which he had defeated.
+and this yumiya led to the death of cheiron who was involved in a battle between the centaurs family and hercules.
+later,hercules's arrow was passed to philoctetes and it played an important role until the end of the trojan war.
+the archer of asterism is centaurs who has yumiya(or cehiron,one of the members of the centaurs family)and it is said that he was imitated in heaven because the gods felt sorry for his death caused by hercules.
+it is said that although the centaurs family was rude,not intelligent,and had no technique of yumiya,only cheiron learned calmness and wisdom from apollo and yumiya from artemis.
+and he was loved by the gods because of his talent.
+in addition,the archer is called sagittarius and the arrow that cheiron pulls is called 'the arrow of sagittarius' and used for the names of various things.
+the origin of orion is as follows;orion was shot to death by artemis because of apollo's plot and was imitated in the heaven.
+the hydra is a constellation which imitates the hydra that was defeated by hercules with 'the fire arrow.'
+the sagitta is a constellation which an 'arrow' and some people say that this is hercules's arrow that he shot.
