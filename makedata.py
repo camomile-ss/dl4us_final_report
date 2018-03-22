@@ -91,5 +91,5 @@ if __name__ == '__main__':
     en_preproc_doc, ja_preproc_doc = preproc(en_doc, ja_doc)
     
     # ファイル出力
-    open(outfname_en, 'w', encoding='utf-8').write('\n'.join(en_preproc_doc) + '\n')
-    open(outfname_ja, 'w', encoding='utf-8').write('\n'.join(ja_preproc_doc) + '\n')
+    open(outfname_en, 'w', encoding='utf-8').write('\n'.join(en_preproc_doc))
+    open(outfname_ja, 'w', encoding='utf-8').write('\n'.join(ja_preproc_doc))

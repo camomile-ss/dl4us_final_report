@@ -1,7 +1,0 @@
-komagaku
-komagaku is a form of gagaku(traditional japanese court music)that was introduced into japan from korea.
-komagaku uses komabue(a transverse flute with six finger holes),hichiriki(an oboe),san-no-tsuzumi(an hourglass-shaped drum),shoko(a small gong)and taiko(an ornately decorated drum).
-in komagaku,there are three types of modes--koma ichikotsucho(e),koma hyojo(f#),and koma shocho(a)--and the notes of koma hyojo used in komagaku are two tones higher than the ones used in michigaku(gagaku music performed in marches).
-komagaku has three types of rhythms:yon-byoshi(quadruple time),age-byoshi(a faster tempo)and kara-byoshi(a chinese beat).
-unlike michigaku,komagaku uses no rai and is characterized by dotted rhythm.
-the classical scores of komagaku are contained in the collections of musical notation,sango yoroku(score for biwa lute)and jinchi yoroku(score for koto zither).

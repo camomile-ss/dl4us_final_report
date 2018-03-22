@@ -1,5 +1,0 @@
-kokashu
-kokashu is a collection of japanese poetry.
-the title of this collection is found in a left note in "manyoshu" (the first major anthology of early japanese poetry).
-its number of volumes,compiler,and other information are unknown.
-two choka(long poem),six sedoka(head-repeated poem),and 18 tanka(thirty-one syllables' poem)are extant.

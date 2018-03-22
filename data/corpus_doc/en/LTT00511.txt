@@ -1,6 +1,0 @@
-wakashu(a collection of waka[japanese poetry])
-wakashu is a collection of waka(japanese poetry).
-also simply called kashu(a collection of poetry).
-examples of famous wakashu are chokusen wakashu(anthologies compiled by imperial command)such as "kokin wakashu" (a collection of ancient and modern japanese poetry)and "shin kokin wakashu" (new collection of ancient and modern japanese poetry).
-there are also personal collections of poetry called shisenshu such as "ogura hyakunin isshu" (the ogura's sequence of 100 poems by 100 poets).
-some wakashu are collections of poetry by one poet while the others are collections of poems by many poets.

@@ -1,0 +1,11 @@
+# Byte-compiled
+__pycache__/
+
+# work script
+git_config.sh
+
+# large data
+data/
+downloads/
+pickles/
+models/

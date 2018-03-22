@@ -1,7 +1,0 @@
-pebble tools
-pebble tools are the stone tools made of rude ore that have not been processed.
-these include throwing stones as hunting tools or weapons,mill stone for flour milling or cooking,hammer or concave stone for cooking,grinding stone for polishing,and so on.
-basically the criterion to determine whether a stone was a stone tool or not is to check whether there is a use-wear or not.
-however,since ore is used as tools as it is,it is often difficult to determine whether it was a relic(archaeological materials)or not.
-in these cases it is essential to consider whether or not there were accompanying relics such as stone plates,as well as the excavated structural remnants and excavation state.
-in addition,it should be noted that pebble tools are different from chopping tools which are primitive stone tools.

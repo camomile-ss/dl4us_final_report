@@ -1,9 +1,0 @@
-engo
-engo(verbal association)is a rhetorical technique in waka poetry,where two or more semantically associated words are used in a poem to express one's sentiments.
-engo are often coupled with kakekotoba(pivot words).
-examples
-in the following examples,engo are marked by quotation marks.
-a waka by koshikibu no naishi:
-oeyama ikunonomichi no tookereba mada "fumi" mo mizu ama no "hashidate" (mt.oe and the road that goes to ikuno are far away,so i have neither seen a "letter" from,nor "travelled by foot" there to amano "hashidate" [in this poem, "fumi" means both a "letter" and to "travel by foot," and although amano-hashidate is a place,the "hashidate" is also a reference to the "ladder" to heaven])
-a waka by imperial princess shikishi:
-tamano "o" yo "tae" nabataene "nagaraheba" shinoburukoto no "yowari" mozosuru(let the "cord" of my life be "snapped" if it has to be;were it "prolonged," it would "fray" as i would not be able to hide this love any longer[in this poem,the "o" refers to both a "cord" and "life," "tae" means to "die out"])
