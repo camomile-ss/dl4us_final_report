@@ -8,4 +8,4 @@ git_config.sh
 data/
 downloads/
 pickles/
-models/
+models/w2v*
