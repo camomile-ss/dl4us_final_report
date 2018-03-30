@@ -1,11 +1,13 @@
 # Byte-compiled
 __pycache__/
 
+# jupyter notebook chechpoints
+.ipynb_checkpoints/
+
 # work script
 git_config.sh
 
 # large data
-data/
-downloads/
-pickles/
+data/corpus_doc/
+pickles/*.pickle
 models/w2v*
