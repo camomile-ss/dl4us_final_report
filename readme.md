@@ -1,24 +1,21 @@
 # dl4us 最終課題
 
-dl4us受講の記念に、拙いものですが最終課題レポートのために作ったプロジェクトのコードを置いています。
+dl4us受講の記念に、拙いものですが最終課題レポートのために作ったプロジェクトのコードを置いています。  
 2018年1月～3月受講。
 
 
 ## 内容
 
 - データ作成
-	- run_makedata.sh
-	- makedata.py
-	- make_pickle.py
-
+  - run_makedata.sh
+  - makedata.py
+  - make_pickle.py
 - モデル設計・学習・検証(1) 言語判別
-	- 1_di_language.ipynb
-
+  - 1_di_language.ipynb
 - ベクトル作成
-	- 2_build_w2v.ipynb
-
+  - 2_build_w2v.ipynb
 - モデル設計・学習・検証(2) カテゴリ分類
-	- 3_classify_category.ipynb
+  - 3_classify_category.ipynb
 
 
 ## 使用しているデータ
